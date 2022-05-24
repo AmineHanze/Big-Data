@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <!--The publisher of this article does not allow downloading of the full text in XML form.-->
+  <?properties manuscript?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-journal-id">9712133</journal-id>
+      <journal-id journal-id-type="pubmed-jr-id">21042</journal-id>
+      <journal-id journal-id-type="nlm-ta">AIDS Behav</journal-id>
+      <journal-id journal-id-type="iso-abbrev">AIDS Behav</journal-id>
+      <journal-title-group>
+        <journal-title>AIDS and behavior</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1090-7165</issn>
+      <issn pub-type="epub">1573-3254</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">34669061</article-id>
+      <article-id pub-id-type="pmc">9007843</article-id>
+      <article-id pub-id-type="doi">10.1007/s10461-021-03500-9</article-id>
+      <article-id pub-id-type="manuscript">NIHMS1781643</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Race-Based Medical Mistrust, HIV-Related Stigma, and ART Adherence in a Diverse Sample of Men Who Have Sex with Men with HIV</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Meyers-Pantele</surname>
+            <given-names>Stephanie A.</given-names>
+          </name>
+          <degrees>PhD.</degrees>
+          <xref rid="A1" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Sullivan</surname>
+            <given-names>Patrick</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref rid="A2" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mansergh</surname>
+            <given-names>Gordon</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref rid="A3" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hirshfield</surname>
+            <given-names>Sabina</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref rid="A4" ref-type="aff">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Stephenson</surname>
+            <given-names>Rob</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref rid="A5" ref-type="aff">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Horvath</surname>
+            <given-names>Keith J.</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <xref rid="A1" ref-type="aff">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1"><label>1.</label>Department of Psychology, San Diego State University, San Diego, CA, US</aff>
+      <aff id="A2"><label>2.</label>Rollins School of Public Health, Emory University, Atlanta, GA, US</aff>
+      <aff id="A3"><label>3.</label>Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention, Atlanta, GA, US</aff>
+      <aff id="A4"><label>4.</label>Department of Medicine, SUNY Downstate Health Sciences University, Brooklyn, NY, US</aff>
+      <aff id="A5"><label>5.</label>The Center for Sexuality and Health Disparities and the School of Nursing, University of Michigan, Ann Arbor, MI, US</aff>
+      <author-notes>
+        <corresp id="CR1"><bold>Corresponding Author:</bold> Stephanie Meyers-Pantele, PhD, Postdoctoral Research Fellow, Department of Psychology, San Diego State University, 6363 Alvarado Court, Suite 250, San Diego, CA 92120, <email>sameyers@sdsu.edu</email>, Tel: 619.594.3346</corresp>
+        <fn fn-type="con" id="FN1">
+          <p id="P1"><underline>Authors&#x2019; Contributions:</underline>
+<bold>Stephanie Meyers-Pantele</bold>: Conceptualization, Formal Analysis, Writing &#x2013; Original Draft Preparation. <bold>Patrick Sullivan</bold>: Conceptualization, Investigation, Resources, Funding Acquisition, and Writing &#x2013; Reviewing and Editing. <bold>Gordon Mansergh</bold>: Conceptualization, Methodology, Resources, Funding Acquisition, and Writing &#x2013; Reviewing and Editing. <bold>Sabina Hirshfield</bold>: Conceptualization and Writing &#x2013; Reviewing and Editing. <bold>Rob Stephenson</bold>: Conceptualization and Writing &#x2013; Reviewing and Editing. <bold>Keith Horvath</bold>: Conceptualization, Methodology, Resources, Supervision, Funding Acquisition, and Writing &#x2013; Reviewing and Editing.</p>
+        </fn>
+        <fn fn-type="COI-statement" id="FN2">
+          <p id="P29">Conflicts of Interest:</p>
+          <p id="P30">The authors declare that they have no conflicts of interest.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="nihms-submitted">
+        <day>27</day>
+        <month>2</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <month>5</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>20</day>
+        <month>10</month>
+        <year>2021</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>01</day>
+        <month>5</month>
+        <year>2023</year>
+      </pub-date>
+      <volume>26</volume>
+      <issue>5</issue>
+      <fpage>1456</fpage>
+      <lpage>1466</lpage>
+      <abstract id="ABS1">
+        <p id="P2">Disparities in antiretroviral treatment (ART) access by race for men who have sex with men (MSM) with HIV persist. We assessed whether race-based medical mistrust and HIV stigma impacts ART adherence among MSM with HIV. Longitudinal data were drawn from a RCT of a messaging intervention to promote sexual health among MSM. Regression models tested associations between baseline race-based medical mistrust, HIV stigma, and ART adherence at follow-up. In multivariable models with the overall sample of MSM with HIV (<italic toggle="yes">n</italic> = 383), baseline medical mistrust was negatively associated with ART adherence 3-months post-baseline. Among participants of color (i.e., Black/African American, Hispanic/Latino, or another race; <italic toggle="yes">n</italic> = 301), HIV stigma was negatively associated with optimal ART adherence 6-months post-baseline. Medical mistrust was longitudinally associated with reduced ART adherence among racially and ethnically diverse MSM with HIV. HIV-related services might prioritize patients reporting medical mistrust for additional supports.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Race-Based Medical Mistrust</kwd>
+        <kwd>Sexual Minority Men</kwd>
+        <kwd>HIV</kwd>
+        <kwd>Antiretroviral Treatment</kwd>
+        <kwd>Treatment Adherence</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+</article>
+</pmc-articleset>

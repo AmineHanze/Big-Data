@@ -1,0 +1,1592 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="editorial" dtd-version="1.3">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Int J Ment Health Addict</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Int J Ment Health Addict</journal-id>
+      <journal-title-group>
+        <journal-title>International Journal of Mental Health and Addiction</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1557-1874</issn>
+      <issn pub-type="epub">1557-1882</issn>
+      <publisher>
+        <publisher-name>Springer US</publisher-name>
+        <publisher-loc>New York</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">35345872</article-id>
+      <article-id pub-id-type="pmc">8944180</article-id>
+      <article-id pub-id-type="publisher-id">801</article-id>
+      <article-id pub-id-type="doi">10.1007/s11469-022-00801-5</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Commentary</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Individuals to Systems: Methodological and Conceptual Considerations for Addressing Mental Illness Stigma Holistically</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1567-7391</contrib-id>
+          <name>
+            <surname>Smith</surname>
+            <given-names>Jacqueline M.</given-names>
+          </name>
+          <address>
+            <email>jacqueline.smith1@ucalgary.ca</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Knaak</surname>
+            <given-names>Stephanie</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Szeto</surname>
+            <given-names>Andrew C. H.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chan</surname>
+            <given-names>Eric C.</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Smith</surname>
+            <given-names>Jennifer</given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+        </contrib>
+        <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.22072.35</institution-id><institution-id institution-id-type="ISNI">0000 0004 1936 7697</institution-id><institution>Faculty of Nursing, </institution><institution>University of Calgary, </institution></institution-wrap>Calgary, AB Canada </aff>
+        <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.22072.35</institution-id><institution-id institution-id-type="ISNI">0000 0004 1936 7697</institution-id><institution>Department of Psychiatry, </institution><institution>University of Calgary, </institution></institution-wrap>Calgary, AB Canada </aff>
+        <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="GRID">grid.22072.35</institution-id><institution-id institution-id-type="ISNI">0000 0004 1936 7697</institution-id><institution>Department of Psychology, </institution><institution>University of Calgary, </institution></institution-wrap>Calgary, AB Canada </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>24</day>
+        <month>3</month>
+        <year>2022</year>
+      </pub-date>
+      <fpage>1</fpage>
+      <lpage>13</lpage>
+      <history>
+        <date date-type="accepted">
+          <day>1</day>
+          <month>3</month>
+          <year>2022</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2022</copyright-statement>
+        <license>
+          <license-p>This article is made available via the PMC Open Access Subset for unrestricted research re-use and secondary analysis in any form or by any means with acknowledgement of the original source. These permissions are granted for the duration of the World Health Organization (WHO) declaration of COVID-19 as a global pandemic.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <p id="Par1">Mental illness stigma is a complex public health issue that creates barriers for clients needing access to quality mental health services. Most research focuses on interpersonal stigma with emerging research examining intrapersonal and structural stigma in the healthcare setting. This commentary focuses on how to address the gaps in the existing research to elicit greater organizational/structural change in healthcare systems and positive health outcomes. It describes key components of a 5-year multiphase study that aims to explore and address multiple levels of stigma holistically among stakeholders including physicians, nurses, protective services staff, and patients/families in an emergency department setting. Unique to this study is the inclusion of a patient research partner who will be positioned as a co-designer throughout the project. The goal of this study will be to explore, address, understand, and evaluate interventions that mitigate stigma in healthcare at both the individual and structural/organizational levels.</p>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords</title>
+        <kwd>Stigma</kwd>
+        <kwd>Healthcare</kwd>
+        <kwd>Mental illness</kwd>
+        <kwd>Mental health</kwd>
+        <kwd>Emergency department</kwd>
+      </kwd-group>
+      <funding-group>
+        <award-group>
+          <funding-source>
+            <institution>Calgary Health Foundation</institution>
+          </funding-source>
+        </award-group>
+      </funding-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec1">
+      <title>Background</title>
+      <p id="Par2">Despite tremendous gains in stigma reduction over the past century in relation to gender, race, sexual orientation, religion, and medical diagnoses (e.g., HIV), mental illness-related stigma remains prevalent (Abbey et al., <xref ref-type="bibr" rid="CR1">2011</xref>). Stigma is a well-documented obstacle for people with mental illnesses (Liggins &amp; Hatcher, <xref ref-type="bibr" rid="CR35">2005</xref>) including reduced life expectancy for those diagnosed with schizophrenia, bipolar disorder, schizoaffective disorder, depressive disorder, and substance use disorder (Chang et al., <xref ref-type="bibr" rid="CR12">2011</xref>; Hennekens et al., <xref ref-type="bibr" rid="CR22">2005</xref>). Mental illness-related stigma creates&#xA0;housing and employment difficulties, adverse economic effects, and&#xA0;serious barriers to access and quality healthcare, including delayed treatment and early treatment discontinuation (Sharac et al., <xref ref-type="bibr" rid="CR51">2010</xref>). Stigma is also a major concern for healthcare practitioners and can impact help-seeking behaviors for themselves, which can negatively impact their work environment (Knaak et al., <xref ref-type="bibr" rid="CR29">2017</xref>).</p>
+      <p id="Par3">A growing body of evidence is revealing the various ways that mental illness stigmatization is showing up in healthcare environments and among healthcare professionals. In a recent review of burnout among healthcare workers, physical and mental exhaustion were identified as significant issues requiring organizational and cultural change to support healthcare providers&#x2019; ability to cope with work-related stress and the stigma associated with seeking help for mental health-related issues (Leo et al., <xref ref-type="bibr" rid="CR33">2021</xref>). Stigmatization manifests as negative attitudes and stereotypes, prognostic negativity, diagnostic overshadowing, insufficient skills of healthcare providers (HCPs), discriminatory behaviors, perceptions of unfair treatment among those receiving mental health services, and inequitable distribution of resources (Henderson et al., <xref ref-type="bibr" rid="CR21">2014</xref>). Furthermore, research with patients seeking help for mental illnesses describes experiences of feeling stigmatized, devalued, and dismissed by HCPs in emergency settings (Knaak et al., <xref ref-type="bibr" rid="CR29">2017</xref>). At a structural level, mental health/mental illnesses are chronically underfunded. As an example, in Canada, federal funding for mental health/mental illnesses is approximately 7% of the healthcare budget, yet other comparable countries spend over 10% (Bartram, <xref ref-type="bibr" rid="CR6">2017</xref>; Centre for Addiction and Mental Health [CAMH], <xref ref-type="bibr" rid="CR9">2017</xref>). It is also important to note the intersectional nature of stigma, that is, the many ways that stigma related to mental illnesses intersects with other marginalized statuses such as homelessness and LGBTQ2&#x2009;+&#x2009;which can create additional barriers to accessing necessary social and structural supports and intensify stigma experiences (Jackson-Best &amp; Edwards, <xref ref-type="bibr" rid="CR23">2018</xref>; Livingston, <xref ref-type="bibr" rid="CR37">2020</xref>).</p>
+      <p id="Par4">Stigma in the healthcare system, particularly stigma towards people with mental illnesses, can create barriers to accessing health information, services, and protective resources; lead to substandard treatment of patients; and can engender patient mistrust of the healthcare system and further exclusion from it (Public Health Agency of Canada [PHAC], <xref ref-type="bibr" rid="CR44">2019</xref>). The stark mortality gap in high-income countries between people with severe mental illnesses and the general population&#x2014;20&#xA0;years for men and 15&#xA0;years for women&#x2014;has been argued to be at least partly related to the problem of stigmatization (Wahlbeck et al., <xref ref-type="bibr" rid="CR53">2011</xref>), suggesting that several important quality-of-care concerns exist, including access for people with mental illnesses (Knaak et al., <xref ref-type="bibr" rid="CR31">2015</xref>).</p>
+      <p id="Par5">In addition, family members of people with mental illnesses often report negative effects in areas of their lives including time, energy, emotions, daily activities (Statistics Canada, <xref ref-type="bibr" rid="CR52">2015</xref>), and financial impacts (Sharac et al., <xref ref-type="bibr" rid="CR51">2010</xref>). Mental illness stigma has also contributed to the devaluation of HCPs working in these areas, leading to recruitment challenges in psychiatry and other mental health professions (Abbey et al., <xref ref-type="bibr" rid="CR1">2011</xref>).</p>
+      <p id="Par6">Stigma, including self-stigma, is also experienced by HCPs who are unwilling to seek help for their own mental health issues, and whose workplace culture may penalize those who experience mental health problems (Adams et al., <xref ref-type="bibr" rid="CR2">2010</xref>; Wallace, <xref ref-type="bibr" rid="CR54">2012</xref>). Rates of mental illness and suicide are higher in medical students, residents, and staff physicians compared to the general population (MacLean et al., <xref ref-type="bibr" rid="CR38">2016</xref>; Schernhammer, <xref ref-type="bibr" rid="CR49">2005</xref>; Schernhammer &amp; Colditz, <xref ref-type="bibr" rid="CR50">2004</xref>). In general, when stigma is internalized (i.e., self-stigma; Corrigan et al., <xref ref-type="bibr" rid="CR16">2006</xref>), it can be a barrier to help-seeking and interfere with recovery from mental illnesses (Knaak et al., <xref ref-type="bibr" rid="CR29">2017</xref>).</p>
+      <p id="Par7">More recently, HCPs have been identified as a high-risk group for negative mental health outcomes related to the COVID-19 pandemic given the unique challenges of their work under outbreak conditions (Lai et al., <xref ref-type="bibr" rid="CR32">2020</xref>; Maunder et al., <xref ref-type="bibr" rid="CR40">2008</xref>). While a few interventions have been proposed to support the mental health of HCPs during this pandemic, no mention is made of the impact of stigma on their help-seeking behaviors (Leszcz et al., <xref ref-type="bibr" rid="CR34">2020</xref>; Wu et al., <xref ref-type="bibr" rid="CR56">2020</xref>).</p>
+    </sec>
+    <sec id="Sec2">
+      <title>Defining Stigma</title>
+      <p id="Par8">Contemporary definitions describe stigma as a process where human differences are labelled and attached to negative stereotypes, which leads to separation from the stigmatized group resulting in unequal and negative outcomes (e.g., prejudice and discrimination). In particular, Link and Phelan&#x2019;s (<xref ref-type="bibr" rid="CR36">2001</xref>) definition not only places the burden of stigmatization on the stigmatizer; their definition also describes stigmatization occurring at separate levels. Broadly, mental illness stigma has been described within the context of three levels: intrapersonal, interpersonal, and structural (see Knaak et al., <xref ref-type="bibr" rid="CR29">2017</xref>; Livingston, <xref ref-type="bibr" rid="CR37">2020</xref>).</p>
+      <p id="Par9">Structural stigma refers to the accumulated activities of organizations that create and maintain social inequalities for people with lived experience of mental illness and/or substance use in terms of access and quality of care. This includes the underfunding of addictions and mental healthcare (Livingston, <xref ref-type="bibr" rid="CR37">2020</xref>; McGinn &amp; Grimminck, <xref ref-type="bibr" rid="CR41">2019</xref>), as well as policies, practices, and models of care that systematically create and maintain inequities in both access to and quality of care for people with mental illnesses or substance use problems (Knaak et al., <xref ref-type="bibr" rid="CR28">2020</xref>; Livingston, <xref ref-type="bibr" rid="CR37">2020</xref>).</p>
+      <p id="Par10">Stigma is also perpetuated at the interpersonal level and known as public stigma. Public stigma refers to the stereotypes and negative attitudes individuals hold themselves or that are perceived to exist in the public (Corrigan et al., <xref ref-type="bibr" rid="CR14">2012</xref>). These biases and beliefs may result in stigmatizing practices by health professionals (Allan &amp; Smylie, <xref ref-type="bibr" rid="CR4">2015</xref>; Bailey et al., <xref ref-type="bibr" rid="CR5">2017</xref>; White Hughto et al., <xref ref-type="bibr" rid="CR55">2015</xref>). A lack of mental health training including gaps in traditional cultural approaches to healing may contribute to such biases and further perpetuate stigma at the interpersonal level (Alencar Albuquerque et al., <xref ref-type="bibr" rid="CR3">2016</xref>; Allan &amp; Smylie, <xref ref-type="bibr" rid="CR4">2015</xref>; James, <xref ref-type="bibr" rid="CR24">2010</xref>; Nyblade et al., <xref ref-type="bibr" rid="CR43">2019</xref>; White Hughto et al., <xref ref-type="bibr" rid="CR55">2015</xref>). Beyond attitudes and stereotypes, the language used, particularly labels (i.e., addict, junkie, schizophrenic), can also negatively impact people experiencing mental illnesses and addictions (Reynaert &amp; Gelman, <xref ref-type="bibr" rid="CR48">2007</xref>). This stigmatizing language is hurtful and can lead to prejudice and discrimination and can influence HCPs&#x2019; perceptions of patients (Kelly &amp; Westerhoff, <xref ref-type="bibr" rid="CR26">2010</xref>; White Hughto et al., <xref ref-type="bibr" rid="CR55">2015</xref>). These types of labels restrict identities and overshadow other qualities that the person possesses (CAMH, <xref ref-type="bibr" rid="CR8">2005</xref>).</p>
+      <p id="Par11">When public stigma is internalized (i.e., self-stigma; Corrigan et al., <xref ref-type="bibr" rid="CR16">2006</xref>), it can be a barrier to help-seeking and interfere with recovery from mental illnesses (Knaak et al., <xref ref-type="bibr" rid="CR29">2017</xref>). Stigmatization at an intrapersonal level can affect both patients and HCPs. For example, a systematic review of qualitative and quantitative research on barriers to help-seeking found that health professionals, as well as ethnic minorities, youth, men, and those in the military, were disproportionately deterred by self-stigma (Clement et al., <xref ref-type="bibr" rid="CR13">2015</xref>). The authors also found that health professionals were more likely than other groups to report disclosure/confidentiality concerns, shame/embarrassment, and negative social judgement as barriers to help-seeking.</p>
+      <p id="Par12">Within the healthcare system, stigmatization occurs on multiple levels simultaneously (as shown in Fig.&#xA0;<xref rid="Fig1" ref-type="fig">1</xref>), and the levels are interconnected with bidirectional impact. For example, training requirements and resource allocation (structural) can influence providers&#x2019; attitudes and level of comfort in working with people with mental illnesses (interpersonal). Discriminatory behaviors and attitudes in healthcare settings (interpersonal) can influence providers&#x2019; view of their own mental health (intrapersonal) and vice-versa. Given the interconnectedness of the different levels of stigma, attendance to all levels is required for a thorough understanding of the problem of stigmatization, as well as for designing strategies to effectively address it.<fig id="Fig1"><label>Fig. 1</label><caption><p>Stigma at multiple levels</p></caption><graphic xlink:href="11469_2022_801_Fig1_HTML" id="MO1"/></fig></p>
+    </sec>
+    <sec id="Sec3">
+      <title>Research Gaps</title>
+      <p id="Par13">Stigma within the healthcare system has been addressed to some extent, but important limitations remain. It is clear in the literature that mental illness stigma at the structural level impacts patients and those seeking help negatively, whether it is negative help-seeking experiences, poor treatment, or poorer health outcomes (see Livingston, <xref ref-type="bibr" rid="CR37">2020</xref> for a review). Of key concern, however, as noted in a review by Henderson et al. (<xref ref-type="bibr" rid="CR21">2014</xref>), is that few studies address more than one level of stigma and that future research should address multiple levels of stigma and the relationship between them. For example, there has been considerable research on understanding the problem of stigma at the interpersonal level and identifying effective approaches and key ingredients for anti-stigma interventions (e.g., see Henderson et al., <xref ref-type="bibr" rid="CR21">2014</xref>; Knaak et al., <xref ref-type="bibr" rid="CR30">2014</xref>). Similarly, in Rao et al.&#x2019;s (<xref ref-type="bibr" rid="CR46">2019</xref>) review of multi-level stigma interventions, they conclude that the research literature has examined stigma at the interpersonal and intrapersonal levels, given prior focus of the literature and ease of implementation, but little or no work has incorporated structural stigma within multilevel studies. In examining the literature, Livingston (<xref ref-type="bibr" rid="CR37">2020</xref>) also indicated that there is little focus on structural stigma within the mental illness stigma domain beyond addressing attitudes of healthcare practitioners. Given this lacuna in the literature, mental illness stigma researchers should focus on multilevel research beyond the intra- and interpersonal levels, as well as examine structural stigma interventions beyond changing attitudes in HCPs (e.g., focus on policy change). Furthermore, the implementation of interventions&#x2014;and how implementation factors might hinder broader and long lasting structural or organizational level change to the delivery of care&#x2014;is also lacking (Gronholm et al., <xref ref-type="bibr" rid="CR18">2017</xref>; Hatzenbuehler, <xref ref-type="bibr" rid="CR20">2016</xref>; Knaak et al., <xref ref-type="bibr" rid="CR28">2020</xref>). This type of research would go a long way in addressing structural stigma and its impact on patient experiences and health outcomes.</p>
+      <p id="Par14">As well, qualitative or quantitative studies are commonly undertaken by stigma researchers, with considerably fewer utilizing mixed methodological approaches. Rao et al. (<xref ref-type="bibr" rid="CR46">2019</xref>) suggest a multi-pronged approach to measurement of stigma reduction interventions, including how they are related across levels of analysis and how they reciprocally affect one another.</p>
+      <p id="Par15">For some, mental illness stigma manifests as shame, isolation, and silence (Corrigan &amp; Rao, <xref ref-type="bibr" rid="CR15">2012</xref>). The visibility of patient research partners (PRP) can break down some of those barriers by creating a safe space for sharing. While many studies include participant narratives of lived experience, there has been relatively little emphasis on the utilization of patient research partners in the research process, despite the fact that meaningful inclusion and participation of people with lived and living experience have been identified as an important mechanism for stigma reduction (Knaak et al., <xref ref-type="bibr" rid="CR28">2020</xref>; Manafo et al., <xref ref-type="bibr" rid="CR39">2018</xref>; Nyblade et al., <xref ref-type="bibr" rid="CR43">2019</xref>). Including PRP ensures that the voices of patients and their families are heard, respected, and represented and that a focus on patient-identified priorities and outcomes are maintained (Canadian Institutes of Health Research [CIHR], <xref ref-type="bibr" rid="CR11">2017</xref>).</p>
+      <p id="Par16">Stigma research often tends to focus on the experiences or outcomes of a single participant group within a particular healthcare setting (e.g., health providers or service users), as opposed to examining the experiences of both cross-disciplinary HCPs and patient groups within the system simultaneously. As such, research that aims to gain a more comprehensive understanding of stigma reduction interventions within a particular healthcare setting or context will add value to the research (Nyblade et al., <xref ref-type="bibr" rid="CR43">2019</xref>).</p>
+      <p id="Par17">While stakeholder engagement is gaining traction in the health field, a relatively small number of research papers refer to stakeholder engagement or the utilization of multiple stakeholder groups. Boaz et al. (<xref ref-type="bibr" rid="CR7">2018</xref>) explained how the engagement of stakeholders, who have a direct interest in the process and outcomes of a project, research, or policy endeavor, is being increasingly promoted within public health research as an important pathway to achieving impact.</p>
+      <p id="Par18">To address these gaps, the remainder of this paper describes key methodological and conceptual elements of a 5-year research project that aims to understand mental illness-related stigmatization in emergency care. As described in more detail below, the study utilizes a holistically orientated, mixed methods, longitudinal research methodology to capture and address the multiple levels of stigma (intrapersonal, interpersonal, structural) and the needs of multiple stakeholder groups.</p>
+    </sec>
+    <sec id="Sec4">
+      <title>Research Study</title>
+      <p id="Par19">The Exploring Mental health Barriers in Emergency Rooms (EMBER) study is funded by the Calgary Health Foundation (CHF) in Alberta, Canada. The EMBER study focuses specifically on stigma within an Emergency Department (ED) setting at a major hospital in Alberta, Canada, and explores how mental illness-related stigma impacts patients, families, physicians, nurses, and protective services staff. The study is unique in that it takes a holistic view of stigma and aims to address multiple levels of stigma simultaneously.</p>
+      <p id="Par20">The exploration includes investigating stigma at the intrapersonal level, including self-stigma and the willingness to seek help, the interpersonal level in patient-provider interactions, and structurally within organizational policies and procedures. Additionally, the study aims to develop evidence-based interventions, implementation strategies, and knowledge translation activities to mitigate stigma and discrimination in hospital EDs across these different levels.</p>
+      <p id="Par21">The study has seven main objectives:<list list-type="order"><list-item><p id="Par22">Identify gaps in our understanding of mental illness-related stigma and discrimination experienced by patients and families in EDs, utilizing a PRP</p></list-item><list-item><p id="Par23">Complete a policy review of hospital and health authority-based organizational protocols, procedures, and policies to identify ways that structural stigma and discrimination may exist and affect the delivery of care for patients and families in the ED setting</p></list-item><list-item><p id="Par24">Examine the experiences and attitudes of professional staff who receive mental health patients in the ED (including ED physicians and nurses, ED psychiatric physicians and nurses, as well as protective services staff) and any potential links to further stigmatization of patients and families</p></list-item><list-item><p id="Par25">Develop and implement multiple stigma-reducing interventions for professional ED staff (physicians, nurses, protective services)</p></list-item><list-item><p id="Par26">Evaluate the impact of stigma-reduction interventions on patient access and quality of care, patient experience, and ED staff attitudes and behaviors, with attention to impacts at all three levels of stigma</p></list-item><list-item><p id="Par27">Evaluate the shift in patient and professional staff perceptions of mental illness stigma and discrimination in EDs over time (i.e., longitudinally)</p></list-item><list-item><p id="Par28">Develop a stigma reduction curriculum including resources for scale and spread</p></list-item></list></p>
+      <p id="Par29">The study objectives will be accomplished in five distinct phases over five years (see Tables <xref rid="Tab1" ref-type="table">1</xref> and <xref rid="Tab2" ref-type="table">2</xref>).<table-wrap id="Tab1"><label>Table 1</label><caption><p>EMBER study phases, milestones, and objectives</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Phase and timeline</th><th align="left">Brief description</th><th align="left">Milestones</th><th align="left">Objectives</th></tr></thead><tbody><tr><td align="left"><p>Phase 1: Needs assessment</p><p><italic>Year 1</italic></p></td><td align="left">Understanding all three levels of stigma, including participant experiences, attitudes, and behaviors.</td><td align="left"><p>&#x2022; study design</p><p>&#x2022; research ethics</p><p>&#x2022; sample design</p><p>&#x2022; recruitment</p><p>&#x2022; focus groups, interviews, and surveys</p></td><td align="left">Objectives 1 and 3</td></tr><tr><td align="left"><p>Phase 2a: Structural policy review</p><p><italic>Years 1 and 2</italic></p></td><td align="left">Collaboration with hospital and health authority stakeholders&#x2019; team to review and evaluate mental health policies in ED settings.</td><td align="left"><p>&#x2022; structural policy review</p><p>&#x2022; dissemination of results</p></td><td align="left">Objective 2</td></tr><tr><td align="left"><p>Phase 2b: Research team refinement of recommended stigma reduction interventions and developing an implementation and evaluation framework</p><p><italic>Years 1 and 2</italic></p></td><td align="left">Identify inward and outward facing stigma reduction interventions to ensure stigma is addressed at all three levels. Engage focus groups to adapt interventions and understand implementation considerations. Finalize implementation and evaluation framework for intervention delivery.</td><td align="left"><p>&#x2022; suitability of identified interventions (focus groups)</p><p>&#x2022; adaptations to interventions</p><p>&#x2022; development/adaptation of implementation and evaluation framework and measures</p></td><td align="left">Objective 4</td></tr><tr><td align="left"><p>Phase 3: Piloting and evaluating interventions</p><p><italic>Years 2 and 3</italic></p></td><td align="left">Pilot stigma reduction interventions among ED staff groups. Evaluate at baseline, immediate follow up, and 1, 3, 6, and 12&#xA0;months. Engage patients and families in focus groups regarding their perceptions of the piloted interventions and implementation.</td><td align="left"><p>&#x2022; facilitator training</p><p>&#x2022; participant recruitment, scheduling, and promotion</p><p>&#x2022; pilot interventions</p><p>&#x2022; assess efficacy of interventions</p><p>&#x2022; qualitative research patients and families-implementation</p></td><td align="left">Objectives 4 and 5</td></tr><tr><td align="left"><p>Phase 4: Data synthesis and recommendations for broad dissemination</p><p><italic>Years 3 and 4</italic></p></td><td align="left">Analyze data from the interventions, focus groups, and policy review. Synthesize results, disseminate findings, and provide recommendations.</td><td align="left"><p>&#x2022; synthesize data and evaluation outcomes</p><p>&#x2022; qualitative feedback from patients and families</p><p>&#x2022; final report and recommendations</p></td><td align="left">Objectives 5 and 6</td></tr><tr><td align="left"><p>Phase 5: Knowledge translation and mobilization</p><p><italic>Years 2&#x2013;5</italic></p></td><td align="left">Engage in collaborations and partnerships with ED and beyond to disseminate findings and successful interventions. Develop a stigma reduction curriculum and resources.</td><td align="left"><p>&#x2022; integrated knowledge translation</p><p>&#x2022; end of grant knowledge translation</p><p>&#x2022; scale and spread</p></td><td align="left">Objective 7</td></tr></tbody></table></table-wrap><table-wrap id="Tab2"><label>Table 2</label><caption><p>Research gaps addressed by EMBER study</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left">Research gap addressed</th><th align="left">Phase of project</th></tr></thead><tbody><tr><td align="left">Understanding and addressing stigma at multiple levels</td><td align="left">All phases</td></tr><tr><td align="left">Examination of mental health-related policies</td><td align="left">Phase 2a</td></tr><tr><td align="left">Multi-stakeholder engagement</td><td align="left">All phases</td></tr><tr><td align="left">Patient research partner</td><td align="left">All phases</td></tr><tr><td align="left">Stigma reduction implementation strategies</td><td align="left">Phase 2b and 3</td></tr><tr><td align="left">Mixed method methodology and conceptual framework</td><td align="left">All phases</td></tr></tbody></table></table-wrap></p>
+      <p id="Par30">First, throughout all phases of the study, our interest is in understanding and addressing stigma at multiple levels. To this end, the measures we will use&#x2014;including the evaluation of implemented interventions&#x2014;will not just assess individual level change (through pre and post surveys) but will also examine the extent to which interventions may lead to sustained organizational changes within the ED. Strategies for assessing these larger structural shifts will be co-developed with our PRP, participant groups, and invested stakeholders and will include focus groups, ethnographic interviews, an assessment of implementation fidelity, embedded client satisfaction surveys, and/or provider follow up surveys. Also, a longitudinal component will be embedded into the methodology to support the ability to assess change over time.</p>
+      <p id="Par31">Secondly, an examination of mental health-related policies will be a central component of the current research. Even though policy review has been identified as an emerging topic of interest in relation to organizational stigma, there is a scarcity of research that has examined policy change implications for stigma reduction in healthcare settings (Livingston, <xref ref-type="bibr" rid="CR37">2020</xref>; Rao et al., <xref ref-type="bibr" rid="CR46">2019</xref>). One Canadian study conducted in a primary healthcare setting found that changes as a result of policy reviews, in conjunction with anti-stigma interventions, reduced stigmatizing attitudes among HCPs (Khenti et al., <xref ref-type="bibr" rid="CR27">2019</xref>). Similarly, a set of interventions to reduce HIV stigma in a Vietnamese hospital setting improved attitudes towards patients with a HIV diagnosis (Pulerwitz et al., <xref ref-type="bibr" rid="CR45">2015</xref>). Like these initial studies, the current research will examine mental health-related policies within the ED, make recommendations for change, and measure the impacts of those changes via various methods including patient&#xA0;and staff perceptions, stigma reduction, and behavioral outcomes (Rao et al., <xref ref-type="bibr" rid="CR46">2019</xref>).</p>
+      <p id="Par32">Third, the research team will engage with multiple partners including policy advisors, organizational leaders, provincial addiction and mental health standards teams, patient advisory committees, and the Mental Health Commission of Canada. Multi-stakeholder engagement will be utilized in this project to create an iterative process with the aim of soliciting knowledge and experience from individuals with a broad range of direct interest in our research (Deverka et al., <xref ref-type="bibr" rid="CR17">2012</xref>).</p>
+      <p id="Par33">Fourth, patient engagement in research involves patients undertaking roles beyond those of traditional study participants (Hamilton et al., <xref ref-type="bibr" rid="CR19">2018</xref>) to ensure a focus on patient-identified priorities and outcomes, and health research findings that are more responsive to the needs of service users (CIHR, <xref ref-type="bibr" rid="CR11">2017</xref>). To this end, our study team will include a PRP who will participate as an equal member of the research team, involved in all aspects of design, data collection, analysis, and writing (CIHR, <xref ref-type="bibr" rid="CR10">2014</xref>, <xref ref-type="bibr" rid="CR11">2017</xref>). Additionally, the PRP will help to synthesize data and share results with intended audiences (i.e., patients and families) during the knowledge translation phase. The PRP will also act as a role model using their lived experience and voice to educate others.</p>
+      <p id="Par34">Fifth, given the gap in stigma reduction implementation strategies in healthcare settings, robust implementation strategies will be given key considerations in this study to ensure uptake and sustainability. Through the utilization of focus groups with patients, families, and our various service provider groups we hope to gain increased understanding in areas including: (a) the perceived fit between proposed training and identified learning needs; (b) the suitability of intervention content for different learner groups; (c) intervention length; (d) format of delivery; (e) size of training groups; (f) mix of professionals within groups; (g) incentives for participation; (h) sustainability; (i) support for reinforcement of training over time; (j) anticipated implementation challenges and how to address them; and (k) expected or desired outcomes. An implementation strategy will be developed alongside the intervention(s) and assessing implementation will be part of the evaluation framework.</p>
+      <p id="Par35">Sixth, a mixed method methodology will be use to explore multiple perspectives, positions, and standpoints in relation to mental illness stigma in ED settings (Johnson et al., <xref ref-type="bibr" rid="CR25">2007</xref>). Qualitative and quantitative research design will help ensure a more holistic and comprehensive capturing of multiple participant perspectives (e.g., patient/families, HCPs, protective services) including the policies that inform the delivery of mental health services. The combination of quantitative and qualitative methods supports a shared commitment to understanding and improving the human condition, a common goal of disseminating knowledge for practical use, and a shared commitment for rigor, conscientiousness, and critique in the research process (Reichardt &amp; Rallis, <xref ref-type="bibr" rid="CR47">1994</xref>). A mixed method approach will help to capture quantitative results and qualitative findings, and for this project, will reflect the experiences of patients and families, healthcare providers, and protective services, as well as the policies that inform the delivery of mental health services. It is expected that the combining of research methods will create aspects of triangulation where qualitative and quantitative methods may be both complementary and/or conflictual. In essence, it is our hope that the triangulation within mixed methods will help to capture the richness and complexity of human behavior (mental health stigma) by studying it from more than one standpoint. The specific statistical analyses used will be determined based on the measurements and interventions chosen, taking into account feedback from participants in the first phases of the project. In the needs assessment phase of the project (phase 1), quantitative analysis will be primarily descriptive. In the intervention phase of the project (phase 3), we will be examining&#xA0;the&#xA0;effectiveness&#xA0;of interventions across groups and at multiple timepoints on various outcome measures. The type of inferential statistics that will be used to analyze the data will be based on the selected intervention, outcome measures, number of groups, and other relevant variables (e.g., demographic variables). We anticipate methods such as mixed model analysis of variance or multivariate analysis of variance will best fit the data gathered.</p>
+      <p id="Par36">The ORBIT model will be used as a conceptual framework to support the cross-disciplinary approaches used by the research team to explore: clinical and public health policy needs (phases 1 &amp; 2); multiple intervention strategies (phase 3); targeted changes in health behaviors related to mental health stigma; and the potential of behavioral treatments to affect health outcomes (phases 4 &amp; 5; Mensah &amp; Czajkowski, <xref ref-type="bibr" rid="CR42">2018</xref>). Critical features of the ORBIT model include a flexible and iterative process, pre-specified clinically significant milestones for forward movement, and a return to an earlier phase for refinement in the event of suboptimal results. In essence, the ORBIT model will support the research team&#x2019;s exploration of rigorous methods to test the efficacy of multi-level stigma interventions, including the evaluation of, and reciprocal relationships between, interventions and across levels of analysis (Rao et al., <xref ref-type="bibr" rid="CR46">2019</xref>).</p>
+    </sec>
+    <sec id="Sec5">
+      <title>Summary and Conclusions</title>
+      <p id="Par37">In summary, the ubiquitous nature of mental illness stigma in healthcare has deleterious outcomes for patients and families attempting to access treatment and services. This study will fill a gap in the stigma research using rigorous methodological and conceptual approaches to multi-level stigma interventions, stigma policy, and stakeholder partnerships. Unique to this study will be the utilization of a patient research partner, alongside cross-disciplinary HCPs and patient groups, to explore mental illness stigma that is embedded in the healthcare system. Ultimately, the goal of the research is to create sustainable interventions for the mitigation of mental illness stigma in healthcare settings and to enhance policies, patient-provider interactions, and health outcomes related to access and quality of care.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn>
+        <p>
+          <bold>Publisher's Note</bold>
+        </p>
+        <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+    </fn-group>
+    <notes notes-type="author-contribution">
+      <title>Author Contribution</title>
+      <p>All authors contributed to the writing, editing, and final approval of the commentary article.</p>
+    </notes>
+    <notes notes-type="funding-information">
+      <title>Funding</title>
+      <p>This work is funded by the Calgary Health Foundation.</p>
+    </notes>
+    <notes>
+      <title>Declarations</title>
+      <notes id="FPar1" notes-type="COI-statement">
+        <title>Conflict of Interest</title>
+        <p id="Par38">Author ECC was the named fellow on a grant from Janssen Inc., Canada, with the funds being used to contribute to support for research assistants involved in participant recruitment and database maintenance.</p>
+      </notes>
+      <notes id="FPar2">
+        <title>Ethics Approval</title>
+        <p id="Par39">This study has been approved by the University of Calgary&#x2019;s Conjoint Health Research Ethics Board (REB20-1639).</p>
+      </notes>
+      <notes id="FPar3">
+        <title>Consent to Participate and Consent for Publication</title>
+        <p id="Par40">N/A.</p>
+      </notes>
+      <notes id="FPar4" notes-type="COI-statement">
+        <title>Competing Interests</title>
+        <p id="Par41">Authors ACHS and SK are guest editors for the International Journal of Mental Health and Addiction, Special Issue on Stigma, Mental Illness, and Substance Use. Author SK is an associate editor for the International Journal of Mental Health and Addiction. All other authors declare no competing interests.</p>
+      </notes>
+    </notes>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abbey</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Charbonneau</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Tranulis</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Moss</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Baici</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>Dabby</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Gautam</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Par&#xE9;</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Stigma and discrimination</article-title>
+          <source>Canadian Journal of Psychiatry. Revue Canadienne De Psychiatrie</source>
+          <year>2011</year>
+          <volume>56</volume>
+          <issue>10</issue>
+          <fpage>1</fpage>
+          <lpage>9</lpage>
+          <pub-id pub-id-type="pmid">22014688</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR2">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Adams</surname>
+              <given-names>EFM</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Pritchard</surname>
+              <given-names>CW</given-names>
+            </name>
+            <name>
+              <surname>White</surname>
+              <given-names>RJE</given-names>
+            </name>
+          </person-group>
+          <article-title>What stops us from healing the healers: A survey of help-seeking behaviour, stigmatisation and depression within the medical profession</article-title>
+          <source>The International Journal of Social Psychiatry</source>
+          <year>2010</year>
+          <volume>56</volume>
+          <issue>4</issue>
+          <fpage>359</fpage>
+          <lpage>370</lpage>
+          <pub-id pub-id-type="pmid">19617278</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alencar Albuquerque</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>de Lima Garcia</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>da Silva Quirino</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Alves</surname>
+              <given-names>MJH</given-names>
+            </name>
+            <name>
+              <surname>Bel&#xE9;m</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>dos Santos Figueiredo</surname>
+              <given-names>FW</given-names>
+            </name>
+            <name>
+              <surname>da Silva Paiva</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>do Nascimento, V. B., da Silva Maciel, &#xC9;., Valenti, V. E., de Abreu, L. C., &amp; Adami, F. </surname>
+            </name>
+          </person-group>
+          <article-title>Access to health services by lesbian, gay, bisexual, and transgender persons: Systematic literature review</article-title>
+          <source>BMC International Health and Human Rights</source>
+          <year>2016</year>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>2</fpage>
+          <pub-id pub-id-type="pmid">26769484</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <mixed-citation publication-type="other">Allan, B., &amp; Smylie, J. (2015). <italic>First Peoples, second class treatment: The role of racism in the health and well-being of Indigenous peoples in Canada</italic>. The Wellesley Institute.</mixed-citation>
+      </ref>
+      <ref id="CR5">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bailey</surname>
+              <given-names>ZD</given-names>
+            </name>
+            <name>
+              <surname>Krieger</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Ag&#xE9;nor</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Graves</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Linos</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Bassett</surname>
+              <given-names>MT</given-names>
+            </name>
+          </person-group>
+          <article-title>Structural racism and health inequities in the USA: Evidence and interventions</article-title>
+          <source>Lancet (london, England)</source>
+          <year>2017</year>
+          <volume>389</volume>
+          <issue>10077</issue>
+          <fpage>1453</fpage>
+          <lpage>1463</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR6">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bartram</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Making the most of the federal investment of $5 billion for mental health</article-title>
+          <source>Canadian Medical Association Journal</source>
+          <year>2017</year>
+          <volume>189</volume>
+          <issue>44</issue>
+          <fpage>E1360</fpage>
+          <lpage>E1363</lpage>
+          <pub-id pub-id-type="pmid">29109209</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Boaz</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Hanney</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Borst</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>O&#x2019;Shea</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Kok</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>How to engage stakeholders in research: Design principles to support improvement</article-title>
+          <source>Health Research Policy and Systems</source>
+          <year>2018</year>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>60</fpage>
+          <pub-id pub-id-type="pmid">29996848</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR8">
+        <mixed-citation publication-type="other">Centre for Addiction and Mental Health [CAMH]. (2005). <italic>Beyond the label: An educational kit to promote awareness and understanding of the impact of stigma on people living with concurrent mental health and substance use problems</italic>. CAMH. <ext-link ext-link-type="uri" xlink:href="https://oldev.trubox.ca/wp-content/uploads/sites/37/2015/06/hlth4511_l11_beyondthelabeltoolkit.pdf">https://oldev.trubox.ca/wp-content/uploads/sites/37/2015/06/hlth4511_l11_beyondthelabeltoolkit.pdf</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR9">
+        <mixed-citation publication-type="other">Centre for Addiction and Mental Health [CAMH]. (2017). <italic>According equitable funding for mental health care</italic>. According Equitable Funding for Mental Health Care. <ext-link ext-link-type="uri" xlink:href="https://www.camh.ca/en/camh-news-and-stories/according-equitable-funding-for-mental-healthcare">https://www.camh.ca/en/camh-news-and-stories/according-equitable-funding-for-mental-healthcare</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR10">
+        <mixed-citation publication-type="other">Canadian Institutes of Health Research [CIHR]. (2014). <italic>Strategy for Patient-Oriented Research (SPOR)</italic>. CIHR. <ext-link ext-link-type="uri" xlink:href="https://cihr-irsc.gc.ca/e/documents/spor_framework-en.pdf">https://cihr-irsc.gc.ca/e/documents/spor_framework-en.pdf</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR11">
+        <mixed-citation publication-type="other">Canadian Institutes of Health Research [CIHR]. (2017). <italic>Strategy for Patient-Oriented Research</italic>. <ext-link ext-link-type="uri" xlink:href="https://cihr-irsc.gc.ca/e/41204.html">https://cihr-irsc.gc.ca/e/41204.html</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR12">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Chang</surname>
+              <given-names>C-K</given-names>
+            </name>
+            <name>
+              <surname>Hayes</surname>
+              <given-names>RD</given-names>
+            </name>
+            <name>
+              <surname>Perera</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Broadbent</surname>
+              <given-names>MTM</given-names>
+            </name>
+            <name>
+              <surname>Fernandes</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>WE</given-names>
+            </name>
+            <name>
+              <surname>Hotopf</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Stewart</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Life expectancy at birth for people with serious mental illness and other major disorders from a secondary mental health care case register in London</article-title>
+          <source>PLoS ONE</source>
+          <year>2011</year>
+          <volume>6</volume>
+          <issue>5</issue>
+          <fpage>e19590</fpage>
+          <pub-id pub-id-type="pmid">21611123</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Clement</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Schauman</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Graham</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Maggioni</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Evans-Lacko</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Bezborodovs</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Morgan</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>R&#xFC;sch</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>JSL</given-names>
+            </name>
+            <name>
+              <surname>Thornicroft</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>What is the impact of mental health-related stigma on help-seeking? A systematic review of quantitative and qualitative studies</article-title>
+          <source>Psychological Medicine</source>
+          <year>2015</year>
+          <volume>45</volume>
+          <issue>1</issue>
+          <fpage>11</fpage>
+          <lpage>27</lpage>
+          <pub-id pub-id-type="pmid">24569086</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR14">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Corrigan</surname>
+              <given-names>PW</given-names>
+            </name>
+            <name>
+              <surname>Morris</surname>
+              <given-names>SB</given-names>
+            </name>
+            <name>
+              <surname>Michaels</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Rafacz</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>R&#xFC;sch</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Challenging the public stigma of mental illness: A meta-analysis of outcome studies</article-title>
+          <source>Psychiatric Services</source>
+          <year>2012</year>
+          <volume>63</volume>
+          <issue>10</issue>
+          <fpage>963</fpage>
+          <lpage>973</lpage>
+          <pub-id pub-id-type="pmid">23032675</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Corrigan</surname>
+              <given-names>PW</given-names>
+            </name>
+            <name>
+              <surname>Rao</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>On the self-stigma of mental illness: Stages, disclosure, and strategies for change</article-title>
+          <source>The Canadian Journal of Psychiatry</source>
+          <year>2012</year>
+          <volume>57</volume>
+          <issue>8</issue>
+          <fpage>464</fpage>
+          <lpage>469</lpage>
+          <pub-id pub-id-type="pmid">22854028</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR16">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Corrigan</surname>
+              <given-names>PW</given-names>
+            </name>
+            <name>
+              <surname>Watson</surname>
+              <given-names>AC</given-names>
+            </name>
+            <name>
+              <surname>Barr</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>The self-stigma of mental illness: Implications for self-esteem and self-efficacy</article-title>
+          <source>Journal of Social and Clinical Psychology</source>
+          <year>2006</year>
+          <volume>25</volume>
+          <issue>8</issue>
+          <fpage>875</fpage>
+          <lpage>884</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR17">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Deverka</surname>
+              <given-names>PA</given-names>
+            </name>
+            <name>
+              <surname>Lavallee</surname>
+              <given-names>DC</given-names>
+            </name>
+            <name>
+              <surname>Desai</surname>
+              <given-names>PJ</given-names>
+            </name>
+            <name>
+              <surname>Esmail</surname>
+              <given-names>LC</given-names>
+            </name>
+            <name>
+              <surname>Ramsey</surname>
+              <given-names>SD</given-names>
+            </name>
+            <name>
+              <surname>Veenstra</surname>
+              <given-names>DL</given-names>
+            </name>
+            <name>
+              <surname>Tunis</surname>
+              <given-names>SR</given-names>
+            </name>
+          </person-group>
+          <article-title>Stakeholder participation in comparative effectiveness research: Defining a framework for effective engagement</article-title>
+          <source>Journal of Comparative Effectiveness Research</source>
+          <year>2012</year>
+          <volume>1</volume>
+          <issue>2</issue>
+          <fpage>181</fpage>
+          <lpage>194</lpage>
+          <pub-id pub-id-type="pmid">22707880</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gronholm</surname>
+              <given-names>PC</given-names>
+            </name>
+            <name>
+              <surname>Henderson</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Deb</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Thornicroft</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Interventions to reduce discrimination and stigma: The state of the art</article-title>
+          <source>Social Psychiatry and Psychiatric Epidemiology</source>
+          <year>2017</year>
+          <volume>52</volume>
+          <issue>3</issue>
+          <fpage>249</fpage>
+          <lpage>258</lpage>
+          <pub-id pub-id-type="pmid">28144713</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR19">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hamilton</surname>
+              <given-names>CB</given-names>
+            </name>
+            <name>
+              <surname>Hoens</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Backman</surname>
+              <given-names>CL</given-names>
+            </name>
+            <name>
+              <surname>McKinnon</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>McQuitty</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>English</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>LC</given-names>
+            </name>
+          </person-group>
+          <article-title>An empirically based conceptual framework for fostering meaningful patient engagement in research</article-title>
+          <source>Health Expectations</source>
+          <year>2018</year>
+          <volume>21</volume>
+          <issue>1</issue>
+          <fpage>396</fpage>
+          <lpage>406</lpage>
+          <pub-id pub-id-type="pmid">28984405</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR20">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hatzenbuehler</surname>
+              <given-names>ML</given-names>
+            </name>
+          </person-group>
+          <article-title>Structural stigma: Research evidence and implications for psychological science</article-title>
+          <source>American Psychologist</source>
+          <year>2016</year>
+          <volume>71</volume>
+          <issue>8</issue>
+          <fpage>742</fpage>
+          <lpage>751</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Henderson</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Noblett</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Parke</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Clement</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Caffrey</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Gale-Grant</surname>
+              <given-names>O</given-names>
+            </name>
+            <name>
+              <surname>Schulze</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Druss</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Thornicroft</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Mental health-related stigma in health care and mental health-care settings</article-title>
+          <source>The Lancet. Psychiatry</source>
+          <year>2014</year>
+          <volume>1</volume>
+          <issue>6</issue>
+          <fpage>467</fpage>
+          <lpage>482</lpage>
+          <pub-id pub-id-type="pmid">26361202</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR22">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hennekens</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>Hennekens</surname>
+              <given-names>AR</given-names>
+            </name>
+            <name>
+              <surname>Hollar</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Casey</surname>
+              <given-names>DE</given-names>
+            </name>
+          </person-group>
+          <article-title>Schizophrenia and increased risks of cardiovascular disease</article-title>
+          <source>American Heart Journal</source>
+          <year>2005</year>
+          <volume>150</volume>
+          <issue>6</issue>
+          <fpage>1115</fpage>
+          <lpage>1121</lpage>
+          <pub-id pub-id-type="pmid">16338246</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR23">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jackson-Best</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Edwards</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Stigma and intersectionality: A systematic review of systematic reviews across HIV/AIDS, mental illness, and physical disability</article-title>
+          <source>BMC Public Health</source>
+          <year>2018</year>
+          <volume>18</volume>
+          <issue>1</issue>
+          <fpage>919</fpage>
+          <pub-id pub-id-type="pmid">30049270</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR24">
+        <mixed-citation publication-type="other">James, C. E. (Ed.). (2010). <italic>Race &amp; well-being: The lives, hopes, and activism of African Canadians</italic>. Fernwood Pub.</mixed-citation>
+      </ref>
+      <ref id="CR25">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johnson</surname>
+              <given-names>RB</given-names>
+            </name>
+            <name>
+              <surname>Onwuegbuzie</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Turner</surname>
+              <given-names>LA</given-names>
+            </name>
+          </person-group>
+          <article-title>Toward a definition of mixed methods research</article-title>
+          <source>Journal of Mixed Methods Research</source>
+          <year>2007</year>
+          <volume>1</volume>
+          <issue>2</issue>
+          <fpage>112</fpage>
+          <lpage>133</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR26">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kelly</surname>
+              <given-names>JF</given-names>
+            </name>
+            <name>
+              <surname>Westerhoff</surname>
+              <given-names>CM</given-names>
+            </name>
+          </person-group>
+          <article-title>Does it matter how we refer to individuals with substance-related conditions? A randomized study of two commonly used terms</article-title>
+          <source>The International Journal on Drug Policy</source>
+          <year>2010</year>
+          <volume>21</volume>
+          <issue>3</issue>
+          <fpage>202</fpage>
+          <lpage>207</lpage>
+          <pub-id pub-id-type="pmid">20005692</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR27">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Khenti</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Bobbili</surname>
+              <given-names>SJ</given-names>
+            </name>
+            <name>
+              <surname>Sapag</surname>
+              <given-names>JC</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluation of a pilot intervention to reduce mental health and addiction stigma in primary care settings</article-title>
+          <source>Journal of Community Health</source>
+          <year>2019</year>
+          <volume>44</volume>
+          <issue>6</issue>
+          <fpage>1204</fpage>
+          <lpage>1213</lpage>
+          <pub-id pub-id-type="pmid">31317439</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR28">
+        <mixed-citation publication-type="other">Knaak, S., Livingston, J., Stuart, H., &amp; Ungar, T. (2020). <italic>Combatting mental illness and substance use-related structural stigma in health care: A framework for action</italic>. Mental Health Commission of Canada.</mixed-citation>
+      </ref>
+      <ref id="CR29">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Knaak</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Mantler</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Szeto</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Mental illness-related stigma in healthcare</article-title>
+          <source>Healthcare Management Forum</source>
+          <year>2017</year>
+          <volume>30</volume>
+          <issue>2</issue>
+          <fpage>111</fpage>
+          <lpage>116</lpage>
+          <pub-id pub-id-type="pmid">28929889</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR30">
+        <mixed-citation publication-type="other">Knaak, S., Modgill, G., &amp; Patten, S. B. (2014). Key ingredients of anti-stigma programs for health care providers: A data synthesis of evaluative studies. <italic>The Canadian Journal of Psychiatry</italic>, <italic>59</italic>(1_suppl), 19&#x2013;26. 10.1177/070674371405901S06</mixed-citation>
+      </ref>
+      <ref id="CR31">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Knaak</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Patten</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Ungar</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Mental illness stigma as a quality-of-care problem</article-title>
+          <source>The Lancet. Psychiatry</source>
+          <year>2015</year>
+          <volume>2</volume>
+          <issue>10</issue>
+          <fpage>863</fpage>
+          <lpage>864</lpage>
+          <pub-id pub-id-type="pmid">26462211</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR32">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lai</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Ma</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Cai</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wei</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Du</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Tan</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Kang</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Yao</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Factors associated with mental health outcomes among health care workers exposed to coronavirus disease 2019</article-title>
+          <source>JAMA Network Open</source>
+          <year>2020</year>
+          <volume>3</volume>
+          <issue>3</issue>
+          <fpage>e203976</fpage>
+          <pub-id pub-id-type="pmid">32202646</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR33">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Leo</surname>
+              <given-names>CG</given-names>
+            </name>
+            <name>
+              <surname>Sabina</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Tumolo</surname>
+              <given-names>MR</given-names>
+            </name>
+            <name>
+              <surname>Bodini</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Ponzini</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Sabato</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Mincarone</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Burnout among healthcare workers in the COVID 19 era: A review of the existing literature</article-title>
+          <source>Frontiers in Public Health</source>
+          <year>2021</year>
+          <volume>9</volume>
+          <fpage>750529</fpage>
+          <pub-id pub-id-type="pmid">34778184</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR34">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Leszcz</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Maunder</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Hunter</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Psychological support for health care workers during the COVID-19 pandemic</article-title>
+          <source>Canadian Medical Association Journal</source>
+          <year>2020</year>
+          <volume>192</volume>
+          <issue>24</issue>
+          <fpage>E660</fpage>
+          <lpage>E660</lpage>
+          <pub-id pub-id-type="pmid">32540910</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR35">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liggins</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Hatcher</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Stigma toward the mentally ill in the general hospital: A qualitative study</article-title>
+          <source>General Hospital Psychiatry</source>
+          <year>2005</year>
+          <volume>27</volume>
+          <issue>5</issue>
+          <fpage>359</fpage>
+          <lpage>364</lpage>
+          <pub-id pub-id-type="pmid">16168797</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR36">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Link</surname>
+              <given-names>BG</given-names>
+            </name>
+            <name>
+              <surname>Phelan</surname>
+              <given-names>JC</given-names>
+            </name>
+          </person-group>
+          <article-title>Conceptualizing stigma</article-title>
+          <source>Annual Review of Sociology</source>
+          <year>2001</year>
+          <volume>27</volume>
+          <issue>1</issue>
+          <fpage>363</fpage>
+          <lpage>385</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR37">
+        <mixed-citation publication-type="other">Livingston, J. D. (2020). <italic>Structural stigma in health-care contexts for people with mental health and substance use issues: A literature review</italic>. Mental Health Commission of Canada.</mixed-citation>
+      </ref>
+      <ref id="CR38">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>MacLean</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Booza</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Balon</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>The impact of medical school on student mental health</article-title>
+          <source>Academic Psychiatry: The Journal of the American Association of Directors of Psychiatric Residency Training and the Association for Academic Psychiatry</source>
+          <year>2016</year>
+          <volume>40</volume>
+          <issue>1</issue>
+          <fpage>89</fpage>
+          <lpage>91</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR39">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Manafo</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Petermann</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Mason-Lai</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Vandall-Walker</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <article-title>Patient engagement in Canada: A scoping review of the &#x2018;how&#x2019; and &#x2018;what&#x2019; of patient engagement in health research</article-title>
+          <source>Health Research Policy and Systems</source>
+          <year>2018</year>
+          <volume>16</volume>
+          <issue>1</issue>
+          <fpage>5</fpage>
+          <pub-id pub-id-type="pmid">29415734</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR40">
+        <mixed-citation publication-type="other">Maunder, R. G., Leszcz, M., Savage, D., Adam, M. A., Peladeau, N., Romano, D., Rose, M., &amp; Schulman, R. B. (2008). Applying the lessons of SARS to pandemic influenza. <italic>Canadian Journal of Public Health = Revue Canadienne de Sant&#xE9; Publique</italic>, <italic>99</italic>(6), 486&#x2013;488. 10.1007/BF03403782</mixed-citation>
+      </ref>
+      <ref id="CR41">
+        <mixed-citation publication-type="other">McGinn, S., &amp; Grimminck, R. (2019). We claim to value mental health. So why don&#x2019;t the numbers add up? <italic>Vital Signs</italic>. <ext-link ext-link-type="uri" xlink:href="https://static1.squarespace.com/static/568eb5bbd82d5eecf06026c4/t/5d9cf12dd0058f734cd91a54/1570566455301/VS1019.pdf">https://static1.squarespace.com/static/568eb5bbd82d5eecf06026c4/t/5d9cf12dd0058f734cd91a54/1570566455301/VS1019.pdf</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR42">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mensah</surname>
+              <given-names>GA</given-names>
+            </name>
+            <name>
+              <surname>Czajkowski</surname>
+              <given-names>SM</given-names>
+            </name>
+          </person-group>
+          <article-title>Translational science matters: Forging partnerships between biomedical and behavioral science to advance the public&#x2019;s health</article-title>
+          <source>Translational Behavioral Medicine</source>
+          <year>2018</year>
+          <volume>8</volume>
+          <issue>5</issue>
+          <fpage>808</fpage>
+          <lpage>814</lpage>
+          <pub-id pub-id-type="pmid">29617926</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR43">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nyblade</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Stockton</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Giger</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Bond</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Ekstrand</surname>
+              <given-names>ML</given-names>
+            </name>
+            <name>
+              <surname>Lean</surname>
+              <given-names>RM</given-names>
+            </name>
+            <name>
+              <surname>Mitchell</surname>
+              <given-names>EMH</given-names>
+            </name>
+            <name>
+              <surname>Nelson</surname>
+              <given-names>LRE</given-names>
+            </name>
+            <name>
+              <surname>Sapag</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Siraprapasiri</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Turan</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Wouters</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Stigma in health facilities: Why it matters and how we can change it</article-title>
+          <source>BMC Medicine</source>
+          <year>2019</year>
+          <volume>17</volume>
+          <issue>1</issue>
+          <fpage>25</fpage>
+          <pub-id pub-id-type="pmid">30764806</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR44">
+        <mixed-citation publication-type="other">Public Health Agency of Canada [PHAC]. (2019). <italic>The chief public health officer&#x2019;s report on the state of public health in Canada 2019: Addressing stigma: Towards a more inclusive health system</italic>. PHAC. <ext-link ext-link-type="uri" xlink:href="https://www.canada.ca/content/dam/phac-aspc/documents/corporate/publications/chief-public-health-officer-reports-state-public-health-canada/addressing-stigma-what-we-heard/stigma-eng.pdf">https://www.canada.ca/content/dam/phac-aspc/documents/corporate/publications/chief-public-health-officer-reports-state-public-health-canada/addressing-stigma-what-we-heard/stigma-eng.pdf</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR45">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pulerwitz</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Oanh</surname>
+              <given-names>KTH</given-names>
+            </name>
+            <name>
+              <surname>Akinwolemiwa</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Ashburn</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Nyblade</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Improving hospital-based quality of care by reducing hiv-related stigma: Evaluation results from Vietnam</article-title>
+          <source>AIDS and Behavior</source>
+          <year>2015</year>
+          <volume>19</volume>
+          <issue>2</issue>
+          <fpage>246</fpage>
+          <lpage>256</lpage>
+          <pub-id pub-id-type="pmid">25382350</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR46">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rao</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Elshafei</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Hatzenbuehler</surname>
+              <given-names>ML</given-names>
+            </name>
+            <name>
+              <surname>Frey</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Go</surname>
+              <given-names>VF</given-names>
+            </name>
+          </person-group>
+          <article-title>A systematic review of multi-level stigma interventions: State of the science and future directions</article-title>
+          <source>BMC Medicine</source>
+          <year>2019</year>
+          <volume>17</volume>
+          <issue>1</issue>
+          <fpage>41</fpage>
+          <pub-id pub-id-type="pmid">30770756</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR47">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reichardt</surname>
+              <given-names>CS</given-names>
+            </name>
+            <name>
+              <surname>Rallis</surname>
+              <given-names>SF</given-names>
+            </name>
+          </person-group>
+          <article-title>Qualitative and quantitative inquiries are not incompatible: A call for a new partnership</article-title>
+          <source>New Directions for Program Evaluation</source>
+          <year>1994</year>
+          <volume>1994</volume>
+          <issue>61</issue>
+          <fpage>85</fpage>
+          <lpage>91</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR48">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Reynaert</surname>
+              <given-names>CC</given-names>
+            </name>
+            <name>
+              <surname>Gelman</surname>
+              <given-names>SA</given-names>
+            </name>
+          </person-group>
+          <article-title>The influence of language form and conventional wording on judgments of illness</article-title>
+          <source>Journal of Psycholinguistic Research</source>
+          <year>2007</year>
+          <volume>36</volume>
+          <issue>4</issue>
+          <fpage>273</fpage>
+          <lpage>295</lpage>
+          <pub-id pub-id-type="pmid">17273932</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR49">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schernhammer</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>Taking their own lives&#x2014;The high rate of physician suicide</article-title>
+          <source>New England Journal of Medicine</source>
+          <year>2005</year>
+          <volume>352</volume>
+          <issue>24</issue>
+          <fpage>2473</fpage>
+          <lpage>2476</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR50">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schernhammer</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Colditz</surname>
+              <given-names>GA</given-names>
+            </name>
+          </person-group>
+          <article-title>Suicide rates among physicians: A quantitative and gender assessment (meta-analysis)</article-title>
+          <source>American Journal of Psychiatry</source>
+          <year>2004</year>
+          <volume>161</volume>
+          <issue>12</issue>
+          <fpage>2295</fpage>
+          <lpage>2302</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR51">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sharac</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>McCrone</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Clement</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Thornicroft</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>The economic impact of mental health stigma and discrimination: A systematic review</article-title>
+          <source>Epidemiologia E Psichiatria Sociale</source>
+          <year>2010</year>
+          <volume>19</volume>
+          <issue>3</issue>
+          <fpage>223</fpage>
+          <lpage>232</lpage>
+          <pub-id pub-id-type="pmid">21261218</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR52">
+        <mixed-citation publication-type="other">Statistics Canada. (2015). <italic>Health at a glance: The impact of mental health problems on family members</italic>. <ext-link ext-link-type="uri" xlink:href="https://www150.statcan.gc.ca/n1/pub/82-624-x/2015001/article/14214-eng.pdf">https://www150.statcan.gc.ca/n1/pub/82-624-x/2015001/article/14214-eng.pdf</ext-link></mixed-citation>
+      </ref>
+      <ref id="CR53">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wahlbeck</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Westman</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Nordentoft</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Gissler</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Laursen</surname>
+              <given-names>TM</given-names>
+            </name>
+          </person-group>
+          <article-title>Outcomes of Nordic mental health systems: Life expectancy of patients with mental disorders</article-title>
+          <source>The British Journal of Psychiatry: The Journal of Mental Science</source>
+          <year>2011</year>
+          <volume>199</volume>
+          <issue>6</issue>
+          <fpage>453</fpage>
+          <lpage>458</lpage>
+          <pub-id pub-id-type="pmid">21593516</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR54">
+        <mixed-citation publication-type="other">Wallace, J. E. (2012). Mental health and stigma in the medical profession. <italic>Health (London, England: 1997)</italic>, <italic>16</italic>(1), 3&#x2013;18. 10.1177/1363459310371080</mixed-citation>
+      </ref>
+      <ref id="CR55">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>White Hughto</surname>
+              <given-names>JM</given-names>
+            </name>
+            <name>
+              <surname>Reisner</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Pachankis</surname>
+              <given-names>JE</given-names>
+            </name>
+          </person-group>
+          <article-title>Transgender stigma and health: A critical review of stigma determinants, mechanisms, and interventions</article-title>
+          <source>Social Science &amp; Medicine</source>
+          <year>2015</year>
+          <volume>1982</volume>
+          <issue>147</issue>
+          <fpage>222</fpage>
+          <lpage>231</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR56">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wu</surname>
+              <given-names>PE</given-names>
+            </name>
+            <name>
+              <surname>Styra</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Gold</surname>
+              <given-names>WL</given-names>
+            </name>
+          </person-group>
+          <article-title>Mitigating the psychological effects of COVID-19 on health care workers</article-title>
+          <source>Canadian Medical Association Journal</source>
+          <year>2020</year>
+          <volume>192</volume>
+          <issue>17</issue>
+          <fpage>E459</fpage>
+          <lpage>E460</lpage>
+          <pub-id pub-id-type="pmid">32295761</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

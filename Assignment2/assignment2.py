@@ -1,11 +1,11 @@
-from Bio import Entrez
+import os
+from pathlib import Path
 import multiprocessing as mp
 from multiprocessing.managers import BaseManager
 import argparse as ap
 import time, queue
 import pickle
-from pathlib import Path
-import os
+from Bio import Entrez
 
 Entrez.email = "amine.jalali@gmail.com"
 POISONPILL = "MEMENTOMORI"
@@ -39,18 +39,14 @@ def runserver(fn, data, ip, port):
     manager = make_server_manager(port, AUTHKEY, ip)
     shared_job_q = manager.get_job_q()
     shared_result_q = manager.get_result_q()
-    
     if not data:
         print("Gimme something to do here!")
-
         return
-    
     print("Sending data!")
     for d in data:
         shared_job_q.put({'fn' : fn, 'arg' : d})
     print(shared_job_q)
-    time.sleep(3)  
-    
+    time.sleep(3)
     results = []
     while True:
         try:
@@ -83,10 +79,8 @@ def make_client_manager(ip, port, authkey):
 
     ServerQueueManager.register('get_job_q')
     ServerQueueManager.register('get_result_q')
-
     manager = ServerQueueManager(address=(ip, port), authkey=authkey)
     manager.connect()
-
     print('Client connected to %s:%s' % (ip, port))
     return manager
 
@@ -95,10 +89,10 @@ def runclient(num_processes, ip, port):
     job_q = manager.get_job_q()
     result_q = manager.get_result_q()
     run_workers(job_q, result_q, num_processes)
-    
+
 def run_workers(job_q, result_q, num_processes):
     processes = []
-    for p in range(num_processes):
+    for _ in range(num_processes):
         temP = mp.Process(target=peon, args=(job_q, result_q))
         processes.append(temP)
         temP.start()
@@ -128,25 +122,40 @@ def peon(job_q, result_q):
             print("sleepytime for", my_name)
             time.sleep(1)
 
-def find_references(pmid,n):
-   
-   results = Entrez.read(Entrez.elink(dbfrom="pubmed", db="pmc", LinkName="pubmed_pmc_refs",id=pmid))
-   references = [f'{link["Id"]}' for link in results[0]["LinkSetDb"][0]["Link"]]
-   return references[:n]
+def find_references(pmid, n):
+    """ This function return the first n references of pmid
+    """
+    record = Entrez.read(Entrez.elink(dbfrom="pubmed", id=pmid, LinkName="pubmed_pmc_refs"))
+    link_list = record[0]["LinkSetDb"]
+    # if there is reference
+    if link_list:
+        references = [f'{link["Id"]}' for link in record[0]["LinkSetDb"][0]["Link"]]
+    # if there is not any references
+    else:
+        references = []
+    return references[:n]
 
-def find_author(ref):
-
-    handle = Entrez.esummary(db="pmc", id=ref, rettype="XML", retmode="text")
+def find_author(reference):
+    """this function finds the authour of a reference
+    """
+    handle = Entrez.esummary(db="pmc", id=reference, rettype="XML", retmode="text")
     record = Entrez.read(handle)
     data=tuple(record[0]["AuthorList"])
     my_path = Path('output')
-    with open(str(my_path)+ "/" + f'{ref}.authors.pickle', 'wb') as f:
-        pickle.dump(data, f)
-    return "Done"
+    with open(str(my_path)+ "/" + f'{reference}.authors.pickle', 'wb') as filename:
+        pickle.dump(data, filename)
+
+def download_files(reference):
+    """ This function download the reference and write it down
+    in the reference.xml in output directory
+    """
+    handle = Entrez.efetch(db="pmc", id=reference, rettype="XML", retmode="text")
+    with open(f'output/{reference}.xml', 'wb') as file:
+        file.write(handle.read())
+    find_author(reference)
 
 if __name__ == "__main__":
-
-    argparser = ap.ArgumentParser(description="Script that analyze the references to extract the outhor of the given PubMed ID")
+    argparser = ap.ArgumentParser(description="Script that analyze the references to extract the outhor of PubMed ID")
     argparser.add_argument("-n", action="store",dest="n", required=True, type=int,help="Number of peons per client")
     group = argparser.add_mutually_exclusive_group()
     group.add_argument("-c", action='store_true',dest="client")
@@ -166,6 +175,6 @@ if __name__ == "__main__":
         client.start()
         client.join()
     elif args.server:
-        server = mp.Process(target=runserver, args=(find_author,data, ip, port))
+        server = mp.Process(target=runserver, args=(download_files,data, ip, port))
         server.start()
         server.join()

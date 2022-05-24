@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <!--The publisher of this article does not allow downloading of the full text in XML form.-->
+  <?properties manuscript?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-journal-id">9712133</journal-id>
+      <journal-id journal-id-type="pubmed-jr-id">21042</journal-id>
+      <journal-id journal-id-type="nlm-ta">AIDS Behav</journal-id>
+      <journal-id journal-id-type="iso-abbrev">AIDS Behav</journal-id>
+      <journal-title-group>
+        <journal-title>AIDS and behavior</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1090-7165</issn>
+      <issn pub-type="epub">1573-3254</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">34741690</article-id>
+      <article-id pub-id-type="pmc">8900724</article-id>
+      <article-id pub-id-type="doi">10.1007/s10461-021-03517-0</article-id>
+      <article-id pub-id-type="manuscript">NIHMS1781638</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Examining HIV Stigma, Depression, Stress, and Recent Stimulant Use in a Sample of Sexual Minority Men Living with HIV: An Application of the Stigma and Substance Use Process Model</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Meyers-Pantele</surname>
+            <given-names>S. A.</given-names>
+          </name>
+          <xref rid="A1" ref-type="aff">1</xref>
+          <xref rid="A2" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lammert</surname>
+            <given-names>S.</given-names>
+          </name>
+          <xref rid="A3" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rendina</surname>
+            <given-names>J.</given-names>
+          </name>
+          <xref rid="A4" ref-type="aff">4</xref>
+          <xref rid="A5" ref-type="aff">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Shalhav</surname>
+            <given-names>O.</given-names>
+          </name>
+          <xref rid="A5" ref-type="aff">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Talan</surname>
+            <given-names>A.J.</given-names>
+          </name>
+          <xref rid="A5" ref-type="aff">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Smith</surname>
+            <given-names>L. R.</given-names>
+          </name>
+          <xref rid="A2" ref-type="aff">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Pitpitan</surname>
+            <given-names>E.</given-names>
+          </name>
+          <xref rid="A6" ref-type="aff">6</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Horvath</surname>
+            <given-names>K.J.</given-names>
+          </name>
+          <xref rid="A1" ref-type="aff">1</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="A1"><label>1.</label>Department of Psychology, San Diego State University, San Diego, CA, United States</aff>
+      <aff id="A2"><label>2.</label>Division of Infectious Diseases and Global Public Health, University of California San Diego, La Jolla, CA, United States</aff>
+      <aff id="A3"><label>3.</label>Division of Epidemiology and Community Health, University of Minnesota, Minneapolis, MN, United States</aff>
+      <aff id="A4"><label>4.</label>Department of Epidemiology, Milken Institute School of Public Health, George Washington University, Washington D.C., United States</aff>
+      <aff id="A5"><label>5.</label>Whitman-Walker Institute, Washington D.C., United States</aff>
+      <aff id="A6"><label>6.</label>School of Social Work, San Diego State University, San Diego, CA, United States</aff>
+      <author-notes>
+        <fn fn-type="con" id="FN1">
+          <p id="P1"><underline>Authors&#x2019; Contributions:</underline>
+<bold>Stephanie Meyers-Pantele</bold>: Conceptualization, Formal Analysis, Validation, Writing &#x2013; Original Draft Preparation. <bold>Sara Lammert</bold>: Data Curation and Writing &#x2013; Reviewing and Editing. <bold>H. Jonathon Rendina</bold>: Project Administration, Investigation, and Writing &#x2013; Reviewing and Editing. <bold>Ore Shalhav</bold>: Investigation and Writing &#x2013; Reviewing and Editing. <bold>Ali Talan</bold>: Investigation and Writing &#x2013; Reviewing and Editing. <bold>Laramie Smith</bold>: Conceptualization and Writing &#x2013; Reviewing and Editing. <bold>Eileen Pitpitan</bold>: Formal Analysis and Writing &#x2013; Reviewing and Editing. <bold>Keith Horvath</bold>: Conceptualization, Methodology, Resources, Supervision, Funding Acquisition, and Writing &#x2013; Reviewing and Editing.</p>
+        </fn>
+        <corresp id="CR1"><bold>Corresponding Author:</bold> Stephanie Meyers-Pantele, PhD, Postdoctoral Research Scholar, Department of Psychology, San Diego State University, 6363 Alvarado Court, Suite 250, San Diego, CA 92120, <email>sameyers@sdsu.edu</email>, Tel: 619.594.3346</corresp>
+        <fn fn-type="COI-statement" id="FN2">
+          <p id="P31">Conflicts of Interest:</p>
+          <p id="P32">The authors declare that they have no conflicts of interest.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="nihms-submitted">
+        <day>27</day>
+        <month>2</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="ppub">
+        <month>1</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>06</day>
+        <month>11</month>
+        <year>2021</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>01</day>
+        <month>1</month>
+        <year>2023</year>
+      </pub-date>
+      <volume>26</volume>
+      <issue>Suppl 1</issue>
+      <fpage>138</fpage>
+      <lpage>148</lpage>
+      <abstract id="ABS1">
+        <p id="P2">Sexual minority men (SMM) with HIV are disproportionately impacted by stigma and mental health disorders. Guided by the Stigma and Substance Use Process Model, we evaluated how HIV stigma impacts mental health outcomes among SMM with HIV. Data were drawn from <italic toggle="yes">Thrive With Me</italic>, an RCT of an mHealth intervention targeting ART adherence among SMM with HIV. Path analyses tested the relationships between HIV stigma, depression, stress, and recent stimulant use. Overall, 49.1% (194/401) had depression symptoms, 68.8% (276/401) had moderate-to-high stress, and 28.1% (111/401) had detectable stimulant use in urine samples at baseline. In path analyses, baseline internalized HIV stigma was associated with depression and stress 5-months post-baseline and enacted stigma was associated with recent stimulant use 11-months post-baseline. We identified internalized and enacted HIV stigma, but not anticipated stigma, as potentially important intervention targets for stimulant use, depression, and stress among SMM with HIV.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>Internalized HIV stigma</kwd>
+        <kwd>Enacted HIV stigma</kwd>
+        <kwd>Depression</kwd>
+        <kwd>Stress</kwd>
+        <kwd>Stimulant Use</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+</article>
+</pmc-articleset>
