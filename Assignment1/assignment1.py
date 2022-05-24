@@ -1,6 +1,8 @@
 from Bio import Entrez
 import multiprocessing as mp
 import argparse as ap
+from pathlib import Path
+import os
 
 
 Entrez.api_key = "d4cea981fb2c06210b961c26c207cac00c08"
@@ -44,6 +46,8 @@ if __name__ == "__main__":
     references = find_refrences(args.pubmed_id, n)
     cpus = mp.cpu_count()
     # check if article has any references
+    if not os.path.isdir("output"):
+        os.makedirs("output")
     if references:
         with mp.Pool(cpus) as pool:
             # parallelize the execution of function across multiple references
