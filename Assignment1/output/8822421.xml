@@ -1,0 +1,3661 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">JMIR Serious Games</journal-id>
+      <journal-id journal-id-type="iso-abbrev">JMIR Serious Games</journal-id>
+      <journal-id journal-id-type="publisher-id">JSG</journal-id>
+      <journal-title-group>
+        <journal-title>JMIR Serious Games</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2291-9279</issn>
+      <publisher>
+        <publisher-name>JMIR Publications</publisher-name>
+        <publisher-loc>Toronto, Canada</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">34870603</article-id>
+      <article-id pub-id-type="pmc">8822421</article-id>
+      <article-id pub-id-type="publisher-id">v10i1e32400</article-id>
+      <article-id pub-id-type="doi">10.2196/32400</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Paper</subject>
+        </subj-group>
+        <subj-group subj-group-type="article-type">
+          <subject>Original Paper</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Evaluation of an AIDS Educational Mobile Game (AIDS Fighter &#xB7; Health Defense) for Young Students to Improve AIDS-Related Knowledge, Stigma, and Attitude Linked to High-Risk Behaviors in China: Randomized Controlled Trial</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Zary</surname>
+            <given-names>Nabil</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="reviewer">
+          <name>
+            <surname>Tannoubi</surname>
+            <given-names>Amayra</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="reviewer">
+          <name>
+            <surname>Nguyen</surname>
+            <given-names>Phuong</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="reviewer">
+          <name>
+            <surname>Verma</surname>
+            <given-names>Vipin</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib id="contrib1" contrib-type="author">
+          <name>
+            <surname>Tang</surname>
+            <given-names>Jian</given-names>
+          </name>
+          <degrees>MSc</degrees>
+          <xref rid="aff1" ref-type="aff">1</xref>
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-2262-9419</contrib-id>
+        </contrib>
+        <contrib id="contrib2" contrib-type="author">
+          <name>
+            <surname>Zheng</surname>
+            <given-names>Yu</given-names>
+          </name>
+          <degrees>BSc</degrees>
+          <xref rid="aff2" ref-type="aff">2</xref>
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-7393-0327</contrib-id>
+        </contrib>
+        <contrib id="contrib3" contrib-type="author">
+          <name>
+            <surname>Zhang</surname>
+            <given-names>Daiying</given-names>
+          </name>
+          <degrees>BSc</degrees>
+          <xref rid="aff1" ref-type="aff">1</xref>
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-6058-6195</contrib-id>
+        </contrib>
+        <contrib id="contrib4" contrib-type="author">
+          <name>
+            <surname>Yu</surname>
+            <given-names>Xingli</given-names>
+          </name>
+          <degrees>MSc</degrees>
+          <xref rid="aff1" ref-type="aff">1</xref>
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-6787-5926</contrib-id>
+        </contrib>
+        <contrib id="contrib5" contrib-type="author">
+          <name>
+            <surname>Ren</surname>
+            <given-names>Jianlan</given-names>
+          </name>
+          <degrees>MSc</degrees>
+          <xref rid="aff3" ref-type="aff">3</xref>
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-2986-3825</contrib-id>
+        </contrib>
+        <contrib id="contrib6" contrib-type="author">
+          <name>
+            <surname>Li</surname>
+            <given-names>Mei</given-names>
+          </name>
+          <degrees>MSc</degrees>
+          <xref rid="aff4" ref-type="aff">4</xref>
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-3030-2603</contrib-id>
+        </contrib>
+        <contrib id="contrib7" contrib-type="author">
+          <name>
+            <surname>Luo</surname>
+            <given-names>Yue</given-names>
+          </name>
+          <degrees>MSc</degrees>
+          <xref rid="aff4" ref-type="aff">4</xref>
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-1926-4503</contrib-id>
+        </contrib>
+        <contrib id="contrib8" contrib-type="author">
+          <name>
+            <surname>Tian</surname>
+            <given-names>Min</given-names>
+          </name>
+          <degrees>BSc</degrees>
+          <xref rid="aff4" ref-type="aff">4</xref>
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0003-1292-1256</contrib-id>
+        </contrib>
+        <contrib id="contrib9" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Yanhua</given-names>
+          </name>
+          <degrees>PhD</degrees>
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-9957-4124</contrib-id>
+          <xref rid="aff4" ref-type="aff">4</xref>
+          <xref rid="aff5" ref-type="aff">5</xref>
+          <address>
+            <institution>Department of Nursing</institution>
+            <institution>The Affiliated Hospital of Southwest Medical University</institution>
+            <addr-line>25 Taiping Street, Jiangyang District</addr-line>
+            <addr-line>Luzhou, 646000</addr-line>
+            <country>China</country>
+            <phone>86 18982765016</phone>
+            <email>chen_yanhua25@163.com</email>
+          </address>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1">
+<label>1</label>
+<institution>Department of Operating Room</institution>
+<institution>The Affiliated Hospital of Southwest Medical University</institution>
+<addr-line>Luzhou</addr-line>
+<country>China</country>
+</aff>
+      <aff id="aff2">
+<label>2</label>
+<institution>Department of Rheumatology and Immunology</institution>
+<institution>The Affiliated Hospital of Southwest Medical University</institution>
+<addr-line>Luzhou</addr-line>
+<country>China</country>
+</aff>
+      <aff id="aff3">
+<label>3</label>
+<institution>Department of Anesthesiology</institution>
+<institution>The Affiliated Hospital of Southwest Medical University</institution>
+<addr-line>Luzhou</addr-line>
+<country>China</country>
+</aff>
+      <aff id="aff4">
+<label>4</label>
+<institution>School of Nursing</institution>
+<institution>Southwest Medical University</institution>
+<addr-line>Luzhou</addr-line>
+<country>China</country>
+</aff>
+      <aff id="aff5">
+<label>5</label>
+<institution>Department of Nursing</institution>
+<institution>The Affiliated Hospital of Southwest Medical University</institution>
+<addr-line>Luzhou</addr-line>
+<country>China</country>
+</aff>
+      <author-notes>
+        <corresp>Corresponding Author: Yanhua Chen <email>chen_yanhua25@163.com</email></corresp>
+      </author-notes>
+      <pub-date pub-type="collection">
+        <season>Jan-Mar</season>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>24</day>
+        <month>1</month>
+        <year>2022</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>1</issue>
+      <elocation-id>e32400</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>26</day>
+          <month>7</month>
+          <year>2021</year>
+        </date>
+        <date date-type="rev-request">
+          <day>12</day>
+          <month>10</month>
+          <year>2021</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>2</day>
+          <month>12</month>
+          <year>2021</year>
+        </date>
+        <date date-type="accepted">
+          <day>6</day>
+          <month>12</month>
+          <year>2021</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9;Jian Tang, Yu Zheng, Daiying Zhang, Xingli Yu, Jianlan Ren, Mei Li, Yue Luo, Min Tian, Yanhua Chen. Originally published in JMIR Serious Games (https://games.jmir.org), 24.01.2022.</copyright-statement>
+        <copyright-year>2022</copyright-year>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (<ext-link xlink:href="https://creativecommons.org/licenses/by/4.0/" ext-link-type="uri">https://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in JMIR Serious Games, is properly cited. The complete bibliographic information, a link to the original publication on <ext-link xlink:href="https://games.jmir.org" ext-link-type="uri">https://games.jmir.org</ext-link>, as well as this copyright and license information must be included.</license-p>
+        </license>
+      </permissions>
+      <self-uri xlink:href="https://games.jmir.org/2022/1/e32400"/>
+      <abstract>
+        <sec sec-type="background">
+          <title>Background</title>
+          <p>The AIDS epidemic among young students is serious, and effective preventive interventions are urgently needed. Game-based intervention has become an innovative way to change healthy behaviors, and we have developed an AIDS educational game called AIDS Fighter &#xB7; Health Defense.</p>
+        </sec>
+        <sec sec-type="objective">
+          <title>Objective</title>
+          <p>In this study, we tested the effect of AIDS Fighter &#xB7; Health Defense on young students in improving AIDS-related knowledge, stigma, and attitude related to high-risk behaviors in Southwest China.</p>
+        </sec>
+        <sec sec-type="methods">
+          <title>Methods</title>
+          <p>A randomized controlled trial was conducted from September 14 to 27, 2020. In total, 96 students from 2 classes in a middle school were selected by stratified cluster sampling in Luzhou City, Southwest China. The students were randomly divided into the intervention group (n=50, 52%) and the control group (n=46, 48%). The intervention group played the AIDS educational game AIDS Fighter &#xB7; Health Defense; the control group learned AIDS-related knowledge through independent learning on the QQ chat group. An AIDS-related knowledge questionnaire, a stigma scale, and an attitude questionnaire on AIDS-related high-risk behaviors were used to measure the effect of the AIDS educational game via face-to-face interviews. The user experience of the game was assessed using the Educational Game User Experience Evaluation Scale. The difference was statistically significant at <italic>P</italic>&#x2264;.05.</p>
+        </sec>
+        <sec sec-type="results">
+          <title>Results</title>
+          <p>After the intervention, the AIDS knowledge awareness rate (X&#x305; [SD], %) of the intervention and control groups were 70.09 (SD 11.58) and 57.49 (SD 16.58), with <italic>t</italic>=4.282 and <italic>P</italic>&lt;.001. The stigma scores of the 2 groups were 2.44 (SD 0.57) and 2.48 (SD 0.47), with <italic>t</italic>=0.373 and <italic>P</italic>=0.71. The positive rate (X&#x305; [SD], %) of attitudes of high-risk AIDS behaviors of the 2 groups were 82.00 (SD 23.44) and 79.62 (SD 17.94), with <italic>t</italic>=0.555 and <italic>P</italic>=0.58. The mean percentage of the game evaluation was 54.73% as excellent, 31.45% as good, 13.09% as medium, and 0.73% as poor.</p>
+        </sec>
+        <sec sec-type="conclusions">
+          <title>Conclusions</title>
+          <p>AIDS Fighter &#xB7; Health Defense could increase AIDS-related knowledge among young students, but the effect of the game in reducing AIDS-related stigma and improving the attitudes of high-risk AIDS behaviors was not seen. Long-term effects and large-scale studies are needed to assess the efficacy of game-based intervention.</p>
+        </sec>
+        <sec sec-type="trial registration">
+          <title>Trial Registration</title>
+          <p>Chinese Clinical Trial Registry ChiCTR2000038230; https://trialsearch.who.int/Trial2.aspx?TrialID=ChiCTR2000038230</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <kwd>young students</kwd>
+        <kwd>AIDS education</kwd>
+        <kwd>educational game</kwd>
+        <kwd>game-based intervention</kwd>
+        <kwd>serious games</kwd>
+        <kwd>public health</kwd>
+        <kwd>HIV</kwd>
+        <kwd>AIDS epidemic</kwd>
+        <kwd>stigma</kwd>
+        <kwd>health defense</kwd>
+        <kwd>health knowledge</kwd>
+        <kwd>digital health</kwd>
+        <kwd>digital health intervention</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="introduction">
+      <title>Introduction</title>
+      <sec>
+        <title>Importance of AIDS Prevention Education for Young Students</title>
+        <p>According to the Joint United Nations Programme on HIV/AIDS (UNAIDS) data, there were approximately 3.4 million HIV infections among young people aged 15-24 years worldwide and approximately 460,000 new HIV infections among young people in 2019 [<xref rid="ref1" ref-type="bibr">1</xref>], most of them being students, and we are far away from reaching UNAIDS testing and condom use targets of 95% coverage by 2030 [<xref rid="ref2" ref-type="bibr">2</xref>].</p>
+        <p>Therefore, it is necessary to take effective measures to control the prevalence of AIDS among young students [<xref rid="ref3" ref-type="bibr">3</xref>]. Studies have shown that AIDS health education for young students can improve their ability to prevent AIDS [<xref rid="ref4" ref-type="bibr">4</xref>-<xref rid="ref6" ref-type="bibr">6</xref>], but traditional education methods are not attractive to them, and the effect is poor [<xref rid="ref7" ref-type="bibr">7</xref>,<xref rid="ref8" ref-type="bibr">8</xref>]. Therefore, it is urgent to innovate the AIDS education model to improve the education effect and curb the spread of AIDS among young students.</p>
+      </sec>
+      <sec>
+        <title>Importance of AIDS Educational Games for AIDS Prevention</title>
+        <p>With the development of science and technology, AIDS prevention education has changed from using traditional methods to using modern ones [<xref rid="ref9" ref-type="bibr">9</xref>,<xref rid="ref10" ref-type="bibr">10</xref>]. Among them, game-based intervention has become an innovative way to change healthy behaviors [<xref rid="ref11" ref-type="bibr">11</xref>-<xref rid="ref13" ref-type="bibr">13</xref>]. Educational games contain mechanisms such as tasks, rules, feedback, challenges, and components such as points, badges, and leaderboards [<xref rid="ref14" ref-type="bibr">14</xref>], which may influence people&#x2019;s motivation and behavior by stimulating their immersion, satisfaction, and experience [<xref rid="ref15" ref-type="bibr">15</xref>].</p>
+        <p>Research on AIDS health education games started late, mainly aimed at adolescents, including HIV-infected adolescents, gay men and other high-risk groups, and healthy adolescents. The targets of education are to increase adolescents' adherence to antiviral therapy and pre-exposure prophylaxis (PrEP) [<xref rid="ref16" ref-type="bibr">16</xref>-<xref rid="ref18" ref-type="bibr">18</xref>], promote HIV screening [<xref rid="ref19" ref-type="bibr">19</xref>], reduce adolescent risky sex and multiple sexual partners, avoid drug and alcohol abuse, and thus reduce the infection of AIDS and sexually transmitted diseases among adolescents [<xref rid="ref20" ref-type="bibr">20</xref>-<xref rid="ref22" ref-type="bibr">22</xref>]. The main types of games are role-playing, online interaction, knowledge contest, hero combat, etc, and the main game mechanisms are challenge, task, upgrade, interaction, virtual, etc. [<xref rid="ref23" ref-type="bibr">23</xref>-<xref rid="ref26" ref-type="bibr">26</xref>].</p>
+      </sec>
+      <sec>
+        <title>AIDS Educational Games in China</title>
+        <p>AIDS health educational games in China are in their infancy, and with few existing studies, single game elements, incomplete game mechanisms, and a lack of effect evaluation studies, the actual educational effect is not clear. To solve these problems, we developed an AIDS educational game, mainly targeting education for HIV/AIDS knowledge, attitude, and behavior, and refusal of drug and alcohol abuse. The game has a variety of elements and mechanisms that are suitable for AIDS prevention education of adolescents in China.</p>
+        <p>In this study, we tested the effectiveness of the AIDS educational game on preventing HIV among young students in Luzhou City, Southwest China. Here we report results from this study.</p>
+      </sec>
+    </sec>
+    <sec sec-type="methods">
+      <title>Methods</title>
+      <sec>
+        <title>Game Design</title>
+        <p>The AIDS educational game is called AIDS Fighter &#xB7; Health Defense. The story line is that HIV launches an attack on the human body and players need to control heroes to eliminate HIV. During the battle, players are repeatedly trained to take condoms and refuse dangerous sexual behaviors, avoid drugs to refuse intravenous drug use, avoid alcohol to refuse dangerous sex when drunk, obtain antiviral drugs for PrEP and postexposure prophylaxis (PEP) [<xref rid="ref27" ref-type="bibr">27</xref>].</p>
+        <p>The human body system is used as the level in the game. There are 7 levels in total. The difficulty of the game increases from low to high. The sequence of levels is (1) immune system, (2) blood system, (3) skin and mucosal system, (4) central nervous system, (5) respiratory system, (6) digestive system, and (7) genitourinary system.</p>
+        <p>The game copywriting of each level corresponds to the human body system of the level, describing that the system is infected with HIV. The success or failure of the game has corresponding text prompts. If the game fails, it prompts HIV to invade the human body and shows what the result will be; if it succeeds, encouraging text appears to remind the player that they have successfully avoided HIV infection.</p>
+        <p>AIDS Fighter &#xB7; Health Defense has the following mechanisms and components: (1) a virus combat game, (2) goal setting to eliminate HIV, (3) questions to be answered to be resurrect in the game, (4) point ranking, and (5) recognition and rewards. The game includes 5 functional modules:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Game module: There are 7 levels involving 7 systems of the human body affected by AIDS.</p>
+          </list-item>
+          <list-item>
+            <p>Quiz-and-Answer module: It provides a chance to the player to resurrect by answering questions on AIDS-related knowledge.</p>
+          </list-item>
+          <list-item>
+            <p>Knowledge Corner module: It contains educational articles and videos on AIDS.</p>
+          </list-item>
+          <list-item>
+            <p>Point-ranking module: Points are awarded according to the behavior and clearance situation during the game and the learning in the Knowledge Corner module, and the points are ranked.</p>
+          </list-item>
+          <list-item>
+            <p>Data Management module: The educational information in the Knowledge Corner module can be edited, and in-game data collection, integration, classification, and application can be realized.</p>
+          </list-item>
+        </list>
+        <p>The gameplay and screenshots are shown in <xref rid="figure1" ref-type="fig">Figure 1</xref>.</p>
+        <fig position="float" id="figure1">
+          <label>Figure 1</label>
+          <caption>
+            <p>Gameplay and screenshots of AIDS Fighter &#xB7; Health Defense. Interface 1 is the gameplay. Interface 2 is the screenshot of game failure. Interface 3 is the Quiz-and-Answer module. Interface 4 is the Knowledge Corner module.</p>
+          </caption>
+          <graphic xlink:href="games_v10i1e32400_fig1" position="float"/>
+        </fig>
+      </sec>
+      <sec>
+        <title>Study Design</title>
+        <p>A randomized controlled trial was conducted, in which 2 classes were selected from a middle school in Luzhou City using stratified cluster sampling. Third-party staff randomly allocated the 2 classes to the intervention group and the control group by tossing a coin.</p>
+        <p>We had the following hypotheses (H):</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>H1: AIDS Fighter &#xB7; Health Defense can increase the awareness of AIDS-related knowledge among young students.</p>
+          </list-item>
+          <list-item>
+            <p>H2: AIDS Fighter &#xB7; Health Defense can reduce AIDS-related stigma among young students.</p>
+          </list-item>
+          <list-item>
+            <p>H3: AIDS Fighter &#xB7; Health Defense can improve the attitude of AIDS-related high-risk behaviors among young students.</p>
+          </list-item>
+        </list>
+        <p>The study was approved by the ethics committee of the Affiliated Hospital of Southwest Medical University, China.</p>
+      </sec>
+      <sec>
+        <title>Participants</title>
+        <p>The participants of the study were first-grade students of a secondary vocational school, and the location was Luzhou City, Southwest China. The eligibility criteria for participation were as follows: young students aged 15-24 years, informed consent and voluntary participation in this study (&lt;16 years old required the consent of the guardian), and ability to access the internet. The exclusion criteria were as follows: The participant or guardian refused to provide consent to participate in the study, the participant did not complete the questionnaire survey, and the participant had used similar games before.</p>
+      </sec>
+      <sec>
+        <title>Intervention</title>
+        <p>The intervention and control groups received the corresponding intervention from September 14 to 27, 2020.</p>
+        <p>The intervention group played AIDS Fighter &#xB7; Health Defense through WeChat (social software that can also provide some games). Participants were asked to play the game and study the AIDS-related knowledge in the Knowledge Corner module and were required to earn at least 20 points per day. The details of the participants' use of the game can be checked through the game&#x2019;s data management system.</p>
+        <p>Participants in the control group were added to the QQ chat group (QQ software is one of the most popular social software programs in China, which supports online chat, video chat, and voice chat; file sharing; network hard disk; remote control; email; online teaching; and other functions; Shenzhen Tencent Computer Systems Company Limited). The same educational resources as the Knowledge Corner module in AIDS Fighter &#xB7; Health Defense were uploaded to the QQ group. Participants were asked to learn the knowledge by themselves.</p>
+      </sec>
+      <sec>
+        <title>Outcomes and Measurements</title>
+        <p>The primary outcomes were AIDS-related knowledge, stigma, and attitude before and 14 days after intervention.</p>
+        <p>AIDS-related knowledge was assessed through a self-made questionnaire with a total of 45 items, including the following 6 dimensions: basic knowledge of AIDS, knowledge of AIDS prevention, knowledge of AIDS testing, knowledge of AIDS treatment, knowledge of AIDS PrEP, and knowledge of AIDS-related laws and regulations.</p>
+        <p>AIDS-related stigma was assessed through the Chinese version of the Zelaya HIV/AIDS Stigma Scale [<xref rid="ref28" ref-type="bibr">28</xref>] with 24 items, including 6 positive items, 18 negative items. The positive items have a score of 1 for totally agree to 5 for totally disagree, and the negative items have a score of 1 for totally disagree to 5 for totally agree. The items are divided into the following 4 dimensions: fear of transmission and disease; association with shame, blame, and judgment; personal support of discriminatory actions or policies; and perceived community support of discriminatory actions or policies. Each dimension contains 6 items with a score of 1 for totally agree to 5 for totally disagree. The higher the score, the more the participant&#x2019;s stigma of AIDS.</p>
+        <p>AIDS-related attitude was assessed through a questionnaire with 8 items with the choice of &#x201C;Yes&#x201D; or &#x201C;No&#x201D; in Chinese. Five experts were invited to verify the content validity of these questionnaires, and the item-level content validity index (I-CVI) and scale-level CVI (S-CVI) were both 1.00.</p>
+        <p>The secondary outcome was the user's experience of the game in the intervention group. It was assessed through the Educational Game User Experience Evaluation Scale with 22 items in Chinese. After playing the game, the user selects one of 4 options (excellent, good, medium, and poor) to evaluate each indicator according to their actual experience.</p>
+      </sec>
+      <sec>
+        <title>Data Analysis</title>
+        <p>The classification data were statistically described by percentage, the qualitative data were compared using the chi-square test, the statistical description of the quantitative data was given using by <italic>X&#x305;</italic> (SD), the two-tailed <italic>t</italic> test was performed to compare the groups, and difference-in-difference analysis was used to accurately evaluate the change in the intervention group. The difference was statistically significant when <italic>P</italic>&#x2264;.05. The data analysts were blinded to the allocation.</p>
+      </sec>
+    </sec>
+    <sec sec-type="results">
+      <title>Results</title>
+      <sec>
+        <title>Description of Study Sample</title>
+        <p>The 96 students included were aged from 16 to 19 years. There were no significant demographic differences between the 2 groups (<xref rid="table1" ref-type="table">Table 1</xref>).</p>
+        <table-wrap position="float" id="table1">
+          <label>Table 1</label>
+          <caption>
+            <p>Participant demographics (N=96).</p>
+          </caption>
+          <table frame="hsides" rules="groups" width="1000" cellpadding="5" cellspacing="0" border="1">
+            <col width="30" span="1"/>
+            <col width="270" span="1"/>
+            <col width="0" span="1"/>
+            <col width="270" span="1"/>
+            <col width="0" span="1"/>
+            <col width="240" span="1"/>
+            <col width="0" span="1"/>
+            <col width="120" span="1"/>
+            <col width="0" span="1"/>
+            <col width="70" span="1"/>
+            <thead>
+              <tr valign="bottom">
+                <td colspan="3" rowspan="1">Characteristics</td>
+                <td colspan="2" rowspan="1">Intervention group (n=50), n (%)</td>
+                <td colspan="2" rowspan="1">Control group (n=46), n (%)</td>
+                <td colspan="2" rowspan="1"><italic>t/&#x3C7;</italic><sup>2</sup> (<italic>df</italic>=94)</td>
+                <td rowspan="1" colspan="1"><italic>P</italic> value</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr valign="top">
+                <td colspan="3" rowspan="1">Age (years), mean (SD)</td>
+                <td colspan="2" rowspan="1">16.68 (0.74)</td>
+                <td colspan="2" rowspan="1">16.76 (0.71)</td>
+                <td colspan="2" rowspan="1">0.547</td>
+                <td rowspan="1" colspan="1">0.59</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="10" rowspan="1">
+<bold>Gender</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="2" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Male</td>
+                <td colspan="2" rowspan="1">21 (42)</td>
+                <td colspan="2" rowspan="1">21(45.65)</td>
+                <td colspan="2" rowspan="1">0.130</td>
+                <td colspan="2" rowspan="1">0.72</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Female</td>
+                <td colspan="2" rowspan="1">29 (58)</td>
+                <td colspan="2" rowspan="1">25(54.35)</td>
+                <td colspan="2" rowspan="1">0.130</td>
+                <td colspan="2" rowspan="1">0.72</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="10" rowspan="1">
+<bold>Ethnicity</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="2" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Han</td>
+                <td colspan="2" rowspan="1">49 (98)</td>
+                <td colspan="2" rowspan="1">43(93.48)</td>
+                <td colspan="2" rowspan="1">0.356</td>
+                <td colspan="2" rowspan="1">0.55</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Other ethnic groups</td>
+                <td colspan="2" rowspan="1">1 (2)</td>
+                <td colspan="2" rowspan="1">3 (6.52)</td>
+                <td colspan="2" rowspan="1">0.356</td>
+                <td colspan="2" rowspan="1">0.55</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="10" rowspan="1">
+<bold>Place of residence</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="2" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Rural area</td>
+                <td colspan="2" rowspan="1">29 (58)</td>
+                <td colspan="2" rowspan="1">32 (69.57)</td>
+                <td colspan="2" rowspan="1">1.383</td>
+                <td colspan="2" rowspan="1">0.24</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Urban areas</td>
+                <td colspan="2" rowspan="1">21 (42)</td>
+                <td colspan="2" rowspan="1">14 (30.43)</td>
+                <td colspan="2" rowspan="1">1.383</td>
+                <td colspan="2" rowspan="1">0.24</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="10" rowspan="1">
+<bold>Growth environment</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="5" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Living with parents</td>
+                <td colspan="2" rowspan="1">22 (44)</td>
+                <td colspan="2" rowspan="1">29 (63.04)</td>
+                <td colspan="2" rowspan="1">6.873</td>
+                <td colspan="2" rowspan="1">0.15</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Living with mother</td>
+                <td colspan="2" rowspan="1">7 (14)</td>
+                <td colspan="2" rowspan="1">8 (17.39)</td>
+                <td colspan="2" rowspan="1">6.873</td>
+                <td colspan="2" rowspan="1">0.15</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Living with father</td>
+                <td colspan="2" rowspan="1">6 (12)</td>
+                <td colspan="2" rowspan="1">1 (2.17)</td>
+                <td colspan="2" rowspan="1">6.873</td>
+                <td colspan="2" rowspan="1">0.15</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Living with grandparents</td>
+                <td colspan="2" rowspan="1">11 (22)</td>
+                <td colspan="2" rowspan="1">5 (10.87)</td>
+                <td colspan="2" rowspan="1">6.873</td>
+                <td colspan="2" rowspan="1">0.15</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Other</td>
+                <td colspan="2" rowspan="1">4 (8)</td>
+                <td colspan="2" rowspan="1">3 (6.52)</td>
+                <td colspan="2" rowspan="1">6.873</td>
+                <td colspan="2" rowspan="1">0.15</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="10" rowspan="1">
+<bold>Access to AIDS information<sup>a</sup></bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="9" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">TV</td>
+                <td colspan="2" rowspan="1">37 (74)</td>
+                <td colspan="2" rowspan="1">38 (82.61)</td>
+                <td colspan="2" rowspan="1">1.712</td>
+                <td colspan="2" rowspan="1">0.19</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Newspaper</td>
+                <td colspan="2" rowspan="1">11 (22)</td>
+                <td colspan="2" rowspan="1">12 (26.09)</td>
+                <td colspan="2" rowspan="1">0.250</td>
+                <td colspan="2" rowspan="1">0.62</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Internet</td>
+                <td colspan="2" rowspan="1">44 (88)</td>
+                <td colspan="2" rowspan="1">39 (84.78)</td>
+                <td colspan="2" rowspan="1">0.373</td>
+                <td colspan="2" rowspan="1">0.54</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">WeChat</td>
+                <td colspan="2" rowspan="1">19 (38)</td>
+                <td colspan="2" rowspan="1">17 (36.96)</td>
+                <td colspan="2" rowspan="1">0.014</td>
+                <td colspan="2" rowspan="1">0.91</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">WeiBo</td>
+                <td colspan="2" rowspan="1">18 (36)</td>
+                <td colspan="2" rowspan="1">16 (28.26)</td>
+                <td colspan="2" rowspan="1">0.019</td>
+                <td colspan="2" rowspan="1">0.89</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">School education</td>
+                <td colspan="2" rowspan="1">38 (76)</td>
+                <td colspan="2" rowspan="1">31 (67.39)</td>
+                <td colspan="2" rowspan="1">1.369</td>
+                <td colspan="2" rowspan="1">0.24</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Medical staff</td>
+                <td colspan="2" rowspan="1">25 (50)</td>
+                <td colspan="2" rowspan="1">18 (39.13)</td>
+                <td colspan="2" rowspan="1">1.473</td>
+                <td colspan="2" rowspan="1">0.23</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Relatives, friends</td>
+                <td colspan="2" rowspan="1">20 (40)</td>
+                <td colspan="2" rowspan="1">11 (23.91)</td>
+                <td colspan="2" rowspan="1">3.376</td>
+                <td colspan="2" rowspan="1">0.07</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Other</td>
+                <td colspan="2" rowspan="1">1 (2)</td>
+                <td colspan="2" rowspan="1">3 (6.52)</td>
+                <td colspan="2" rowspan="1">0.896</td>
+                <td colspan="2" rowspan="1">0.34</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn id="table1fn1">
+              <p><sup>a</sup>Multiple choices available.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Comparison of AIDS-Related Knowledge, Stigma, and Attitude Between the 2 Groups Before the Intervention</title>
+        <p>Before the intervention, there was no statistically significant difference in the AIDS knowledge awareness rate, stigma scores, and positive rates of attitude of high-risk IDS behaviors between the 2 groups (<xref rid="table2" ref-type="table">Table 2</xref>).</p>
+        <table-wrap position="float" id="table2">
+          <label>Table 2</label>
+          <caption>
+            <p>Comparison of indicators between the 2 groups before intervention (N=96).</p>
+          </caption>
+          <table frame="hsides" rules="groups" width="1000" cellpadding="5" cellspacing="0" border="1">
+            <col width="30" span="1"/>
+            <col width="490" span="1"/>
+            <col width="160" span="1"/>
+            <col width="0" span="1"/>
+            <col width="170" span="1"/>
+            <col width="0" span="1"/>
+            <col width="80" span="1"/>
+            <col width="0" span="1"/>
+            <col width="70" span="1"/>
+            <thead>
+              <tr valign="bottom">
+                <td colspan="2" rowspan="1">Items</td>
+                <td colspan="2" rowspan="1">Intervention group (n=50), mean (SD)</td>
+                <td colspan="2" rowspan="1">Control group (n=46), mean (SD)</td>
+                <td colspan="2" rowspan="1"><italic>t</italic> (<italic>df</italic>=94)</td>
+                <td rowspan="1" colspan="1"><italic>P</italic> value</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr valign="top">
+                <td colspan="9" rowspan="1">
+<bold>AIDS knowledge awareness rate</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Overall</td>
+                <td rowspan="1" colspan="1">58.04 (17.55)</td>
+                <td colspan="2" rowspan="1">57.87 (11.80)</td>
+                <td colspan="2" rowspan="1">0.056</td>
+                <td colspan="2" rowspan="1">0.96</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Basic knowledge of AIDS</td>
+                <td rowspan="1" colspan="1">64.77 (17.10)</td>
+                <td colspan="2" rowspan="1">65.55 (15.19)</td>
+                <td colspan="2" rowspan="1">0.236</td>
+                <td colspan="2" rowspan="1">0.81</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Knowledge of AIDS prevention</td>
+                <td rowspan="1" colspan="1">55.20 (25.97)</td>
+                <td colspan="2" rowspan="1">51.74 (16.37)</td>
+                <td colspan="2" rowspan="1">0.787</td>
+                <td colspan="2" rowspan="1">0.43</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Knowledge of AIDS testing</td>
+                <td rowspan="1" colspan="1">48.80 (24.96)</td>
+                <td colspan="2" rowspan="1">47.83 (22.50)</td>
+                <td colspan="2" rowspan="1">0.200</td>
+                <td colspan="2" rowspan="1">0.84</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Knowledge of AIDS treatment</td>
+                <td rowspan="1" colspan="1">68.00 (31.15)</td>
+                <td colspan="2" rowspan="1">65.76 (27.06)</td>
+                <td colspan="2" rowspan="1">0.377</td>
+                <td colspan="2" rowspan="1">0.71</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Knowledge of AIDS PrEP<sup>a</sup></td>
+                <td rowspan="1" colspan="1">35.20 (18.76)</td>
+                <td colspan="2" rowspan="1">32.17 (19.54)</td>
+                <td colspan="2" rowspan="1">0.774</td>
+                <td colspan="2" rowspan="1">0.44</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Knowledge of AIDS-related laws and regulations</td>
+                <td rowspan="1" colspan="1">65.75 (27.87)</td>
+                <td colspan="2" rowspan="1">71.47 (21.03)</td>
+                <td colspan="2" rowspan="1">1.141</td>
+                <td colspan="2" rowspan="1">0.26</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="9" rowspan="1">
+<bold>Stigma score</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Overall</td>
+                <td rowspan="1" colspan="1">2.58 (0.61)</td>
+                <td colspan="2" rowspan="1">2.51 (0.49)</td>
+                <td colspan="2" rowspan="1">0.622</td>
+                <td colspan="2" rowspan="1">0.54</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Fear of transmission and disease</td>
+                <td rowspan="1" colspan="1">2.93 (1.13)</td>
+                <td colspan="2" rowspan="1">2.97 (0.96)</td>
+                <td colspan="2" rowspan="1">0.187</td>
+                <td colspan="2" rowspan="1">0.85</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Association with shame, blame, and judgment</td>
+                <td rowspan="1" colspan="1">2.47 (0.82)</td>
+                <td colspan="2" rowspan="1">2.31 (0.70)</td>
+                <td colspan="2" rowspan="1">1.031</td>
+                <td colspan="2" rowspan="1">0.31</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Personal support of discriminatory actions or policies</td>
+                <td rowspan="1" colspan="1">2.72 (0.74)</td>
+                <td colspan="2" rowspan="1">2.58 (0.68)</td>
+                <td colspan="2" rowspan="1">0.966</td>
+                <td colspan="2" rowspan="1">0.34</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Perceived community support of discriminatory actions or policies</td>
+                <td rowspan="1" colspan="1">2.20 (0.82)</td>
+                <td colspan="2" rowspan="1">2.16 (0.65)</td>
+                <td colspan="2" rowspan="1">0.266</td>
+                <td colspan="2" rowspan="1">0.79</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="9" rowspan="1">
+<bold>Positive rate of attitude of high-risk AIDS behaviors</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Overall</td>
+                <td rowspan="1" colspan="1">77.50 (22.73)</td>
+                <td colspan="2" rowspan="1">85.05 (19.30)</td>
+                <td colspan="2" rowspan="1">1.747</td>
+                <td colspan="2" rowspan="1">0.08</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Do you support premarital sex?</td>
+                <td rowspan="1" colspan="1">72.00 (45.40)</td>
+                <td colspan="2" rowspan="1">80.00 (40.10)</td>
+                <td colspan="2" rowspan="1">0.917</td>
+                <td colspan="2" rowspan="1">0.36</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Do you support premature love?</td>
+                <td rowspan="1" colspan="1">52.00 (50.50)</td>
+                <td colspan="2" rowspan="1">57.00 (50.10)</td>
+                <td colspan="2" rowspan="1">0.487</td>
+                <td colspan="2" rowspan="1">0.63</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Do you support a 1-night stand?</td>
+                <td rowspan="1" colspan="1">88.00 (32.80)</td>
+                <td colspan="2" rowspan="1">96.00 (20.60)</td>
+                <td colspan="2" rowspan="1">1.443</td>
+                <td colspan="2" rowspan="1">0.15</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Will you have premarital sex with your boyfriend/girlfriend?</td>
+                <td rowspan="1" colspan="1">74.00 (44.30)</td>
+                <td colspan="2" rowspan="1">80.00 (40.10)</td>
+                <td colspan="2" rowspan="1">0.697</td>
+                <td colspan="2" rowspan="1">0.49</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Will you have sex with someone other than your lover?</td>
+                <td rowspan="1" colspan="1">82.00 (38.80)</td>
+                <td colspan="2" rowspan="1">87.00 (34.10)</td>
+                <td colspan="2" rowspan="1">0.650</td>
+                <td colspan="2" rowspan="1">0.52</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Will you have sex with the same gender?</td>
+                <td rowspan="1" colspan="1">88.00 (32.80)</td>
+                <td colspan="2" rowspan="1">89.00 (31.50)</td>
+                <td colspan="2" rowspan="1">0.152</td>
+                <td colspan="2" rowspan="1">0.88</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Will you use condoms when you have sex with your lover?</td>
+                <td rowspan="1" colspan="1">80.00 (40.40)</td>
+                <td colspan="2" rowspan="1">93.00 (25.00)</td>
+                <td colspan="2" rowspan="1">1.912</td>
+                <td colspan="2" rowspan="1">0.06</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Will you use condoms when you have sex with other people of the same/opposite sex?</td>
+                <td rowspan="1" colspan="1">74.00 (44.30)</td>
+                <td colspan="2" rowspan="1">80.00 (40.00)</td>
+                <td colspan="2" rowspan="1">0.697</td>
+                <td colspan="2" rowspan="1">0.49</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn id="table2fn1">
+              <p><sup>a</sup>PrEP: pre-exposure prophylaxis.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Comparison of AIDS-Related Knowledge, Stigma, and Attitude Between the 2 Groups After the Intervention</title>
+        <p>After the intervention, the awareness rate of AIDS-related knowledge in the intervention group was higher than that in the control group (<italic>t</italic>=4.282, <italic>P</italic>&lt;.001). The stigma scores of the 2 groups were not statistically significant (<italic>t</italic>=0.373, <italic>P</italic>=.71). The positive rates of attitude of high-risk AIDS behaviors in the 2 groups were not statistically significant (<italic>t</italic>=0.555, <italic>P</italic>=.58); see <xref rid="table3" ref-type="table">Table 3</xref>.</p>
+        <table-wrap position="float" id="table3">
+          <label>Table 3</label>
+          <caption>
+            <p>Comparison of indicators between the 2 groups after intervention (N=96).</p>
+          </caption>
+          <table frame="hsides" rules="groups" width="1000" cellpadding="5" cellspacing="0" border="1">
+            <col width="30" span="1"/>
+            <col width="480" span="1"/>
+            <col width="0" span="1"/>
+            <col width="160" span="1"/>
+            <col width="0" span="1"/>
+            <col width="170" span="1"/>
+            <col width="0" span="1"/>
+            <col width="90" span="1"/>
+            <col width="0" span="1"/>
+            <col width="70" span="1"/>
+            <thead>
+              <tr valign="bottom">
+                <td colspan="3" rowspan="1">Items</td>
+                <td colspan="2" rowspan="1">Intervention group (n=50), mean (SD)</td>
+                <td colspan="2" rowspan="1">Control group (n=46), mean (SD)</td>
+                <td colspan="2" rowspan="1"><italic>t</italic> (<italic>df</italic>=94)</td>
+                <td rowspan="1" colspan="1"><italic>P</italic> value</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr valign="top">
+                <td colspan="10" rowspan="1">
+<bold>AIDS</bold>
+<bold>knowledge awareness rate</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Overall</td>
+                <td colspan="2" rowspan="1">70.09 (11.58)</td>
+                <td colspan="2" rowspan="1">57.49 (16.58)</td>
+                <td colspan="2" rowspan="1">4.282</td>
+                <td colspan="2" rowspan="1">&lt;0.001</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Basic knowledge of AIDS</td>
+                <td colspan="2" rowspan="1">74.62 (13.84)</td>
+                <td colspan="2" rowspan="1">64.38 (17.04)</td>
+                <td colspan="2" rowspan="1">3.243</td>
+                <td colspan="2" rowspan="1">0.002</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Knowledge of AIDS prevention</td>
+                <td colspan="2" rowspan="1">66.20 (18.83)</td>
+                <td colspan="2" rowspan="1">52.61 (22.15)</td>
+                <td colspan="2" rowspan="1">3.247</td>
+                <td colspan="2" rowspan="1">0.002</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Knowledge of AIDS testing</td>
+                <td colspan="2" rowspan="1">62.00 (25.64)</td>
+                <td colspan="2" rowspan="1">42.61 (25.86)</td>
+                <td colspan="2" rowspan="1">3.685</td>
+                <td colspan="2" rowspan="1">&lt;0.001</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Knowledge of AIDS treatment</td>
+                <td colspan="2" rowspan="1">83.00 (21.09)</td>
+                <td colspan="2" rowspan="1">72.28 (30.84)</td>
+                <td colspan="2" rowspan="1">2.002</td>
+                <td colspan="2" rowspan="1">0.05</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Knowledge of AIDS PrEP<sup>a</sup></td>
+                <td colspan="2" rowspan="1">44.40 (17.75)</td>
+                <td colspan="2" rowspan="1">26.52 (20.25)</td>
+                <td colspan="2" rowspan="1">4.609</td>
+                <td colspan="2" rowspan="1">&lt;0.001</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Knowledge of AIDS-related laws and regulations</td>
+                <td colspan="2" rowspan="1">82.25 (15.79)</td>
+                <td colspan="2" rowspan="1">73.64 (20.79)</td>
+                <td colspan="2" rowspan="1">2.296</td>
+                <td colspan="2" rowspan="1">0.02</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="10" rowspan="1">
+<bold>Stigma score</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Overall</td>
+                <td colspan="2" rowspan="1">2.44 (0.57)</td>
+                <td colspan="2" rowspan="1">2.48 (0.47)</td>
+                <td colspan="2" rowspan="1">0.373</td>
+                <td colspan="2" rowspan="1">0.71</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Fear of transmission and disease</td>
+                <td colspan="2" rowspan="1">2.59 (0.86)</td>
+                <td colspan="2" rowspan="1">2.85 (0.95)</td>
+                <td colspan="2" rowspan="1">1.407</td>
+                <td colspan="2" rowspan="1">0.16</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Association with shame, blame, and judgment</td>
+                <td colspan="2" rowspan="1">2.55 (0.83)</td>
+                <td colspan="2" rowspan="1">2.34 (0.51)</td>
+                <td colspan="2" rowspan="1">1.478</td>
+                <td colspan="2" rowspan="1">0.14</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Personal support of discriminatory actions or policies</td>
+                <td colspan="2" rowspan="1">2.45 (0.67)</td>
+                <td colspan="2" rowspan="1">2.54 (0.61)</td>
+                <td colspan="2" rowspan="1">0.686</td>
+                <td colspan="2" rowspan="1">0.49</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Perceived community support of discriminatory actions or policies</td>
+                <td colspan="2" rowspan="1">2.15 (0.73)</td>
+                <td colspan="2" rowspan="1">2.17 (0.63)</td>
+                <td colspan="2" rowspan="1">0.143</td>
+                <td colspan="2" rowspan="1">0.89</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="10" rowspan="1">
+<bold>Positive rate of attitude of high-risk AIDS behaviors</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Overall</td>
+                <td colspan="2" rowspan="1">82.00 (23.44)</td>
+                <td colspan="2" rowspan="1">79.62 (17.94)</td>
+                <td colspan="2" rowspan="1">0.555</td>
+                <td colspan="2" rowspan="1">0.58</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Do you support premarital sex?</td>
+                <td colspan="2" rowspan="1">84.00 (37.00)</td>
+                <td colspan="2" rowspan="1">76.00 (43.10)</td>
+                <td colspan="2" rowspan="1">0.978</td>
+                <td colspan="2" rowspan="1">0.33</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Do you support premature love?</td>
+                <td colspan="2" rowspan="1">64.00 (48.50)</td>
+                <td colspan="2" rowspan="1">59.00 (49.80)</td>
+                <td colspan="2" rowspan="1">0.498</td>
+                <td colspan="2" rowspan="1">0.62</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Do you support a 1-night stand?</td>
+                <td colspan="2" rowspan="1">92.00 (27.40)</td>
+                <td colspan="2" rowspan="1">98.00 (14.70)</td>
+                <td colspan="2" rowspan="1">1.320</td>
+                <td colspan="2" rowspan="1">0.19</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Will you have premarital sex with your boyfriend/girlfriend?</td>
+                <td colspan="2" rowspan="1">82.00 (38.80)</td>
+                <td colspan="2" rowspan="1">74.00 (44.40)</td>
+                <td colspan="2" rowspan="1">0.942</td>
+                <td colspan="2" rowspan="1">0.35</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Will you have sex with someone other than your lover?</td>
+                <td colspan="2" rowspan="1">86.00 (35.10)</td>
+                <td colspan="2" rowspan="1">89.00 (31.50)</td>
+                <td colspan="2" rowspan="1">0.439</td>
+                <td colspan="2" rowspan="1">0.66</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Will you have sex with the same gender?</td>
+                <td colspan="2" rowspan="1">94.00 (24.00)</td>
+                <td colspan="2" rowspan="1">98.00 (14.70)</td>
+                <td colspan="2" rowspan="1">0.974</td>
+                <td colspan="2" rowspan="1">0.33</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Will you use condoms when you have sex with your lover?</td>
+                <td colspan="2" rowspan="1">84.00 (37.00)</td>
+                <td colspan="2" rowspan="1">70.00 (46.50)</td>
+                <td colspan="2" rowspan="1">1.639</td>
+                <td colspan="2" rowspan="1">0.11</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Will you use condoms when you have sex with other people of the same/opposite sex?</td>
+                <td colspan="2" rowspan="1">80.00 (40.00)</td>
+                <td colspan="2" rowspan="1">74.00 (44.40)</td>
+                <td colspan="2" rowspan="1">0.697</td>
+                <td colspan="2" rowspan="1"> 0.49</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn id="table3fn1">
+              <p><sup>a</sup>PrEP: pre-exposure prophylaxis.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Comparison of AIDS-Related Knowledge, Stigma, and Attitude Before and After Intervention in the 2 Groups</title>
+        <p>After the intervention, the AIDS knowledge awareness rate of the intervention group was higher than that before the intervention (<italic>t</italic>=4.052, <italic>P</italic>&lt;.001). The difference in the AIDS stigma score was not statistically significant (<italic>t</italic>=1.186, <italic>P</italic>=.24) after the intervention. The difference in the positive rate of attitude of high-risk AIDS behaviors was also not statistically significant (<italic>t</italic>=0.975, <italic>P</italic>=.33) after the intervention. After the intervention in the control group, the AIDS knowledge awareness rate, the stigma score, and the positive rate of attitude of high-risk AIDS behaviors were not statistically significant, but the positive rate of &#x201C;Will you use condoms when you have sex with your lover?&#x201D; dropped from 93.00 (SD 25.00) to 70.00 (SD 46.50), with <italic>t</italic>=2.955 and <italic>P</italic>=.004; see <xref rid="table4" ref-type="table">Table 4</xref>.</p>
+        <table-wrap position="float" id="table4">
+          <label>Table 4</label>
+          <caption>
+            <p>Comparison of indicators before and after intervention in the 2 groups (N=96).</p>
+          </caption>
+          <table frame="hsides" rules="groups" width="1000" cellpadding="5" cellspacing="0" border="1">
+            <col width="30" span="1"/>
+            <col width="190" span="1"/>
+            <col width="0" span="1"/>
+            <col width="120" span="1"/>
+            <col width="120" span="1"/>
+            <col width="0" span="1"/>
+            <col width="80" span="1"/>
+            <col width="0" span="1"/>
+            <col width="70" span="1"/>
+            <col width="0" span="1"/>
+            <col width="120" span="1"/>
+            <col width="120" span="1"/>
+            <col width="0" span="1"/>
+            <col width="80" span="1"/>
+            <col width="0" span="1"/>
+            <col width="70" span="1"/>
+            <thead>
+              <tr valign="top">
+                <td colspan="3" rowspan="1">Items</td>
+                <td colspan="3" rowspan="1">Intervention group (n=50)</td>
+                <td colspan="2" rowspan="1">
+<break/>
+</td>
+                <td colspan="2" rowspan="1">
+<break/>
+</td>
+                <td colspan="3" rowspan="1">Control group (n=46)</td>
+                <td colspan="2" rowspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+              <tr valign="bottom">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td colspan="2" rowspan="1">Before intervention, mean (SD)</td>
+                <td rowspan="1" colspan="1">After intervention, mean (SD)</td>
+                <td colspan="2" rowspan="1"><italic>t</italic> (<italic>df</italic>=49)</td>
+                <td colspan="2" rowspan="1"><italic>P</italic> value</td>
+                <td colspan="2" rowspan="1">Before intervention, mean (SD)</td>
+                <td rowspan="1" colspan="1">After intervention, mean (SD)</td>
+                <td colspan="2" rowspan="1"><italic>t</italic> (<italic>df</italic>=45)</td>
+                <td colspan="2" rowspan="1"><italic>P</italic> value</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr valign="top">
+                <td colspan="16" rowspan="1">
+<bold>AIDS knowledge awareness rate</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Overall</td>
+                <td colspan="2" rowspan="1">58.04 (17.55)</td>
+                <td rowspan="1" colspan="1">70.09 (11.58)</td>
+                <td colspan="2" rowspan="1">4.052</td>
+                <td colspan="2" rowspan="1">&lt;0.001</td>
+                <td colspan="2" rowspan="1">57.87 (11.80)</td>
+                <td rowspan="1" colspan="1">57.49 (16.58)</td>
+                <td colspan="2" rowspan="1">0.127</td>
+                <td colspan="2" rowspan="1">0.90</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Basic knowledge of AIDS</td>
+                <td colspan="2" rowspan="1">64.77 (17.10)</td>
+                <td rowspan="1" colspan="1">74.62 (13.84)</td>
+                <td colspan="2" rowspan="1">3.166</td>
+                <td colspan="2" rowspan="1">0.002</td>
+                <td colspan="2" rowspan="1">65.55 (15.19)</td>
+                <td rowspan="1" colspan="1">64.38 (17.04)</td>
+                <td colspan="2" rowspan="1">0.348</td>
+                <td colspan="2" rowspan="1">0.73</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Knowledge of AIDS prevention</td>
+                <td colspan="2" rowspan="1">55.20 (25.97)</td>
+                <td rowspan="1" colspan="1">66.20 (18.83)</td>
+                <td colspan="2" rowspan="1">2.425</td>
+                <td colspan="2" rowspan="1">0.017</td>
+                <td colspan="2" rowspan="1">51.74 (16.37)</td>
+                <td rowspan="1" colspan="1">52.61 (22.15)</td>
+                <td colspan="2" rowspan="1">0.214</td>
+                <td colspan="2" rowspan="1">0.83</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Knowledge of AIDS testing</td>
+                <td colspan="2" rowspan="1">48.80 (24.96)</td>
+                <td rowspan="1" colspan="1">62.00 (25.64)</td>
+                <td colspan="2" rowspan="1">2.608</td>
+                <td colspan="2" rowspan="1">0.011</td>
+                <td colspan="2" rowspan="1">47.83 (22.50)</td>
+                <td rowspan="1" colspan="1">42.61 (25.86)</td>
+                <td colspan="2" rowspan="1">1.033</td>
+                <td colspan="2" rowspan="1">0.30</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Knowledge of AIDS treatment</td>
+                <td colspan="2" rowspan="1">68.00 (31.15)</td>
+                <td rowspan="1" colspan="1">83.00 (21.09)</td>
+                <td colspan="2" rowspan="1">2.820</td>
+                <td colspan="2" rowspan="1">0.006</td>
+                <td colspan="2" rowspan="1">65.76 (27.06)</td>
+                <td rowspan="1" colspan="1">72.28 (30.84)</td>
+                <td colspan="2" rowspan="1">1.078</td>
+                <td colspan="2" rowspan="1">0.28</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Knowledge of AIDS PrEP<sup>a</sup></td>
+                <td colspan="2" rowspan="1">35.20 (18.76)</td>
+                <td rowspan="1" colspan="1">44.40 (17.75)</td>
+                <td colspan="2" rowspan="1">2.519</td>
+                <td colspan="2" rowspan="1">0.013</td>
+                <td colspan="2" rowspan="1">32.17 (19.54)</td>
+                <td rowspan="1" colspan="1">26.52 (20.25)</td>
+                <td colspan="2" rowspan="1">1.362</td>
+                <td colspan="2" rowspan="1">0.18</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Knowledge of AIDS-related laws and regulations</td>
+                <td colspan="2" rowspan="1">65.75 (27.87)</td>
+                <td rowspan="1" colspan="1">82.25 (15.79)</td>
+                <td colspan="2" rowspan="1">3.642</td>
+                <td colspan="2" rowspan="1">&lt;0.001</td>
+                <td colspan="2" rowspan="1">71.47 (21.03)</td>
+                <td rowspan="1" colspan="1">73.64 (20.79)</td>
+                <td colspan="2" rowspan="1">0.498</td>
+                <td colspan="2" rowspan="1">0.6280</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="16" rowspan="1">
+<bold>Stigma score</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Overall</td>
+                <td colspan="2" rowspan="1">2.58 (0.61)</td>
+                <td rowspan="1" colspan="1">2.44 (0.57)</td>
+                <td colspan="2" rowspan="1">1.186</td>
+                <td colspan="2" rowspan="1">0.239</td>
+                <td colspan="2" rowspan="1">2.51 (0.49)</td>
+                <td rowspan="1" colspan="1">2.48 (0.47)</td>
+                <td colspan="2" rowspan="1">0.300</td>
+                <td colspan="2" rowspan="1">0.77</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Fear of transmission and disease</td>
+                <td colspan="2" rowspan="1">2.93 (1.13)</td>
+                <td rowspan="1" colspan="1">2.59 (0.86)</td>
+                <td colspan="2" rowspan="1">1.693</td>
+                <td colspan="2" rowspan="1">0.094</td>
+                <td colspan="2" rowspan="1">2.97 (0.96)</td>
+                <td rowspan="1" colspan="1">2.85 (0.95)</td>
+                <td colspan="2" rowspan="1">0.603</td>
+                <td colspan="2" rowspan="1">0.55</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Association with shame, blame, and judgment</td>
+                <td colspan="2" rowspan="1">2.47 (0.82)</td>
+                <td rowspan="1" colspan="1">2.55 (0.83)</td>
+                <td colspan="2" rowspan="1">0.485</td>
+                <td colspan="2" rowspan="1">0.629</td>
+                <td colspan="2" rowspan="1">2.31 (0.70)</td>
+                <td rowspan="1" colspan="1">2.34 (0.51)</td>
+                <td colspan="2" rowspan="1">0.235</td>
+                <td colspan="2" rowspan="1">0.82</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Personal support of discriminatory actions or policies</td>
+                <td colspan="2" rowspan="1">2.72 (0.74)</td>
+                <td rowspan="1" colspan="1">2.45 (0.67)</td>
+                <td colspan="2" rowspan="1">1.913</td>
+                <td colspan="2" rowspan="1">0.059</td>
+                <td colspan="2" rowspan="1">2.58 (0.68)</td>
+                <td rowspan="1" colspan="1">2.54 (0.61)</td>
+                <td colspan="2" rowspan="1">0.297</td>
+                <td colspan="2" rowspan="1">0.77</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Perceived community support of discriminatory actions or policies</td>
+                <td colspan="2" rowspan="1">2.20 (0.82)</td>
+                <td rowspan="1" colspan="1">2.15 (0.73)</td>
+                <td colspan="2" rowspan="1">0.22</td>
+                <td colspan="2" rowspan="1">0.748</td>
+                <td colspan="2" rowspan="1">2.16 (0.65)</td>
+                <td rowspan="1" colspan="1">2.17 (0.63)</td>
+                <td colspan="2" rowspan="1">0.075</td>
+                <td colspan="2" rowspan="1">0.94</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="16" rowspan="1">
+<bold>Positive attitude rate of high-risk AIDS behaviors</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Overall</td>
+                <td colspan="2" rowspan="1">77.50 (22.73)</td>
+                <td rowspan="1" colspan="1">82.00 (23.44)</td>
+                <td colspan="2" rowspan="1">0.975</td>
+                <td colspan="2" rowspan="1">0.332</td>
+                <td colspan="2" rowspan="1">85.05 (19.30)</td>
+                <td rowspan="1" colspan="1">79.62 (17.94)</td>
+                <td colspan="2" rowspan="1">1.398</td>
+                <td colspan="2" rowspan="1">0.17</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Do you support premarital sex?</td>
+                <td colspan="2" rowspan="1">72.00 (45.40)</td>
+                <td rowspan="1" colspan="1">84.00 (37.00)</td>
+                <td colspan="2" rowspan="1">1.449</td>
+                <td colspan="2" rowspan="1">0.151</td>
+                <td colspan="2" rowspan="1">80.00 (40.10)</td>
+                <td rowspan="1" colspan="1">76.00 (43.10)</td>
+                <td colspan="2" rowspan="1">0.461</td>
+                <td colspan="2" rowspan="1">0.65</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Do you support premature love?</td>
+                <td colspan="2" rowspan="1">52.00 (50.50)</td>
+                <td rowspan="1" colspan="1">64.00 (48.50)</td>
+                <td colspan="2" rowspan="1">1.212</td>
+                <td colspan="2" rowspan="1">0.228</td>
+                <td colspan="2" rowspan="1">57.00 (50.10)</td>
+                <td rowspan="1" colspan="1">59.00 (49.80)</td>
+                <td colspan="2" rowspan="1">0.192</td>
+                <td colspan="2" rowspan="1">0.85</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Do you support a 1-night stand?</td>
+                <td colspan="2" rowspan="1">88.00 (32.80)</td>
+                <td rowspan="1" colspan="1">92.00 (27.40)</td>
+                <td colspan="2" rowspan="1">0.662</td>
+                <td colspan="2" rowspan="1">0.510</td>
+                <td colspan="2" rowspan="1">96.00 (20.60)</td>
+                <td rowspan="1" colspan="1">98.00 (14.70)</td>
+                <td colspan="2" rowspan="1">0.536</td>
+                <td colspan="2" rowspan="1">0.59</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Will you have premarital sex with your boyfriend/girlfriend?</td>
+                <td colspan="2" rowspan="1">74.00 (44.30)</td>
+                <td rowspan="1" colspan="1">82.00 (38.80)</td>
+                <td colspan="2" rowspan="1">0.961</td>
+                <td colspan="2" rowspan="1">0.339</td>
+                <td colspan="2" rowspan="1">80.00 (40.10)</td>
+                <td rowspan="1" colspan="1">74.00 (44.40)</td>
+                <td colspan="2" rowspan="1">0.680</td>
+                <td colspan="2" rowspan="1">0.49</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Will you have sex with someone other than your lover?</td>
+                <td colspan="2" rowspan="1">82.00 (38.80)</td>
+                <td rowspan="1" colspan="1">86.00 (35.10)</td>
+                <td colspan="2" rowspan="1">0.541</td>
+                <td colspan="2" rowspan="1">0.590</td>
+                <td colspan="2" rowspan="1">87.00 (34.10)</td>
+                <td rowspan="1" colspan="1">89.00 (31.50)</td>
+                <td colspan="2" rowspan="1">0.292</td>
+                <td colspan="2" rowspan="1">0.77</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Will you have sex with the same gender?</td>
+                <td colspan="2" rowspan="1">88.00 (32.80)</td>
+                <td rowspan="1" colspan="1">94.00 (24.00)</td>
+                <td colspan="2" rowspan="1">1.044</td>
+                <td colspan="2" rowspan="1">0.299</td>
+                <td colspan="2" rowspan="1">89.00 (31.50)</td>
+                <td rowspan="1" colspan="1">98.00 (14.70)</td>
+                <td colspan="2" rowspan="1">1.756</td>
+                <td colspan="2" rowspan="1">0.08</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Will you use condoms when you have sex with your lover?</td>
+                <td colspan="2" rowspan="1">80.00 (40.40)</td>
+                <td rowspan="1" colspan="1">84.00 (37.00)</td>
+                <td colspan="2" rowspan="1">0.516</td>
+                <td colspan="2" rowspan="1">0.607</td>
+                <td colspan="2" rowspan="1">93.00 (25.00)</td>
+                <td rowspan="1" colspan="1">70.00 (46.50)</td>
+                <td colspan="2" rowspan="1">2.955</td>
+                <td colspan="2" rowspan="1">0.004</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Will you use condoms when you have sex with other people of the same/opposite sex?</td>
+                <td colspan="2" rowspan="1">74.00 (44.30)</td>
+                <td rowspan="1" colspan="1">80.00 (40.00)</td>
+                <td colspan="2" rowspan="1">0.711</td>
+                <td colspan="2" rowspan="1">0.479</td>
+                <td colspan="2" rowspan="1">80.00 (40.00)</td>
+                <td rowspan="1" colspan="1">74.00 (44.40)</td>
+                <td colspan="2" rowspan="1">0.681</td>
+                <td colspan="2" rowspan="1">0.49</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn id="table4fn1">
+              <p><sup>a</sup>PrEP: pre-exposure prophylaxis.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Mean Change in AIDS-Related Knowledge, Stigma, and Attitude Before and After Intervention in the 2 groups</title>
+        <p>The mean differences between the intervention and control groups before the intervention (baseline differences) were not statistically significant. After the intervention, the AIDS knowledge awareness rate of the intervention group was higher than that of the control group, and the difference-in-difference of the two groups was significant (<italic>P</italic>=.004), but the difference in the knowledge of AIDS testing and AIDS treatment was not significant. The mean differences in stigma scores and positive rates of attitude of high-risk AIDS behaviors were not statistically significant (<xref rid="table5" ref-type="table">Table 5</xref>).</p>
+        <table-wrap position="float" id="table5">
+          <label>Table 5</label>
+          <caption>
+            <p>Mean change in indicators before and after intervention in the 2 groups (N=96).</p>
+          </caption>
+          <table frame="hsides" rules="groups" width="1000" cellpadding="5" cellspacing="0" border="1">
+            <col width="30" span="1"/>
+            <col width="220" span="1"/>
+            <col width="120" span="1"/>
+            <col width="120" span="1"/>
+            <col width="0" span="1"/>
+            <col width="120" span="1"/>
+            <col width="110" span="1"/>
+            <col width="0" span="1"/>
+            <col width="100" span="1"/>
+            <col width="0" span="1"/>
+            <col width="110" span="1"/>
+            <col width="0" span="1"/>
+            <col width="70" span="1"/>
+            <thead>
+              <tr valign="top">
+                <td colspan="2" rowspan="1">Items</td>
+                <td colspan="3" rowspan="1">Intervention group (n=50)</td>
+                <td colspan="3" rowspan="1">Control group (n=46)</td>
+                <td colspan="2" rowspan="1">
+<break/>
+</td>
+                <td colspan="2" rowspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+              <tr valign="bottom">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Before intervention, mean (SD)</td>
+                <td rowspan="1" colspan="1">After intervention, mean (SD)</td>
+                <td colspan="2" rowspan="1">Before intervention, mean (SD)</td>
+                <td rowspan="1" colspan="1">After intervention, mean (SD)</td>
+                <td colspan="2" rowspan="1">Baseline difference<sup>a</sup>
+<italic>P</italic> value</td>
+                <td colspan="2" rowspan="1">Difference-in-difference,<sup>b</sup> mean (SD)</td>
+                <td colspan="2" rowspan="1"><italic>P</italic> value</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr valign="top">
+                <td colspan="13" rowspan="1">
+<bold>AIDS knowledge awareness rate</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Overall</td>
+                <td rowspan="1" colspan="1">58.04 (17.55)</td>
+                <td rowspan="1" colspan="1">70.09 (11.58)</td>
+                <td colspan="2" rowspan="1">57.87 (11.80)</td>
+                <td rowspan="1" colspan="1">57.49 (16.58)</td>
+                <td colspan="2" rowspan="1">0.96</td>
+                <td colspan="2" rowspan="1">12.40 (4.23)</td>
+                <td colspan="2" rowspan="1">0.004</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Basic knowledge of AIDS</td>
+                <td rowspan="1" colspan="1">64.77 (17.10)</td>
+                <td rowspan="1" colspan="1">74.62 (13.84)</td>
+                <td colspan="2" rowspan="1">65.55 (15.19)</td>
+                <td rowspan="1" colspan="1">64.38 (17.04)</td>
+                <td colspan="2" rowspan="1">0.81</td>
+                <td colspan="2" rowspan="1">11.02 (4.58)</td>
+                <td colspan="2" rowspan="1">0.02</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Knowledge of AIDS prevention</td>
+                <td rowspan="1" colspan="1">55.20 (25.97)</td>
+                <td rowspan="1" colspan="1">66.20 (18.83)</td>
+                <td colspan="2" rowspan="1">51.74 (16.37)</td>
+                <td rowspan="1" colspan="1">52.61 (22.15)</td>
+                <td colspan="2" rowspan="1">0.43</td>
+                <td colspan="2" rowspan="1">10.13 (6.13)</td>
+                <td colspan="2" rowspan="1">0.100</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Knowledge of AIDS testing</td>
+                <td rowspan="1" colspan="1">48.80 (24.96)</td>
+                <td rowspan="1" colspan="1">62.00 (25.64)</td>
+                <td colspan="2" rowspan="1">47.83 (22.50)</td>
+                <td rowspan="1" colspan="1">42.61 (25.86)</td>
+                <td colspan="2" rowspan="1">0.85</td>
+                <td colspan="2" rowspan="1">18.42 (7.16)</td>
+                <td colspan="2" rowspan="1">0.01</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Knowledge of AIDS treatment</td>
+                <td rowspan="1" colspan="1">68.00 (31.15)</td>
+                <td rowspan="1" colspan="1">83.00 (21.09)</td>
+                <td colspan="2" rowspan="1">65.76 (27.06)</td>
+                <td rowspan="1" colspan="1">72.28 (30.84)</td>
+                <td colspan="2" rowspan="1">0.69</td>
+                <td colspan="2" rowspan="1">8.48 (8.03)</td>
+                <td colspan="2" rowspan="1">0.29</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Knowledge of AIDS PrEP<sup>c</sup></td>
+                <td rowspan="1" colspan="1">35.20 (18.76)</td>
+                <td rowspan="1" colspan="1">44.40 (17.75)</td>
+                <td colspan="2" rowspan="1">32.17 (19.54)</td>
+                <td rowspan="1" colspan="1">26.52 (20.25)</td>
+                <td colspan="2" rowspan="1">0.44</td>
+                <td colspan="2" rowspan="1">17.88 (3.89)</td>
+                <td colspan="2" rowspan="1">&lt;0.001</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Knowledge of AIDS-related laws and regulations</td>
+                <td rowspan="1" colspan="1">65.75 (27.87)</td>
+                <td rowspan="1" colspan="1">82.25 (15.79)</td>
+                <td colspan="2" rowspan="1">71.47 (21.03)</td>
+                <td rowspan="1" colspan="1">73.64 (20.79)</td>
+                <td colspan="2" rowspan="1">0.20</td>
+                <td colspan="2" rowspan="1">14.33 (6.31)</td>
+                <td colspan="2" rowspan="1">0.02</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="13" rowspan="1">
+<bold>Stigma score</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Overall</td>
+                <td rowspan="1" colspan="1">2.58 (0.61)</td>
+                <td rowspan="1" colspan="1">2.44 (0.57)</td>
+                <td colspan="2" rowspan="1">2.51 (0.49)</td>
+                <td rowspan="1" colspan="1">2.48 (0.47)</td>
+                <td colspan="2" rowspan="1">0.50</td>
+                <td colspan="2" rowspan="1">&#x2013;0.11 (0.16)</td>
+                <td colspan="2" rowspan="1">0.48</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Fear of transmission and disease</td>
+                <td rowspan="1" colspan="1">2.93 (1.13)</td>
+                <td rowspan="1" colspan="1">2.59 (0.86)</td>
+                <td colspan="2" rowspan="1">2.97 (0.96)</td>
+                <td rowspan="1" colspan="1">2.85 (0.95)</td>
+                <td colspan="2" rowspan="1">0.84</td>
+                <td colspan="2" rowspan="1">&#x2013;0.34 (0.29)</td>
+                <td colspan="2" rowspan="1">0.23</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Association with shame, blame, and judgment</td>
+                <td rowspan="1" colspan="1">2.47 (0.82)</td>
+                <td rowspan="1" colspan="1">2.55 (0.83)</td>
+                <td colspan="2" rowspan="1">2.31 (0.70)</td>
+                <td rowspan="1" colspan="1">2.34 (0.51)</td>
+                <td colspan="2" rowspan="1">0.29</td>
+                <td colspan="2" rowspan="1">0.05 (0.21)</td>
+                <td colspan="2" rowspan="1">0.81</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Personal support of discriminatory actions or policies</td>
+                <td rowspan="1" colspan="1">2.72 (0.74)</td>
+                <td rowspan="1" colspan="1">2.45 (0.67)</td>
+                <td colspan="2" rowspan="1">2.58 (0.68)</td>
+                <td rowspan="1" colspan="1">2.54 (0.61)</td>
+                <td colspan="2" rowspan="1">0.33</td>
+                <td colspan="2" rowspan="1">&#x2013;0.23 (0.20)</td>
+                <td colspan="2" rowspan="1">0.25</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Perceived community support of discriminatory actions or policies</td>
+                <td rowspan="1" colspan="1">2.20 (0.82)</td>
+                <td rowspan="1" colspan="1">2.15 (0.73)</td>
+                <td colspan="2" rowspan="1">2.16 (0.65)</td>
+                <td rowspan="1" colspan="1">2.17 (0.63)</td>
+                <td colspan="2" rowspan="1">0.78</td>
+                <td colspan="2" rowspan="1">&#x2013;0.05 (0.21)</td>
+                <td colspan="2" rowspan="1">0.79</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="13" rowspan="1">
+<bold>Positive rate of attitude of high-risk AIDS behaviors</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Overall</td>
+                <td rowspan="1" colspan="1">77.50 (22.73)</td>
+                <td rowspan="1" colspan="1">82.00 (23.44)</td>
+                <td colspan="2" rowspan="1">85.05 (19.30)</td>
+                <td rowspan="1" colspan="1">79.62 (17.94)</td>
+                <td colspan="2" rowspan="1">0.08</td>
+                <td colspan="2" rowspan="1">9.93 (6.09)</td>
+                <td colspan="2" rowspan="1">0.10</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Do you support premarital sex?</td>
+                <td rowspan="1" colspan="1">72.00 (45.40)</td>
+                <td rowspan="1" colspan="1">84.00 (37.00)</td>
+                <td colspan="2" rowspan="1">80.00 (40.10)</td>
+                <td rowspan="1" colspan="1">76.00 (43.10)</td>
+                <td colspan="2" rowspan="1">0.32</td>
+                <td colspan="2" rowspan="1">16.33 (11.99)</td>
+                <td colspan="2" rowspan="1">0.18</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Do you support premature love?</td>
+                <td rowspan="1" colspan="1">52.00 (50.50)</td>
+                <td rowspan="1" colspan="1">64.00 (48.50)</td>
+                <td colspan="2" rowspan="1">57.00 (50.10)</td>
+                <td rowspan="1" colspan="1">59.00 (49.80)</td>
+                <td colspan="2" rowspan="1">0.66</td>
+                <td colspan="2" rowspan="1">9.83 (14.36)</td>
+                <td colspan="2" rowspan="1">0.49</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Do you support a 1-night stand?</td>
+                <td rowspan="1" colspan="1">88.00 (32.80)</td>
+                <td rowspan="1" colspan="1">92.00 (27.40)</td>
+                <td colspan="2" rowspan="1">96.00 (20.60)</td>
+                <td rowspan="1" colspan="1">98.00 (14.70)</td>
+                <td colspan="2" rowspan="1">0.14</td>
+                <td colspan="2" rowspan="1">1.83 (7.25)</td>
+                <td colspan="2" rowspan="1">0.80</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Will you have premarital sex with your boyfriend/girlfriend?</td>
+                <td rowspan="1" colspan="1">74.00 (44.30)</td>
+                <td rowspan="1" colspan="1">82.00 (38.80)</td>
+                <td colspan="2" rowspan="1">80.00 (40.10)</td>
+                <td rowspan="1" colspan="1">74.00 (44.40)</td>
+                <td colspan="2" rowspan="1">0.45</td>
+                <td colspan="2" rowspan="1">14.52 (12.13)</td>
+                <td colspan="2" rowspan="1">0.23</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Will you have sex with someone other than your lover?</td>
+                <td rowspan="1" colspan="1">82.00 (38.80)</td>
+                <td rowspan="1" colspan="1">86.00 (35.10)</td>
+                <td colspan="2" rowspan="1">87.00 (34.10)</td>
+                <td rowspan="1" colspan="1">89.00 (31.50)</td>
+                <td colspan="2" rowspan="1">0.49</td>
+                <td colspan="2" rowspan="1">1.83 (10.13)</td>
+                <td colspan="2" rowspan="1">0.86</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Will you have sex with the same gender?</td>
+                <td rowspan="1" colspan="1">88.00 (32.80)</td>
+                <td rowspan="1" colspan="1">94.00 (24.00)</td>
+                <td colspan="2" rowspan="1">89.00 (31.50)</td>
+                <td rowspan="1" colspan="1">98.00 (14.70)</td>
+                <td colspan="2" rowspan="1">0.38</td>
+                <td colspan="2" rowspan="1">&#x2013;14.70 (7.75)</td>
+                <td colspan="2" rowspan="1">0.06</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Will you use condoms when you have sex with your lover?</td>
+                <td rowspan="1" colspan="1">80.00 (40.40)</td>
+                <td rowspan="1" colspan="1">84.00 (37.00)</td>
+                <td colspan="2" rowspan="1">93.00 (25.00)</td>
+                <td rowspan="1" colspan="1">70.00 (46.50)</td>
+                <td colspan="2" rowspan="1">0.23</td>
+                <td colspan="2" rowspan="1">19.91 (11.00)</td>
+                <td colspan="2" rowspan="1">0.07</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Will you use condoms when you have sex with other people of the same/opposite sex?</td>
+                <td rowspan="1" colspan="1">74.00 (44.30)</td>
+                <td rowspan="1" colspan="1">80.00 (40.00)</td>
+                <td colspan="2" rowspan="1">80.00 (40.00)</td>
+                <td rowspan="1" colspan="1">74.00 (44.40)</td>
+                <td colspan="2" rowspan="1">0.46</td>
+                <td colspan="2" rowspan="1">12.52 (12.24)</td>
+                <td colspan="2" rowspan="1"> 0.31</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <fn id="table5fn1">
+              <p><sup>a</sup><italic>P</italic> value for the mean difference between intervention and control groups before the intervention (baseline differences).</p>
+            </fn>
+            <fn id="table5fn2">
+              <p><sup>b</sup>Difference-in-difference. It shows whether the expected mean change in indicators from before to after the intervention was different between control and intervention groups.</p>
+            </fn>
+            <fn id="table5fn3">
+              <p><sup>c</sup>PrEP: pre-exposure prophylaxis.</p>
+            </fn>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Game Experience Evaluation of the Intervention Group</title>
+        <p>The user's evaluation of the game was divided into 4 options: excellent, good, medium, and poor. The mean percentage of the game evaluation was 54.73% as excellent, 31.45% as good, 13.09% as medium, and 0.73% as poor (<xref rid="table6" ref-type="table">Table 6</xref>).</p>
+        <table-wrap position="float" id="table6">
+          <label>Table 6</label>
+          <caption>
+            <p>Game evaluation details.</p>
+          </caption>
+          <table frame="hsides" rules="groups" width="1000" cellpadding="5" cellspacing="0" border="1">
+            <col width="30" span="1"/>
+            <col width="540" span="1"/>
+            <col width="140" span="1"/>
+            <col width="110" span="1"/>
+            <col width="110" span="1"/>
+            <col width="70" span="1"/>
+            <col width="0" span="1"/>
+            <thead>
+              <tr valign="top">
+                <td colspan="2" rowspan="1">Second-level index</td>
+                <td rowspan="1" colspan="1">Excellent, %</td>
+                <td rowspan="1" colspan="1">Good, %</td>
+                <td rowspan="1" colspan="1">Medium, %</td>
+                <td rowspan="1" colspan="1">Poor, %</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr valign="top">
+                <td colspan="7" rowspan="1">
+<bold>Perceived beauty first-level index, mean (SD)</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="5" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Clear interface design</td>
+                <td rowspan="1" colspan="1">34 (68)</td>
+                <td rowspan="1" colspan="1">12 (24)</td>
+                <td rowspan="1" colspan="1">4 (8)</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Reasonable interface menu</td>
+                <td rowspan="1" colspan="1">29 (58)</td>
+                <td rowspan="1" colspan="1">17 (34)</td>
+                <td rowspan="1" colspan="1">4 (8)</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">New and interesting interface</td>
+                <td rowspan="1" colspan="1">28 (56)</td>
+                <td rowspan="1" colspan="1">13 (26)</td>
+                <td rowspan="1" colspan="1">8 (16)</td>
+                <td rowspan="1" colspan="1">1 (2)</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Beautifully crafted interface</td>
+                <td rowspan="1" colspan="1">26 (52)</td>
+                <td rowspan="1" colspan="1">16 (32)</td>
+                <td rowspan="1" colspan="1">7 (14)</td>
+                <td rowspan="1" colspan="1">1 (2)</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Pleasant interface</td>
+                <td rowspan="1" colspan="1">22 (44)</td>
+                <td rowspan="1" colspan="1">18 (36)</td>
+                <td rowspan="1" colspan="1">9 (18)</td>
+                <td rowspan="1" colspan="1">1 (2)</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="7" rowspan="1">
+<bold>Availability</bold>
+<bold>first-level index, mean (SD)</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="5" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Easy to remember</td>
+                <td rowspan="1" colspan="1">28 (56)</td>
+                <td rowspan="1" colspan="1">11 (22)</td>
+                <td rowspan="1" colspan="1">11 (22)</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Easy to play</td>
+                <td rowspan="1" colspan="1">29 (58)</td>
+                <td rowspan="1" colspan="1">14 (28)</td>
+                <td rowspan="1" colspan="1">7 (14)</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Easy to learn</td>
+                <td rowspan="1" colspan="1">35 (70)</td>
+                <td rowspan="1" colspan="1">10 (20)</td>
+                <td rowspan="1" colspan="1">5 (10)</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">The game runs stably without faults</td>
+                <td rowspan="1" colspan="1">24 (48)</td>
+                <td rowspan="1" colspan="1">10 (20)</td>
+                <td rowspan="1" colspan="1">13 (26)</td>
+                <td rowspan="1" colspan="1">3 (6)</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">System feedback is obviously timely and appropriate</td>
+                <td rowspan="1" colspan="1">28 (56)</td>
+                <td rowspan="1" colspan="1">16 (32)</td>
+                <td rowspan="1" colspan="1">6 (12)</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="7" rowspan="1">
+<bold>Educational</bold>
+<bold>first-level index, mean (SD)</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="5" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Knowledge feedback is clear and timely</td>
+                <td rowspan="1" colspan="1">32 (64)</td>
+                <td rowspan="1" colspan="1">15 (30)</td>
+                <td rowspan="1" colspan="1">3 (6)</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Levels conform to the regular pattern of learning</td>
+                <td rowspan="1" colspan="1">28 (56)</td>
+                <td rowspan="1" colspan="1">16 (32)</td>
+                <td rowspan="1" colspan="1">6 (12)</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Reliable content, flexible and diverse forms</td>
+                <td rowspan="1" colspan="1">34 (68)</td>
+                <td rowspan="1" colspan="1">12 (24)</td>
+                <td rowspan="1" colspan="1">4 (8)</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Clear learning goals</td>
+                <td rowspan="1" colspan="1">30 (60)</td>
+                <td rowspan="1" colspan="1">14 (28)</td>
+                <td rowspan="1" colspan="1">5 (10)</td>
+                <td rowspan="1" colspan="1">1 (2)</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Balance of skill and challenge</td>
+                <td rowspan="1" colspan="1">29 (58)</td>
+                <td rowspan="1" colspan="1">16 (32)</td>
+                <td rowspan="1" colspan="1">5 (10)</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="7" rowspan="1">
+<bold>Gameplay</bold>
+<bold>first-level index, mean (SD)</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="5" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">Suitable challenge</td>
+                <td rowspan="1" colspan="1">21 (42)</td>
+                <td rowspan="1" colspan="1">17 (34)</td>
+                <td rowspan="1" colspan="1">12 (22)</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Reasonable incentives</td>
+                <td rowspan="1" colspan="1">25 (50)</td>
+                <td rowspan="1" colspan="1">17 (34)</td>
+                <td rowspan="1" colspan="1">8 (16)</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Optional</td>
+                <td rowspan="1" colspan="1">20 (40)</td>
+                <td rowspan="1" colspan="1">25 (50)</td>
+                <td rowspan="1" colspan="1">5 (10)</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Attractive plot</td>
+                <td rowspan="1" colspan="1">17 (34)</td>
+                <td rowspan="1" colspan="1">20 (40)</td>
+                <td rowspan="1" colspan="1">12 (24)</td>
+                <td rowspan="1" colspan="1">1 (2)</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">Clear rules of the game</td>
+                <td rowspan="1" colspan="1">29 (58)</td>
+                <td rowspan="1" colspan="1">19 (38)</td>
+                <td rowspan="1" colspan="1">2 (4)</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+              <tr valign="top">
+                <td colspan="7" rowspan="1">
+<bold>Learning needs</bold>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">The learning content of the game meets or exceeds the needs of learners</td>
+                <td rowspan="1" colspan="1">31 (62)</td>
+                <td rowspan="1" colspan="1">15 (30)</td>
+                <td rowspan="1" colspan="1">4 (8)</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+              <tr valign="top">
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+                <td rowspan="1" colspan="1">The function of the game meets or exceeds the needs of learners</td>
+                <td rowspan="1" colspan="1">23 (46)</td>
+                <td rowspan="1" colspan="1">23 (46)</td>
+                <td rowspan="1" colspan="1">4 (8)</td>
+                <td rowspan="1" colspan="1">0</td>
+                <td rowspan="1" colspan="1">
+<break/>
+</td>
+              </tr>
+            </tbody>
+          </table>
+        </table-wrap>
+      </sec>
+    </sec>
+    <sec sec-type="discussion">
+      <title>Discussion</title>
+      <sec>
+        <title>Effect on AIDS-Related Knowledge of AIDS Fighter &#xB7; Health Defense Game</title>
+        <p>After the intervention with the AIDS educational game, the awareness rate of AIDS knowledge of the intervention group was higher than that of the control group, and the differences were statistically significant, which implies AIDS Fighter &#xB7; Health Defense can improve AIDS-related knowledge of young students and has the potential to improve their AIDS prevention capabilities. However, the difference-in-difference analysis of the knowledge of AIDS testing and treatment was not statistically significant, which was different from the results of the <italic>t</italic> test. The possible reason is that the AIDS-related knowledge received during the intervention period led to the same trend of change in the 2 groups, while the effect of the game intervention was not significant on the knowledge of AIDS testing and treatment. This may also be due to the short intervention time and small sample size, leading to an insignificant intervention effect. Future studies should carry out continuous, large-sample intervention investigations to improve the knowledge of HIV testing and treatment of young students, especially the knowledge of HIV treatment, which is not only important for young students to take PrEP and PEP but also important for people with HIV, especially in low- and middle-income countries, to improve their antiviral treatment adherence [<xref rid="ref29" ref-type="bibr">29</xref>].</p>
+        <p>After the intervention group played the AIDS Fighter &#xB7; Health Defense game, the awareness rate of AIDS knowledge in all dimensions was higher than that before the intervention. Of these dimensions, the awareness rate of AIDS-related laws and regulations increased the most (<italic>t</italic>=3.642, <italic>P</italic>&lt;.001). Due to the low awareness of AIDS-related laws and regulations in the public [<xref rid="ref30" ref-type="bibr">30</xref>], patients with HIV infection are still being unfairly treated in terms of equal employment, privacy protection, and social discrimination. They not only need to endure the discomfort caused by HIV but also need to face social disapproval and exclusion [<xref rid="ref31" ref-type="bibr">31</xref>]. We found that AIDS Fighter &#xB7; Health Defense has a good effect on improving the knowledge of AIDS-related laws and regulations in young students. Further studies could try to apply the game to other groups for AIDS health education and provide educational tools for improving the public&#x2019;s knowledge of AIDS-related laws and regulations.</p>
+        <p>There was no significant difference in the awareness rate of AIDS knowledge in the control group after the intervention, which implies that the effect of self-learning via the internet to improve AIDS-related knowledge of young students is poor. Under the background of exam-oriented education represented by China, young students have a strong learning ability to master the key points of learning quickly and effectively before the exam. Therefore, if an examination or assessment to test the learning effect could be added to the self-learning of AIDS health education for young students, it may increase the self-learning effect for them and improve their AIDS-related knowledge.</p>
+      </sec>
+      <sec>
+        <title>Effect on AIDS-Related Stigma of AIDS Fighter &#xB7; Health Defense</title>
+        <p>This study found that after the intervention with AIDS Fighter &#xB7; Health Defense, the AIDS-related stigma of young students showed a downward trend, although the results were not statistically significant. This may be because the formation and change of an individual&#x2019;s cognition of or attitude toward something is a complex process that takes a long time [<xref rid="ref32" ref-type="bibr">32</xref>], while the intervention time of this study was 2 weeks, so the results obtained may only have found a trend of decreasing AIDS-related stigma. If long-term intervention can be carried out, the AIDS-related stigma reduction may be more obvious. In addition, the sample size of this study was small, which may also have caused the difference to be not significant enough. AIDS Fighter &#xB7; Health Defense has shown some effects in reducing AIDS-related stigma among young students. Therefore, it may have the potential to become an effective educational tool to reduce AIDS-related stigma in the public.</p>
+      </sec>
+      <sec>
+        <title>Effect of AIDS Fighter &#xB7; Health Defense on Attitude of High-Risk AIDS Behaviors</title>
+        <p>Reducing high-risk AIDS behaviors is one of the effective ways to prevent AIDS [<xref rid="ref33" ref-type="bibr">33</xref>], and one of our goals of AIDS education is to improve the attitudes of drug injection&#x2013;related risk behaviors and sexual risk behaviors. Unexpectedly, after 2 weeks of self-learning of AIDS knowledge in the control group, the positive rate of attitudes of high-risk AIDS behaviors decreased, and the most obvious option for the decline in the positive rate was &#x201C;Will you use condoms when you have sex with your lover?&#x201D;, which dropped from 93.00 (SD 25.00) to 70.00 (SD 46.50), with <italic>t</italic>=2.955 and <italic>P</italic>=.004. This result suggests that acquiring AIDS-related knowledge through online self-learning is not only less effective in education but may also make young students more open to sexual attitudes and more likely to indulge in risky sexual behaviors. We found that after the intervention with AIDS Fighter &#xB7; Health Defense, the positive rate of attitudes of high-risk AIDS behaviors of young students increased. Therefore, game-based AIDS education has the potential to become an intervention method to improve the attitudes of high-risk AIDS behaviors and AIDS Fighter &#xB7; Health Defense could become an effective and large-scale intervention tool.</p>
+      </sec>
+      <sec>
+        <title>Game Experience Evaluation of the Intervention Group</title>
+        <p>The results of game experience suggest that young students have positive feedback for AIDS Fighter &#xB7; Health Defense, believing that the game probably has high aesthetics and usability and is educational and playful, which can achieve or exceed the needs of learners. However, there are problems, such as insufficient stability of the game, insufficient novelty of the game elements, and insufficient appeal of the game plot. This reminds us that we should strengthen the combination of education and entertainment in AIDS game education and increase the appeal of educational games on the premise of ensuring the effect of AIDS education.</p>
+      </sec>
+      <sec>
+        <title>Conclusion</title>
+        <p>This study found that AIDS Fighter &#xB7; Health Defense can improve the AIDS-related knowledge among young students, but the effect of the game in reducing AIDS-related stigma and improving the attitudes of high-risk AIDS behaviors was not observed. This might be due to the small sample size and short intervention time; the results of AIDS-related stigma and attitudes of high-risk behaviors were not statistically significant. Therefore, large-scale, continuous, and multicenter research is needed to assess the efficacy of game-based intervention.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>This work was supported by the Sichuan Science and Technology Program (2020JDRC0138) and the Scientific Research Project of Health Commission of Sichuan Province (19PJ153) in China. Both funding parties did not have any role in the design of the study and collection, analysis, and interpretation of data.</p>
+    </ack>
+    <fn-group>
+      <fn fn-type="COI-statement">
+        <p>Conflicts of Interest: None declared.</p>
+      </fn>
+    </fn-group>
+    <app-group>
+      <supplementary-material id="app1" position="float" content-type="local-data">
+        <label>Multimedia Appendix 1</label>
+        <p>CONSORT-EHEALTH checklist (V. 1.6.1).</p>
+        <media xlink:href="games_v10i1e32400_app1.pdf" xlink:title="PDF File (Adobe PDF File), 20319 KB" id="d95e3180" position="anchor"/>
+      </supplementary-material>
+    </app-group>
+    <glossary>
+      <title>Abbreviations</title>
+      <def-list>
+        <def-item>
+          <term id="abb1">CVI</term>
+          <def>
+            <p>content validity index</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="abb2">I-CVI</term>
+          <def>
+            <p>item-level content validity index</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="abb3">PEP</term>
+          <def>
+            <p>postexposure prophylaxis</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="abb4">PrEP</term>
+          <def>
+            <p>pre-exposure prophylaxis</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="abb5">S-CVI</term>
+          <def>
+            <p>scale-level content validity index</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term id="abb6">UNAIDS</term>
+          <def>
+            <p>Joint United Nations Programme on HIV/AIDS</p>
+          </def>
+        </def-item>
+      </def-list>
+    </glossary>
+    <ref-list>
+      <ref id="ref1">
+        <label>1</label>
+        <element-citation publication-type="webpage">
+          <person-group person-group-type="author">
+            <collab>World Health Organization</collab>
+          </person-group>
+          <source>Data on the Size of the HIV/AIDS Epidemic</source>
+          <date-in-citation content-type="access-date">2021-11-15</date-in-citation>
+          <comment>
+<ext-link xlink:href="https://www.who.int/data/gho/data/themes/hiv-aids" ext-link-type="uri">https://www.who.int/data/gho/data/themes/hiv-aids</ext-link>
+</comment>
+        </element-citation>
+      </ref>
+      <ref id="ref2">
+        <label>2</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>PT</given-names>
+            </name>
+            <name>
+              <surname>Gilmour</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Le</surname>
+              <given-names>PM</given-names>
+            </name>
+            <name>
+              <surname>Onishi</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Kato</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>HV</given-names>
+            </name>
+          </person-group>
+          <article-title>Progress toward HIV elimination goals: trends in and projections of annual HIV testing and condom use in Africa</article-title>
+          <source>AIDS</source>
+          <year>2021</year>
+          <month>07</month>
+          <day>01</day>
+          <volume>35</volume>
+          <issue>8</issue>
+          <fpage>1253</fpage>
+          <lpage>1262</lpage>
+          <pub-id pub-id-type="doi">10.1097/QAD.0000000000002870</pub-id>
+          <pub-id pub-id-type="medline">33730746</pub-id>
+          <pub-id pub-id-type="pii">00002030-202107010-00011</pub-id>
+          <pub-id pub-id-type="pmid">33730746</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref3">
+        <label>3</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Taquette</surname>
+              <given-names>SR</given-names>
+            </name>
+            <name>
+              <surname>Souza</surname>
+              <given-names>LMBDM</given-names>
+            </name>
+          </person-group>
+          <article-title>HIV-AIDS prevention in the conception of HIV-positive young people</article-title>
+          <source>Rev Saude Publica</source>
+          <year>2019</year>
+          <month>09</month>
+          <day>19</day>
+          <volume>53</volume>
+          <fpage>80</fpage>
+          <comment>
+<ext-link xlink:href="https://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0034-89102019000100273&amp;lng=en&amp;nrm=iso&amp;tlng=en" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.11606/s1518-8787.2019053001174</pub-id>
+          <pub-id pub-id-type="medline">31576941</pub-id>
+          <pub-id pub-id-type="pii">S0034-89102019000100273</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC6763283</pub-id>-->
+          <pub-id pub-id-type="pmid">31576941</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref4">
+        <label>4</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kim</surname>
+              <given-names>YK</given-names>
+            </name>
+            <name>
+              <surname>Small</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Okumu</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>School-based HIV/AIDS education, risky sexual behaviors, and HIV testing among high school students in the United States</article-title>
+          <source>Soc Work Health Care</source>
+          <year>2019</year>
+          <month>03</month>
+          <day>16</day>
+          <volume>58</volume>
+          <issue>3</issue>
+          <fpage>258</fpage>
+          <lpage>273</lpage>
+          <pub-id pub-id-type="doi">10.1080/00981389.2018.1558163</pub-id>
+          <pub-id pub-id-type="medline">30556490</pub-id>
+          <pub-id pub-id-type="pmid">30556490</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref5">
+        <label>5</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Naserirad</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Ayari</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Hamdini</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Hadiji</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Effectiveness of a peer-led HIV/AIDS education program on HIV-related health literacy of jailed adolescents in Tunis, Tunisia</article-title>
+          <source>J Public Health (Berl)</source>
+          <year>2018</year>
+          <month>9</month>
+          <day>5</day>
+          <volume>27</volume>
+          <issue>4</issue>
+          <fpage>425</fpage>
+          <lpage>433</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10389-018-0975-8</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref6">
+        <label>6</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Haruna</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Chu</surname>
+              <given-names>SKW</given-names>
+            </name>
+            <name>
+              <surname>Mellecker</surname>
+              <given-names>RR</given-names>
+            </name>
+            <name>
+              <surname>Gabriel</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Ndekao</surname>
+              <given-names>PS</given-names>
+            </name>
+          </person-group>
+          <article-title>Improving sexual health education programs for adolescent students through game-based learning and gamification</article-title>
+          <source>Int J Environ Res Public Health</source>
+          <year>2018</year>
+          <month>09</month>
+          <day>17</day>
+          <volume>15</volume>
+          <issue>9</issue>
+          <fpage>2027</fpage>
+          <comment>
+<ext-link xlink:href="https://www.mdpi.com/resolver?pii=ijerph15092027" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.3390/ijerph15092027</pub-id>
+          <pub-id pub-id-type="medline">30227642</pub-id>
+          <pub-id pub-id-type="pii">ijerph15092027</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC6163657</pub-id>-->
+        </element-citation>
+      </ref>
+      <ref id="ref7">
+        <label>7</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhu</surname>
+              <given-names>Z</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Petrovsky</surname>
+              <given-names>DV</given-names>
+            </name>
+            <name>
+              <surname>Dong</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Hu</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Age and regional disparity in HIV education among migrants in China: migrants population dynamic monitoring survey, 2014-2015</article-title>
+          <source>Int J Equity Health</source>
+          <year>2019</year>
+          <month>07</month>
+          <day>03</day>
+          <volume>18</volume>
+          <issue>1</issue>
+          <fpage>104</fpage>
+          <comment>
+<ext-link xlink:href="https://equityhealthj.biomedcentral.com/articles/10.1186/s12939-019-0999-x" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1186/s12939-019-0999-x</pub-id>
+          <pub-id pub-id-type="medline">31269954</pub-id>
+          <pub-id pub-id-type="pii">10.1186/s12939-019-0999-x</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC6610800</pub-id>-->
+          <pub-id pub-id-type="pmid">31269954</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref8">
+        <label>8</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zhang</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Cui</surname>
+              <given-names>YD</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Achievement of interventions on HIV infection prevention among migrants in China: a meta-analysis</article-title>
+          <source>SAHARA J</source>
+          <year>2018</year>
+          <month>12</month>
+          <volume>15</volume>
+          <issue>1</issue>
+          <fpage>31</fpage>
+          <lpage>41</lpage>
+          <comment>
+<ext-link xlink:href="http://europepmc.org/abstract/MED/29564968" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1080/17290376.2018.1451773</pub-id>
+          <pub-id pub-id-type="medline">29564968</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC5917330</pub-id>-->
+          <pub-id pub-id-type="pmid">29564968</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref9">
+        <label>9</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>LH</given-names>
+            </name>
+            <name>
+              <surname>Tran</surname>
+              <given-names>BX</given-names>
+            </name>
+            <name>
+              <surname>Rocha</surname>
+              <given-names>LEC</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>HLT</given-names>
+            </name>
+            <name>
+              <surname>Yang</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Latkin</surname>
+              <given-names>CA</given-names>
+            </name>
+            <name>
+              <surname>Thorson</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Str&#xF6;mdahl</surname>
+              <given-names>Susanne</given-names>
+            </name>
+          </person-group>
+          <article-title>A systematic review of eHealth interventions addressing HIV/STI prevention among men who have sex with men</article-title>
+          <source>AIDS Behav</source>
+          <year>2019</year>
+          <month>09</month>
+          <volume>23</volume>
+          <issue>9</issue>
+          <fpage>2253</fpage>
+          <lpage>2272</lpage>
+          <comment>
+<ext-link xlink:href="http://europepmc.org/abstract/MED/31401741" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1007/s10461-019-02626-1</pub-id>
+          <pub-id pub-id-type="medline">31401741</pub-id>
+          <pub-id pub-id-type="pii">10.1007/s10461-019-02626-1</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC6766471</pub-id>-->
+          <pub-id pub-id-type="pmid">31401741</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref10">
+        <label>10</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hightow-Weidman</surname>
+              <given-names>LB</given-names>
+            </name>
+            <name>
+              <surname>Muessig</surname>
+              <given-names>KE</given-names>
+            </name>
+            <name>
+              <surname>Bauermeister</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>LeGrand</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Fiellin</surname>
+              <given-names>LE</given-names>
+            </name>
+          </person-group>
+          <article-title>The future of digital games for HIV prevention and care</article-title>
+          <source>Curr Opin HIV AIDS</source>
+          <year>2017</year>
+          <month>09</month>
+          <volume>12</volume>
+          <issue>5</issue>
+          <fpage>501</fpage>
+          <lpage>507</lpage>
+          <comment>
+<ext-link xlink:href="http://europepmc.org/abstract/MED/28692490" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1097/COH.0000000000000399</pub-id>
+          <pub-id pub-id-type="medline">28692490</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC5651998</pub-id>-->
+          <pub-id pub-id-type="pmid">28692490</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref11">
+        <label>11</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferguson</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>The emergence of games for health</article-title>
+          <source>Games Health J</source>
+          <year>2012</year>
+          <month>02</month>
+          <volume>1</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>2</lpage>
+          <pub-id pub-id-type="doi">10.1089/g4h.2012.1010</pub-id>
+          <pub-id pub-id-type="medline">26196423</pub-id>
+          <pub-id pub-id-type="pmid">26196423</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref12">
+        <label>12</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Patel</surname>
+              <given-names>MS</given-names>
+            </name>
+            <name>
+              <surname>Small</surname>
+              <given-names>DS</given-names>
+            </name>
+            <name>
+              <surname>Harrison</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Fortunato</surname>
+              <given-names>MP</given-names>
+            </name>
+            <name>
+              <surname>Oon</surname>
+              <given-names>AL</given-names>
+            </name>
+            <name>
+              <surname>Rareshide</surname>
+              <given-names>CAL</given-names>
+            </name>
+            <name>
+              <surname>Reh</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Szwartz</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Guszcza</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Steier</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Kalra</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Hilbert</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <article-title>Effectiveness of behaviorally designed gamification interventions with social incentives for increasing physical activity among overweight and obese adults across the united states: the STEP UP randomized clinical trial</article-title>
+          <source>JAMA Intern Med</source>
+          <year>2019</year>
+          <month>12</month>
+          <day>01</day>
+          <volume>179</volume>
+          <issue>12</issue>
+          <fpage>1624</fpage>
+          <lpage>1632</lpage>
+          <comment>
+<ext-link xlink:href="http://europepmc.org/abstract/MED/31498375" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1001/jamainternmed.2019.3505</pub-id>
+          <pub-id pub-id-type="medline">31498375</pub-id>
+          <pub-id pub-id-type="pii">2749761</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC6735420</pub-id>-->
+          <pub-id pub-id-type="pmid">31498375</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref13">
+        <label>13</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brown</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>O'Neill</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>van Woerden</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Eslambolchilar</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>John</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Gamification and adherence to web-based mental health interventions: a systematic review</article-title>
+          <source>JMIR Ment Health</source>
+          <year>2016</year>
+          <month>08</month>
+          <day>24</day>
+          <volume>3</volume>
+          <issue>3</issue>
+          <fpage>e39</fpage>
+          <comment>
+<ext-link xlink:href="https://mental.jmir.org/2016/3/e39/" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.2196/mental.5710</pub-id>
+          <pub-id pub-id-type="medline">27558893</pub-id>
+          <pub-id pub-id-type="pii">v3i3e39</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC5014987</pub-id>-->
+          <pub-id pub-id-type="pmid">27558893</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref14">
+        <label>14</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brigham</surname>
+              <given-names>TJ</given-names>
+            </name>
+          </person-group>
+          <article-title>An introduction to gamification: adding game elements for engagement</article-title>
+          <source>Med Ref Serv Q</source>
+          <year>2015</year>
+          <month>10</month>
+          <volume>34</volume>
+          <issue>4</issue>
+          <fpage>471</fpage>
+          <lpage>80</lpage>
+          <pub-id pub-id-type="doi">10.1080/02763869.2015.1082385</pub-id>
+          <pub-id pub-id-type="medline">26496401</pub-id>
+          <pub-id pub-id-type="pmid">26496401</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref15">
+        <label>15</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cugelman</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Gamification: what it is and why it matters to digital health behavior change developers</article-title>
+          <source>JMIR Serious Games</source>
+          <year>2013</year>
+          <month>12</month>
+          <day>12</day>
+          <volume>1</volume>
+          <issue>1</issue>
+          <fpage>e3</fpage>
+          <comment>
+<ext-link xlink:href="https://games.jmir.org/2013/1/e3/" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.2196/games.3139</pub-id>
+          <pub-id pub-id-type="medline">25658754</pub-id>
+          <pub-id pub-id-type="pii">v1i1e3</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC4307817</pub-id>-->
+          <pub-id pub-id-type="pmid">25658754</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref16">
+        <label>16</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>LeGrand</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Muessig</surname>
+              <given-names>KE</given-names>
+            </name>
+            <name>
+              <surname>Platt</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Soni</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Egger</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Nwoko</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>McNulty</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Hightow-Weidman</surname>
+              <given-names>LB</given-names>
+            </name>
+          </person-group>
+          <article-title>Epic Allies, a gamified mobile phone app to improve engagement in care, antiretroviral uptake, and adherence among young men who have sex with men and young transgender women who have sex with men: protocol for a randomized controlled trial</article-title>
+          <source>JMIR Res Protoc</source>
+          <year>2018</year>
+          <month>04</month>
+          <day>05</day>
+          <volume>7</volume>
+          <issue>4</issue>
+          <fpage>e94</fpage>
+          <comment>
+<ext-link xlink:href="https://www.researchprotocols.org/2018/4/e94/" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.2196/resprot.8811</pub-id>
+          <pub-id pub-id-type="medline">29622527</pub-id>
+          <pub-id pub-id-type="pii">v7i4e94</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC5909052</pub-id>-->
+          <pub-id pub-id-type="pmid">29622527</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref17">
+        <label>17</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Whiteley</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Mena</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Craker</surname>
+              <given-names>LK</given-names>
+            </name>
+            <name>
+              <surname>Healy</surname>
+              <given-names>MG</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>LK</given-names>
+            </name>
+          </person-group>
+          <article-title>Creating a theoretically grounded gaming app to increase adherence to pre-exposure prophylaxis: lessons from the development of the Viral Combat mobile phone game</article-title>
+          <source>JMIR Serious Games</source>
+          <year>2019</year>
+          <month>03</month>
+          <day>27</day>
+          <volume>7</volume>
+          <issue>1</issue>
+          <fpage>e11861</fpage>
+          <comment>
+<ext-link xlink:href="https://games.jmir.org/2019/1/e11861/" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.2196/11861</pub-id>
+          <pub-id pub-id-type="medline">30916652</pub-id>
+          <pub-id pub-id-type="pii">v7i1e11861</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC6456850</pub-id>-->
+          <pub-id pub-id-type="pmid">30916652</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref18">
+        <label>18</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Casale</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Carlqvist</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Cluver</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Recent interventions to improve retention in HIV care and adherence to antiretroviral treatment among adolescents and youth: a systematic review</article-title>
+          <source>AIDS Patient Care STDS</source>
+          <year>2019</year>
+          <month>06</month>
+          <volume>33</volume>
+          <issue>6</issue>
+          <fpage>237</fpage>
+          <lpage>252</lpage>
+          <comment>
+<ext-link xlink:href="http://europepmc.org/abstract/MED/31166783" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1089/apc.2018.0320</pub-id>
+          <pub-id pub-id-type="medline">31166783</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC6588099</pub-id>-->
+          <pub-id pub-id-type="pmid">31166783</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref19">
+        <label>19</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mejia</surname>
+              <given-names>CM</given-names>
+            </name>
+            <name>
+              <surname>Acland</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Buzdugan</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Grimball</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Natoli</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>McGrath</surname>
+              <given-names>MR</given-names>
+            </name>
+            <name>
+              <surname>Klausner</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>McCoy</surname>
+              <given-names>SI</given-names>
+            </name>
+          </person-group>
+          <article-title>An intervention using gamification to increase human immunodeficiency virus and sexually transmitted infection screening among young men who have sex with men in California: rationale and design of stick to it</article-title>
+          <source>JMIR Res Protoc</source>
+          <year>2017</year>
+          <month>07</month>
+          <day>17</day>
+          <volume>6</volume>
+          <issue>7</issue>
+          <fpage>e140</fpage>
+          <comment>
+<ext-link xlink:href="https://www.researchprotocols.org/2017/7/e140/" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.2196/resprot.8064</pub-id>
+          <pub-id pub-id-type="medline">28716771</pub-id>
+          <pub-id pub-id-type="pii">v6i7e140</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC5537559</pub-id>-->
+          <pub-id pub-id-type="pmid">28716771</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref20">
+        <label>20</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Montanaro</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Fiellin</surname>
+              <given-names>LE</given-names>
+            </name>
+            <name>
+              <surname>Fakhouri</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Kyriakides</surname>
+              <given-names>TC</given-names>
+            </name>
+            <name>
+              <surname>Duncan</surname>
+              <given-names>LR</given-names>
+            </name>
+          </person-group>
+          <article-title>Using videogame apps to assess gains in adolescents' substance use knowledge: new opportunities for evaluating intervention exposure and content mastery</article-title>
+          <source>J Med Internet Res</source>
+          <year>2015</year>
+          <month>10</month>
+          <day>28</day>
+          <volume>17</volume>
+          <issue>10</issue>
+          <fpage>e245</fpage>
+          <comment>
+<ext-link xlink:href="https://www.jmir.org/2015/10/e245/" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.2196/jmir.4377</pub-id>
+          <pub-id pub-id-type="medline">26510775</pub-id>
+          <pub-id pub-id-type="pii">v17i10e245</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC4642786</pub-id>-->
+          <pub-id pub-id-type="pmid">26510775</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref21">
+        <label>21</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gariepy</surname>
+              <given-names>AM</given-names>
+            </name>
+            <name>
+              <surname>Hieftje</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Pendergrass</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Miller</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Dziura</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Fiellin</surname>
+              <given-names>LE</given-names>
+            </name>
+          </person-group>
+          <article-title>Development and feasibility testing of a videogame intervention to reduce high-risk sexual behavior in black and Hispanic adolescents</article-title>
+          <source>Games Health J</source>
+          <year>2018</year>
+          <month>12</month>
+          <day>06</day>
+          <volume>7</volume>
+          <issue>6</issue>
+          <fpage>393</fpage>
+          <lpage>400</lpage>
+          <comment>
+<ext-link xlink:href="http://europepmc.org/abstract/MED/30299980" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1089/g4h.2017.0142</pub-id>
+          <pub-id pub-id-type="medline">30299980</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC6277080</pub-id>-->
+          <pub-id pub-id-type="pmid">30299980</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref22">
+        <label>22</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>DeSmet</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Shegog</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Van Ryckeghem</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Crombez</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>De Bourdeaudhuij</surname>
+              <given-names>Ilse</given-names>
+            </name>
+          </person-group>
+          <article-title>A systematic review and meta-analysis of interventions for sexual health promotion involving serious digital games</article-title>
+          <source>Games Health J</source>
+          <year>2015</year>
+          <month>04</month>
+          <volume>4</volume>
+          <issue>2</issue>
+          <fpage>78</fpage>
+          <lpage>90</lpage>
+          <pub-id pub-id-type="doi">10.1089/g4h.2014.0110</pub-id>
+          <pub-id pub-id-type="medline">26181801</pub-id>
+          <pub-id pub-id-type="pmid">26181801</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref23">
+        <label>23</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fiellin</surname>
+              <given-names>LE</given-names>
+            </name>
+            <name>
+              <surname>Kyriakides</surname>
+              <given-names>TC</given-names>
+            </name>
+            <name>
+              <surname>Hieftje</surname>
+              <given-names>KD</given-names>
+            </name>
+            <name>
+              <surname>Pendergrass</surname>
+              <given-names>TM</given-names>
+            </name>
+            <name>
+              <surname>Duncan</surname>
+              <given-names>LR</given-names>
+            </name>
+            <name>
+              <surname>Dziura</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Sawyer</surname>
+              <given-names>BG</given-names>
+            </name>
+            <name>
+              <surname>Fiellin</surname>
+              <given-names>DA</given-names>
+            </name>
+          </person-group>
+          <article-title>The design and implementation of a randomized controlled trial of a risk reduction and human immunodeficiency virus prevention videogame intervention in minority adolescents: PlayForward: Elm City Stories</article-title>
+          <source>Clin Trials</source>
+          <year>2016</year>
+          <month>08</month>
+          <volume>13</volume>
+          <issue>4</issue>
+          <fpage>400</fpage>
+          <lpage>8</lpage>
+          <comment>
+<ext-link xlink:href="http://europepmc.org/abstract/MED/27013483" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1177/1740774516637871</pub-id>
+          <pub-id pub-id-type="medline">27013483</pub-id>
+          <pub-id pub-id-type="pii">1740774516637871</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC4942329</pub-id>-->
+          <pub-id pub-id-type="pmid">27013483</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref24">
+        <label>24</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Whiteley</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>LK</given-names>
+            </name>
+            <name>
+              <surname>Mena</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Craker</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Arnold</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Enhancing health among youth living with HIV using an iPhone game</article-title>
+          <source>AIDS Care</source>
+          <year>2018</year>
+          <volume>30</volume>
+          <issue>sup4</issue>
+          <fpage>21</fpage>
+          <lpage>33</lpage>
+          <comment>
+<ext-link xlink:href="http://europepmc.org/abstract/MED/30626196" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1080/09540121.2018.1503224</pub-id>
+          <pub-id pub-id-type="medline">30626196</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC6422754</pub-id>-->
+          <pub-id pub-id-type="pmid">30626196</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref25">
+        <label>25</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hightow-Weidman</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Muessig</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Knudtson</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Srivatsa</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Lawrence</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>LeGrand</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Hotten</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Hosek</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>A gamified smartphone app to support engagement in care and medication adherence for HIV-positive young men who have sex with men (AllyQuest): development and pilot study</article-title>
+          <source>JMIR Public Health Surveill</source>
+          <year>2018</year>
+          <month>04</month>
+          <day>30</day>
+          <volume>4</volume>
+          <issue>2</issue>
+          <fpage>e34</fpage>
+          <comment>
+<ext-link xlink:href="https://publichealth.jmir.org/2018/2/e34/" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.2196/publichealth.8923</pub-id>
+          <pub-id pub-id-type="medline">29712626</pub-id>
+          <pub-id pub-id-type="pii">v4i2e34</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC5952121</pub-id>-->
+          <pub-id pub-id-type="pmid">29712626</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref26">
+        <label>26</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Castel</surname>
+              <given-names>AD</given-names>
+            </name>
+            <name>
+              <surname>Qasmieh</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Greenberg</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Ellenberger</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Howell</surname>
+              <given-names>TH</given-names>
+            </name>
+            <name>
+              <surname>Griffith</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Wilbourn</surname>
+              <given-names>BC</given-names>
+            </name>
+            <name>
+              <surname>Ganesan</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Hussein</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Ralte</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Rakhmanina</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Digital gaming to improve adherence among adolescents and young adults living with HIV: mixed-methods study to test feasibility and acceptability</article-title>
+          <source>JMIR Serious Games</source>
+          <year>2018</year>
+          <month>10</month>
+          <day>15</day>
+          <volume>6</volume>
+          <issue>4</issue>
+          <fpage>e10213</fpage>
+          <comment>
+<ext-link xlink:href="https://games.jmir.org/2018/4/e10213/" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.2196/10213</pub-id>
+          <pub-id pub-id-type="medline">30322838</pub-id>
+          <pub-id pub-id-type="pii">v6i4e10213</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC6231793</pub-id>-->
+          <pub-id pub-id-type="pmid">30322838</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref27">
+        <label>27</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tang</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>X</given-names>
+            </name>
+            <name>
+              <surname>Ren</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Luo</surname>
+              <given-names>Y</given-names>
+            </name>
+            <name>
+              <surname>Xie</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Wen</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>AIDS fighter health defense: protocol for a randomized controlled trial to test a game-based intervention to improve adolescents' AIDS prevention ability</article-title>
+          <source>BMC Infect Dis</source>
+          <year>2021</year>
+          <month>05</month>
+          <day>22</day>
+          <volume>21</volume>
+          <issue>1</issue>
+          <fpage>469</fpage>
+          <comment>
+<ext-link xlink:href="https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06161-0" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1186/s12879-021-06161-0</pub-id>
+          <pub-id pub-id-type="medline">34022835</pub-id>
+          <pub-id pub-id-type="pii">10.1186/s12879-021-06161-0</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC8141216</pub-id>-->
+          <pub-id pub-id-type="pmid">34022835</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref28">
+        <label>28</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zelaya</surname>
+              <given-names>CE</given-names>
+            </name>
+            <name>
+              <surname>Sivaram</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>SC</given-names>
+            </name>
+            <name>
+              <surname>Srikrishnan</surname>
+              <given-names>AK</given-names>
+            </name>
+            <name>
+              <surname>Solomon</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Celentano</surname>
+              <given-names>DD</given-names>
+            </name>
+          </person-group>
+          <article-title>HIV/AIDS stigma: reliability and validity of a new measurement instrument in Chennai, India</article-title>
+          <source>AIDS Behav</source>
+          <year>2008</year>
+          <month>09</month>
+          <volume>12</volume>
+          <issue>5</issue>
+          <fpage>781</fpage>
+          <lpage>8</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10461-007-9331-7</pub-id>
+          <pub-id pub-id-type="medline">18030613</pub-id>
+          <pub-id pub-id-type="pmid">18030613</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref29">
+        <label>29</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Le</surname>
+              <given-names>PM</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>PT</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>HV</given-names>
+            </name>
+            <name>
+              <surname>Bui</surname>
+              <given-names>DH</given-names>
+            </name>
+            <name>
+              <surname>Vo</surname>
+              <given-names>SH</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>NV</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>TV</given-names>
+            </name>
+            <name>
+              <surname>Tran</surname>
+              <given-names>AT</given-names>
+            </name>
+            <name>
+              <surname>Le</surname>
+              <given-names>AD</given-names>
+            </name>
+            <name>
+              <surname>Ha</surname>
+              <given-names>NM</given-names>
+            </name>
+            <name>
+              <surname>Dao</surname>
+              <given-names>AT</given-names>
+            </name>
+            <name>
+              <surname>Gilmour</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Adherence to highly active antiretroviral therapy among people living with HIV and associated high-risk behaviours and clinical characteristics: a cross-sectional survey in Vietnam</article-title>
+          <source>Int J STD AIDS</source>
+          <year>2021</year>
+          <month>09</month>
+          <volume>32</volume>
+          <issue>10</issue>
+          <fpage>911</fpage>
+          <lpage>918</lpage>
+          <pub-id pub-id-type="doi">10.1177/09564624211002405</pub-id>
+          <pub-id pub-id-type="medline">33861666</pub-id>
+          <pub-id pub-id-type="pmid">33861666</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref30">
+        <label>30</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Torres</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Gruskin</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Buse</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Erkkola</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Bendaud</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Alfv&#xE9;n</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Monitoring HIV-Related laws and policies: lessons for AIDS and global health in Agenda 2030</article-title>
+          <source>AIDS Behav</source>
+          <year>2017</year>
+          <month>07</month>
+          <day>13</day>
+          <volume>21</volume>
+          <issue>Suppl 1</issue>
+          <fpage>51</fpage>
+          <lpage>61</lpage>
+          <pub-id pub-id-type="doi">10.1007/s10461-016-1621-5</pub-id>
+          <pub-id pub-id-type="medline">28084561</pub-id>
+          <pub-id pub-id-type="pii">10.1007/s10461-016-1621-5</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref31">
+        <label>31</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jackson-Best</surname>
+              <given-names>F</given-names>
+            </name>
+            <name>
+              <surname>Edwards</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Stigma and intersectionality: a systematic review of systematic reviews across HIV/AIDS, mental illness, and physical disability</article-title>
+          <source>BMC Public Health</source>
+          <year>2018</year>
+          <month>07</month>
+          <day>27</day>
+          <volume>18</volume>
+          <issue>1</issue>
+          <fpage>919</fpage>
+          <comment>
+<ext-link xlink:href="https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-018-5861-3" ext-link-type="uri"/>
+</comment>
+          <pub-id pub-id-type="doi">10.1186/s12889-018-5861-3</pub-id>
+          <pub-id pub-id-type="medline">30049270</pub-id>
+          <pub-id pub-id-type="pii">10.1186/s12889-018-5861-3</pub-id>
+          <!--<pub-id pub-id-type="pmcid">PMC6062983</pub-id>-->
+          <pub-id pub-id-type="pmid">30049270</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref32">
+        <label>32</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Albarracin</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Shavitt</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Attitudes and attitude change</article-title>
+          <source>Annu Rev Psychol</source>
+          <year>2018</year>
+          <month>01</month>
+          <day>04</day>
+          <volume>69</volume>
+          <issue>1</issue>
+          <fpage>299</fpage>
+          <lpage>327</lpage>
+          <pub-id pub-id-type="doi">10.1146/annurev-psych-122216-011911</pub-id>
+          <pub-id pub-id-type="medline">28841390</pub-id>
+          <pub-id pub-id-type="pmid">28841390</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref33">
+        <label>33</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>PT</given-names>
+            </name>
+            <name>
+              <surname>Gilmour</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Le</surname>
+              <given-names>PM</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>TT</given-names>
+            </name>
+            <name>
+              <surname>Tanuma</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>HV</given-names>
+            </name>
+          </person-group>
+          <article-title>Factors associated with high-risk behaviors of people newly diagnosed with HIV/AIDS: results from a cross-sectional study in Vietnam</article-title>
+          <source>AIDS Care</source>
+          <year>2021</year>
+          <month>05</month>
+          <volume>33</volume>
+          <issue>5</issue>
+          <fpage>607</fpage>
+          <lpage>615</lpage>
+          <pub-id pub-id-type="doi">10.1080/09540121.2020.1761519</pub-id>
+          <pub-id pub-id-type="medline">32397740</pub-id>
+          <pub-id pub-id-type="pmid">32397740</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

@@ -1,0 +1,544 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" id="jia225893" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">J Int AIDS Soc</journal-id>
+      <journal-id journal-id-type="iso-abbrev">J Int AIDS Soc</journal-id>
+      <journal-id journal-id-type="doi">10.1002/(ISSN)1758-2652</journal-id>
+      <journal-id journal-id-type="publisher-id">JIA2</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of the International AIDS Society</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1758-2652</issn>
+      <publisher>
+        <publisher-name>John Wiley and Sons Inc.</publisher-name>
+        <publisher-loc>Hoboken</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">35229482</article-id>
+      <article-id pub-id-type="pmc">8886176</article-id>
+      <article-id pub-id-type="doi">10.1002/jia2.25893</article-id>
+      <article-id pub-id-type="publisher-id">JIA225893</article-id>
+      <article-categories>
+        <subj-group subj-group-type="overline">
+          <subject>Viewpoint</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Viewpoint</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Addressing stigma and discrimination at scale: uniting for a common vision while acknowledging local realities</article-title>
+        <alt-title alt-title-type="left-running-head">Stackpool&#x2010;Moore L et&#xA0;al.</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib id="jia225893-cr-0001" contrib-type="author" corresp="yes">
+          <name>
+            <surname>Stackpool&#x2010;Moore</surname>
+            <given-names>Lucy</given-names>
+          </name>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9862-5564</contrib-id>
+          <xref rid="jia225893-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="jia225893-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref>
+          <address>
+            <email>Lucy.stackpool-moore@iasociety.org</email>
+          </address>
+        </contrib>
+        <contrib id="jia225893-cr-0002" contrib-type="author">
+          <name>
+            <surname>Nkosi</surname>
+            <given-names>Sbongile</given-names>
+          </name>
+          <xref rid="jia225893-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref>
+        </contrib>
+        <contrib id="jia225893-cr-0003" contrib-type="author">
+          <name>
+            <surname>Kasune Zulu</surname>
+            <given-names>Princess</given-names>
+          </name>
+          <xref rid="jia225893-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref>
+        </contrib>
+        <contrib id="jia225893-cr-0004" contrib-type="author">
+          <name>
+            <surname>Presley</surname>
+            <given-names>Josie</given-names>
+          </name>
+          <xref rid="jia225893-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref>
+        </contrib>
+        <contrib id="jia225893-cr-0005" contrib-type="author">
+          <name>
+            <surname>Ferguson</surname>
+            <given-names>Laura</given-names>
+          </name>
+          <contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-1340-793X</contrib-id>
+          <xref rid="jia225893-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="jia225893-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>IAS</institution>
+<city>Geneva</city>
+<country country="CH">Switzerland</country>
+</aff>
+      <aff id="jia225893-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Watipa</institution>
+<city>Sydney</city>
+<named-content content-type="country-part">New South Wales</named-content>
+<country country="AU">Australia</country>
+</aff>
+      <aff id="jia225893-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<institution>GNP+</institution>
+<city>Cape Town</city>
+<country country="ZA">South Africa</country>
+</aff>
+      <aff id="jia225893-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>Government of Zambia</institution>
+<city>Lusaka</city>
+<country country="ZM">Zambia</country>
+</aff>
+      <aff id="jia225893-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Global Health Division&#x2010;HIV</named-content>
+<institution>Bill and Melinda Gates Foundation</institution>
+<city>Seattle</city>
+<named-content content-type="country-part">Washington</named-content>
+<country country="US">USA</country>
+</aff>
+      <aff id="jia225893-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<institution>Institute on Inequalities in Global Health, University of Southern California</institution>
+<city>Los Angeles</city>
+<named-content content-type="country-part">California</named-content>
+<country country="US">USA</country>
+</aff>
+      <author-notes>
+        <corresp id="correspondenceTo">
+<label>*</label>
+<bold>Corresponding author</bold>: Lucy Stackpool&#x2010;Moore, IAS, Avenue de France 23, Geneva 1202, Switzerland. Tel: +61 470 159 536. (<email>Lucy.stackpool-moore@iasociety.org</email>)<break/>
+</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>2</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>3</month>
+        <year>2022</year>
+      </pub-date>
+      <volume>25</volume>
+      <issue seq="20">3</issue>
+      <issue-id pub-id-type="doi">10.1002/jia2.v25.3</issue-id>
+      <elocation-id>e25893</elocation-id>
+      <history>
+<date date-type="received"><day>10</day><month>1</month><year>2022</year></date>
+<date date-type="accepted"><day>10</day><month>2</month><year>2022</year></date>
+</history>
+      <permissions>
+        <!--&#x000a9; 2022 International AIDS Society-->
+        <copyright-statement content-type="article-copyright">&#xA9; 2022 The Authors. <italic toggle="yes">Journal of the International AIDS Society</italic> published by John Wiley &amp; Sons Ltd on behalf of the International AIDS Society.</copyright-statement>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p>
+        </license>
+      </permissions>
+      <self-uri content-type="pdf" xlink:href="file:JIA2-25-e25893.pdf"/>
+      <funding-group>
+        <award-group id="funding-0001">
+          <funding-source>
+            <institution-wrap>
+              <institution>Bill and Melinda Gates Foundation
+</institution>
+              <institution-id institution-id-type="doi">10.13039/100000865</institution-id>
+            </institution-wrap>
+          </funding-source>
+          <award-id>INV&#x2010;004364</award-id>
+        </award-group>
+      </funding-group>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="0"/>
+        <page-count count="2"/>
+        <word-count count="1844"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>source-schema-version-number</meta-name>
+          <meta-value>2.0</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>cover-date</meta-name>
+          <meta-value>March 2022</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>details-of-publishers-convertor</meta-name>
+          <meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.1.1 mode:remove_FC converted:01.03.2022</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="opening-section" id="jia225893-sec-0010">
+      <label>1</label>
+      <p>A strong evidence base exists about the role of stigma and discrimination in undermining the global HIV response; and yet, urgent action is needed to translate this evidence to address stigma at scale. Too often &#x201C;stigma and discrimination&#x201D; are referred to jointly, without due attention to the specific details and action needed to address each distinct yet related area. On Zero Discrimination Day, we acknowledge that stigma and discrimination are due attention and action &#x2014; independently and jointly &#x2014; in order to mutually reinforce progress in reducing the harmful effects of stigma and achieving zero discrimination.</p>
+      <p>Despite decades of scientific advances in prevention and treatment, and widespread awareness&#x2010;raising efforts [<xref rid="jia225893-bib-0001" ref-type="bibr">1</xref>], stigma and discrimination remain &#x201C;twin barriers&#x201D; impeding progress in response to HIV and are a central concern of the current UNAIDS Global AIDS Strategy to end inequalities. The inclusion of commitments towards eliminating HIV&#x2010;related stigma and discrimination within the Political Declaration agreed at the 2021 United Nations High Level Meeting on HIV/AIDS for the first time also signals a conducive global political environment for action at scale. In a similar vein, funders are following the evidence and investing in analyses and programs that have been shown to be effective to address stigma and discrimination, as evinced by the Global Fund's commitment; the attention to intersectional and HIV&#x2010;related stigma by the National Institutes of Health; and the investment in consolidating the evidence base and the state of the field by the Bill and Melinda Gates Foundation.</p>
+      <p>Discrimination can constitute a human rights abuse, for which there are tangible state obligations and accountability measures [<xref rid="jia225893-bib-0002" ref-type="bibr">2</xref>]. Stigma is more subtle and is a process that devalues an individual through labels, which emanate from making people experience &#x201C;otherness&#x201D; resulting in social isolation and a diminished sense of self [<xref rid="jia225893-bib-0003" ref-type="bibr">3</xref>]. Stigma and discrimination negatively affect the quality of life of people living with HIV through multiple pathways, including social rejection, low self&#x2010;esteem and barriers to accessing health and support services [<xref rid="jia225893-bib-0004" ref-type="bibr">4</xref>]. Healthcare settings can provide lifesaving care, and yet commonly are sites where stigma and/or discrimination may be experienced by people living with HIV, who additionally report devaluing experiences in other social, cultural and institutional settings [<xref rid="jia225893-bib-0005" ref-type="bibr">5</xref>, <xref rid="jia225893-bib-0006" ref-type="bibr">6</xref>]. Stigma can cause discrimination, entrenched in laws and policies and cultural norms governing peoples&#x2019; actions. Stigma can also be triggered by discrimination, as well as other factors, such as anticipation or perception of being judged. Stigma can be internalized, affecting how people feel about themselves and indirectly can impact their actions, which is even more challenging to measure or make &#x201C;visible&#x201D; [<xref rid="jia225893-bib-0007" ref-type="bibr">7</xref>, <xref rid="jia225893-bib-0008" ref-type="bibr">8</xref>].</p>
+      <p>As defined by the Global Partnership for Action to Eliminate all Forms of Stigma and Discrimination [<xref rid="jia225893-bib-0009" ref-type="bibr">9</xref>]: <italic toggle="yes">HIV&#x2010;related stigma</italic> is evident in irrational or fear&#x2010;driven negative attitudes, behaviours and judgements towards people living with HIV, their partners and families, and key populations. <italic toggle="yes">HIV&#x2010;related discrimination</italic> is unfair and unjust treatment of a person, or group of people, based on their real or perceived HIV status.</p>
+      <p>Acts of discrimination are often witnessed, documented and verifiable at a specific moment in time or over a series of sustained interactions. As stated by Amon et&#xA0;al., understanding discrimination as a human rights abuse for which governments have specific legal obligations facilitates a more&#xA0;effective response to&#xA0;HIV even in environments with significant, entrenched stigma. Stigma, on the other hand, has been harder to define, measure and ameliorate. As a result, several efforts have attempted to conceptualize and further develop definitions of stigma. Naming and defining domains and drivers of stigma, as well as developing bespoke tools and measurement approaches, have unequivocally finessed concepts and facilitated the development of a robust and diverse evidence base to understand stigma, such as the recent development of the Health Stigma and Discrimination Framework [<xref rid="jia225893-bib-0010" ref-type="bibr">10</xref>]. Other widely cited examples include [<xref rid="jia225893-bib-0011" ref-type="bibr">11</xref>] and [<xref rid="jia225893-bib-0012" ref-type="bibr">12</xref>]. Notably, the People Living with HIV Stigma Index [<xref rid="jia225893-bib-0013" ref-type="bibr">13</xref> has demonstrated how community leadership and scientific leadership can partner to robustly document stigma and then use a similar tool to track its evolution (or lack thereof) and compare change over time [<xref rid="jia225893-bib-0006" ref-type="bibr">6</xref>]. Yet, an unintended consequence of these many efforts to better theorize and define stigma has been the emergence of a plethora of scales, tools and frameworks tracking and defining stigma differently in different contexts and populations [<xref rid="jia225893-bib-0014" ref-type="bibr">14</xref>]. Concepts of stigma continue to evolve, such as by viewing HIV in relation to other areas, such as sexual orientation and gender identities, age, sex work, illicit drug use and living with a disability [<xref rid="jia225893-bib-0015" ref-type="bibr">15</xref>]. In contrast, discrimination remains &#x201C;under&#x2010;theorized&#x201D; [<xref rid="jia225893-bib-0002" ref-type="bibr">2</xref>].</p>
+      <p>Experiences of stigma, and acts of discrimination, exist within life contexts, as well as a larger web of socio&#x2010;cultural experiences and inequities. For example, a recent systematic review found that poor health outcomes of adolescents living with HIV were related to anticipated stigma, internalized stigma and stigma experienced when accessing healthcare [<xref rid="jia225893-bib-0016" ref-type="bibr">16</xref>]. Similarly, a more comprehensive view of gender identities has increased, and studies have highlighted stigma experienced by cis&#x2010; and transgender people [<xref rid="jia225893-bib-0017" ref-type="bibr">17</xref>, <xref rid="jia225893-bib-0018" ref-type="bibr">18</xref>]. HIV&#x2010;related stigma and acts of discrimination are hard to disentangle from values and judgements relating to sexuality, age, gender norms and intimate relations. Community&#x2010;led interventions often succeed because they seek to achieve this and take a more holistic and peer&#x2010;based approach [<xref rid="jia225893-bib-0019" ref-type="bibr">19</xref>].</p>
+      <p>That stigma is socially constructed, discrimination is legally constructed and both are context specific has complicated our efforts to understand them. Efforts to address stigma, and discrimination, are best situated within multi&#x2010;sectoral as well as specific efforts to promote complete health and wellbeing for people living with and most vulnerable to HIV. Everyone is entitled to the highest attainable standard of health defined as physical, mental and social wellbeing; it is a human right.</p>
+      <p>We must unite and learn from historical efforts, celebrate the courageous individuals and interventions that effectively challenge stigma and seek redress for discrimination, and move forward by better documenting processes, evaluating progress, measuring change over time and learning so that the context specific can also inform a broader view. This requires precise articulation of stigma, and discrimination, in relation to and distinct from each other. Many sectors, including, but not only, health, need to align and address issues that impede quality of life, including manifestations of stigma and acts of discrimination. School curricula and professional education should also focus on solutions, and should be resourced to systemically address inclusion, diversity, respect and dignity for all. Action must be duly targeted, and resources appropriately allocated, so that reducing stigma and achieving zero discrimination can be realized at scale.</p>
+    </sec>
+    <sec sec-type="COI-statement" id="jia225893-sec-0020">
+      <title>COMPETING INTERESTS</title>
+      <p>LSM, SN, PKZ and LF declare no competing interests. JP works for the Bill and Melinda Gates Foundation, which supports the &#x201C;getting to the heart of stigma initiative&#x201D; of the IAS.</p>
+    </sec>
+    <sec sec-type="COI-statement" id="jia225893-sec-0030">
+      <title>AUTHORS&#x2019; CONTRIBUTIONS</title>
+      <p>LSM, LF, JP, SN and PKZ conceptualized the argument. LSM wrote the draft. LF, JP, SN and PKZ commented and reviewed the viewpoint. LSM finalized the viewpoint.</p>
+    </sec>
+  </body>
+  <back>
+    <ack id="jia225893-sec-0040">
+      <title>ACKNOWLEDGEMENTS</title>
+      <p>The authors acknowledge the support of Tessa Oraro&#x2010;Lawrence and Kasoka Kasoka of the IAS, and Georgina Caswell of GNP+ for this viewpoint as well as the support from the Bill and Melinda Gates Foundation, Investment number INV&#x2010;004364.</p>
+    </ack>
+    <ref-list id="jia225893-bibl-0001">
+      <title>REFERENCES</title>
+      <ref id="jia225893-bib-0001">
+        <label>1</label>
+        <mixed-citation publication-type="journal" id="jia225893-cit-0001">
+<string-name>
+<surname>Nyblade</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Mingkwan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Stockton</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>Stigma reduction: an essential ingredient to ending AIDS by 2030</article-title>. <source>Lancet HIV</source>. <year>2021</year>;<volume>8</volume>(<issue>2</issue>):<fpage>e106</fpage>&#x2013;<lpage>13</lpage>.<pub-id pub-id-type="pmid">33539757</pub-id></mixed-citation>
+      </ref>
+      <ref id="jia225893-bib-0002">
+        <label>2</label>
+        <mixed-citation publication-type="journal" id="jia225893-cit-0002">
+<string-name>
+<surname>Amon</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Iovita</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Jurgens</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Csete</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Addressing stigma is not enough</article-title>. <source>Health Hum Rights J</source>. <year>2022</year>. <ext-link xlink:href="https://www.hhrjournal.org/2022/01/addressing-stigma-is-not-enough/" ext-link-type="uri">https://www.hhrjournal.org/2022/01/addressing-stigma-is-not-enough/</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jia225893-bib-0003">
+        <label>3</label>
+        <mixed-citation publication-type="book" id="jia225893-cit-0003">
+<string-name>
+<surname>Goffman</surname>
+<given-names>E</given-names>
+</string-name>. <source>Stigma: notes on the management of spoiled identity</source>. <publisher-name>Simon and Schuster</publisher-name>; <year>2009</year>.</mixed-citation>
+      </ref>
+      <ref id="jia225893-bib-0004">
+        <label>4</label>
+        <mixed-citation publication-type="journal" id="jia225893-cit-0004">
+<string-name>
+<surname>Lazarus</surname>
+<given-names>JV</given-names>
+</string-name>, <string-name>
+<surname>Safreed&#x2010;Harmon</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kamarulzaman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Leite</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Behrens</surname>
+<given-names>G</given-names>
+</string-name>, et&#xA0;al. <article-title>Consensus statement on the role of health systems in advancing the long&#x2010;term well&#x2010;being of people living with HIV</article-title>. <source>Nat Commun</source>. <year>2021</year>;<volume>12</volume>(<issue>1</issue>):<fpage>4450</fpage>.<pub-id pub-id-type="pmid">34272399</pub-id></mixed-citation>
+      </ref>
+      <ref id="jia225893-bib-0005">
+        <label>5</label>
+        <mixed-citation publication-type="journal" id="jia225893-cit-0005">
+<string-name>
+<surname>Ncitakalo</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Mabaso</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Joska</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Simbayi</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Factors associated with external HIV&#x2010;related stigma and psychological distress among people living with HIV in South Africa</article-title>. <source>SSM Popul Health</source>. <year>2021</year>;<volume>14</volume>:<elocation-id>100809</elocation-id>.<pub-id pub-id-type="pmid">34027011</pub-id></mixed-citation>
+      </ref>
+      <ref id="jia225893-bib-0006">
+        <label>6</label>
+        <mixed-citation publication-type="journal" id="jia225893-cit-0006">
+<string-name>
+<surname>Friedland</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Gottert</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hows</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Baral</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Sprague</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Nyblade</surname>
+<given-names>L</given-names>
+</string-name>, et&#xA0;al. <article-title>The People Living with HIV Stigma Index 2.0: generating critical evidence for change worldwide</article-title>. <source>AIDS</source>. <year>2020</year>;<volume>34</volume>:<fpage>S5</fpage>&#x2013;<lpage>18</lpage>.<pub-id pub-id-type="pmid">32881790</pub-id></mixed-citation>
+      </ref>
+      <ref id="jia225893-bib-0007">
+        <label>7</label>
+        <mixed-citation publication-type="journal" id="jia225893-cit-0007">
+<string-name>
+<surname>Pantelic</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Steinert</surname>
+<given-names>JI</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mellors</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Murau</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>&#x2018;Management of a spoiled identity&#x2019;: systematic review of interventions to address self&#x2010;stigma among people living with and affected by HIV</article-title>. <source>BMJ Glob Health</source>. <year>2019</year>;<volume>4</volume>(<issue>2</issue>):<elocation-id>e001285</elocation-id>.</mixed-citation>
+      </ref>
+      <ref id="jia225893-bib-0008">
+        <label>8</label>
+        <mixed-citation publication-type="journal" id="jia225893-cit-0008">
+<string-name>
+<surname>Bond</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Nomsenge</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Mwamba</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ziba</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Birch</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mubekapi&#x2010;Musadaidzwa</surname>
+<given-names>C</given-names>
+</string-name>, et&#xA0;al. <article-title>&#x201C;Being seen&#x201D; at the clinic: Zambian and South African health worker reflections on the relationship between health facility spatial organisation and items and HIV stigma in 21 health facilities, the HPTN 071 (PopART) study</article-title>. <source>Health Place</source>. <year>2019</year>;<volume>55</volume>:<fpage>87</fpage>&#x2013;<lpage>99</lpage>.<pub-id pub-id-type="pmid">30528346</pub-id></mixed-citation>
+      </ref>
+      <ref id="jia225893-bib-0009">
+        <label>9</label>
+        <mixed-citation publication-type="miscellaneous" id="jia225893-cit-0009">
+<collab collab-type="authors">UNAIDS</collab>
+. <article-title>Global Partnership for Action to Eliminate All Forms of HIV&#x2010;Related Stigma and Discrimination</article-title>, December 10, <year>2018</year>. <ext-link xlink:href="https://www.unaids.org/en/resources/documents/2018/global-partnership-hiv-stigma-discrimination" ext-link-type="uri">https://www.unaids.org/en/resources/documents/2018/global-partnership-hiv-stigma-discrimination</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jia225893-bib-0010">
+        <label>10</label>
+        <mixed-citation publication-type="journal" id="jia225893-cit-0010">
+<string-name>
+<surname>Stangl</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Earnshaw</surname>
+<given-names>VA</given-names>
+</string-name>, <string-name>
+<surname>Logie</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>van Brakel</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Simbayi</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Barr&#xE9;</surname>
+<given-names>I</given-names>
+</string-name>, et&#xA0;al. <article-title>The Health Stigma and Discrimination Framework: a global, crosscutting framework to inform research, intervention development, and policy on health&#x2010;related stigmas</article-title>. <source>BMC Med</source>. <year>2019</year>;<volume>17</volume>(<issue>1</issue>):<fpage>1</fpage>&#x2013;<lpage>3</lpage>.<pub-id pub-id-type="pmid">30651111</pub-id></mixed-citation>
+      </ref>
+      <ref id="jia225893-bib-0011">
+        <label>11</label>
+        <mixed-citation publication-type="journal" id="jia225893-cit-0011">
+<string-name>
+<surname>Link</surname>
+<given-names>BG</given-names>
+</string-name>, <string-name>
+<surname>Phelan</surname>
+<given-names>JC</given-names>
+</string-name>. <article-title>Conceptualizing stigma</article-title>. <source>Annu Rev Sociol</source>. <year>2001</year>;<volume>27</volume>(<issue>1</issue>):<fpage>363</fpage>&#x2013;<lpage>85</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jia225893-bib-0012">
+        <label>12</label>
+        <mixed-citation publication-type="journal" id="jia225893-cit-0012">
+<string-name>
+<surname>Parker</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Aggleton</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>HIV and AIDS&#x2010;related stigma and discrimination: a conceptual framework and implications for action</article-title>. <source>Soc Sci Med</source>. <year>2003</year>;<volume>57</volume>(<issue>1</issue>):<fpage>13</fpage>&#x2013;<lpage>24</lpage>.<pub-id pub-id-type="pmid">12753813</pub-id></mixed-citation>
+      </ref>
+      <ref id="jia225893-bib-0013">
+        <label>13</label>
+        <mixed-citation publication-type="miscellaneous" id="jia225893-cit-0013">
+<article-title>People Living with HIV Stigma Index</article-title>. <ext-link xlink:href="https://www.stigmaindex.org/" ext-link-type="uri">https://www.stigmaindex.org/</ext-link>
+</mixed-citation>
+      </ref>
+      <ref id="jia225893-bib-0014">
+        <label>14</label>
+        <mixed-citation publication-type="journal" id="jia225893-cit-0014">
+<string-name>
+<surname>Ferguson</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Gruskin</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bolshakova</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Yagyu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Fu</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Cabrera</surname>
+<given-names>N</given-names>
+</string-name>, et&#xA0;al. <article-title>Frameworks and measures for HIV&#x2010;related internalized stigma, stigma and discrimination in healthcare and in laws and policies: a systematic review</article-title>. <source>J Int AIDS Soc</source>. Under review.</mixed-citation>
+      </ref>
+      <ref id="jia225893-bib-0015">
+        <label>15</label>
+        <mixed-citation publication-type="journal" id="jia225893-cit-0015">
+<string-name>
+<surname>Jackson&#x2010;Best</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Edwards</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Stigma and intersectionality: a systematic review of systematic reviews across HIV/AIDS, mental illness, and physical disability</article-title>. <source>BMC Public Health</source>. <year>2018</year>;<volume>18</volume>(<issue>1</issue>):<fpage>1</fpage>&#x2013;<lpage>9</lpage>.</mixed-citation>
+      </ref>
+      <ref id="jia225893-bib-0016">
+        <label>16</label>
+        <mixed-citation publication-type="journal" id="jia225893-cit-0016">
+<string-name>
+<surname>Woollett</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Pahad</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Black</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>&#x201C;We need our own clinics&#x201D;: adolescents&#x2019; living with HIV recommendations for a responsive health system</article-title>. <source>PLoS One</source>. <year>2021</year>;<volume>16</volume>(<issue>7</issue>):<elocation-id>e0253984</elocation-id>.<pub-id pub-id-type="pmid">34197529</pub-id></mixed-citation>
+      </ref>
+      <ref id="jia225893-bib-0017">
+        <label>17</label>
+        <mixed-citation publication-type="journal" id="jia225893-cit-0017">
+<string-name>
+<surname>Poteat</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Wirtz</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Reisner</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Strategies for engaging transgender populations in HIV prevention and care</article-title>. <source>Curr Opin HIV AIDS</source>. <year>2019</year>;<volume>14</volume>(<issue>5</issue>):<fpage>393</fpage>&#x2013;<lpage>400</lpage>.<pub-id pub-id-type="pmid">31219887</pub-id></mixed-citation>
+      </ref>
+      <ref id="jia225893-bib-0018">
+        <label>18</label>
+        <mixed-citation publication-type="journal" id="jia225893-cit-0018">
+<string-name>
+<surname>Monteiro</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Villela</surname>
+<given-names>WV</given-names>
+</string-name>, <string-name>
+<surname>Soares</surname>
+<given-names>PS</given-names>
+</string-name>. <article-title>The interaction between axes of inequality in studies on discrimination, stigma and HIV/AIDS: contributions to the recent international literature</article-title>. <source>Glob Public Health</source>. <year>2013</year>;<volume>8</volume>(<issue>5</issue>):<fpage>519</fpage>&#x2013;<lpage>33</lpage>.<pub-id pub-id-type="pmid">23550558</pub-id></mixed-citation>
+      </ref>
+      <ref id="jia225893-bib-0019">
+        <label>19</label>
+        <mixed-citation publication-type="journal" id="jia225893-cit-0019">
+<string-name>
+<surname>Oliveras</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Cluver</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Bernays</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Armstrong</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Nothing about us without RIGHTS&#x2014;meaningful engagement of children and youth: from research prioritization to clinical trials, implementation science, and policy</article-title>. <source>J Acquir Immune Defic Syndr</source>. <year>2018</year>;<volume>78</volume>(<issue>1</issue>):<fpage>S27</fpage>&#x2013;<lpage>31</lpage>.<pub-id pub-id-type="pmid">29994917</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

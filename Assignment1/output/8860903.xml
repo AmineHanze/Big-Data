@@ -1,0 +1,1116 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Front Psychiatry</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Front Psychiatry</journal-id>
+      <journal-id journal-id-type="publisher-id">Front. Psychiatry</journal-id>
+      <journal-title-group>
+        <journal-title>Frontiers in Psychiatry</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">1664-0640</issn>
+      <publisher>
+        <publisher-name>Frontiers Media S.A.</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">35211044</article-id>
+      <article-id pub-id-type="pmc">8860903</article-id>
+      <article-id pub-id-type="doi">10.3389/fpsyt.2022.823504</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Psychiatry</subject>
+          <subj-group>
+            <subject>Original Research</subject>
+          </subj-group>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Measurement Invariance of the Questionnaire on the Internal Stigma of Internet Surfing Among Sino-Australian Undergraduates</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Luo</surname>
+            <given-names>Jie</given-names>
+          </name>
+          <xref rid="aff1" ref-type="aff">
+<sup>1</sup>
+</xref>
+          <xref rid="fn002" ref-type="author-notes">
+<sup>&#x2020;</sup>
+</xref>
+          <uri xlink:href="http://loop.frontiersin.org/people/720416/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ge</surname>
+            <given-names>Ying</given-names>
+          </name>
+          <xref rid="aff2" ref-type="aff">
+<sup>2</sup>
+</xref>
+          <xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref>
+          <xref rid="aff4" ref-type="aff">
+<sup>4</sup>
+</xref>
+          <xref rid="fn002" ref-type="author-notes">
+<sup>&#x2020;</sup>
+</xref>
+          <uri xlink:href="http://loop.frontiersin.org/people/921826/overview"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hao</surname>
+            <given-names>Ji-chun</given-names>
+          </name>
+          <xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref>
+          <uri xlink:href="http://loop.frontiersin.org/people/1602546/overview"/>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Wilkinson</surname>
+            <given-names>Ross B.</given-names>
+          </name>
+          <xref rid="aff3" ref-type="aff">
+<sup>3</sup>
+</xref>
+          <xref rid="c001" ref-type="corresp">
+<sup>*</sup>
+</xref>
+        </contrib>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Wenger</surname>
+            <given-names>Jay L.</given-names>
+          </name>
+          <xref rid="aff5" ref-type="aff">
+<sup>5</sup>
+</xref>
+          <xref rid="c002" ref-type="corresp">
+<sup>*</sup>
+</xref>
+          <uri xlink:href="http://loop.frontiersin.org/people/1493783/overview"/>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1"><sup>1</sup><institution>School of Psychology, Guizhou Normal University</institution>, <addr-line>Guiyang</addr-line>, <country>China</country></aff>
+      <aff id="aff2"><sup>2</sup><institution>Key Laboratory of Emotion and Mental Health in Chongqing, Chongqing University of Arts and Sciences</institution>, <addr-line>Chongqing</addr-line>, <country>China</country></aff>
+      <aff id="aff3"><sup>3</sup><institution>School of Psychology, The University of Newcastle</institution>, <addr-line>Newcastle, NSW</addr-line>, <country>Australia</country></aff>
+      <aff id="aff4"><sup>4</sup><institution>School of Humanities and Social Sciences, Fuzhou University</institution>, <addr-line>Fuzhou</addr-line>, <country>China</country></aff>
+      <aff id="aff5"><sup>5</sup><institution>Social Sciences Division, HACC, Central Pennsylvania's Community College</institution>, <addr-line>Lancaster, PA</addr-line>, <country>United States</country></aff>
+      <author-notes>
+        <fn fn-type="edited-by">
+          <p>Edited by: Haibo Yang, Tianjin Normal University, China</p>
+        </fn>
+        <fn fn-type="edited-by">
+          <p>Reviewed by: Gino Casale, University of Wuppertal, Germany; Ana Mafla, Cooperative University of Colombia, Colombia; Yayi Prabandari, Gadjah Mada University, Indonesia</p>
+        </fn>
+        <corresp id="c001">*Correspondence: Ross B. Wilkinson <email>Ross.Wilkinson@newcastle.edu.au</email></corresp>
+        <corresp id="c002">Jay L. Wenger <email>jlwenger@hacc.edu</email></corresp>
+        <fn fn-type="other" id="fn001">
+          <p>This article was submitted to Public Mental Health, a section of the journal Frontiers in Psychiatry</p>
+        </fn>
+        <fn fn-type="equal" id="fn002">
+          <p>&#x2020;These authors share first authorship</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>08</day>
+        <month>2</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2022</year>
+      </pub-date>
+      <volume>13</volume>
+      <elocation-id>823504</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>27</day>
+          <month>11</month>
+          <year>2021</year>
+        </date>
+        <date date-type="accepted">
+          <day>06</day>
+          <month>1</month>
+          <year>2022</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright &#xA9; 2022 Luo, Ge, Hao, Wilkinson and Wenger.</copyright-statement>
+        <copyright-year>2022</copyright-year>
+        <copyright-holder>Luo, Ge, Hao, Wilkinson and Wenger</copyright-holder>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <sec>
+          <title>Background</title>
+          <p>The stigma of internet surfing is a relatively new area of study arising from the popularity of the internet. The Questionnaire on the Internal Stigma of Internet Surfing-9 (QISIS-9) was developed for the Chinese culture, so its suitability for use in other cultural contexts is uncertain. This paper examines the measurement invariance of the QISIS-9 among Sino-Australian undergraduates to verify the cross-cultural measurement invariance of QISIS-9 and promote cross-cultural (nationality) research regarding the internal stigma of internet surfing.</p>
+        </sec>
+        <sec>
+          <title>Methods</title>
+          <p>The Internal Stigma of Internet Surfing-9 (QISIS-9) was used to assess 200 Chinese undergraduates (50% female, M<sub>age</sub> = 19.78) and 204 Australian undergraduates (76% female, M<sub>age</sub> = 21.10), respectively.</p>
+        </sec>
+        <sec>
+          <title>Results</title>
+          <p>A confirmatory factor analysis (CFA) indicated that the single-factor model of QISIS-9 is acceptable with both Chinese and Australian undergraduates. However, the factor loading of Item 9, to which a reverse score is assigned, is not ideal for both samples. Thus, the item should be deleted. According to a multigroup confirmatory factor analysis (MCFA), QISIS-8, the revised version of QISIS-9, meets the strict measurement invariance among the Chinese and Australian participants. The QISIS-8 demonstrated appropriate internal consistency in the scores for both the Chinese and Australian undergraduates.</p>
+        </sec>
+        <sec>
+          <title>Conclusion</title>
+          <p>The new QISIS-8 can effectively assess the internal stigma of internet surfing among Chinese and Australian undergraduates, and it provides a frame of reference for further cross-cultural (border) comparisons.</p>
+        </sec>
+      </abstract>
+      <kwd-group>
+        <kwd>stigma</kwd>
+        <kwd>internal stigma of Internet surfing</kwd>
+        <kwd>QISIS</kwd>
+        <kwd>measurement invariance</kwd>
+        <kwd>Sino-Australian undergraduates</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="0"/>
+        <table-count count="3"/>
+        <equation-count count="0"/>
+        <ref-count count="85"/>
+        <page-count count="9"/>
+        <word-count count="8072"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="s1">
+      <title>Introduction</title>
+      <p>Thirty-five percent of the world's population uses the internet, half of whom are youth. The latest internet report, produced in 2021, shows that 33.0% of netizens are under age 29 (<xref rid="B1" ref-type="bibr">1</xref>). According to a 2016 survey, 83% of Australian youth surfed the internet about three times a day and spent an average of 14 h each month on the internet (<xref rid="B2" ref-type="bibr">2</xref>). This amount of internet use contributes enormously to the study and life of undergraduates. However, excessive use of the internet has its negative effects, such as internet addiction, social alienation and stigma of internet surfing etc. that associate internet surfing with mental health problems. Negativity and facilitation coexist in the development of the internet. Identifying the patterns of use and guiding netizens into using the internet in positive ways are worthwhile pursuits.</p>
+      <p>China and Australia are home to a slew of data centers, but they have different cultures and eco-environments. Chinese culture is a collectivistic cultural model based on Han culture, and cognitive modes tend to converge and conform. Australia is a country of immigrants, where people of all races live together, but the western individualistic cultural system is dominant, and cognitive judgments and value evaluations are more personalized (<xref rid="B3" ref-type="bibr">3</xref>). Therefore, it is of great theoretical and practical significance to study the status quo and characteristics of the internal stigma of internet surfing among Sino-Australian undergraduates from a cross-cultural perspective.</p>
+      <sec>
+        <title>Stigma</title>
+        <p>Goffman (<xref rid="B4" ref-type="bibr">4</xref>) was the first to frame the concept of stigma. He defines it as the derogatory and humiliating label that society attaches to individuals or groups who display conditions, attributes, quality, characteristics, or behaviors unacceptable in their own culture. Early research on stigma focused on individuals' unacceptable characteristics (<xref rid="B4" ref-type="bibr">4</xref>). Later, some scholars (<xref rid="B5" ref-type="bibr">5</xref>, <xref rid="B6" ref-type="bibr">6</xref>) revised the concept and pointed out that this attribute conveys a depreciated social identity. The concept of stigma was first introduced to the Chinese academic community by Xie (<xref rid="B7" ref-type="bibr">7</xref>). Around 2000, the Chinese Mainland began research on stigma in medical science, sociology, social psychology, and anthropology. Guan (<xref rid="B8" ref-type="bibr">8</xref>) and Guo (<xref rid="B9" ref-type="bibr">9</xref>), for example, studied the conceptual characteristics of stigma and explored ways of stigma model building (<xref rid="B8" ref-type="bibr">8</xref>, <xref rid="B9" ref-type="bibr">9</xref>). Stigma is generally regarded as a multidimensional composite comprising stereotype (negative cognitive appraisal), prejudice (negative emotional response), and discrimination (disposition to discriminating behavior) (<xref rid="B5" ref-type="bibr">5</xref>, <xref rid="B10" ref-type="bibr">10</xref>).</p>
+        <p>The stigmas of physical and mental illnesses are foremost in Chinese and international research on stigmas (<xref rid="B10" ref-type="bibr">10</xref>&#x2013;<xref rid="B16" ref-type="bibr">16</xref>). Research on the stigma of social identity comes in second place, covering race / nationality, sex, and special groups. The stigma of race/nationality has long been a hot topic among Western scholars (<xref rid="B17" ref-type="bibr">17</xref>&#x2013;<xref rid="B19" ref-type="bibr">19</xref>). Western and Taiwanese researchers often study the stigma of gender discrimination from the feminist perspective (<xref rid="B20" ref-type="bibr">20</xref>&#x2013;<xref rid="B22" ref-type="bibr">22</xref>), and most scholars on Chinese Mainland study the stigma of sex from the perspective of gender stereotypes (<xref rid="B23" ref-type="bibr">23</xref>&#x2013;<xref rid="B26" ref-type="bibr">26</xref>). Western scholars look closely at homosexuals and drug abusers in their research of special groups (<xref rid="B27" ref-type="bibr">27</xref>&#x2013;<xref rid="B31" ref-type="bibr">31</xref>), while Chinese scholars pay more attention on local issues, such as migrant workers (<xref rid="B32" ref-type="bibr">32</xref>&#x2013;<xref rid="B35" ref-type="bibr">35</xref>), migrant populations (<xref rid="B36" ref-type="bibr">36</xref>, <xref rid="B37" ref-type="bibr">37</xref>), and phoenix men (<xref rid="B38" ref-type="bibr">38</xref>&#x2013;<xref rid="B40" ref-type="bibr">40</xref>). A new term, the stigma of internet surfing, has been coined amidst the rapid development of the internet and its potentially negative effects.</p>
+      </sec>
+      <sec>
+        <title>Stigma of Internet Surfing</title>
+        <p>The stigma of internet surfing is a relatively new area of study arising from the popularity of the internet. It was coined by Chinese scholar Lei et al. (<xref rid="B41" ref-type="bibr">41</xref>) to describe the negative stereotypes, prejudices, and discrimination of various internet behaviors on home computers and mobile devices (<xref rid="B41" ref-type="bibr">41</xref>). Lei and his partners (2012) developed the Questionnaire on the Internal Stigma of Internet Surfing among teenagers (QISIS) &#x2013; adapted from a prior scale (e.g., internalized stigma of mental illness, ISMI) (<xref rid="B42" ref-type="bibr">42</xref>) and evaluated with the teenagers. The original QISIS was a four-point Likert-type scale including 13-item that loaded on a single factor: internal stigma of internet surfing (ISIS). The subsequent QISIS that consisted of 9 items, was developed by means of the exploratory and confirmatory factor analyses. The CFA indices for the unidimensionality of the QISIS were adequate (e.g., RMSEA = 0.051, CFI = 0.950, TLI = 0.936), and the internal consistency coefficients of the QISIS were acceptable to good (e.g., split-half reliability was 0.748, and the alpha coefficient was 0.855). Results indicated that girls and senior students display a higher degree of cognition of the stigma of internet surfing. Apparently, internet addiction is a good predictor of the stigma of internet surfing and highly addicted individuals show a higher degree of internal stigma (<xref rid="B43" ref-type="bibr">43</xref>). Lei and colleagues also found that the cognition of stigma provides the basis and conditions for the occurrence of the internal stigma of internet surfing. The internal stigma of internet surfing refers to the negative self-appraisal, self-perception and behavioral tendencies that individuals form after internalizing society's negative comments on and cognition of their internet behaviors (<xref rid="B41" ref-type="bibr">41</xref>).</p>
+        <p>Lei et al.'s (<xref rid="B41" ref-type="bibr">41</xref>) research shows that teenagers' cognition of the stigma of internet surfing and their internal stigma increase with age. Their developing self-awareness may lead to an increased comparison of the difference between their group and other groups as their cognition abilities improves and knowledge grows (<xref rid="B41" ref-type="bibr">41</xref>). In addition, Ugrin and Pearson (<xref rid="B44" ref-type="bibr">44</xref>) have been exploring ways to minimize overuse of the internet from the perspective of organizational management (<xref rid="B44" ref-type="bibr">44</xref>). Peter et al. (<xref rid="B45" ref-type="bibr">45</xref>) found that people often stigmatize online games because such games can encourage anger and guilt which might lead to serious communication disorders (<xref rid="B45" ref-type="bibr">45</xref>).</p>
+        <p>So far, there has been very little cross-cultural research on the stigma of internet surfing. Therefore, the current study is designed to investigate the stigma of internet surfing, especially the internal stigma of internet surfing, in the context of an oriental culture represented by China and a Western culture represented by Australia. No direct Australian research on the stigma of internet surfing is available, so we will carry out a comparative study of the use of the internet among Chinese and Australian late teenagers.</p>
+      </sec>
+      <sec>
+        <title>Comparison of the Use of the Internet Among Sino-Australian Teenagers and Their Mental Health</title>
+        <p>About 16.6% of Chinese netizens are under the age of 19, and 17.8% of them are between 20 and 29 (<xref rid="B1" ref-type="bibr">1</xref>). Chinese teenagers encounter the internet at a very young age, and the frequency of internet surfing among them increases yearly. The majority access the internet via mobile devices (<xref rid="B46" ref-type="bibr">46</xref>). They like information and apps on entertainment, and 62.5% of them play online games (<xref rid="B47" ref-type="bibr">47</xref>, <xref rid="B48" ref-type="bibr">48</xref>). A recent survey shows that young students lack enthusiasm for online autonomous learning. Instead, they prefer to entertain themselves when online&#x2013;specifically online games and interactions on social media dominate their use of the internet (<xref rid="B49" ref-type="bibr">49</xref>). Unfortunately, an individual's fear of negative evaluation exacerbates social anxiety, weakens self-control, and can cause excessive internet use (<xref rid="B50" ref-type="bibr">50</xref>). In turn, excessive use is often linked with poor academic performance in schools, and Cui et al. (<xref rid="B51" ref-type="bibr">51</xref>) found that internet addiction is rampant in less-democratic families (<xref rid="B51" ref-type="bibr">51</xref>).</p>
+        <p>Likewise, the internet is widely accessible in Australia, and 92% of teenagers have access to online education (<xref rid="B52" ref-type="bibr">52</xref>). The internet is a young Australian's major means for acquiring knowledge about politics, and it paves the way for young voters to get involved in political campaigns (<xref rid="B2" ref-type="bibr">2</xref>). However, excessive access of the internet can have an adverse impact on a teenager's academic performance (<xref rid="B53" ref-type="bibr">53</xref>). An extensive study shows that 55.2% of Australian teenagers communicate and play games on the internet, and 58.9% of them are addicted to the internet (<xref rid="B54" ref-type="bibr">54</xref>). Australian teenagers who overuse the internet and indulge in online games are more emotionally troubled and prone to problematic behaviors (<xref rid="B55" ref-type="bibr">55</xref>, <xref rid="B56" ref-type="bibr">56</xref>). Unlike China, research and intervention programs aimed at addressing internet deviations and problems in Australia are mainly organized and financed by non-profit and private organizations. The government rarely gets involved in these efforts (<xref rid="B57" ref-type="bibr">57</xref>).</p>
+        <p>Young people in China and Australia display different mental health statuses in their cultures. Overall, Chinese and Australian undergraduates show moderate subjective senses of well-being. However, Chinese male students and liberal arts students show a lower subjective sense of well-being. But Chinese female students and science students have a higher subjective sense of well-being than Australian students. Research on affinity, coping strategies and mental stress among Chinese and Australian undergraduates shows that a clingy Australian couple will experience greater mental stress if they retreat and accuse themselves when coping with their problems, while a Chinese couple will experience greater mental stress and confusion only when they adopt the self-accusation strategy (<xref rid="B58" ref-type="bibr">58</xref>). According to Hu and Wang (<xref rid="B59" ref-type="bibr">59</xref>), Chinese youth who immigrated to Australia over the previous 5 years, often experience considerable mental stress and confusion (<xref rid="B59" ref-type="bibr">59</xref>).</p>
+      </sec>
+      <sec>
+        <title>Measurement Invariance</title>
+        <p>A critical, methodological issue in conducting cross-cultural research is measurement invariance. Measurement invariance describes the consistency in the outcome of tests that involve the same measurement tool and construct across different scenarios or samples such as genders, evaluators, testing media, cultural environments, and groups (<xref rid="B60" ref-type="bibr">60</xref>&#x2013;<xref rid="B62" ref-type="bibr">62</xref>). Establishing measurement invariance is crucial for confirming that a measure is consistent across groups (e.g., male vs. female) (<xref rid="B63" ref-type="bibr">63</xref>). It is also a criterion for investigating whether a measure has the same functions across groups. In particular, a cross-cultural study should find out if different cultural groups have the same understanding of the same construct (<xref rid="B62" ref-type="bibr">62</xref>&#x2013;<xref rid="B64" ref-type="bibr">64</xref>). If a tool that does not meet the requirements for measurement invariance is employed, researchers will be unable to determine whether the differences are trustworthy in their comparison of samples. In our investigation, if the QISIS test does not meet the requirements for cross-sample measurement invariance, we must proceed cautiously when trying to explain cross-cultural differences. If, however, the test meets the requirements for measurement invariance, our results will be more reliable.</p>
+        <p>The analysis of measurement invariance is currently implemented in two ways (<xref rid="B65" ref-type="bibr">65</xref>, <xref rid="B66" ref-type="bibr">66</xref>): (1) multigroup confirmatory factor analysis (MCFA) under the framework of the structural equation model; (2) differential item functioning (DIF) under the framework of the item response theory. The current study adopts MCFA in its analysis of measurement invariance. The MCFA-based test method usually examines the comparison of nested models to establish measurement invariance, which includes configural invariance, weak invariance, strong invariance, and strict invariance. More specifically, configural invariance mainly verifies whether the formation or model of latent variables is the same (factor model equivalency). Weak invariance examines the relationship between observed variables (i.e., items) and latent variables (i.e., factors) based on configural invariance. In other words, it tests whether factor loading is invariant across groups. Strong invariance checks whether the intercept of observed variables (items) is invariant across groups based on weak invariance. Strict invariance further analyzes whether the error variance of observed variables (items) is invariant across groups based on strong invariance. Strict invariance suggests that the difference in scale score variation across groups reflects the difference in latent variable variation across groups.</p>
+        <p>As stated, the tool to test the internal stigma of internet surfing was first developed by Lei et al. (<xref rid="B41" ref-type="bibr">41</xref>) in their research with adolescents (<xref rid="B41" ref-type="bibr">41</xref>). Since it remains unknown to what degree the tool is applicable to undergraduates and what its psychometric properties are among Australian subjects, it cannot be applied in cross-cultural studies. To make the comparison of the internal stigma of internet surfing among Sino-Australian undergraduates applicable and effective, we will examine the measurement invariance of QISIS-9 among Sino-Australian undergraduates with a view to laying psychometric foundations for follow-up comparisons of the internal stigma of internet surfing among Chinese and Australian undergraduates.</p>
+      </sec>
+    </sec>
+    <sec sec-type="methods" id="s2">
+      <title>Methods</title>
+      <sec>
+        <title>Participants</title>
+        <sec>
+          <title>Chinese Samples</title>
+          <p>An offline survey was conducted among undergraduates at Chongqing University of Arts and Sciences in China. A total of 200 participants (50% female; 18&#x2013;23 years old; mean age = 19.78; SD = 1.30) were recruited to complete the questionnaires, including 100 liberal arts students and 100 science students; 50 were freshmen, 66 were sophomores, 69 were juniors, and 15 were seniors. Additionally, several of participants were randomly selected for follow-up interviews based on the scores of the QISIS.</p>
+        </sec>
+        <sec>
+          <title>Australian Samples</title>
+          <p>An online survey was conducted among undergraduates at the University of Newcastle in Australia. A total of 204 participants (76% female; 18&#x2013;30 years old; mean age = 21.10; <italic>SD</italic> = 3.28) were returned. In the current sample, 192 were from Europe and North America, 10 were from Asia, and 2 didn't indicate their nationality. All were freshmen. Moreover, several of participants were randomly selected for follow-up interviews based on the scores of the QISIS.</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Procedure</title>
+        <p>The appropriate IRB approval was sought and obtained from the Chongqing University of Arts and Sciences (Review NO. 20180614) and the University of Newcastle (Reference NO. H-2018-0293), respectively. All Chinese participants provided written consent prior to completing the questionnaire, and all the Australian participants provided online informed consent prior to participation. Participants were informed that the study was voluntary, and they could discontinue at any time. In addition, participants were informed that their answers would remain anonymous and were invited to ask questions regarding the investigation.</p>
+      </sec>
+      <sec>
+        <title>Measures</title>
+        <p>The Questionnaire on the Internal Stigma of Internet Surfing-9 (QISIS-9) was developed by Lei et al. (<xref rid="B41" ref-type="bibr">41</xref>). It is a unidimensional questionnaire that covers nine items. Each item is scored on a four-point Likert-type scale from 1(<italic>completely disagree</italic>) to 4 (<italic>completely agree</italic>). The English version of the QISIS-9 was translated into English by the first and second authors, and was back translated into Chinese by the second and third authors. The final version was jointly produced by a Chinese psychology professor (the second author) and an Australian psychology professor (the fourth author) through inter-translation.</p>
+      </sec>
+      <sec>
+        <title>Statistical Analysis</title>
+        <p>The SPSS 22.0 was used to input the survey data, perform the descriptive statistics, and examine the internal consistency coefficient. The Mplus 8.0 was used to carry out the confirmatory factor analysis (CFA) and measurement invariance analysis. The following steps were taken in the analysis:</p>
+        <p>First, we performed the descriptive statistics of QISIS-9 that Chinese and Australian undergraduates get on the mean, standard deviation, skewness and kurtosis (see <xref rid="T1" ref-type="table">Table 1</xref>). Because the scores of the Chinese samples were beyond the range of &#x2212;1 to +1 on skewness and kurtosis for all QISIS-9 items (except for Item 9), the MLM (maximum likelihood estimation with a mean-adjusted chi-square), was adopted in the confirmatory factor analysis (CFA) to examine the factor structure of the QISIS-9. It is robust to non-normality. The CFA was performed based on the following indicators (<xref rid="B67" ref-type="bibr">67</xref>): comparative fit index (CFI; &#x2265;0.90 suggests an acceptable model fit), Tucker-Lewis index (TLI; &#x2265;0.90 suggests an acceptable model fit), root-mean-square error of approximation (RMSEA; &#x2264; 0.08 indicates an acceptable model fit), and standardized root mean square residual (SRMR &#x2264; 0.08 indicates an acceptable model fit).</p>
+        <table-wrap position="float" id="T1">
+          <label>Table 1</label>
+          <caption>
+            <p>Descriptive statistics of scores of Sino-Australian undergraduates in QISIS-9.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Item</bold>
+</th>
+                <th valign="top" align="center" colspan="7" style="border-bottom: thin solid #000000;" rowspan="1">
+<bold>China</bold>
+</th>
+                <th valign="top" align="center" colspan="7" style="border-bottom: thin solid #000000;" rowspan="1">
+<bold>Australia</bold>
+</th>
+              </tr>
+              <tr>
+                <th rowspan="1" colspan="1"/>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>
+<italic>Min</italic>
+</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>
+<italic>Max</italic>
+</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>
+<italic>M</italic>
+</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>
+<italic>SD</italic>
+</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>
+<italic>SK</italic>
+</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>
+<italic>KU</italic>
+</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>CITC</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>
+<italic>Min</italic>
+</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>
+<italic>Max</italic>
+</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>
+<italic>M</italic>
+</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>
+<italic>SD</italic>
+</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>
+<italic>SK</italic>
+</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>
+<italic>KU</italic>
+</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>CITC</bold>
+</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Item-1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.47</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.72</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.60</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.41</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.71</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.15</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.74</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.33</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&#x2212;0.05</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.67</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Item-2</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.56</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.77</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.14</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.35</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.72</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.21</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.73</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.34</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.06</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.74</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Item-3</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.48</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.67</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.40</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.84</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.72</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.21</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.70</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.03</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&#x2212;0.36</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.72</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Item-4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.51</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.73</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.47</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.89</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.70</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.11</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.78</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.37</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&#x2212;0.17</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.67</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Item-5</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.55</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.74</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.33</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.43</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.65</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.07</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.75</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.25</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&#x2212;0.34</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.64</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Item-6</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.52</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.76</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.41</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.34</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.59</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.98</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.67</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.32</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.16</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.65</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Item-7</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.28</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.58</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.43</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">6.78</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.73</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.01</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.73</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.29</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&#x2212;0.24</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.72</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Item-8</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.37</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.61</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.57</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.96</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.72</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1.88</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.69</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.62</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.82</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.74</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Item-9</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.24</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.92</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.17</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&#x2212;0.88</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.17</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">1</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">4</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">2.33</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.69</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&#x2212;0.18</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&#x2212;0.44</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&#x2212;0.13</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><italic>SK, kewness; KU, kurtosis; CITC, Corrected Item Total Correlations</italic>.</p>
+          </table-wrap-foot>
+        </table-wrap>
+        <p>Second, the measurement invariance (MI) of QISIS-9 between Chinese and Australian samples was examined. In other words, multigroup confirmatory factor analysis (MCFA) was carried out successively to check the configural invariance, the weak invariance, the strong invariance and the strict invariance. Since the Chi-square difference test is susceptible to sample size (<xref rid="B68" ref-type="bibr">68</xref>), the present research will examine difference scores in CFI (&#x394;CFI), TLI (&#x394;TLI), and RMSEA (&#x394;RMSEA) to evaluate MI. According to Cheung and Rensvold (<xref rid="B69" ref-type="bibr">69</xref>), &#x394;CFI and &#x394;TLI &lt;0.01 supports MI (<xref rid="B69" ref-type="bibr">69</xref>). Chen (<xref rid="B68" ref-type="bibr">68</xref>) suggests &#x394;RMSEA &lt;0.015 supports MI (<xref rid="B68" ref-type="bibr">68</xref>). Following the MI, the latent means among Sino-Australian undergraduates were calculated to compare the differences between Chinese and Australian undergraduates. Specifically, the latent mean scores were computed by setting the Chinese group as the reference group (i.e., setting the QISIS mean to zero in the Chinese group) and freely estimating the latent means in the Australian group.</p>
+        <p>Third, the alpha coefficient and mean inter-item correlations (MIC) were used to examine the internal consistency of the QISIS-9 scores. An alpha coefficient bigger than 0.70 is acceptable (<xref rid="B70" ref-type="bibr">70</xref>), and a value of MIC within the range from 0.15 to 0.50 suggests satisfactory internal consistency (<xref rid="B71" ref-type="bibr">71</xref>).</p>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="s3">
+      <title>Results</title>
+      <sec>
+        <title>Descriptive Statistics</title>
+        <p>Means, standard deviations, skewness, kurtosis, and correlations between items and total scale scores are shown in <xref rid="T1" ref-type="table">Table 1</xref>. The scores of Chinese participants on all QISIS-9 items show a positive skewed distribution (except for Item 9), indicating that the Chinese undergraduates have a relatively low score on the internal stigma of internet surfing and the scores that Australian undergraduates get on all QISIS-9 items show a normal distribution.</p>
+      </sec>
+      <sec>
+        <title>Factor Structure of the QISIS-9 in Sino-Australian Sample</title>
+        <p>The CFA indicated two findings: (1) the QISIS-9 shows unidimensionality among the Chinese undergraduates, all the fit indexes are acceptable (&#x3C7;<sup>2</sup> = 84.366, <italic>df</italic> = 27, RMSEA = 0.063, CFI = 0.958, TLI = 0.945, SRMR = 0.041), and the factor loading value of all items is ideal (except for Item 9, the factor loading value of which is 0.171) (see <xref rid="T2" ref-type="table">Table 2</xref>); (2) QISIS-9 also shows unidimensionality among the Australian undergraduates (&#x3C7;<sup>2</sup> = 129.766, <italic>df</italic> = 27, RMSEA = 0.109, CFI = 0.909, TLI = 0.878, SRMR = 0.054), and the factor loading value of all items is satisfactory (except for Item 9, the factor loading value of which is &#x2212;0.11) (see <xref rid="T2" ref-type="table">Table 2</xref>). These results indicate that the factor loading of Item 9 among the Chinese and Australian undergraduates does not reach an acceptable level (&lt;0.30). Thus, another CFA was performed excluding Item 9. The results indicate that: (1) the QISIS-8 shows unidimensionality among the Chinese undergraduates (&#x3C7;<sup>2</sup> = 76.552, <italic>df</italic> = 20, RMSEA = 0.067, CFI = 0.960, TLI = 0.944, SRMR = 0.041), and the factor loading of all items is ideal (see <xref rid="T2" ref-type="table">Table 2</xref>); (2) the QISIS-8 shows an acceptable unidimensionality among the Australian undergraduates (&#x3C7;<sup>2</sup> = 113.734, <italic>df</italic> = 20, RMSEA = 0.116, CFI = 0.920, TLI = 0.888, SRMR = 0.052), and the factor loading of all items is satisfactory (see <xref rid="T2" ref-type="table">Table 2</xref>). Therefore, the QISIS-8 would be used in subsequent analysis of the measurement invariance.</p>
+        <table-wrap position="float" id="T2">
+          <label>Table 2</label>
+          <caption>
+            <p>Factor loading of items in QISIS-9 and QISIS-8.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Item</bold>
+</th>
+                <th valign="top" align="center" colspan="2" style="border-bottom: thin solid #000000;" rowspan="1">
+<bold>China</bold>
+</th>
+                <th valign="top" align="center" colspan="2" style="border-bottom: thin solid #000000;" rowspan="1">
+<bold>Australia</bold>
+</th>
+              </tr>
+              <tr>
+                <th rowspan="1" colspan="1"/>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>QISIS-9</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>QISIS-8</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>QISIS-9</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>QISIS-8</bold>
+</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Item 1: I think I am useless when spending time on the Internet</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.56</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.56</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.56</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.56</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Item-2: I think less of my abilities when spending time on the Internet</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.61</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.61</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.59</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.59</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Item-3: I feel negative about myself when spending time on the Internet</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.52</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.52</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.58</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.57</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Item-4: I feel inferior to others when spending time on the Internet</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.56</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.56</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.57</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.57</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Item-5: I lower my self-expectation when spending time on the Internet</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.52</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.52</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.48</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.48</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Item-6: I feel upset when spending time on the Internet.</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.48</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.48</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.46</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.46</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Item-7: I feel guilty or embarrassed when spending time on the Internet</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.44</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.44</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.54</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.54</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Item-8: I feel worthless when spending time on the Internet</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.46</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.46</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.52</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.52</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Item-9: I feel confident about myself when spending time on the internet</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.17</td>
+                <td rowspan="1" colspan="1"/>
+                <td valign="top" align="center" rowspan="1" colspan="1">&#x2212;0.11</td>
+                <td rowspan="1" colspan="1"/>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><italic>QISIS, Questionnaire of the Internal Stigma of Internet Surfing</italic>.</p>
+          </table-wrap-foot>
+        </table-wrap>
+      </sec>
+      <sec>
+        <title>Measurement Invariance</title>
+        <p>Taking previous methods in cross-cultural studies of measurement invariance (<xref rid="B72" ref-type="bibr">72</xref>, <xref rid="B73" ref-type="bibr">73</xref>) as reference, the present study adopts the MCFA to test the MI of the scores that the Chinese and Australian undergraduates get in QISIS-8 (see <xref rid="T3" ref-type="table">Table 3</xref>).</p>
+        <table-wrap position="float" id="T3">
+          <label>Table 3</label>
+          <caption>
+            <p>Measurement invariance model fit statistics for the QISIS-8 across Chinese and Australian undergraduates.</p>
+          </caption>
+          <table frame="hsides" rules="groups">
+            <thead>
+              <tr>
+                <th valign="top" align="left" rowspan="1" colspan="1">
+<bold>Model</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x3C7;<sup>2</sup></bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>
+<italic>df</italic>
+</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>CFI</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x394;CFI</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>TLI</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x394;TLI</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>RMSEA</bold>
+</th>
+                <th valign="top" align="center" rowspan="1" colspan="1">
+<bold>&#x394;RMSEA</bold>
+</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Configural invariance</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">190.287</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">40</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.938</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.914</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.092</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">-</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Weak invariance</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">197.720</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">47</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.936</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&#x2212;0.002</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.924</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.010</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.086</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&#x2212;0.006</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Strong invariance</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">219.316</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">54</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.925</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&#x2212;0.011</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.923</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&#x2212;0.001</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.087</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.001</td>
+              </tr>
+              <tr>
+                <td valign="top" align="left" rowspan="1" colspan="1">Strict invariance</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">245.133</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">62</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.925</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.000</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.932</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.009</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">0.081</td>
+                <td valign="top" align="center" rowspan="1" colspan="1">&#x2212;0.006</td>
+              </tr>
+            </tbody>
+          </table>
+          <table-wrap-foot>
+            <p><italic>Df, degrees of freedom; CFI, comparative fit index; TLI, Tucker&#x2013;Lewis index; RMSEA, root mean square error of approximation; &#x394;CFI, change in comparative fit index relative to the preceding model; &#x394;TLI, change in Tucker-Lewis index relative to the preceding model; &#x394;RMSEA, change in root mean square error of approximation relative to the preceding model</italic>.</p>
+          </table-wrap-foot>
+        </table-wrap>
+        <sec>
+          <title>Configural Invariance</title>
+          <p>Factor loading and intercept are roughly estimated and no assumption about identity is made in cross-cultural samples in investigating the configural invariance (test whether the form or model of latent variables is the same), so as to establish a baseline model for subsequent comparison of nested models. <xref rid="T3" ref-type="table">Table 3</xref> suggests that all the fit indexes of configural invariance in the present study basically meet psychometric requirements (e.g., CFI and TLI &gt; 0.90) and that the scores of the Chinese and Australian undergraduates in QISIS-8 meet the requirements for configural invariance.</p>
+        </sec>
+        <sec>
+          <title>Weak Invariance</title>
+          <p>The same factor loading is set for the two sample groups to test the weak invariance after configural invariance was established. <xref rid="T3" ref-type="table">Table 3</xref> indicates that all the fit indexes of weak invariance meet psychometric requirements (e.g., CFI and TLI &gt; 0.90). Although the value of &#x394;TLI is 0.01, the value of &#x394;CFI is smaller than 0.01, and the value of &#x394;RMSEA is smaller than 0.015. This pattern of results suggests that the scores of the Chinese and Australian undergraduates on the QISIS-8 meet the requirements for weak invariance.</p>
+        </sec>
+        <sec>
+          <title>Strong Invariance</title>
+          <p>The same measure intercepts are set for the two sample groups to test the strong invariance after weak invariance was established. <xref rid="T3" ref-type="table">Table 3</xref> shows that all the fit indexes of strong invariance meet psychometric requirements (e.g., CFI and TLI &gt; 0.90). The value of &#x394;CFI is &#x2212;0.011, while the value of &#x394;TLI is smaller than 0.01 and the value of &#x394;RMSEA is smaller than 0.015, respectively. This pattern of results suggests that the scores of the Chinese and Australian undergraduates on the QISIS-8 meet the requirements for strong invariance.</p>
+        </sec>
+        <sec>
+          <title>Strict Invariance</title>
+          <p>The same measure intercepts are set for the two sample groups to test the strict invariance after strong invariance was established. <xref rid="T3" ref-type="table">Table 3</xref> indicates that all the fit indexes of strict invariance in the present study meet psychometric requirements (e.g., CFI and TLI &gt; 0.90), the value of &#x394;CFI and &#x394;TLI is smaller than 0.01, and the value of &#x394;RMSEA is smaller than 0.015. This pattern of results reveals that the scores of the Chinese and Australian undergraduates on the QISIS-8 meet the requirements for strict invariance.</p>
+          <p>When the strict invariance was established, the differences in the scores that Chinese and Australian undergraduates get in QISIS-8 were examined. The results show that the Australian undergraduates manifest significantly higher scores in QISIS-8 than Chinese undergraduates do (mean difference = 0.669, <italic>p</italic> &lt; 0.001).</p>
+        </sec>
+      </sec>
+      <sec>
+        <title>Internal Consistency of QISIS</title>
+        <p>The alpha coefficient and the MIC were adopted to examine the internal consistency of QISIS-9 among the Chinese and Australian undergraduates. We have two findings: (1) The alpha coefficients of the scores that the Chinese and Australian undergraduates get for the QISIS-9 are 0.87 and 0.86, and the MICs are 0.46 and 0.41, both respectively; (2) After Item 9 was deleted in view of the results of the CFA, the alpha coefficients of the scores of the Chinese and Australian undergraduates in QISIS-8 are 0.91 and 0.91, and the MICs are 0.56 and 0.56, both respectively.</p>
+      </sec>
+    </sec>
+    <sec id="s4">
+      <title>Discussions</title>
+      <p>The QISIS-9 was developed for the Chinese culture, so its suitability for use in other cultural contexts is uncertain. The present study is the first to take samples from Chinese and Australian undergraduates in an effort to verify the cross-cultural measurement invariance of QISIS-9 and promote cross-cultural (nationality) research regarding the internal stigma of internet surfing. The results show that the QISIS-8, a revised version of QISIS-9 where Item 9 is deleted, is reliable and valid among both Chinese and Australian undergraduates. Furthermore, the revised QISIS-8 meets the strict measurement invariance across Sino-Australian undergraduates and demonstrates satisfactory internal consistency in the two groups.</p>
+      <p>Given that the QISIS-9 was originally based on Chinese senior high school students (<xref rid="B41" ref-type="bibr">41</xref>), its psychometric properties among undergraduates needed to be verified. Accordingly, the reliability and validity of the QISIS-9 among Chinese and Australian undergraduates were examined before the cross-cultural invariance analysis was conducted. The CFA and internal consistency coefficients demonstrate that the psychometric properties of QISIS-9 among the Chinese and Australian undergraduates are comparable and acceptable. But interestingly, the reverse-coded item (Item 9, &#x201C;I feel confident about myself when spending time on the internet&#x201D;) in QISIS-9 was inferior to the other eight items (positively-coded for the internal stigma of internet surfing). More specifically, the reliability and validity, especially the value of the alpha coefficient, of QISIS-8 improved in CFA and internal consistency after deleting the reverse-coded Item 9. There are disagreements about whether reverse scored items should be used in questionnaires. For example, some scholars (<xref rid="B74" ref-type="bibr">74</xref>, <xref rid="B75" ref-type="bibr">75</xref>) argue that such items may have a negative impact on the psychometric properties of questionnaires. Likewise, others (<xref rid="B76" ref-type="bibr">76</xref>, <xref rid="B77" ref-type="bibr">77</xref>) point out that reverse scored items may have an impact on the factor structure of measurement tools (e.g., item wording effect). Following those studies, the current study also found that Item 9, a reverse-coded item in QISIS-9, had a negative impact on the psychometric properties of the QISIS-9. Thus, Item 9 was deleted, and the revised QISIS-8, which covers eight items, was developed and used to analyze the measurement invariance among the Sino-Australian undergraduates. This development will promote cross-cultural (nationality) research and comparison of the internal stigma of internet surfing.</p>
+      <p>The MCFA indicated that the strict measurement invariance (specifically configural, metric, scalar, and strict invariance) of the QISIS-8 across Chinese and Australian undergraduates has been observed. More specifically, the configural invariance suggests that the QISIS-8 has the same unidimensional structure across Chinese and Australian samples; the metric invariance demonstrates that the QISIS-8 has the same factor loadings among Chinese and Australian populations; the scalar and strict invariance further supports that the QISIS-8 has the same intercepts and residual invariance across Chinese and Australian undergraduates, respectively. Overall, the QISIS-8 supported the measurement invariance among the Chinese and Australian participants, suggesting that the QISIS-8 is simultaneously applicable to the investigation and assessment of internal stigma of internet surfing among the Chinese and Australian undergraduates. Thus, the mean difference in internal stigma of internet surfing scores as measured by the QISIS-8 can be interpreted as the true difference in the level of internal stigma of internet surfing between Chinese and Australian undergraduates.</p>
+      <p>Based on the results of the strict measurement invariance, we subsequently compared the scores of Chinese and Australian undergraduates on internal stigma of internet surfing and found that the QISIS-8 scores of the Australian undergraduates were significantly higher than those of the Chinese students. This is evidence that internal stigma of internet surfing likely exists among the Australian undergraduates, and is different than China's situation. For stigmatization, Chinese undergraduates tend to internalize their stigma of internet surfing with a perspective of conformity and a general &#x201C;public stigma.&#x201D; Public stigma is a continuous process in which the public stigmatizes some specific groups, events or behaviors (<xref rid="B9" ref-type="bibr">9</xref>). &#x201C;Collective-centered&#x201D; individuals accept and normalize public stigma based on collective identity thinking (<xref rid="B78" ref-type="bibr">78</xref>). Australian undergraduates, however, stigmatize internally the internet surfing when they are unable to cope with the physical and mental damage caused by improper internet use, and this is magnified by an individualistic culture &#x2013; one that emphasizes individual responsibility and selection. This stigmatization process is based on individual self-recognition and judgment after online practice and experience (<xref rid="B79" ref-type="bibr">79</xref>).</p>
+      <p>A recent study has pointed out that 80% of Australian youth play games online and gamble, and 1&#x2013;5% of them are addicted to these kinds of activities (<xref rid="B80" ref-type="bibr">80</xref>). These Australian youth enjoy the convenience and excitement that the internet brings, but they are not well-equipped to deal with the psychological problems that arise therein. They do not have effective coping strategies.</p>
+      <p>In a developed country of immigrants, the youth of multi-cultural Australia have a significant prevalence of psychological distress and tendencies toward stigmatization (<xref rid="B81" ref-type="bibr">81</xref>). Youth with mental disorders are reluctant to seek help, and they lack relevant knowledge to adequately deal with their own problems (<xref rid="B82" ref-type="bibr">82</xref>&#x2013;<xref rid="B84" ref-type="bibr">84</xref>). We also found from interviews with participants that while internet surfing can bring pleasure; it can also produce self-accusations and anxiety. Mental frustrations have emerged, leading many youths to believe that the internet is wasting their time, money, and energy. And they have no idea how to use the internet scientifically and reduce its harm to their physical and mental health. This gives rise to the internal stigma of internet surfing. Australian youth definitely need to use information technology and the internet in more positive ways &#x2013; green, environmentally-friendly, and sustainable ways. Hopefully, corresponding mental problems can be addressed (<xref rid="B85" ref-type="bibr">85</xref>).</p>
+      <sec>
+        <title>Limitations and Future Directions</title>
+        <p>The findings of this study should be considered in light of its limitations. First, participants were predominantly recruited from the southwest of China and New South Wales in Australia. Thus, the results might not generalize to other geographic areas or cultures. Additional studies should further examine and replicate our findings in other regions in China and other Western samples (e.g., North America). Moreover, the QISIS was originally developed based on Chinese senior high school students. Future research should benefit from investigating cross-cultural invariance of the QISIS by comparing a sample of Chinese youth directly with Western samples. Finally, data collection (offline / online) and sample characteristics (e.g., sex ration, and age) were different in both groups (e.g., Chinese and Australian populations), and these differences might influence the results of invariance across the groups. Future studies should be focus on the aforementioned factors to avoid their influence on the measurement invariance and comparison of differences in cross-cultural research.</p>
+        <p>Despite these limitations, results of the current study have suggested that the revised QISIS-8 demonstrates strict measurement invariance across Sino-Australian undergraduates, as well as satisfactory internal consistency. It holds promise as a self-report instrument for the assessment of internal stigma of internet surfing among Chinese and Australian undergraduates.</p>
+      </sec>
+    </sec>
+    <sec sec-type="data-availability" id="s5">
+      <title>Data Availability Statement</title>
+      <p>The data supporting the conclusions of this study are available upon request to author YG (<email>gy8620@163.com</email>) and corresponding author RW.</p>
+    </sec>
+    <sec id="s6">
+      <title>Ethics Statement</title>
+      <p>The studies involving human participants were reviewed and approved by the Chongqing University of Arts and Sciences Institutional Review Board. The University of Newcastle Human research Ethics Committee. The patients/participants provided their written informed consent to participate in this study.</p>
+    </sec>
+    <sec id="s7">
+      <title>Author Contributions</title>
+      <p>YG was mainly responsible for the overall conception and design of this study, investigated the data, drafted the manuscript, and provided the final approval for the manuscript. JL contributed to the analysis and interpretation of the data, drafted the manuscript and provided the final approval for the manuscript. J-cH helped to carry out the investigation of the data. RW contributed to the investigation of the data, and revised the manuscript. JW also revised the manuscript and provided final approval for the manuscript. All authors contributed to the article and approved the submitted version.</p>
+    </sec>
+    <sec sec-type="funding-information" id="s8">
+      <title>Funding</title>
+      <p>This study was funded by the China National Scholarship Foundation (201708505119).</p>
+    </sec>
+    <sec sec-type="COI-statement" id="conf1">
+      <title>Conflict of Interest</title>
+      <p>The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.</p>
+    </sec>
+    <sec sec-type="disclaimer" id="s9">
+      <title>Publisher's Note</title>
+      <p>All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1">
+        <label>1.</label>
+        <mixed-citation publication-type="webpage"><person-group person-group-type="author"><collab>China Internet Network Information Center, CNNIC</collab></person-group>. <source>The 48th China Statistical Report on Internet Development [OB/OL].</source> (<year>2021</year>). Available online at: Available online at: <ext-link xlink:href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/202109/P020210915523670981527.pdf" ext-link-type="uri">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/hlwtjbg/202109/P020210915523670981527.pdf</ext-link> (accessed September 15, 2021).</mixed-citation>
+      </ref>
+      <ref id="B2">
+        <label>2.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McAllister</surname><given-names>T</given-names></name></person-group>. <article-title>Internet use, political knowledge and youth electoral participation in Australia</article-title>. <source>J Youth Stud.</source> (<year>2016</year>) <volume>19</volume>:<fpage>1220</fpage>&#x2013;<lpage>36</lpage>. <pub-id pub-id-type="doi">10.1080/13676261.2016.1154936</pub-id></mixed-citation>
+      </ref>
+      <ref id="B3">
+        <label>3.</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Chiu C</surname><given-names>Y</given-names></name><name><surname>Hong</surname><given-names>YY</given-names></name></person-group>. <source>Social psychology of culture</source>. <publisher-loc>London</publisher-loc>: <publisher-name>Psychology Press</publisher-name> (<year>2006</year>).</mixed-citation>
+      </ref>
+      <ref id="B4">
+        <label>4.</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Goffman</surname><given-names>E</given-names></name></person-group>. <source>Stigma: Notes on the Management of Spoiled Identity</source>. <publisher-loc>Englewood Cliffs, NJ</publisher-loc>: <publisher-name>Prentice Hall, Inc</publisher-name>., Englewood Cliffs (<year>1963</year>).</mixed-citation>
+      </ref>
+      <ref id="B5">
+        <label>5.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Corrigan</surname><given-names>PW</given-names></name></person-group>. <article-title>How stigma interferes with mental health care</article-title>. <source>Am Psychol.</source> (<year>2004</year>) <volume>59</volume>:<fpage>614</fpage>&#x2013;<lpage>25</lpage>. <pub-id pub-id-type="doi">10.1037/0003-066X.59.7.614</pub-id><pub-id pub-id-type="pmid">15491256</pub-id></mixed-citation>
+      </ref>
+      <ref id="B6">
+        <label>6.</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Crocker</surname><given-names>J</given-names></name><name><surname>Major</surname><given-names>B</given-names></name><name><surname>Steele</surname><given-names>C</given-names></name></person-group>. <article-title>Social stigma</article-title>. In: Gilbert DT, Fiske ST, Lindzey G. <source>The handbook of social psychology</source>. <publisher-loc>New York, NY</publisher-loc>: <publisher-name>McGraw-Hill</publisher-name> (<year>1998</year>).</mixed-citation>
+      </ref>
+      <ref id="B7">
+        <label>7.</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Xie</surname><given-names>S</given-names></name></person-group>. <source>Ethnic Contacts, Stigmatized Identity, and Pan-Taiwan Aboriginalism: A Study on Ethnic Change of Taiwan Aborigines</source>. <publisher-loc>Taipei</publisher-loc>: <publisher-name>Independence Evening Post</publisher-name> (<year>1987</year>).</mixed-citation>
+      </ref>
+      <ref id="B8">
+        <label>8.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Guan</surname><given-names>J</given-names></name></person-group>. <article-title>Evolution of stigma as a concept and construction of a multidimensional model</article-title>. <source>J Nankai Univ.</source> (<year>2007</year>) <volume>14</volume>:<fpage>126</fpage>&#x2013;<lpage>34</lpage>. <pub-id pub-id-type="doi">10.3969/j.issn.1001-4667.2007.05.017</pub-id></mixed-citation>
+      </ref>
+      <ref id="B9">
+        <label>9.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Guo</surname><given-names>JH</given-names></name></person-group>. <article-title>Study of stigma: evolution of concept, theories, and model</article-title>. <source>Academia Bimestrie.</source> (<year>2015</year>) <volume>26</volume>:<fpage>99</fpage>&#x2013;<lpage>109</lpage>. <pub-id pub-id-type="doi">10.3969/j.issn.1001-9790.2015.02.011</pub-id></mixed-citation>
+      </ref>
+      <ref id="B10">
+        <label>10.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Corrigan</surname><given-names>PW</given-names></name><name><surname>Markowitz</surname><given-names>FE</given-names></name><name><surname>Watson</surname><given-names>AC</given-names></name></person-group>. <article-title>Structural levels of mental illness stigma and discrimination</article-title>. <source>Schizophr Bull.</source> (<year>2004</year>) <volume>30</volume>:<fpage>481</fpage>&#x2013;<lpage>91</lpage>. <pub-id pub-id-type="doi">10.1093/oxfordjournals.schbul.a007096</pub-id><pub-id pub-id-type="pmid">15631241</pub-id></mixed-citation>
+      </ref>
+      <ref id="B11">
+        <label>11.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cheng</surname><given-names>Y</given-names></name><name><surname>Yang</surname><given-names>S</given-names></name><name><surname>Sang</surname><given-names>Q</given-names></name></person-group>. <article-title>Relieving implicit mental illness stigma against college students: A research based on stereotypic explanatory bias</article-title>. <source>Chin J Spec Edu.</source> (<year>2015</year>) <volume>22</volume>:<fpage>89</fpage>&#x2013;<lpage>96</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B12">
+        <label>12.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Crandall</surname><given-names>CS</given-names></name><name><surname>Moriarty</surname><given-names>D</given-names></name></person-group>. <article-title>Physical illness stigma and social rejection</article-title>. <source>Br J Soc Psychol.</source> (<year>2011</year>) <volume>34</volume>:<fpage>67</fpage>&#x2013;<lpage>83</lpage>. <pub-id pub-id-type="doi">10.1111/j.2044-8309.1995.tb01049.x</pub-id><pub-id pub-id-type="pmid">7735733</pub-id></mixed-citation>
+      </ref>
+      <ref id="B13">
+        <label>13.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fatimah</surname><given-names>JB</given-names></name><name><surname>Nancy</surname><given-names>E</given-names></name></person-group>. <article-title>Stigma and intersectionality: a systematic review of systematic reviews across HIV/AIDS, mental illness, and physical disability</article-title>. <source>BMC Public Health.</source> (<year>2018</year>) <volume>18</volume>:<fpage>919</fpage>. <pub-id pub-id-type="doi">10.1186/s12889-018-5861-3</pub-id><pub-id pub-id-type="pmid">30049270</pub-id></mixed-citation>
+      </ref>
+      <ref id="B14">
+        <label>14.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>LX</given-names></name></person-group>. <article-title>Research on psychological factors of discrimination against AIDS and people living with HIV</article-title>. <source>Chin J Public Health Manag.</source> (<year>2020</year>) <volume>36</volume>:<fpage>489</fpage>&#x2013;<lpage>91</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B15">
+        <label>15.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schomerus</surname><given-names>G</given-names></name><name><surname>Schwahn</surname><given-names>C</given-names></name><name><surname>Holzinger</surname><given-names>A</given-names></name><name><surname>Corrigan</surname><given-names>PW</given-names></name><name><surname>Grabe</surname><given-names>HJ</given-names></name><name><surname>Carta</surname><given-names>MG</given-names></name><etal/></person-group>. <article-title>Evolution of public attitudes about mental illness: a systematic review and meta-analysis</article-title>. <source>Acta Psychiatrica Scandinavica</source>. (<year>2012</year>) <volume>125</volume>:<fpage>440</fpage>&#x2013;<lpage>52</lpage>. <pub-id pub-id-type="doi">10.1111/j.1600-0447.2012.01826.x</pub-id><pub-id pub-id-type="pmid">22242976</pub-id></mixed-citation>
+      </ref>
+      <ref id="B16">
+        <label>16.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>G</given-names></name><name><surname>Guo</surname><given-names>Y</given-names></name><name><surname>Peng</surname><given-names>X</given-names></name><name><surname>Dong</surname><given-names>F</given-names></name><name><surname>Song</surname><given-names>J</given-names></name></person-group>. <article-title>Impact of perspective-taking and empathy on HIV-related stigma among college students in Guilin</article-title>. <source>Chin J School Health.</source> (<year>2020</year>) <volume>41</volume>:<fpage>1319</fpage>&#x2013;<lpage>21</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B17">
+        <label>17.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fangen</surname><given-names>K</given-names></name><name><surname>Lynnebakke</surname><given-names>B</given-names></name></person-group>. <article-title>Navigating ethnic stigmatisation in the educational setting: Coping strategies of young immigrants and descendants of immigrants in Norway</article-title>. <source>Soc Inclusion.</source> (<year>2014</year>) <volume>2</volume>:<fpage>47</fpage>&#x2013;<lpage>59</lpage>. <pub-id pub-id-type="doi">10.17645/si.v2i1.26</pub-id></mixed-citation>
+      </ref>
+      <ref id="B18">
+        <label>18.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>McKenzie</surname><given-names>K</given-names></name></person-group>. <article-title>Stigma, race, and culture</article-title>. <source>Psychiatr Serv.</source> (<year>2014</year>) <volume>65</volume>:<fpage>963</fpage>&#x2013;<lpage>63</lpage>. <pub-id pub-id-type="doi">10.1176/appi.ps.650603</pub-id><pub-id pub-id-type="pmid">26037010</pub-id></mixed-citation>
+      </ref>
+      <ref id="B19">
+        <label>19.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Decker</surname><given-names>SN</given-names></name><name><surname>Ortiz</surname><given-names>N</given-names></name><name><surname>Spohn</surname><given-names>C</given-names></name><name><surname>Hedberg</surname><given-names>E</given-names></name></person-group>. <article-title>Criminal stigma, race, and ethnicity: The consequences of imprisonment for employment</article-title>. <source>J Crim Justice.</source> (<year>2015</year>) <volume>43</volume>:<fpage>108</fpage>&#x2013;<lpage>21</lpage>. <pub-id pub-id-type="doi">10.1016/j.jcrimjus.2015.02.002</pub-id></mixed-citation>
+      </ref>
+      <ref id="B20">
+        <label>20.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cokley</surname><given-names>K</given-names></name><name><surname>Awad</surname><given-names>G</given-names></name><name><surname>Smith</surname><given-names>L</given-names></name><name><surname>Jackson</surname><given-names>S</given-names></name><name><surname>Awosogba</surname><given-names>O</given-names></name><name><surname>Hurst</surname><given-names>A</given-names></name><etal/></person-group>. (<year>2015</year>). <article-title>The roles of gender stigma consciousness, impostor phenomenon and academic self-concept in the academic outcomes of women and men</article-title>. <source>Sex Roles.</source> (<year>2015</year>) <volume>73</volume>:<fpage>414</fpage>&#x2013;<lpage>26</lpage>. <pub-id pub-id-type="doi">10.1007/s11199-015-0516-7</pub-id></mixed-citation>
+      </ref>
+      <ref id="B21">
+        <label>21.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lacey</surname><given-names>M</given-names></name><name><surname>Paolini</surname><given-names>S</given-names></name><name><surname>Hanlon</surname><given-names>MC</given-names></name><name><surname>Melville</surname><given-names>J</given-names></name><name><surname>Campbell</surname><given-names>LE</given-names></name></person-group>. <article-title>Parents with serious mental illness: Differences in internalised and externalised mental illness stigma and gender stigma between mothers and fathers</article-title>. <source>Psychiatry Res.</source> (<year>2014</year>) <volume>225</volume>:<fpage>723</fpage>&#x2013;<lpage>33</lpage>. <pub-id pub-id-type="doi">10.1016/j.psychres.2014.09.010</pub-id><pub-id pub-id-type="pmid">25524813</pub-id></mixed-citation>
+      </ref>
+      <ref id="B22">
+        <label>22.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wu</surname><given-names>CL</given-names></name></person-group>. <article-title>Stigmatized gender and gendered stigma: the &#x201C;infertile&#x201D; men and women in Taiwan</article-title>. <source>Taiwanese J Sociol.</source> (<year>2002</year>) <volume>29</volume>:<fpage>127</fpage>&#x2013;<lpage>79</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B23">
+        <label>23.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>Y</given-names></name><name><surname>Li</surname><given-names>H</given-names></name></person-group>. <article-title>Influence of gender stereotypes on the attribution of success and failure of males and females</article-title>. <source>J Hubei Univ Sci Technol.</source> (<year>2014</year>) <volume>34</volume>:<fpage>156</fpage>&#x2013;<lpage>7</lpage>. <pub-id pub-id-type="doi">10.3969/j.issn.1006-5342.2014.05.074</pub-id></mixed-citation>
+      </ref>
+      <ref id="B24">
+        <label>24.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fu</surname><given-names>J</given-names></name></person-group>. <article-title>Gender justice and educational recognition</article-title>. <source>J Yunnan Minzu University (Social Sciences).</source> (<year>2014</year>) <volume>31</volume>:<fpage>72</fpage>&#x2013;<lpage>5</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B25">
+        <label>25.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lian</surname><given-names>S</given-names></name></person-group>. <article-title>Improving the chances of female undergraduates in employment: from the perspective of implicit gender stereotypes</article-title>. <source>Ideol Theor Edu.</source> (<year>2014</year>) <volume>20</volume>:<fpage>87</fpage>&#x2013;<lpage>91</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B26">
+        <label>26.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhu</surname><given-names>X</given-names></name><name><surname>Liao</surname><given-names>Q</given-names></name><collab>IAT IAT based research on implicit occupational gender stereotypes</collab></person-group>. <source>Adv Psychol.</source> (<year>2020</year>) <volume>10</volume>:<fpage>124</fpage>&#x2013;<lpage>8</lpage>. <pub-id pub-id-type="doi">10.12677/AP.2020.102016</pub-id></mixed-citation>
+      </ref>
+      <ref id="B27">
+        <label>27.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bayat</surname><given-names>AH</given-names></name><name><surname>Mohammadi</surname><given-names>R</given-names></name><name><surname>Moradi-Joo</surname><given-names>M</given-names></name><name><surname>Bayani</surname><given-names>A</given-names></name><name><surname>Ahounbar</surname><given-names>E</given-names></name><name><surname>Higgs</surname><given-names>P</given-names></name><etal/></person-group>. <article-title>HIV and drug related stigma and risk-taking behaviors among people who inject drugs: a systematic review and meta-analysis</article-title>. <source>J Addict Dis.</source> (<year>2020</year>) <volume>38</volume>:<fpage>1</fpage>&#x2013;<lpage>13</lpage>. <pub-id pub-id-type="doi">10.1080/10550887.2020.1718264</pub-id><pub-id pub-id-type="pmid">31821129</pub-id></mixed-citation>
+      </ref>
+      <ref id="B28">
+        <label>28.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Calabrese</surname><given-names>SK</given-names></name><name><surname>Burke</surname><given-names>SE</given-names></name><name><surname>Dovidio</surname><given-names>JF</given-names></name><name><surname>Levina</surname><given-names>OS</given-names></name><name><surname>Uusk&#xFC;la</surname><given-names>A</given-names></name><name><surname>Niccolai</surname><given-names>LM</given-names></name><etal/></person-group>. <article-title>Internalized HIV and drug stigmas: Interacting forces threatening health status and health service utilization among people with HIV who inject drugs in St. Petersburg</article-title>. <source>Russia AIDS Behav.</source> (<year>2016</year>) <volume>20</volume>:<fpage>85</fpage>&#x2013;<lpage>97</lpage>. <pub-id pub-id-type="doi">10.1007/s10461-015-1100-4</pub-id><pub-id pub-id-type="pmid">26050155</pub-id></mixed-citation>
+      </ref>
+      <ref id="B29">
+        <label>29.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Morrison</surname><given-names>TG</given-names></name><name><surname>Whitehead</surname><given-names>BW</given-names></name></person-group>. <article-title>&#x201C;Nobody's ever going to make a fag pretty woman: Stigma awareness and the putative effects of stigma among a sample of Canadian male sex workers</article-title>. <source>J Homosex.</source> (<year>2008</year>) <volume>53</volume>:<fpage>201</fpage>&#x2013;<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1300/J082v53n01_09</pub-id><pub-id pub-id-type="pmid">18019075</pub-id></mixed-citation>
+      </ref>
+      <ref id="B30">
+        <label>30.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nardelli</surname><given-names>N</given-names></name><name><surname>Baiocco</surname><given-names>R</given-names></name><name><surname>Tanzilli</surname><given-names>A</given-names></name><name><surname>Lingiardi</surname><given-names>V</given-names></name></person-group>. <article-title>Not in the same mental drawer: Internalized sexual stigma, dissociation, and the role of religion in a sample of Italian gay men</article-title>. <source>J Homosex.</source> (<year>2020</year>) <volume>67</volume>:<fpage>1386</fpage>&#x2013;<lpage>400</lpage>. <pub-id pub-id-type="doi">10.1080/00918369.2019.1591786</pub-id><pub-id pub-id-type="pmid">30912733</pub-id></mixed-citation>
+      </ref>
+      <ref id="B31">
+        <label>31.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Salvati</surname><given-names>M</given-names></name><name><surname>Pellegrini</surname><given-names>V</given-names></name><name><surname>Giacomantonio</surname><given-names>M</given-names></name><name><surname>Cristofaro</surname><given-names>VD</given-names></name></person-group>. <article-title>Embrace the leadership challenge: The role of gay men's internalized sexual stigma on the evaluation of others' leadership and one's own</article-title>. <source>Br J Soc Psychol</source>. (<year>2020</year>) <volume>60</volume>:<fpage>700</fpage>&#x2013;<lpage>19</lpage>. <pub-id pub-id-type="doi">10.1111/bjso.12424</pub-id><pub-id pub-id-type="pmid">33044021</pub-id></mixed-citation>
+      </ref>
+      <ref id="B32">
+        <label>32.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>X</given-names></name><name><surname>Bi</surname><given-names>L</given-names></name><name><surname>Yu</surname><given-names>Y</given-names></name></person-group>. <article-title>University students' implicit identity-related stigma towards migrant workers</article-title>. <source>Chin J Clin Psychol.</source> (<year>2013</year>) <volume>21</volume>:<fpage>372</fpage>&#x2013;<lpage>5</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B33">
+        <label>33.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>X</given-names></name><name><surname>Li</surname><given-names>J</given-names></name></person-group>. <article-title>Stigmatization and double constructions of peasant-workers' subjectivity</article-title>. <source>J Shanxi Agric Univ.</source> (<year>2018</year>) <volume>17</volume>:<fpage>29</fpage>&#x2013;<lpage>35</lpage>. <pub-id pub-id-type="doi">10.13842/j.cnki.issn1671-816x.2018.06.005</pub-id></mixed-citation>
+      </ref>
+      <ref id="B34">
+        <label>34.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Xu</surname><given-names>J</given-names></name><name><surname>Jiang</surname><given-names>L</given-names></name></person-group>. <article-title>Impact of social stigma and discrimination on the mental health of the new-generation migrant workers: an analysis of the mediating role of several factors</article-title>. <source>Chin J Health Policy</source>. (<year>2018</year>) <volume>11</volume>:<fpage>52</fpage>&#x2013;<lpage>61</lpage>. j.issn.1674-2982.2018.06.009</mixed-citation>
+      </ref>
+      <ref id="B35">
+        <label>35.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhao</surname><given-names>D</given-names></name></person-group>. <article-title>Effects of stigmatized identities on interpersonal influence and social distance</article-title>. <source>Acta Psychologica Sinica.</source> (<year>2013</year>) <volume>45</volume>:<fpage>1283</fpage>&#x2013;<lpage>94</lpage>. <pub-id pub-id-type="doi">10.3724/SP.J.1041.2013.01283</pub-id></mixed-citation>
+      </ref>
+      <ref id="B36">
+        <label>36.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Zhang</surname><given-names>Y</given-names></name></person-group>. <article-title>The stigmatic situation and the coping strategies: a case study of the adaptation of the floating population to urban life and the community change</article-title>. <source>Society.</source> (<year>2008</year>) <volume>28</volume>:<fpage>126</fpage>&#x2013;<lpage>47</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B37">
+        <label>37.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Song</surname><given-names>X</given-names></name></person-group>. <article-title>Causes for violent law enforcement in urban management based on stigmatization theories and countermeasures</article-title>. <source>Modern Bus Trade Ind.</source> (<year>2020</year>) <volume>30</volume>:<fpage>158</fpage>&#x2013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.19311/j.cnki.1672-3198.2020.08.074</pub-id></mixed-citation>
+      </ref>
+      <ref id="B38">
+        <label>38.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cheng</surname><given-names>M</given-names></name></person-group>. <article-title>Cultural cost of self-made man: a traveler to the upper class</article-title>. <source>China Youth Study</source>. (<year>2016</year>) <volume>28</volume>:<fpage>91</fpage>&#x2013;<lpage>7</lpage>. <pub-id pub-id-type="doi">10.3969/j.issn.1002-9931.2016.12.014</pub-id></mixed-citation>
+      </ref>
+      <ref id="B39">
+        <label>39.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wang</surname><given-names>W</given-names></name></person-group>. <article-title>Study of the stigmatization of self-made man from the perspective of sociology</article-title>. <source>China Youth Study.</source> (<year>2014</year>) <volume>26</volume>:<fpage>73</fpage>&#x2013;<lpage>9</lpage>. <pub-id pub-id-type="doi">10.5005/jp/books/12160_7</pub-id></mixed-citation>
+      </ref>
+      <ref id="B40">
+        <label>40.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Xu</surname><given-names>X</given-names></name></person-group>. <article-title>A study of the marriage narrative, identity production and stigmatization of the &#x201C;phoenix man&#x201D;</article-title>. <source>Hum Soc Sci J Hainan Univ.</source> (<year>2020</year>) <volume>38</volume>:<fpage>93</fpage>&#x2013;<lpage>8</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B41">
+        <label>41.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lei</surname><given-names>L</given-names></name><name><surname>Feng</surname><given-names>D</given-names></name><name><surname>Tan</surname><given-names>X</given-names></name></person-group>. <article-title>Development and preliminary application of adolescents online stigmatization</article-title>. <source>Chin J Clin Psychol</source>. (<year>2012</year>) <volume>20</volume>:<fpage>328</fpage>&#x2013;<lpage>31</lpage>. <pub-id pub-id-type="doi">10.16128/j.cnki.1005-3611.2012.03.015</pub-id></mixed-citation>
+      </ref>
+      <ref id="B42">
+        <label>42.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ritsher</surname><given-names>JB</given-names></name><name><surname>Otilingam</surname><given-names>PG</given-names></name><name><surname>Grajales</surname><given-names>M</given-names></name></person-group>. <article-title>Internalized stigma of mental illness: psychometric properties of a new measure</article-title>. <source>Psychiatry Res.</source> (<year>2003</year>) <volume>121</volume>:<fpage>31</fpage>&#x2013;<lpage>49</lpage>. <pub-id pub-id-type="doi">10.1016/j.psychres.2003.08.008</pub-id><pub-id pub-id-type="pmid">14572622</pub-id></mixed-citation>
+      </ref>
+      <ref id="B43">
+        <label>43.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tan</surname><given-names>X</given-names></name><name><surname>Feng</surname><given-names>D</given-names></name><name><surname>Lei</surname><given-names>L</given-names></name></person-group>. <source>Relationship between Teenagers' Stigma of Internet Surfing and 'Internet Addiction</source>. In: <italic>Proceedings of the 15th National Academic Congress of Psychology</italic> Guangzhou (<year>2012</year>).</mixed-citation>
+      </ref>
+      <ref id="B44">
+        <label>44.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ugrin</surname><given-names>JC</given-names></name><name><surname>Pearson</surname><given-names>JM</given-names></name></person-group>. <article-title>The effects of sanctions and stigmas on cyberloafing</article-title>. <source>Comput Human Behav.</source> (<year>2013</year>) <volume>29</volume>:<fpage>812</fpage>&#x2013;<lpage>20</lpage>. <pub-id pub-id-type="doi">10.1016/j.chb.2012.11.005</pub-id></mixed-citation>
+      </ref>
+      <ref id="B45">
+        <label>45.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Peter</surname><given-names>SC</given-names></name><name><surname>Li</surname><given-names>Q</given-names></name><name><surname>Pfund</surname><given-names>RA</given-names></name><name><surname>Whelan</surname><given-names>JP</given-names></name><name><surname>Meyers</surname><given-names>AW</given-names></name></person-group>. <article-title>Public stigma across addictive behaviors: Casino gambling, esports gambling, and internet gaming</article-title>. <source>J Gambl Stud.</source> (<year>2018</year>) <volume>35</volume>:<fpage>247</fpage>&#x2013;<lpage>59</lpage>. <pub-id pub-id-type="doi">10.1007/s10899-018-9775-x</pub-id><pub-id pub-id-type="pmid">29627881</pub-id></mixed-citation>
+      </ref>
+      <ref id="B46">
+        <label>46.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Jiang</surname><given-names>Q</given-names></name><name><surname>Tong</surname><given-names>S</given-names></name><name><surname>Chen</surname><given-names>Z</given-names></name></person-group>. <article-title>Teenagers' dependence on the internet and risk response</article-title>. <source>Youth Explor</source>. (<year>2020</year>) <volume>38</volume>:<fpage>37</fpage>&#x2013;<lpage>46</lpage>. <pub-id pub-id-type="doi">10.13583/j.cnki.issn1004-3780.2020.06.004</pub-id></mixed-citation>
+      </ref>
+      <ref id="B47">
+        <label>47.</label>
+        <mixed-citation publication-type="webpage"><person-group person-group-type="author"><collab>China Internet Network Information Center, CNNIC</collab></person-group>. <source>2020 China National Research Report on Internet Usage for Minors [OB/OL]</source> (<year>2021</year>). Available online at: <ext-link xlink:href="http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/qsnbg/202107/P020210720571098696248.pdf" ext-link-type="uri">http://www.cnnic.net.cn/hlwfzyj/hlwxzbg/qsnbg/202107/P020210720571098696248.pdf</ext-link> (accessed July 20, 2021).</mixed-citation>
+      </ref>
+      <ref id="B48">
+        <label>48.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ji</surname><given-names>W</given-names></name></person-group>. <article-title>Trend in teenagers' use of the internet and its influence on their growth in the era of social media: an analysis of the survey on teenagers' use of the internet</article-title>. <source>News and Writing.</source> (<year>2020</year>) <volume>37</volume>:<fpage>43</fpage>&#x2013;<lpage>50</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B49">
+        <label>49.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>Y</given-names></name></person-group>. (<year>2020</year>). <article-title>Characteristics of the internet behavior of undergraduates in the new era and their pattern of change</article-title>. <source>Young Soc.</source> (<year>2020</year>) <volume>14</volume>:<fpage>151</fpage>&#x2013;<lpage>2</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B50">
+        <label>50.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Peng</surname><given-names>S</given-names></name><name><surname>Zhang</surname><given-names>XY</given-names></name><name><surname>Zhang</surname><given-names>HP</given-names></name><name><surname>Hu</surname><given-names>XG</given-names></name></person-group>. <article-title>The relationship between fear of negative evaluation and internet overuse: the mediating effects of social anxiety and self-control</article-title>. <source>J Psychol Sci.</source> (<year>2020</year>) <volume>43</volume>:<fpage>81</fpage>&#x2013;<lpage>6</lpage>. <pub-id pub-id-type="doi">10.16719/j.cnki.1671-6981.20200112</pub-id></mixed-citation>
+      </ref>
+      <ref id="B51">
+        <label>51.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cui</surname><given-names>Y</given-names></name><name><surname>Yang</surname><given-names>YT</given-names></name><name><surname>Qian</surname><given-names>H</given-names></name><name><surname>Cui</surname><given-names>W</given-names></name><name><surname>Cui</surname><given-names>LJ</given-names></name></person-group>. <article-title>Analysis on the related factors of college students' network use and internet addiction</article-title>. <source>Med Res Edu</source>. (<year>2020</year>) <volume>3</volume>:<fpage>55</fpage>&#x2013;<lpage>61</lpage>. <pub-id pub-id-type="doi">10.3969/j.issn.1674-490X.2020.05.008</pub-id><pub-id pub-id-type="pmid">33762997</pub-id></mixed-citation>
+      </ref>
+      <ref id="B52">
+        <label>52.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Johnson S</surname><given-names>E</given-names></name><name><surname>Lawrence</surname><given-names>D</given-names></name><name><surname>Hafekost</surname><given-names>J</given-names></name><name><surname>Saw</surname><given-names>S</given-names></name><name><surname>Buckingham</surname><given-names>WJ</given-names></name><name><surname>Sawyer</surname><given-names>M</given-names></name><etal/></person-group>. <article-title>Service use by Australian children for emotional and behavioural problems: Findings from the second Australian child and adolescent survey of mental health and wellbeing</article-title>. <source>Aust N Z J Psychiatr.</source> (<year>2016</year>) <volume>50</volume>:<fpage>887</fpage>&#x2013;<lpage>98</lpage>. <pub-id pub-id-type="doi">10.1177/0004867415622562</pub-id><pub-id pub-id-type="pmid">26769979</pub-id></mixed-citation>
+      </ref>
+      <ref id="B53">
+        <label>53.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Posso</surname><given-names>A</given-names></name></person-group>. <article-title>Internet usage and educational outcomes among 15-year-old Australian students</article-title>. <source>Int J Commun.</source> (<year>2016</year>) <volume>10</volume>:<fpage>3851</fpage>&#x2013;<lpage>76</lpage>.</mixed-citation>
+      </ref>
+      <ref id="B54">
+        <label>54.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Thomas</surname><given-names>NJ</given-names></name><name><surname>Martin</surname><given-names>FH</given-names></name></person-group>. <article-title>Video-arcade game, computer game and internet activities of Australian students: participation habits and prevalence of addiction</article-title>. <source>Aust J Psychol.</source> (<year>2011</year>) <volume>62</volume>:<fpage>59</fpage>&#x2013;<lpage>66</lpage>. <pub-id pub-id-type="doi">10.1080/00049530902748283</pub-id></mixed-citation>
+      </ref>
+      <ref id="B55">
+        <label>55.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rahamathulla</surname><given-names>M</given-names></name><name><surname>Rohde</surname><given-names>A</given-names></name><name><surname>Rajik</surname><given-names>N</given-names></name><name><surname>Quinn</surname><given-names>S</given-names></name></person-group>. <article-title>Problematic internet use and co-morbid mental health problems among university students in Australia</article-title>. <source>Int J Technol Knowl Soc.</source> (<year>2020</year>) <volume>16</volume>:<fpage>1</fpage>&#x2013;<lpage>11</lpage>. <pub-id pub-id-type="doi">10.18848/1832-3669/CGP/v16i01/1-11</pub-id></mixed-citation>
+      </ref>
+      <ref id="B56">
+        <label>56.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rikkers</surname><given-names>W</given-names></name><name><surname>Lawrence</surname><given-names>D</given-names></name><name><surname>Hafekost</surname><given-names>J</given-names></name><name><surname>Zubrick</surname><given-names>SR</given-names></name></person-group>. <article-title>Internet use and electronic gaming by children and adolescents with emotional and behavioural problems in Australia - results from the second child and adolescent survey of mental health and wellbeing</article-title>. <source>BMC Public Health.</source> (<year>2016</year>) <volume>16</volume>:<fpage>399</fpage>. <pub-id pub-id-type="doi">10.1186/s12889-016-3058-1</pub-id><pub-id pub-id-type="pmid">27178325</pub-id></mixed-citation>
+      </ref>
+      <ref id="B57">
+        <label>57.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>King</surname><given-names>DL</given-names></name><name><surname>Delfabbro</surname><given-names>PH</given-names></name><name><surname>DohYY</surname></name><name><surname>Wu</surname><given-names>AMS</given-names></name></person-group>. <article-title>Sakuma H. Policy and prevention approaches for disordered and hazardous gaming and internet use: an international perspective prevention</article-title>. <source>Science.</source> (<year>2018</year>) <volume>19</volume>:<fpage>233</fpage>&#x2013;<lpage>49</lpage>. <pub-id pub-id-type="doi">10.1007/s11121-017-0813-1</pub-id><pub-id pub-id-type="pmid">28677089</pub-id></mixed-citation>
+      </ref>
+      <ref id="B58">
+        <label>58.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Leung</surname><given-names>C</given-names></name><name><surname>Moore</surname><given-names>SM</given-names></name><name><surname>Karnilowicz</surname><given-names>W</given-names></name><name><surname>Lung</surname><given-names>CL</given-names></name></person-group>. <article-title>Romantic relationships, relationship styles, coping strategies, and psychological distress among Chinese and Australian young adults</article-title>. <source>Soc Dev.</source> (<year>2011</year>) <volume>20</volume>:<fpage>783</fpage>&#x2013;<lpage>804</lpage>. <pub-id pub-id-type="doi">10.1111/j.1467-9507.2011.00616.x</pub-id></mixed-citation>
+      </ref>
+      <ref id="B59">
+        <label>59.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hu</surname><given-names>J</given-names></name><name><surname>Wang</surname><given-names>Z</given-names></name></person-group>. <article-title>Exploring the associated factors of elevated psychological distress in a community residing sample of Australian Chinese migrants</article-title>. <source>Aust J Psychol.</source> (<year>2016</year>) <volume>68</volume>:<fpage>116</fpage>&#x2013;<lpage>22</lpage>. <pub-id pub-id-type="doi">10.1111/ajpy.12099</pub-id></mixed-citation>
+      </ref>
+      <ref id="B60">
+        <label>60.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Byrne</surname><given-names>BM</given-names></name><name><surname>Shavelson</surname><given-names>RJ</given-names></name><name><surname>Muth&#xE9;n</surname><given-names>BO</given-names></name></person-group>. <article-title>Testing for the equivalence of factor covariance and mean structures: the issue of partial measurement invariance</article-title>. <source>Psychol Bull.</source> (<year>1989</year>) <volume>105</volume>:<fpage>456</fpage>&#x2013;<lpage>66</lpage>. <pub-id pub-id-type="doi">10.1037/0033-2909.105.3.456</pub-id></mixed-citation>
+      </ref>
+      <ref id="B61">
+        <label>61.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Schmitt</surname><given-names>N</given-names></name><name><surname>Kuljanin</surname><given-names>G</given-names></name></person-group>. <article-title>Measurement invariance: review of practice and implications</article-title>. <source>Hum Resour Manag Rev.</source> (<year>2008</year>) <volume>18</volume>:<fpage>210</fpage>&#x2013;<lpage>22</lpage>. <pub-id pub-id-type="doi">10.1016/j.hrmr.2008.03.003</pub-id><pub-id pub-id-type="pmid">17892098</pub-id></mixed-citation>
+      </ref>
+      <ref id="B62">
+        <label>62.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vandenberg</surname><given-names>RJ</given-names></name><name><surname>Lance</surname><given-names>CE</given-names></name></person-group>. <article-title>A. review and synthesis of the measurement invariance literature: Suggestions, practices, and recommendations for organizational research</article-title>. <source>Organ Res Methods.</source> (<year>2000</year>) <volume>3</volume>:<fpage>4</fpage>&#x2013;<lpage>69</lpage>. <pub-id pub-id-type="doi">10.1177/109442810031002</pub-id></mixed-citation>
+      </ref>
+      <ref id="B63">
+        <label>63.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>FF</given-names></name></person-group>. <article-title>What happens if we compare chopsticks with forks? The impact of making inappropriate comparisons in cross-cultural research</article-title>. <source>J Pers Soc Psychol.</source> (<year>2008</year>) <volume>95</volume>:<fpage>1005</fpage>&#x2013;<lpage>18</lpage>. <pub-id pub-id-type="doi">10.1037/a0013193</pub-id><pub-id pub-id-type="pmid">18954190</pub-id></mixed-citation>
+      </ref>
+      <ref id="B64">
+        <label>64.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Byrne</surname><given-names>BM</given-names></name><name><surname>Watkins</surname><given-names>D</given-names></name></person-group>. <article-title>The issue of measurement invariance revisited</article-title>. <source>J Cross Cult Psychol.</source> (<year>2003</year>) <volume>34</volume>:<fpage>155</fpage>&#x2013;<lpage>75</lpage>. <pub-id pub-id-type="doi">10.1177/0022022102250225</pub-id></mixed-citation>
+      </ref>
+      <ref id="B65">
+        <label>65.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Raju</surname><given-names>NS</given-names></name><name><surname>Laffitte</surname><given-names>LJ</given-names></name><name><surname>Byrne</surname><given-names>BM</given-names></name></person-group>. <article-title>Measurement equivalence: a comparison of methods based on confirmatory factor analysis and item response theory</article-title>. <source>J Appl Psychol.</source> (<year>2002</year>) <volume>87</volume>:<fpage>517</fpage>&#x2013;<lpage>29</lpage>. <pub-id pub-id-type="doi">10.1037/0021-9010.87.3.517</pub-id><pub-id pub-id-type="pmid">12090609</pub-id></mixed-citation>
+      </ref>
+      <ref id="B66">
+        <label>66.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Reise</surname><given-names>SP</given-names></name><name><surname>Widaman</surname><given-names>KF</given-names></name><name><surname>Pugh</surname><given-names>RH</given-names></name></person-group>. <article-title>Confirmatory factor analysis and item response theory: Two approaches for exploring measurement invariance</article-title>. <source>Psychol Bull.</source> (<year>1993</year>) <volume>114</volume>:<fpage>552</fpage>&#x2013;<lpage>66</lpage>. <pub-id pub-id-type="doi">10.1037/0033-2909.114.3.552</pub-id><pub-id pub-id-type="pmid">8272470</pub-id></mixed-citation>
+      </ref>
+      <ref id="B67">
+        <label>67.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hu</surname><given-names>L</given-names></name><name><surname>Bentler</surname><given-names>PM</given-names></name></person-group>. <article-title>Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives</article-title>. <source>Struct Equ Model.</source> (<year>1999</year>) <volume>6</volume>:<fpage>1</fpage>&#x2013;<lpage>55</lpage>. <pub-id pub-id-type="doi">10.1080/10705519909540118</pub-id></mixed-citation>
+      </ref>
+      <ref id="B68">
+        <label>68.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>FF</given-names></name></person-group>. <article-title>Sensitivity of goodness of fit indexes to lack of measurement invariance</article-title>. <source>Struct Equ Model.</source> (<year>2007</year>) <volume>14</volume>:<fpage>464</fpage>&#x2013;<lpage>504</lpage>. <pub-id pub-id-type="doi">10.1080/10705510701301834</pub-id></mixed-citation>
+      </ref>
+      <ref id="B69">
+        <label>69.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cheung</surname><given-names>GW</given-names></name><name><surname>Rensvold</surname><given-names>RB</given-names></name></person-group>. <article-title>Evaluating goodness-of-fit indexes for testing measurement invariance</article-title>. <source>Struct Equ Model.</source> (<year>2002</year>) <volume>9</volume>:<fpage>233</fpage>&#x2013;<lpage>55</lpage>. <pub-id pub-id-type="doi">10.1207/S15328007SEM0902_5</pub-id><pub-id pub-id-type="pmid">22551991</pub-id></mixed-citation>
+      </ref>
+      <ref id="B70">
+        <label>70.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Tavakol</surname><given-names>M</given-names></name><name><surname>Dennick</surname><given-names>R</given-names></name></person-group>. <article-title>Making sense of Cronbach's alpha</article-title>. <source>Int J Med Edu.</source> (<year>2011</year>) <volume>2</volume>:<fpage>53</fpage>&#x2013;<lpage>5</lpage>. <pub-id pub-id-type="doi">10.5116/ijme.4dfb.8dfd</pub-id><pub-id pub-id-type="pmid">28029643</pub-id></mixed-citation>
+      </ref>
+      <ref id="B71">
+        <label>71.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Clark L</surname><given-names>A</given-names></name><name><surname>Watson</surname><given-names>D</given-names></name></person-group>. <article-title>Constructing validity: basic issues in objective scale development</article-title>. <source>Psychol Assess.</source> (<year>1995</year>) <volume>7</volume>:<fpage>309</fpage>&#x2013;<lpage>19</lpage>. <pub-id pub-id-type="doi">10.1037/1040-3590.7.3.309</pub-id></mixed-citation>
+      </ref>
+      <ref id="B72">
+        <label>72.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bieda</surname><given-names>A</given-names></name><name><surname>Hirschfeld</surname><given-names>G</given-names></name><name><surname>Sch&#xF6;nfeld</surname><given-names>P</given-names></name><name><surname>Brailovskaia</surname><given-names>J</given-names></name><name><surname>Zhang X</surname><given-names>C</given-names></name><name><surname>Margraf</surname><given-names>J</given-names></name></person-group>. <article-title>Universal happiness? Cross-cultural measurement invariance of scales assessing positive mental health</article-title>. <source>Psychol Assess.</source> (<year>2017</year>) <volume>29</volume>:<fpage>408</fpage>&#x2013;<lpage>21</lpage>. <pub-id pub-id-type="doi">10.1037/pas0000353</pub-id><pub-id pub-id-type="pmid">27322203</pub-id></mixed-citation>
+      </ref>
+      <ref id="B73">
+        <label>73.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Whisman</surname><given-names>MA</given-names></name><name><surname>Judd</surname><given-names>CM</given-names></name></person-group>. <article-title>A cross-national analysis of measurement invariance of the satisfaction with life scale</article-title>. <source>Psychol Assess.</source> (<year>2016</year>) <volume>28</volume>:<fpage>239</fpage>&#x2013;<lpage>44</lpage>. <pub-id pub-id-type="doi">10.1037/pas0000181</pub-id><pub-id pub-id-type="pmid">26168309</pub-id></mixed-citation>
+      </ref>
+      <ref id="B74">
+        <label>74.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Barnette</surname><given-names>JJ</given-names></name></person-group>. <article-title>Effects of stem and Likert response option reversals on survey internal consistency: if you feel the need, there is a better alternative to using those negatively worded stems</article-title>. <source>Educ Psychol Meas.</source> (<year>2000</year>) <volume>60</volume>:<fpage>361</fpage>&#x2013;<lpage>70</lpage>. <pub-id pub-id-type="doi">10.1177/00131640021970592</pub-id></mixed-citation>
+      </ref>
+      <ref id="B75">
+        <label>75.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wong</surname><given-names>N</given-names></name><name><surname>Rindfleisch</surname><given-names>A</given-names></name><name><surname>Burroughs</surname><given-names>JE</given-names></name></person-group>. <article-title>Do reverse-worded items confound measures in cross-cultural consumer research? The case of the material values scale</article-title>. <source>J Consum Res.</source> (<year>2003</year>) <volume>30</volume>:<fpage>72</fpage>&#x2013;<lpage>91</lpage>. <pub-id pub-id-type="doi">10.1086/374697</pub-id></mixed-citation>
+      </ref>
+      <ref id="B76">
+        <label>76.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Marsh</surname><given-names>HW</given-names></name><name><surname>Scalas</surname><given-names>LF</given-names></name><name><surname>Nagengast</surname><given-names>B</given-names></name></person-group>. <article-title>Longitudinal tests of competing factor structures for the Rosenberg Self-Esteem Scale: traits, ephemeral artifacts, and stable response styles</article-title>. <source>Psychol Assess.</source> (<year>2010</year>) <volume>22</volume>:<fpage>366</fpage>&#x2013;<lpage>81</lpage>. <pub-id pub-id-type="doi">10.1037/a0019225</pub-id><pub-id pub-id-type="pmid">20528064</pub-id></mixed-citation>
+      </ref>
+      <ref id="B77">
+        <label>77.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Weijters</surname><given-names>B</given-names></name><name><surname>Baumgartner</surname><given-names>H</given-names></name><name><surname>Schillewaert</surname><given-names>N</given-names></name></person-group>. <article-title>Reversed item bias: an integrative model</article-title>. <source>Psychol Methods.</source> (<year>2013</year>) <volume>18</volume>:<fpage>320</fpage>&#x2013;<lpage>34</lpage>. <pub-id pub-id-type="doi">10.1037/a0032121</pub-id><pub-id pub-id-type="pmid">23646990</pub-id></mixed-citation>
+      </ref>
+      <ref id="B78">
+        <label>78.</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Wu</surname><given-names>Y</given-names></name><name><surname>Wei</surname><given-names>QW</given-names></name><name><surname>Zhou</surname><given-names>ZM</given-names></name></person-group>. <source>Culture and social psychology. Intellectual Property Publishing House Co, Ltd</source>
+<publisher-loc>Beijing</publisher-loc> (<year>2017</year>).</mixed-citation>
+      </ref>
+      <ref id="B79">
+        <label>79.</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Smith</surname><given-names>PB</given-names></name><name><surname>Fischer</surname><given-names>R</given-names></name><name><surname>Vignoles</surname><given-names>VL</given-names></name><name><surname>Bond</surname><given-names>MH</given-names></name></person-group>. <source>Understanding social psychology across cultures (2nd Ed)</source>. <publisher-loc>London</publisher-loc>: <publisher-name>Sage Publications Ltd</publisher-name> (<year>2013</year>).</mixed-citation>
+      </ref>
+      <ref id="B80">
+        <label>80.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>King D</surname><given-names>L</given-names></name><name><surname>Russell</surname><given-names>A</given-names></name><name><surname>Hing</surname><given-names>N</given-names></name></person-group>. <article-title>Adolescent land-based and internet gambling: Australian and international prevalence rates and measurement issues</article-title>. <source>Curr Addic Rep.</source> (<year>2020</year>) <volume>7</volume>:<fpage>137</fpage>&#x2013;<lpage>48</lpage>. <pub-id pub-id-type="doi">10.1007/s40429-020-00311-1</pub-id></mixed-citation>
+      </ref>
+      <ref id="B81">
+        <label>81.</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Hutton</surname><given-names>V</given-names></name><name><surname>Sisko</surname><given-names>S</given-names></name></person-group>. <source>Multicultural Responsiveness in Counselling and Psychology: Working with Australian Populations</source>. <publisher-loc>Cham</publisher-loc>: <publisher-name>Palgrave Macmillan Cham.</publisher-name> (<year>2021</year>).</mixed-citation>
+      </ref>
+      <ref id="B82">
+        <label>82.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Morgan</surname><given-names>AJ</given-names></name><name><surname>Wright</surname><given-names>J</given-names></name><name><surname>Reavley</surname><given-names>NJ</given-names></name></person-group>. <article-title>Review of Australian initiatives to reduce stigma towards people with complex mental illness: What exists and what works?</article-title>
+<source>Int J Ment Health Syst</source>. (<year>2021</year>)15:10. <pub-id pub-id-type="doi">10.1186/s13033-020-00423-1</pub-id><pub-id pub-id-type="pmid">34353351</pub-id></mixed-citation>
+      </ref>
+      <ref id="B83">
+        <label>83.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>SANE</surname><given-names>Australia</given-names></name></person-group>. <source>A life without stigma: A SANE Report</source>. SANE Australia (<year>2013</year>)</mixed-citation>
+      </ref>
+      <ref id="B84">
+        <label>84.</label>
+        <mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wright</surname><given-names>A</given-names></name><name><surname>Jorm</surname><given-names>AF</given-names></name><name><surname>Mackinnon</surname><given-names>AJ</given-names></name></person-group>. <article-title>Labeling of mental disorders and stigma in young people</article-title>. <source>Soc Sci Med.</source> (<year>2011</year>) <volume>73</volume>:<fpage>498</fpage>&#x2013;<lpage>506</lpage>. <pub-id pub-id-type="doi">10.1016/j.socscimed.2011.06.015</pub-id><pub-id pub-id-type="pmid">21794967</pub-id></mixed-citation>
+      </ref>
+      <ref id="B85">
+        <label>85.</label>
+        <mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Sheikhmiri</surname><given-names>M</given-names></name><name><surname>Issa</surname><given-names>T</given-names></name></person-group>. <article-title>Awareness factors, opportunities and challenges of iot application in Australia</article-title>. In: Issa T, Issa T, Issa TB, Isaias P, editors. <source>Sustainability awareness and green information technologies. Green Energy and Technology.</source>
+<publisher-loc>Cham</publisher-loc>: <publisher-name>Springer</publisher-name> (<year>2020</year>) 271&#x2013;320. <pub-id pub-id-type="doi">10.1007/978-3-030-47975-6_12</pub-id></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

@@ -1,0 +1,1020 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.3" xml:lang="en" article-type="research-article">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Am J Mens Health</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Am J Mens Health</journal-id>
+      <journal-id journal-id-type="publisher-id">JMH</journal-id>
+      <journal-id journal-id-type="hwp">spjmh</journal-id>
+      <journal-title-group>
+        <journal-title>American Journal of Men's Health</journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">1557-9883</issn>
+      <issn pub-type="epub">1557-9891</issn>
+      <publisher>
+        <publisher-name>SAGE Publications</publisher-name>
+        <publisher-loc>Sage CA: Los Angeles, CA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">35125015</article-id>
+      <article-id pub-id-type="pmc">8832600</article-id>
+      <article-id pub-id-type="doi">10.1177/15579883221074789</article-id>
+      <article-id pub-id-type="publisher-id">10.1177_15579883221074789</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Original Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Men&#x2019;s Experiences of Mental Illness Stigma Across the Lifespan: A Scoping Review</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0002-1811-0211</contrib-id>
+          <name>
+            <surname>McKenzie</surname>
+            <given-names>Sarah K.</given-names>
+          </name>
+          <xref rid="aff1-15579883221074789" ref-type="aff">1</xref>
+          <xref rid="corresp1-15579883221074789" ref-type="corresp"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">https://orcid.org/0000-0001-9029-4003</contrib-id>
+          <name>
+            <surname>Oliffe</surname>
+            <given-names>John L.</given-names>
+          </name>
+          <xref rid="aff2-15579883221074789" ref-type="aff">2</xref>
+          <xref rid="aff3-15579883221074789" ref-type="aff">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Black</surname>
+            <given-names>Alice</given-names>
+          </name>
+          <xref rid="aff1-15579883221074789" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Collings</surname>
+            <given-names>Sunny</given-names>
+          </name>
+          <xref rid="aff4-15579883221074789" ref-type="aff">4</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff1-15579883221074789"><label>1</label>Suicide and Mental Health Research Group, Department of Psychological Medicine, University of Otago, Wellington, New Zealand</aff>
+      <aff id="aff2-15579883221074789"><label>2</label>School of Nursing, University of British Columbia, Vancouver, BC, Canada</aff>
+      <aff id="aff3-15579883221074789"><label>3</label>Department of Nursing, University of Melbourne, Victoria, Australia</aff>
+      <aff id="aff4-15579883221074789"><label>4</label>School of Health, Te Herenga Waka&#x2014;Victoria University of Wellington, New Zealand</aff>
+      <author-notes>
+        <corresp id="corresp1-15579883221074789">Sarah K. McKenzie, Suicide and Mental Health Research Group, Department of Psychological Medicine, University of Otago, Wellington, 23a Mein Street, Newtown, Wellington 6021, New Zealand. Email: <email>sarah.mckenzie@otago.ac.nz</email></corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>7</day>
+        <month>2</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <season>Jan-Feb</season>
+        <year>2022</year>
+      </pub-date>
+      <volume>16</volume>
+      <issue>1</issue>
+      <elocation-id>15579883221074789</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>12</day>
+          <month>10</month>
+          <year>2021</year>
+        </date>
+        <date date-type="rev-recd">
+          <day>23</day>
+          <month>12</month>
+          <year>2021</year>
+        </date>
+        <date date-type="accepted">
+          <day>4</day>
+          <month>1</month>
+          <year>2022</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; The Author(s) 2022</copyright-statement>
+        <copyright-year>2022</copyright-year>
+        <copyright-holder content-type="sage">SAGE Publications Inc unless otherwise noted. Manuscript content on this site is licensed under Creative Commons Licenses</copyright-holder>
+        <license>
+          <ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref>
+          <license-p>This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 4.0 License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">https://creativecommons.org/licenses/by-nc/4.0/</ext-link>) which permits non-commercial use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access page (<ext-link ext-link-type="uri" xlink:href="https://us.sagepub.com/en-us/nam/open-access-at-sage">https://us.sagepub.com/en-us/nam/open-access-at-sage</ext-link>).</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The stigma of men&#x2019;s mental illness has been described as having wide-reaching and profound consequences beyond the condition[s] itself. Stigma negatively impacts men&#x2019;s mental health help-seeking and the use of services amid impeding disclosures, diminishing social connection and amplifying economic hardship. Although men often face barriers to discussing their struggles with, and help-seeking for mental illness challenges, research focused on men&#x2019;s lived experiences of mental illness stigma is, at best, emergent. This scoping review explores men&#x2019;s mental illness related stigmas synthesizing and discussing the findings drawn from 21 published qualitative articles over the last 10 years. Four thematic findings were derived: (a) the weight of societal stigma, (b) stigma in male-dominated environments, (c) inequity driven stigmas, and (d) de-stigmatizing strategies. Despite evidence that stigma is a common experience for men experiencing diverse mental illness challenges, the field remains underdeveloped. Based on the scoping review findings, research gaps and opportunities for advancing the field are discussed.</p>
+      </abstract>
+      <kwd-group>
+        <kwd>mental illness</kwd>
+        <kwd>stigma</kwd>
+        <kwd>men</kwd>
+        <kwd>masculinities</kwd>
+        <kwd>qualitative</kwd>
+      </kwd-group>
+      <funding-group specific-use="FundRef">
+        <award-group id="award1-15579883221074789">
+          <funding-source id="funding1-15579883221074789">
+<institution-wrap><institution>Health Sciences Career Development Award of the University of Otago</institution><institution-id/></institution-wrap>
+</funding-source>
+        </award-group>
+        <award-group id="award2-15579883221074789">
+          <funding-source id="funding2-15579883221074789">
+<institution-wrap><institution>Tier 1 Canada Research Chair in Men&#x2019;s Health Promotion</institution><institution-id/></institution-wrap>
+</funding-source>
+        </award-group>
+      </funding-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>cover-date</meta-name>
+          <meta-value>January-February 2022</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>typesetter</meta-name>
+          <meta-value>ts1</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro" id="section1-15579883221074789">
+      <title>Introduction</title>
+      <p>Research consistently shows that individuals with mental illness are subject to stigma and treated, or thought of, less favorably than others due to their mental health challenges (<xref rid="bibr27-15579883221074789" ref-type="bibr">Gaebel et al., 2017</xref>). The detrimental impacts of stigma are far-reaching, impacting access to education, employment, housing, social support, and health care, adding to and amplifying the burden of mental illness (<xref rid="bibr21-15579883221074789" ref-type="bibr">Corrigan &amp; Watson, 2002</xref>; <xref rid="bibr54-15579883221074789" ref-type="bibr">Sharac et al., 2010</xref>). Similarly, being on the receiving end of stigma can lead to loss of hope and self-esteem, shame, and disempowerment (<xref rid="bibr17-15579883221074789" ref-type="bibr">Corrigan et al., 2016</xref>; <xref rid="bibr41-15579883221074789" ref-type="bibr">Livingston &amp; Boyd, 2010</xref>). Perhaps most significantly, mental illness stigma is a major barrier to participation in mental health care, leading many to avoid help-seeking (<xref rid="bibr11-15579883221074789" ref-type="bibr">Clement et al., 2015</xref>; <xref rid="bibr18-15579883221074789" ref-type="bibr">Corrigan et al., 2014</xref>). While mental illness stigma has been extensively researched among the general population, and those with severe and/or chronic mental illness, gender as an influencer of men&#x2019;s mental illness stigmas has rarely been addressed (<xref rid="bibr27-15579883221074789" ref-type="bibr">Gaebel et al., 2017</xref>). It remains unclear how mental illness stigma is experienced by diverse groups of men and in different settings.</p>
+      <p>There are compelling reasons to distinguish the mental illness stigma experiences of men and describe the gendered dimensions of men&#x2019;s mental illness stigma (<xref rid="bibr7-15579883221074789" ref-type="bibr">Chatmon, 2020</xref>). Globally, men are more than twice as likely to die by suicide than women (<xref rid="bibr65-15579883221074789" ref-type="bibr">World Health Organization, 2021</xref>). Despite these higher rates of suicide, men have lower reported rates of depression, a significant suicidal risk factor (<xref rid="bibr36-15579883221074789" ref-type="bibr">Kilmartin, 2005</xref>). Implicated in this discordant relationship is the stigma around mental illness, which can restrict men&#x2019;s help-seeking, hinder treatment adherence and deter men from disclosing their depressive symptoms and/or suicidal thoughts (<xref rid="bibr49-15579883221074789" ref-type="bibr">Oliffe et al., 2016</xref>; <xref rid="bibr44-15579883221074789" ref-type="bibr">Mackenzie et al., 2019</xref>). Furthermore, men may be more vulnerable to stigmatized attitudes and beliefs toward mental illness because experiencing a mental illness transgresses gender ideals including masculine strength and self-reliance, by assigning weakness and dependence to men who disclose a mental illness (<xref rid="bibr4-15579883221074789" ref-type="bibr">Boysen, 2017</xref>). Finally, while mental illness is associated with stigma, not all conditions are stigmatized in the same way. Research indicates that gender and mental illness stereotypes intersect resulting in the perception of specific gendered conditions (<xref rid="bibr5-15579883221074789" ref-type="bibr">Boysen et al., 2014</xref>). For example, substance use and antisocial behavior are stereotyped as masculine mental health problems and have been shown to elicit more stigma than eating disorders which are stereotypically perceived as feminine (<xref rid="bibr5-15579883221074789" ref-type="bibr">Boysen et al., 2014</xref>).</p>
+      <p>Stigma is a complex social process which is challenging to define. The concepts of stigma applied in mental illness research have been influenced by the early work of <xref rid="bibr29-15579883221074789" ref-type="bibr">Goffman (1963</xref>, p. 3) who described stigma as a discrediting &#x201C;mark&#x201D; or &#x201C;attribute which is deeply discrediting&#x201D; and reduces the status of the person in the eyes of society. According to <xref rid="bibr39-15579883221074789" ref-type="bibr">Link and Phelan&#x2019;s (2001)</xref> theory, this is achieved through <italic toggle="yes">labeling</italic> (where particular human differences are singled out), <italic toggle="yes">stereotyping</italic> (where labeled differences are linked to dominant cultural beliefs about mental illness), and <italic toggle="yes">separating</italic> (where those experiencing mental illness are separated &#x201C;us&#x201D; from &#x201C;them&#x201D;), which in turn leads to <italic toggle="yes">status loss and/or discrimination</italic> (where those with mental illness are devalued, rejected and excluded). To understand the impact of mental illness stigmas, researchers have distinguished between <italic toggle="yes">public stigma</italic> and <italic toggle="yes">self-stigma</italic> (<xref rid="bibr21-15579883221074789" ref-type="bibr">Corrigan &amp; Watson, 2002</xref>). <italic toggle="yes">Public (social) stigma</italic> refers to the negative stereotypes, attitudes, and prejudices directed at those with mental illness by society (<xref rid="bibr19-15579883221074789" ref-type="bibr">Corrigan et al., 2012</xref>). <italic toggle="yes">Self-stigma</italic> refers to the reactions of individuals with mental illness who turn the publicly endorsed stigmatizing attitudes against themselves (<xref rid="bibr20-15579883221074789" ref-type="bibr">Corrigan &amp; Rao, 2012</xref>; <xref rid="bibr21-15579883221074789" ref-type="bibr">Corrigan &amp; Watson, 2002</xref>).</p>
+      <p>Sex difference studies suggest men hold more stigmatizing attitudes toward those with depression (<xref rid="bibr16-15579883221074789" ref-type="bibr">Cook &amp; Wang, 2010</xref>; <xref rid="bibr62-15579883221074789" ref-type="bibr">Wang et al., 2007</xref>), anxiety (<xref rid="bibr3-15579883221074789" ref-type="bibr">Batterham, Griffiths, et al., 2013</xref>), and those who die by suicide (<xref rid="bibr2-15579883221074789" ref-type="bibr">Batterham, Calear, &amp; Christensen, 2013</xref>) in comparison to women. Furthermore, young men (<xref rid="bibr9-15579883221074789" ref-type="bibr">Clark et al., 2020</xref>) and men with lower mental health literacy (<xref rid="bibr50-15579883221074789" ref-type="bibr">Oliffe et al., 2019b</xref>) are more likely to hold negative views toward those with mental illness suggesting increased stigma may stem from having less exposure to, and knowledge of mental illness. Two recent studies addressing sex differences in social and self-stigma related to men&#x2019;s depression and suicide further support these findings (<xref rid="bibr49-15579883221074789" ref-type="bibr">Oliffe et al., 2016</xref>; <xref rid="bibr44-15579883221074789" ref-type="bibr">Mackenzie et al., 2019</xref>). A survey of Canadian adults reported men with no personal experience of depression or suicide held more stigmatizing attitudes toward men&#x2019;s depression and suicide compared to women (<xref rid="bibr49-15579883221074789" ref-type="bibr">Oliffe et al., 2016</xref>). Likewise, men were more likely to agree with the statements, &#x201C;men with depression are dangerous,&#x201D; &#x201C;depression is a sign of personal weakness in a man&#x201D; and men who die by suicide can be described as &#x201C;pathetic&#x201D; and &#x201C;irresponsible&#x201D; (<xref rid="bibr49-15579883221074789" ref-type="bibr">Oliffe et al., 2016</xref>). Among those with personal experience of depression or suicide more men reported self-stigma and embarrassment about seeking help for depression (<xref rid="bibr49-15579883221074789" ref-type="bibr">Oliffe et al., 2016</xref>). Expanding on these findings, <xref rid="bibr44-15579883221074789" ref-type="bibr">Mackenzie et al. (2019)</xref> reported age differences with younger men having the highest levels of social stigma toward men&#x2019;s suicide and depression.</p>
+      <p>In terms of the influence of gender on men&#x2019;s mental illness related stigmas, the men&#x2019;s depression and suicide literature has begun to draw attention to men&#x2019;s stigmatizing experiences when discussing the gendered subjectivities of these struggles with mental illness, including help-seeking (<xref rid="bibr35-15579883221074789" ref-type="bibr">Johnson et al., 2012</xref>, <xref rid="bibr12-15579883221074789" ref-type="bibr">Coen et al., 2013</xref>; <xref rid="bibr10-15579883221074789" ref-type="bibr">Cleary, 2012</xref>). Fear of being judged and shamed for transgressing masculine ideals are common stigmatizing experiences. For example, suicidal young men in <xref rid="bibr10-15579883221074789" ref-type="bibr">Cleary&#x2019;s (2012)</xref> study concealed their mental distress for fear of being judged as weak for disclosing their emotional vulnerability. Similarly, Canadian based men with depression avoided help-seeking because it was considered emasculating, stigmatized, and further marginalizing (<xref rid="bibr35-15579883221074789" ref-type="bibr">Johnson et al., 2012</xref>, <xref rid="bibr12-15579883221074789" ref-type="bibr">Coen et al., 2013</xref>). Men&#x2019;s reticence to disclose their mental health challenges is shrouded in fear, influenced by a critical public gaze that encourages men to appear strong, stoic, and unemotional (<xref rid="bibr35-15579883221074789" ref-type="bibr">Johnson et al., 2012</xref>, <xref rid="bibr12-15579883221074789" ref-type="bibr">Coen et al., 2013</xref>; <xref rid="bibr10-15579883221074789" ref-type="bibr">Cleary, 2012</xref>). Collectively, these studies suggest many men are prone to internalizing mental illness stigma through adopting messages about what is, and what is not appropriate behavior for men in relation to their mental health. The purpose of the current scoping review is to provide a synthesis of existing qualitative studies exploring the gendered nature of men&#x2019;s mental illness stigma experiences to identify opportunities for addressing knowledge gaps to advance the field.</p>
+    </sec>
+    <sec sec-type="methods" id="section2-15579883221074789">
+      <title>Methods</title>
+      <p>Scoping reviews offer unique contributions by systematically searching and synthesizing existing research knowledge within emergent and narrowly defined issues (<xref rid="bibr13-15579883221074789" ref-type="bibr">Colquhoun et al., 2014</xref>; <xref rid="bibr38-15579883221074789" ref-type="bibr">Levac et al., 2010</xref>). A scoping review provides a &#x201C;snapshot&#x201D; of the research landscape, allowing researchers to assess the state of the existing literature, determine its breadth and depth, identify gaps, and make recommendations for future research. The current review utilized <xref rid="bibr1-15579883221074789" ref-type="bibr">Arksey and O&#x2019;Malley (2005)</xref> stepped approach to scoping reviews comprising outlining the research question and criteria for inclusion, designing, and implementing search strategies, selecting relevant studies, data extraction, and analysis of included studies.</p>
+      <sec id="section3-15579883221074789">
+        <title>Identifying the Research Question</title>
+        <p>The current scoping review addresses the following research question: What does the published qualitative research tell us about the mental illness stigma&#x2013;related experiences of men ? We inclusively defined &#x201C;men&#x201D; to encompass men of all ages across the lifespan and their direct and indirect experiences of mental illness stigma.</p>
+      </sec>
+      <sec id="section4-15579883221074789">
+        <title>Identifying Relevant Studies</title>
+        <p>Given qualitative research in men&#x2019;s mental illness is emergent (<xref rid="bibr45-15579883221074789" ref-type="bibr">McKenzie et al., 2016</xref>) and the complexities inherent in defining stigma (<xref rid="bibr39-15579883221074789" ref-type="bibr">Link &amp; Phelan, 2001</xref>), the initial search was broad to thoroughly search the literature. We also focussed search terms to find the high prevalence disorders of depression and anxiety where sex differences in rates have been consistently reported, rather than the low-prevalence mental disorders such as schizophrenia and bipolar disorder where no consistent sex differences have been reported.</p>
+        <p>The search strategy was developed iteratively using broad keywords and terms to strategically harvest from the available literature (<xref rid="bibr1-15579883221074789" ref-type="bibr">Arksey &amp; O&#x2019;Malley, 2005</xref>). The final set of search terms reflected the three main topic components: (a) terms related to mental health and illness (&#x201C;mental health&#x201D; OR &#x201C;mental illness&#x201D; OR &#x201C;suicide&#x201D; OR &#x201C;depression&#x201D; OR &#x201C;anxiety&#x201D; OR &#x201C;mental disorder&#x201D; OR &#x201C;distress&#x201D;); (b) stigma related search terms (&#x201C;stigma&#x201D; OR &#x201C;discrimination&#x201D; OR &#x201C;shame&#x201D; OR &#x201C;stereotype&#x201D; OR &#x201C;prejudice&#x201D;), and (c) terms for men (&#x201C;man&#x201D; OR &#x201C;men&#x201D; OR &#x201C;male&#x201D;) which were combined using Boolean operators. Free text terms were mapped to relevant subject headings and where possible Medical Subject Headings [MeSH] were employed. An electronic search strategy was iteratively devised for use with Medline and adapted for PsycINFO, CINHAL, SCOPUS, Embase, and PubMed and limited articles published 2010 to 2020 inclusive.</p>
+      </sec>
+      <sec id="section5-15579883221074789">
+        <title>Selecting Relevant Studies</title>
+        <p>Records were screened against the following inclusion criteria: (a) article reported primary research using a qualitative study design, (b) study participants were male (any age), or results were disaggregated and reported separately by gender, (c) study was focused on men&#x2019;s mental illness, and (d) mental illness stigma featured as the study focus OR emerged as a discrete finding. Studies were excluded where mental illness was not the focus of the stigma related findings, for example, studies of stigma specifically due to sexual orientation or HIV. Only empirical peer-reviewed journal publications reporting original research in English were included (i.e., discussion papers, invited book chapters, dissertations, expert opinions, and editorials were excluded). A total of 953 records were generated through the search process, of these 283 duplicates were removed. Of the remaining records, 603 were excluded following the first stage screening by title and abstract. The remaining 67 articles were read independently in full by 2 authors, leaving 21 articles deemed to meet the inclusion criteria for review (see <xref rid="fig1-15579883221074789" ref-type="fig">Figure 1</xref>). Any uncertainties or disagreements were resolved through iterative discussions.</p>
+        <fig position="float" id="fig1-15579883221074789">
+          <label>Figure 1.</label>
+          <caption>
+            <p>Pathway of Articles Identified and Excluded.</p>
+          </caption>
+          <graphic xlink:href="10.1177_15579883221074789-fig1" position="float"/>
+        </fig>
+      </sec>
+      <sec id="section6-15579883221074789">
+        <title>Charting the Data and Analysis</title>
+        <p>Data from the 21 articles were extracted and charted using the study characteristics and relevant findings (<xref rid="table1-15579883221074789" ref-type="table">Table 1</xref>). The findings from each study were analyzed to distill patterns and explain variations on those themes (<xref rid="bibr6-15579883221074789" ref-type="bibr">Braun &amp; Clarke, 2006</xref>). We used QSR NVivo 11, a software program used to manage and code the relevant stigma related findings in each study. This consisted of harvesting all participant quotations and authors&#x2019; interpretations/summarizing statements relating to stigma and men&#x2019;s mental illness findings. Terms related to the concept of stigma were included. For example, the experience of shame and embarrassment in relation to men&#x2019;s self-stigma was included (<xref rid="bibr40-15579883221074789" ref-type="bibr">Link &amp; Stuart, 2017</xref>). Data were annotated line-by-line with the relevant findings of each study using constant comparative methods to compare study results (<xref rid="bibr28-15579883221074789" ref-type="bibr">Gibbs, 2007</xref>). This process informed initial codes which represented common concepts and/or phrases relating to aspects of stigma associated with men&#x2019;s mental illness. As each new study was coded, the list of codes was revised and added to, ensuring all relevant data were encapsulated. Nodes were examined and discussed several times among the first two researchers, to ascertain similarities, differences and drive consensus for the coding schedule and allocation of study data. Coded data were subsequently sorted into preliminary themes which were then reviewed to check the fit of the theme label and the coded data assigned to it. Preliminary themes were reviewed, and consensus reached through iterative processes among authors.</p>
+        <table-wrap position="float" id="table1-15579883221074789">
+          <label>Table 1</label>
+          <caption>
+            <p>Summary of Included Articles.</p>
+          </caption>
+          <alternatives>
+            <graphic xlink:href="10.1177_15579883221074789-table1" position="float"/>
+            <table frame="hsides" rules="groups">
+              <colgroup span="1">
+                <col align="left" span="1"/>
+                <col align="char" char="." span="1"/>
+                <col align="char" char="." span="1"/>
+                <col align="char" char="." span="1"/>
+                <col align="char" char="." span="1"/>
+                <col align="char" char="." span="1"/>
+              </colgroup>
+              <thead>
+                <tr>
+                  <th align="left" rowspan="1" colspan="1">Author/year/ country</th>
+                  <th align="center" rowspan="1" colspan="1">Primary objectives</th>
+                  <th align="center" rowspan="1" colspan="1">Theoretical framework</th>
+                  <th align="center" rowspan="1" colspan="1">Data collection methods</th>
+                  <th align="center" rowspan="1" colspan="1">Study population</th>
+                  <th align="center" rowspan="1" colspan="1">Relevant findings</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td rowspan="1" colspan="1"><xref rid="bibr8-15579883221074789" ref-type="bibr">Clark et al. (2018)</xref>, Australia</td>
+                  <td rowspan="1" colspan="1">To explore the barriers and facilitators of help-seeking for anxiety among adolescent males</td>
+                  <td rowspan="1" colspan="1">None</td>
+                  <td rowspan="1" colspan="1">Focus groups and individual interviews using vignettes</td>
+                  <td rowspan="1" colspan="1">29 adolescent males with/without clinical anxiety recruited from mental health services and the community (age 12&#x2013;18)</td>
+                  <td rowspan="1" colspan="1">Perceived stigma was a significant barrier to young males disclosing their anxiety to peers or seeking help from school counselors. Having a mental illness which required professional help was seen as weak, unmacho and resulted in fear of being bullied or excluded by peers. Help-seeking threatened their masculine social status and they would rather deny experiencing symptoms than leave themselves open to being stigmatized by others.</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"><xref rid="bibr22-15579883221074789" ref-type="bibr">DeLenardo &amp; Terrion (2014)</xref>, Canada</td>
+                  <td rowspan="1" colspan="1">To explore the stigma associated with mental illness for athletes and the difficulties they may face in seeking help for mental health problems</td>
+                  <td rowspan="1" colspan="1">Link and Phelan&#x2019;s stigma framework</td>
+                  <td rowspan="1" colspan="1">Interviews with stimulus text</td>
+                  <td rowspan="1" colspan="1">8 male varsity football players (mean age 22)</td>
+                  <td rowspan="1" colspan="1">Players described the stigma around mental illness as weakness, a lack of mental toughness and were fearful of being associated with mental illness. Negative labels and stereotypes were commonly used for those with mental illness. Players were also fearful of being rejected by their peers if they disclosed mental health difficulties. The use of famous sportsmen in campaigns to de-stigmatize mental illness in a masculine-dominated sport was reported as a positive strategy.</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"><xref rid="bibr23-15579883221074789" ref-type="bibr">Ferguson et al. (2019)</xref>, Australia</td>
+                  <td rowspan="1" colspan="1">To understand men&#x2019;s experiences of using ambulance services for mental health and/or alcohol and other drug problems</td>
+                  <td rowspan="1" colspan="1">None</td>
+                  <td rowspan="1" colspan="1">Semi-structured interviews</td>
+                  <td rowspan="1" colspan="1">30 men who used ambulance service for mental health and /or alcohol and other drug concerns (including anxiety, depression, self-harm, suicidal ideation/attempt, anxiety, intoxication, overdose, and psychosis) (mean age 40)</td>
+                  <td rowspan="1" colspan="1">Men described negative experiences of care from ambulance staff including shame, embarrassment, a lack of professionalism and compassion and judgmental communication that their mental health crisis was not as legitimate a reason for ambulance care as physical health concerns.</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"><xref rid="bibr25-15579883221074789" ref-type="bibr">Ferlatte et al. (2019b)</xref>, Canada</td>
+                  <td rowspan="1" colspan="1">To explore the drivers of suicidality from the perspectives of gay, bisexual, and Two-Spirit (indigenous) men (GBTSM)</td>
+                  <td rowspan="1" colspan="1">Intersectionality framework</td>
+                  <td rowspan="1" colspan="1">Semi-structured photo-elicitation interviews</td>
+                  <td rowspan="1" colspan="1">21 GBTSM with a history of suicidal thoughts, plans and/or attempts (age 23-71)</td>
+                  <td rowspan="1" colspan="1">Participants described how multiple intersecting forms of stigma and oppression related to their sexual identity, class, ethnicity, having a mental illness, homophobia and biphobia were drivers of their suicidality. Men described feeling disconnected, socially isolated, and excluded.</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"><xref rid="bibr24-15579883221074789" ref-type="bibr">Ferlatte et al. (2019a)</xref>, Canada</td>
+                  <td rowspan="1" colspan="1">To explore suicide prevention from the perspectives of gay, bisexual, and Two-Spirit men (GBTSM)</td>
+                  <td rowspan="1" colspan="1">None</td>
+                  <td rowspan="1" colspan="1">Semi-structured photo-elicitation interviews</td>
+                  <td rowspan="1" colspan="1">21 GBTSM with a history of suicidal thoughts, plans and/or attempts and 8 who had lost a GBTSM friend, partner or family member to suicide (age 23-71)</td>
+                  <td rowspan="1" colspan="1">Participants described the double stigma of being GBTSM and having a mental illness, but also the enduring effects that homophobia, biphobia and mental illness stigma had on their everyday lives. Suicide and mental illness continued to be seen as taboo subjects which reinforced stigma. Peer support from those with similar experiences helped in addressing stigma.</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"><xref rid="bibr26-15579883221074789" ref-type="bibr">Ferlatte et al. (2019c)</xref>, Canada</td>
+                  <td rowspan="1" colspan="1">To explore how stigma shapes gay men&#x2019;s bereavement after the loss of a partner to suicide</td>
+                  <td rowspan="1" colspan="1">Link and Phelan&#x2019;s stigma framework</td>
+                  <td rowspan="1" colspan="1">Descriptive case study approach using semi-structured photo-elicitation interviews</td>
+                  <td rowspan="1" colspan="1">Two gay men who lost a partner to suicide (age 40-49)</td>
+                  <td rowspan="1" colspan="1">Gay men described a number of stigma-related challenges during and after the loss of their partner to suicide: thwarted efforts to connect their partners to professional help, maintaining silences and secrets about partners due to mental illness, HIV and sexual minority stigma; complicated grieving process, and loss of support during their own bereavement journeys.</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"><xref rid="bibr32-15579883221074789" ref-type="bibr">Harding &amp; Fox (2015)</xref>, Australia</td>
+                  <td rowspan="1" colspan="1">To explore factors which enable men to seek help for their mental health</td>
+                  <td rowspan="1" colspan="1">None</td>
+                  <td rowspan="1" colspan="1">Semi-structured in-depth interviews</td>
+                  <td rowspan="1" colspan="1">9 men who were currently or had received counseling in the past 12 months (age 23-65)</td>
+                  <td rowspan="1" colspan="1">Men described how help-seeking was supported or enabled by a number of factors: challenging their own understandings and perceived stigma of mental illness through interactions with mental health professionals, disclosing within social groups where help-seeking was normalized and less likely to be stigmatized, seeing sportsmen&#x2019;s disclose mental health issues.</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"><xref rid="bibr33-15579883221074789" ref-type="bibr">Hassouneh &amp; Fornero (2020)</xref>, United States</td>
+                  <td rowspan="1" colspan="1">To explore the experience of depression in men with physical disabilities</td>
+                  <td rowspan="1" colspan="1">None</td>
+                  <td rowspan="1" colspan="1">Focus groups and interviews</td>
+                  <td rowspan="1" colspan="1">24 men with physical disabilities (e.g., spinal cord injury, multiple sclerosis, traumatic brain injury) and depression (age &gt; 18)</td>
+                  <td rowspan="1" colspan="1">Men experienced stigma and social marginalization as a result of having a visible physical disability, a mental illness and being unable to meet traditional gendered expectations of men as breadwinners, successful in paid work, strong and muscular. Depression was described as &#x2018;another weakness and failing&#x2019; in addition to physical disability and not disclosed in order to avoid further stigma.</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"><xref rid="bibr35-15579883221074789" ref-type="bibr">Johnson et al. (2012)</xref>, Canada</td>
+                  <td rowspan="1" colspan="1">To explore men&#x2019;s discourses of help-seeking for depression</td>
+                  <td rowspan="1" colspan="1">Connell&#x2019;s theory of masculinities</td>
+                  <td rowspan="1" colspan="1">Semi-structured interviews</td>
+                  <td rowspan="1" colspan="1">38 men with depression (formally diagnosed or self-reported) (age 24-50)</td>
+                  <td rowspan="1" colspan="1">Men described fear of being judged for seeking help for their depression. To avoid the additional potential stigma of seeking help from professionals, men reframed their help-seeking behavior in a number of ways: manly reliance, as responsible independent action, guarded vulnerability, desperation and genuine connection. These different discourses enabled men to circumvent or buffer the stigma attached to treatment seeking and maintain their masculine identities.</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"><xref rid="bibr37-15579883221074789" ref-type="bibr">Kour et al. (2020)</xref>, Norway</td>
+                  <td rowspan="1" colspan="1">To explore the mental health treatment experiences of immigrant men living with co-occurring disorders</td>
+                  <td rowspan="1" colspan="1">None</td>
+                  <td rowspan="1" colspan="1">Semi-structured interviews</td>
+                  <td rowspan="1" colspan="1">10 immigrant men (from Middle East, South Asia, East and West Africa) diagnosed with co-occurring substance use and mental disorders (age 25-53)</td>
+                  <td rowspan="1" colspan="1">Men experienced stigma from within their own immigrant communities due to the cultural stigma around seeking psychiatric help. This deterred them from engaging in mental health care. Those who did seek help experienced discrimination within the health system because of their status as an immigrant which led to them dropping out of treatment</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"><xref rid="bibr43-15579883221074789" ref-type="bibr">Mahalik &amp; Dagirmanjian (2019)</xref>, United States</td>
+                  <td rowspan="1" colspan="1">To explore working-class men&#x2019;s constructions of help-seeking when feeling depressed or sad</td>
+                  <td rowspan="1" colspan="1">Connell&#x2019;s theory of masculinities</td>
+                  <td rowspan="1" colspan="1">Semi-structured interview</td>
+                  <td rowspan="1" colspan="1">12 men working in manual/industrial labor (age 21-70)</td>
+                  <td rowspan="1" colspan="1">For many men, the fear of being rejected, shamed, shunned or stigmatized by work colleagues led men to deny or hide mental illness symptoms. To avoid being stigmatized or seen as being weak for having mental health difficulties, men avoided disclosure and help-seeking. Men did not want to be seen to fail the masculine ideal of being strong, stoic and self-reliant which meant &#x201C;toughing things out&#x201D; when suffering.</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"><xref rid="bibr48-15579883221074789" ref-type="bibr">Oliffe et al. (2011)</xref>, Canada</td>
+                  <td rowspan="1" colspan="1">To explore suicide from the perspectives of older men who experience depression</td>
+                  <td rowspan="1" colspan="1">Connell&#x2019;s theory of masculinities</td>
+                  <td rowspan="1" colspan="1">Semi-structured interview</td>
+                  <td rowspan="1" colspan="1">22 men who self-identify or have been formally diagnosed with depression (age 55-79)</td>
+                  <td rowspan="1" colspan="1">The stigma associated with suicide was a significant barrier to men&#x2019;s self-harming or acting on their suicidal thoughts. Underpinning this was the desire to protect family and friends from the shame and stigma that would likely accompany their suicide. Some men reported thoughts of how they might take their own life without attracting the stigma that accompanies it.</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"><xref rid="bibr47-15579883221074789" ref-type="bibr">Oliffe et al. (2017)</xref>, Canada</td>
+                  <td rowspan="1" colspan="1">To understand the connections between masculinities and men&#x2019;s experiences of suicidality</td>
+                  <td rowspan="1" colspan="1">Connell&#x2019;s theory of masculinities</td>
+                  <td rowspan="1" colspan="1">Semi-structured photo-elicitation interviews</td>
+                  <td rowspan="1" colspan="1">20 men with a history of suicidality (age 20-62)</td>
+                  <td rowspan="1" colspan="1">Men self-isolated and distanced themselves as a protection strategy- a way of hiding their vulnerability and avoiding public stigma- and to avoid troubling others. This not only took men away from potential sources of social support but also left them at heightened risk of suicide</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"><xref rid="bibr46-15579883221074789" ref-type="bibr">Oliffe et al (2019a)</xref>, Canada</td>
+                  <td rowspan="1" colspan="1">To explore how social isolation is experienced among men with a history of suicidality</td>
+                  <td rowspan="1" colspan="1">Connell&#x2019;s theory of masculinities</td>
+                  <td rowspan="1" colspan="1">Semi-structured photo-elicitation interviews</td>
+                  <td rowspan="1" colspan="1">35 men with a history of suicidality (age 20-68)</td>
+                  <td rowspan="1" colspan="1">Men&#x2019;s self-isolation was driven by the stigma of mental illness and/or being part of a minority sexual group, estrangement from families, a lack of belonging at work and a sense of being judged and ex-communicated by others for their life choices. Men&#x2019;s accounts of mental illness revealed their internalization of stigma and a focus on their failure to meet societies gendered expectations of men to be productive and capable male citizens.</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"><xref rid="bibr52-15579883221074789" ref-type="bibr">Samuel (2015)</xref>, United States</td>
+                  <td rowspan="1" colspan="1">To examine the beliefs and attitudes of African American male adolescents toward mental health issues and mental health service utilization</td>
+                  <td rowspan="1" colspan="1">None</td>
+                  <td rowspan="1" colspan="1">In-depth interviews</td>
+                  <td rowspan="1" colspan="1">54 African American adolescent males currently or formerly receiving mental health treatment following release from juvenile detention (age 15-17)</td>
+                  <td rowspan="1" colspan="1">Participants described stigma, shame, fear and mistrust of the service providers they interacted with. To avoid further potential stigma, many disengaged from mental health services. Communities were less tolerant of those with mental illness and there was shame and stigma in being an African American man with a mental health issue. Young men experienced shame and ridicule amongst their peers for their involvement with mental health services.</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"><xref rid="bibr53-15579883221074789" ref-type="bibr">Scholz et al. (2017)</xref>, Australia</td>
+                  <td rowspan="1" colspan="1">To explore men&#x2019;s discourses of depression</td>
+                  <td rowspan="1" colspan="1">None</td>
+                  <td rowspan="1" colspan="1">In-depth interviews</td>
+                  <td rowspan="1" colspan="1">10 men with previous experience of high levels of depressive symptoms (age 45-88)</td>
+                  <td rowspan="1" colspan="1">Participants described the embarrassment of being a man with depression as a barrier to disclosure of depression and seeking help. Men rejected this public stigma by (i) reframing their depression as &#x201C;normal&#x201D; rather than men who were facing a crisis and (ii) reframing their help-seeking as a rational and desirable masculine practice</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"><xref rid="bibr56-15579883221074789" ref-type="bibr">Siegel &amp; Sawyer (2019)</xref>, United States</td>
+                  <td rowspan="1" colspan="1">To explore the experiences of men with eating disorders in the workplace</td>
+                  <td rowspan="1" colspan="1">None</td>
+                  <td rowspan="1" colspan="1">In-depth interviews</td>
+                  <td rowspan="1" colspan="1">14 men who self-identify or have been formally diagnosed with an eating disorder (mean age= 27.8)</td>
+                  <td rowspan="1" colspan="1">Men reported fear of potential stigmatization, shame and backlash for revealing their eating disorder (ED) to colleagues in the workplace, especially in male dominated workplaces. To avoid stigma, many men chose not to disclose their ED and to blend into the culture of the organization. This included avoiding social events, finding ways to manage the ED and in extreme cases, leaving their job meaning they were unable to receive workplace benefits. The stigma of EDs was seen as more stigmatizing and shameful for men given Eds are typically viewed as a feminine disorder.</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"><xref rid="bibr57-15579883221074789" ref-type="bibr">Staiger et al. (2020)</xref>, Germany</td>
+                  <td rowspan="1" colspan="1">To explore men&#x2019;s experiences and attitudes toward depression, help-seeking, and service use</td>
+                  <td rowspan="1" colspan="1">None</td>
+                  <td rowspan="1" colspan="1">Semi-structured interviews</td>
+                  <td rowspan="1" colspan="1">12 men diagnosed or self-identified as having depression (age 16-64)</td>
+                  <td rowspan="1" colspan="1">Men described feeling stigmatized and, in some cases, shunned by work colleagues for not being unable to cope with mental distress, and for failing to meet the norms relating to paid work. Men&#x2019;s depression-related incapacity to work and being labeled left them feeling further stigmatized. In terms of help-seeking, some avoided accessing treatment out of fear of being further stigmatized, while others found safe spaces among men-only groups where they could disclose their condition without the shame or stigma of being labeled as &#x2018;unmanly&#x2019;.</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"><xref rid="bibr61-15579883221074789" ref-type="bibr">Wagstaff et al. (2018)</xref>, United Kingdom</td>
+                  <td rowspan="1" colspan="1">To explore the experiences of black men with schizophrenia who disengage from mental health services</td>
+                  <td rowspan="1" colspan="1">None</td>
+                  <td rowspan="1" colspan="1">In-depth interviews</td>
+                  <td rowspan="1" colspan="1">7 men with a diagnosis of schizophrenia and a history of disengagement from mental health services (age 31&#x2013;64)</td>
+                  <td rowspan="1" colspan="1">Men had a complex relationship with mental health services of which the social stigma of being involved in services contributed to. Not only did men feel that their association with services had a negative impact on their social identity, but it also impacted their relationships with their families, community and wider society.</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"><xref rid="bibr63-15579883221074789" ref-type="bibr">Ward &amp; Besson (2012)</xref>, United States</td>
+                  <td rowspan="1" colspan="1">To examine African American men&#x2019;s beliefs about mental illness, stigma, and barriers to help-seeking</td>
+                  <td rowspan="1" colspan="1">Psychological Common-Sense Model</td>
+                  <td rowspan="1" colspan="1">In-depth interviews</td>
+                  <td rowspan="1" colspan="1">17 men who self-identify as African American with and without personal experience of mental illness<break/>(age 24-75)</td>
+                  <td rowspan="1" colspan="1">Most men were aware of the stigma and negative stereotypes associated with having a mental illness, but did not endorse these ideas, nor did they consider stigma to be a barrier to help-seeking. Rather mental illness was perceived as a &#x2018;normal&#x2019;, &#x2018;everyday&#x2019; occurrence, synonymous with physical illness.</td>
+                </tr>
+                <tr>
+                  <td rowspan="1" colspan="1"><xref rid="bibr64-15579883221074789" ref-type="bibr">Wood et al. (2017)</xref>, United Kingdom</td>
+                  <td rowspan="1" colspan="1">To understand the mental health experiences and help-seeking of male professional footballers</td>
+                  <td rowspan="1" colspan="1">None</td>
+                  <td rowspan="1" colspan="1">In-depth interviews</td>
+                  <td rowspan="1" colspan="1">7 male professional footballers with self-reported experience of mental health difficulties and help seeking (age 32-41)</td>
+                  <td rowspan="1" colspan="1">Men avoided stigma by concealing their mental health difficulties and putting on a &#x2018;brave face&#x2019;. They described the fear of rejection if they disclosed to their peers due to the competitive, macho culture associated with being in the male-dominated world of football. The perceived lack of safe spaces to share their difficulties contributed to feelings of helplessness, isolation and sense of being trapped. Internalization of this stigma and shame was a barrier to seeking help, and men relied on female partners and mothers for support where the risk of rejection was lower.</td>
+                </tr>
+              </tbody>
+            </table>
+          </alternatives>
+        </table-wrap>
+      </sec>
+    </sec>
+    <sec sec-type="results" id="section7-15579883221074789">
+      <title>Results</title>
+      <p>The 21 studies included in this review used the following data collection methods: semi-structured interviews (<italic toggle="yes">n</italic> = 14), photo-elicitation interviews (<italic toggle="yes">n</italic> = 5), and interviews and focus groups (<italic toggle="yes">n</italic> = 2). Studies were conducted in Canada (<italic toggle="yes">n</italic> = 8), the United States (<italic toggle="yes">n</italic> = 5), Australia (<italic toggle="yes">n</italic> = 4), the United Kingdom (<italic toggle="yes">n</italic> = 2), Germany (<italic toggle="yes">n</italic> = 1), and Norway (<italic toggle="yes">n</italic> = 1). The majority of studies included samples of men across wide age ranges. Two studies included younger men aged 12 to 18 years (e.g., <xref rid="bibr8-15579883221074789" ref-type="bibr">Clark et al., 2018</xref>; <xref rid="bibr52-15579883221074789" ref-type="bibr">Samuel, 2015</xref>) and one study included older men aged 55 to 79 years (e.g., <xref rid="bibr48-15579883221074789" ref-type="bibr">Oliffe et al., 2011</xref>). A caveat of our review is that while the findings shared reveal what prevails across these wide age ranges, a comparison by age was not completed as that analysis resides outside the research question for the current scoping review.</p>
+      <p>The primary objective of most articles included in this review was to examine men&#x2019;s subjective accounts of a range of mental health difficulties and related behaviors including depression, suicidality, mental distress, anxiety, mental health service use/engagement, and formal help-seeking. Few articles explicitly defined or conceptualized stigma, but the terms societal stigma, external stigma, public stigma, social stigma, and internalized stigma were used within the study findings. This reflects the fact that only three articles had the primary objective of examining stigma in relation to men&#x2019;s mental illness (<xref rid="bibr26-15579883221074789" ref-type="bibr">Ferlatte et al., 2019c</xref>; <xref rid="bibr22-15579883221074789" ref-type="bibr">DeLenardo &amp; Terrion, 2014</xref>; <xref rid="bibr63-15579883221074789" ref-type="bibr">Ward &amp; Besson, 2012</xref>). For most articles, mental illness stigma emerged inductively either as a thematic or a descriptive finding in the analysis of men&#x2019;s accounts. Four distinct though interconnected themes concerning stigma were derived from the reviewed articles: (a) the weight of societal stigma, (b) stigma in male-dominated environments, (c) inequity driven stigma, and (d) de-stigmatizing strategies.</p>
+    </sec>
+    <sec id="section8-15579883221074789">
+      <title>The Weight of Societal Stigma</title>
+      <p>Seven studies reported internalized stigma experiences of men with mental illness (<xref rid="bibr48-15579883221074789" ref-type="bibr">Oliffe et al., 2011</xref>, <xref rid="bibr47-15579883221074789" ref-type="bibr">2017</xref>, 2019a; <xref rid="bibr8-15579883221074789" ref-type="bibr">Clark et al., 2018</xref>; <xref rid="bibr23-15579883221074789" ref-type="bibr">Ferguson et al., 2019</xref>; <xref rid="bibr52-15579883221074789" ref-type="bibr">Samuel, 2015</xref>; <xref rid="bibr61-15579883221074789" ref-type="bibr">Wagstaff et al., 2018</xref>). Participants&#x2019; narratives revealed a variety of stigmatizing experiences including feelings of fear, shame, embarrassment, guilt, and isolation. This self-stigma was driven by the stigmatizing attitudes of peers, work colleagues, family, health professionals, and members of the wider community. A common experience was that men believed people negatively stereotyped those with mental illness as weak and failures. In studies focused on young men, feelings of fear and shame were common, not only for having a mental illness but for being seen to engage with mental health professionals (<xref rid="bibr8-15579883221074789" ref-type="bibr">Clark et al., 2018</xref>; <xref rid="bibr52-15579883221074789" ref-type="bibr">Samuel, 2015</xref>). Young men with diagnosed anxiety who reported having a mental illness and seeking help from a school counselor were seen as &#x201C;weak&#x201D; and &#x201C;not macho&#x201D; (<xref rid="bibr8-15579883221074789" ref-type="bibr">Clark et al., 2018</xref>). Many were fearful of their peers finding out about their anxiety or that they were receiving help, and that their social status would be compromised, and they would be subjected to bullying, derision and exclusion. Likewise, young men recently released from juvenile detention experienced shame, embarrassment, and were ridiculed by peers for their involvement with mental health services (<xref rid="bibr52-15579883221074789" ref-type="bibr">Samuel, 2015</xref>). Young men could be labeled as &#x201C;lazy,&#x201D; &#x2018;crazy &#x201C;nut-head&#x201D; &#x2018;freak &#x201C;sissy&#x201D; and &#x201C;wuss&#x201D; by their peers, which served to categorize them as subordinate to everyone else (<xref rid="bibr8-15579883221074789" ref-type="bibr">Clark et al., 2018</xref>; <xref rid="bibr52-15579883221074789" ref-type="bibr">Samuel, 2015</xref>). To save face, young men would lie and deny their experience to their peers.</p>
+      <p>Shame and embarrassment also arose from men&#x2019;s stigmatizing encounters with health professionals (<xref rid="bibr8-15579883221074789" ref-type="bibr">Clark et al., 2018</xref>; <xref rid="bibr23-15579883221074789" ref-type="bibr">Ferguson et al., 2019</xref>; <xref rid="bibr52-15579883221074789" ref-type="bibr">Samuel, 2015</xref>). Men with mental illness and/or alcohol and other drug problems described a range of stigmatizing experiences during their interactions with ambulance staff called out for a mental health crisis (<xref rid="bibr23-15579883221074789" ref-type="bibr">Ferguson et al., 2019</xref>). These included judgemental comments, lack of empathy, and compassion, delays in service response and a focus on restraint and sedation. These experiences left men feeling judged as less worthy of care, perpetuating men&#x2019;s self-stigma and shame around their mental illness. Similarly, young men described their encounters with mental health staff as shameful, uncomfortable, and embarrassing (<xref rid="bibr8-15579883221074789" ref-type="bibr">Clark et al., 2018</xref>; <xref rid="bibr52-15579883221074789" ref-type="bibr">Samuel, 2015</xref>). Being labeled with a mental illness and asked to talk about their emotional lives by service providers left many men feeling vulnerable, ashamed, and reluctant to engage further (<xref rid="bibr8-15579883221074789" ref-type="bibr">Clark et al., 2018</xref>; <xref rid="bibr23-15579883221074789" ref-type="bibr">Ferguson et al., 2019</xref>; <xref rid="bibr52-15579883221074789" ref-type="bibr">Samuel, 2015</xref>).</p>
+      <p>For many men struggling with mental illness and suicidality, their buy-in to societal stereotypes about mental illness drove social isolation and alienation from friends, family, and society. Men in Oliffe et al.&#x2019;s (2017, 2019a) studies described this isolation as &#x201C;a lack of belonging,&#x201D; &#x201C;outsiderness,&#x201D; being &#x201C;a loner,&#x201D; &#x201C;a burden&#x201D;, &#x201C;an island&#x201D;, &#x201C;separate&#x201D; and &#x201C;different&#x201D;. For some, this isolating behavior was self-driven to protect others from their low affect or suicidality, as well as self-protection from social judgments (<xref rid="bibr47-15579883221074789" ref-type="bibr">Oliffe et al., 2017</xref>). For others, isolation was a result of being distanced and shunned by family (<xref rid="bibr46-15579883221074789" ref-type="bibr">Oliffe et al., 2019a</xref>). This internalized stigma heightened men&#x2019;s suicide risk wherein they focused on their failures and inability to meet societal expectations around being a productive and capable man within society (<xref rid="bibr46-15579883221074789" ref-type="bibr">Oliffe et al., 2019a</xref>). Men&#x2019;s sense of isolation could also be driven by the stigma of being a service user. The stigma of being a long-term mental health service user, combined with lack of control and choice over their care, was described by men with schizophrenia as detrimental to their social connection with families and their community (<xref rid="bibr61-15579883221074789" ref-type="bibr">Wagstaff et al., 2018</xref>).</p>
+      <p>Finally, two studies emphasised how men&#x2019;s internalization of public stigma can act as a barrier to self-harming or acting on suicidal plans (<xref rid="bibr48-15579883221074789" ref-type="bibr">Oliffe et al., 2011</xref>, <xref rid="bibr47-15579883221074789" ref-type="bibr">2017</xref>). Rather than stigma and shame being a precedent to men&#x2019;s suicide, the stigma associated with mental illness and suicide deterred men from taking their own lives through a desire to protect their families from the distress, shame, guilt, and stigma of losing a family member to suicide.</p>
+    </sec>
+    <sec id="section9-15579883221074789">
+      <title>Stigma in Male-Dominated Environments</title>
+      <p>Six studies reported how mental illness stigma and men&#x2019;s fear of transgressing masculine cultures normed by strength, independence, and invincibility, can play out in male-dominated environments such as places of paid work and professional sport (<xref rid="bibr22-15579883221074789" ref-type="bibr">DeLenardo &amp; Terrion, 2014</xref>; <xref rid="bibr33-15579883221074789" ref-type="bibr">Hassouneh &amp; Fornero, 2020</xref>; <xref rid="bibr43-15579883221074789" ref-type="bibr">Mahalik &amp; Dagirmanjian, 2019</xref>; <xref rid="bibr56-15579883221074789" ref-type="bibr">Siegel &amp; Sawyer, 2019</xref>; <xref rid="bibr57-15579883221074789" ref-type="bibr">Staiger et al., 2020</xref>; <xref rid="bibr64-15579883221074789" ref-type="bibr">Wood et al., 2017</xref>). Consistently reported by men in these studies was the fear of being perceived as weak, incapable of coping with distress, and failing to fulfill the masculine norms deemed mandatory for specific male dominated jobs and sports. The fear of being stigmatized for having a mental illness was a constant threat, leading many to avoid disclosing their distress in the workplace or off the sports field. Moreover, men masked symptoms in order to avoid backlash and further stigmatization. <xref rid="bibr64-15579883221074789" ref-type="bibr">Wood et al. (2017)</xref> highlighted the intolerance for mental illness in the &#x201C;competitive macho culture&#x201D; of masculine football milieus where those with mental illness were seen as weak, vulnerable and unable to handle stress. Players hid their struggles due to shame and fear of rejection. Underlying the camaraderie of the dressing room was fear of discrimination, and a lack of safe space to disclose rendering it safer for men to conceal their distress and put on a &#x201C;brave face&#x201D; (<xref rid="bibr64-15579883221074789" ref-type="bibr">Wood et al., 2017</xref>). Similarly, university football players feared being shunned by peers and expelled from the team if they disclosed a mental illness (<xref rid="bibr22-15579883221074789" ref-type="bibr">DeLenardo &amp; Terrion, 2014</xref>). Mental illness was perceived as weakness and incompatible with a highly competitive masculine game like football where mental and physical toughness were paramount. Derogatory labeling and stereotyping by teammates toward anyone with mental illness was a survival strategy in a highly competitive group setting and served to separate &#x201C;them&#x201D; from the group&#x2019;s identity. Players with mental illness were left fearful of being ostracized and losing their status within the team&#x2014;an example of the power dynamics that can feed the stigma process (<xref rid="bibr22-15579883221074789" ref-type="bibr">DeLenardo &amp; Terrion, 2014</xref>).</p>
+      <p>Men with depression working in manual or industrial labor occupations (e.g., construction, factory workers) were fearful of being perceived as weak by others, particularly other men, and of being shunned by colleagues for failing to meet masculine ideals of being strong and invincible (<xref rid="bibr43-15579883221074789" ref-type="bibr">Mahalik &amp; Dagirmanjian, 2019</xref>). They avoided disclosure and help-seeking in order to protect themselves from being stigmatized or labeled in ways that would hinder future professional relationships. For men in Staiger et al.&#x2019;s (2020) study, their incapacity to work due to depression left them feeling stigmatized by colleagues who labeled them as &#x201C;loser,&#x201D; &#x201C;lazy&#x201D; or &#x201C;incapable.&#x201D; A workplace culture of &#x201C;not being sick&#x201D; was associated with masculine norms such as being strong, successful, and self-reliant. Subsequently, men who took sick leave were made to feel ashamed, weak, vulnerable, and their masculine status was threatened. To safeguard their career options and employability, men avoided seeking help or taking time off work.</p>
+      <p>The challenge of having a mental illness in the workplace was particularly evident where men&#x2019;s conditions were seen to overtly violate ideals in relation to masculinity. <xref rid="bibr56-15579883221074789" ref-type="bibr">Siegel and Sawyer (2019)</xref> documented men&#x2019;s shame and fear of backlash for having an eating disorder, a condition stereotyped as feminine. Men were fearful work colleagues would look down on them, not take them seriously, ridicule or worse still, that they may lose their jobs if they were to reveal details about their condition. The &#x201C;invisibility&#x201D; of eating disorders was also emotionally exhausting for men to manage in the workplace with some avoiding work functions and social events. The decision to disclose was complicated&#x2014;while there was fear of backlash for disclosing, without disclosure men could not access workplace benefits and entitlements or make changes to their roles in order to support recovery. In contrast, men in <xref rid="bibr33-15579883221074789" ref-type="bibr">Hassouneh and Fornero&#x2019;s (2020)</xref> study struggled with experiencing a very visible physical disability that undermined their masculine status, as well as depression. The pre-existing marginalization these men endured due to their physical disability was exacerbated by what they perceived as &#x201C;another weakness or failing&#x201D; as a man with depression. The stigma of mental illness and physical impairment impacted men&#x2019;s success at work and their ability to fulfill idealized masculinities associated with breadwinner roles, and the embodiment of muscularity and strength. Disclosing their depression was out of the question, even in the context of friendships with other men with physical disabilities. Maintaining silence and resisting the internalization of negative stereotypes around depression and disability was exhausting, further perpetuating their depression (<xref rid="bibr33-15579883221074789" ref-type="bibr">Hassouneh &amp; Fornero, 2020</xref>).</p>
+      <sec id="section10-15579883221074789">
+        <title>Inequity Driven Stigma</title>
+        <p>Mental illness stigma was also expressed in relation to other forms of social marginalization. Three studies described the intersection of mental illness stigma with minority sexual orientation (<xref rid="bibr24-15579883221074789" ref-type="bibr">Ferlatte et al., 2019a</xref>, 2019b, 2019c). A commonly reported experience was the impact that multiple stigmas&#x2014;being gay, non-binary, having a mental illness, HIV&#x2014;had on men&#x2019;s lives. Men expressed feelings of not belonging, outsiderness and social exclusion, describing life as hard, challenging, and tough. Suicide and mental illness continued to be shrouded in silence which served to reinforce the stigma and shame these men internalized in relation to both their sexuality and mental illness (<xref rid="bibr24-15579883221074789" ref-type="bibr">Ferlatte et al., 2019a</xref>). These stigmatized identities were further impacted by the persistence of homophobia, biphobia, and fear of violence which many men had endured over their lifetime. <xref rid="bibr24-15579883221074789" ref-type="bibr">Ferlatte et al. (2019a</xref>,b) further highlighted how men experience stigma and marginalization from within their own communities. Multiple intersecting identities and related stigmas, including sexual orientation, class, race, HIV/AIDS, and depression/suicidality served to ostracize and outcast men from the very communities they had belonged to. <xref rid="bibr26-15579883221074789" ref-type="bibr">Ferlatte et al. (2019c)</xref> also demonstrated how gay men&#x2019;s experiences with grief after the loss of a partner to suicide were shaped by sexual and mental illness stigmas. Before their partner&#x2019;s death, men&#x2019;s unsuccessful attempts to connect their partners to professional help left them feeling powerless to quell the shame and internalized stigma their partners endured regards their mental illness. After their partner&#x2019;s death, men&#x2019;s bereavement was marked by guilt, loyalty, betrayal, and silence as they tried to avoid the layering stigmas of the deceased being gay, having a mental illness, HIV, and dying by suicide.</p>
+        <p>Two studies highlighted the co-occurring stigmas related to mental illness and race. For young African American men, the stigma, shame and fear of mental illness, combined with mistrust of service providers led them to disengage from mental health services (<xref rid="bibr52-15579883221074789" ref-type="bibr">Samuel, 2015</xref>). Underlying these decisions lay cultural norms shunning mental illness in the African American community and thus being &#x201C;a black person in a black neighbourhood&#x201D; was more stigmatizing. The authors note that African Americans have historical trauma experiences in relation to mental health care services which prevails as mistrust and suspicion. Similarly, <xref rid="bibr37-15579883221074789" ref-type="bibr">Kour et al. (2020)</xref> described how immigrant men (Middle Eastern, Asian, African) with co-occurring substance use disorders and mental illness were fearful of being stigmatized and ostracized in their small cultural communities wherein being known to seek psychiatric help would lead to them being labeled as &#x201C;mad.&#x201D; Similar to <xref rid="bibr52-15579883221074789" ref-type="bibr">Samuel (2015)</xref>, treatment adherence among men was low due to the shame and stigma for using mental health services. For immigrant men, disengagement with services was further swayed by family pressure and the stigma they faced in having a loved one using psychiatric services.</p>
+      </sec>
+      <sec id="section11-15579883221074789">
+        <title>De-stigmatizing Strategies</title>
+        <p>Several de-stigmatizing strategies which men engaged to mitigate the negative effects of mental illness stigma were described. These included peer support, increasing mental health literacy and reframing mental illness and help-seeking (<xref rid="bibr35-15579883221074789" ref-type="bibr">Johnson et al., 2012</xref>, <xref rid="bibr24-15579883221074789" ref-type="bibr">Ferlatte et al., 2019a</xref>, 2019b; <xref rid="bibr22-15579883221074789" ref-type="bibr">DeLenardo &amp; Terrion, 2014</xref>; <xref rid="bibr32-15579883221074789" ref-type="bibr">Harding &amp; Fox, 2015</xref>; <xref rid="bibr53-15579883221074789" ref-type="bibr">Scholz et al., 2017</xref>; <xref rid="bibr63-15579883221074789" ref-type="bibr">Ward &amp; Besson, 2012</xref>). For some, connection with peers experiencing similar mental illness challenges was key to countering stigma by enabling disclosures in safe spaces where such issues and talk were normed (<xref rid="bibr25-15579883221074789" ref-type="bibr">Ferlatte et al., 2019b</xref>; <xref rid="bibr32-15579883221074789" ref-type="bibr">Harding &amp; Fox, 2015</xref>; <xref rid="bibr57-15579883221074789" ref-type="bibr">Staiger et al., 2020</xref>). Peers with similar illness experiences were perceived as more empathetic, trusted, and able to understand. Mutual awareness of mental illness and help-seeking, knowing they were not alone and opportunities to reciprocate and authentically share experiences afforded destigmatising avenues. Men in <xref rid="bibr32-15579883221074789" ref-type="bibr">Harding and Fox&#x2019;s (2015)</xref> study were more likely to disclose mental illness challenges in informal peer groups where their experiences were normed and affirmed. Peer groups could be enablers, positively influencing men&#x2019;s help-seeking efforts. For example, on-line forums where mental illness experiences were openly shared, reinforced men&#x2019;s decision to seek counseling, enabling them to counter the associated stigma (<xref rid="bibr32-15579883221074789" ref-type="bibr">Harding &amp; Fox, 2015</xref>). For men with depression and a history of mental health service use, interactions with fellow services users provided valuable peer support and a destigmatizing &#x201C;sheltered space&#x201D; (<xref rid="bibr57-15579883221074789" ref-type="bibr">Staiger et al., 2020</xref>). Men who participated in group counseling were not subjected to questions or made to feel weak and felt accepted by men with similar illness experiences. For many, inpatient services were a safe space offering shelter from stigma and societal expectations which felt unattainable. Peer support and community connections were also key in countering mental illness stigma for sexual minority men struggling with suicidality (<xref rid="bibr24-15579883221074789" ref-type="bibr">Ferlatte et al., 2019a</xref>). Peer support groups within the gay community provided men opportunities to make safe and meaningful friendships, a sense of belonging and new skills to manage their suicidality.</p>
+        <p>Increasing mental health literacy and exposure to positive mental health messaging enabled some men to challenge stigmatizing messages about mental illness (<xref rid="bibr22-15579883221074789" ref-type="bibr">DeLenardo &amp; Terrion, 2014</xref>; <xref rid="bibr32-15579883221074789" ref-type="bibr">Harding &amp; Fox, 2015</xref>). For some, accessing professional help assisted participants to better understand and accept their mental illness (<xref rid="bibr32-15579883221074789" ref-type="bibr">Harding &amp; Fox, 2015</xref>). This increased knowledge ameliorated men&#x2019;s self-stigma and the stigma they perceived in others&#x2019; mental illness challenges. The role of high-profile sporting identities openly discussing their mental illness struggles was also credited with influencing men&#x2019;s knowledge and acceptance of mental illness (<xref rid="bibr22-15579883221074789" ref-type="bibr">DeLenardo &amp; Terrion, 2014</xref>; <xref rid="bibr32-15579883221074789" ref-type="bibr">Harding &amp; Fox, 2015</xref>). Seeing elite sportsmen disclose their illness experience, and success on the field despite this, made them credible, and de-linked mental illness from passivity and failure.</p>
+        <p>Finally, reframing mental illness and help-seeking enabled men to circumvent stigmas. <xref rid="bibr35-15579883221074789" ref-type="bibr">Johnson et al. (2012)</xref> reported masculine discourses that explained and justified men&#x2019;s help-seeking practices thereby countering stigma. Herein most men accessed services for their depression by contextualizing and reframing their behaviors as strength-based practices. For example, the discourse of genuine connection enabled men to describe their need to be heard, accepted and helped whereas the discourses of help-seeking as responsible, independent and rational enabled men to buffer the stigma attached to being helped. Across the findings, legitimizing and preserving masculine status were evident as effectual de-stigmatizing avenues. Similarly, reframing mental illness issues by likening them to physical health issues or as part of everyday life enabled some men to destigmatize the ailment and access potential remedies (<xref rid="bibr53-15579883221074789" ref-type="bibr">Scholz et al., 2017</xref>; <xref rid="bibr63-15579883221074789" ref-type="bibr">Ward &amp; Besson, 2012</xref>).</p>
+      </sec>
+    </sec>
+    <sec sec-type="discussion" id="section12-15579883221074789">
+      <title>Discussion</title>
+      <p>This scoping review reports themes and gaps in the published research addressing mens&#x2019; experiences of mental illness stigma. Our review reveals three qualitative papers directly examining mental illness stigma among men published between 2010 and 2020. Nonetheless, aspects of stigma prevailed as findings across men&#x2019;s mental illness experiences in the research reviewed for the current scope. Synthesizing the literature makes available common threads of stigma experiences among men across the lifespan going through diverse mental illness challenges and serves as a useful entry-point into the field for men&#x2019;s mental illness researchers and practitioners. Men&#x2019;s narratives highlighted aspects of public (social) stigma which in turn drove their experiences of self-stigma. Those who anticipated, perceived, and internalized mental illness-related stigma faced a range of consequences including reluctance to access and engage with mental health services, poor treatment adherence, employment issues, social disconnection, intensifying suicidal behavior, and heightened risk for severe mental illness. These findings align with the wider stigma literature in demonstrating the deleterious effects of public stigma on the lives of men with mental illness (<xref rid="bibr11-15579883221074789" ref-type="bibr">Clement et al., 2015</xref>; <xref rid="bibr21-15579883221074789" ref-type="bibr">Corrigan &amp; Watson, 2002</xref>; <xref rid="bibr54-15579883221074789" ref-type="bibr">Sharac et al., 2010</xref>).</p>
+      <p>While the wider stigma literature has drawn attention to the complexities of co-occurring social identities and stigma (<xref rid="bibr34-15579883221074789" ref-type="bibr">Jackson-Best &amp; Edwards, 2018</xref>), the social construction of gender as an influencer of men&#x2019;s experiences of mental illness stigma has rarely been addressed (<xref rid="bibr27-15579883221074789" ref-type="bibr">Gaebel et al., 2017</xref>). The current scoping review findings confirm the links between gender, masculinity and mental illness stigma. Hegemonic masculinities that idealize men as strong, self-reliant and healthy also subordinate men with mental illness as weak, inadequate and unmanly. For men struggling with mental health difficulties, this subordination amplifies stigma, particularly internalized stigma, for failing to embody hegemonic masculinities. Hence, masculinities are interwoven with mental illness stigma, and stigmatization in turn has detrimental consequences for men including, limiting their disclosure, reducing opportunities for social support, hindering help-seeking and interfering with treatment adherence. Men&#x2019;s fear of transgressing dominant masculine ideals, particularly within male-dominated environments where these norms are prescribed and policed influenced many men&#x2019;s experiences of internalized stigma. Implicated in this are mental illness concerns which are perceived as feminine (e.g., eating disorders).</p>
+      <p>Reflected in the review findings is how mental illness stigma also intersected with other axes of marginalization and disempowerment (e.g., across race, class, sexual orientation, HIV/AIDS) in ways that resulted in some men being profoundly disadvantaged. In terms of race, the review highlights a knowledge gap relating to the mental illness stigma experiences specific to racial and ethnic minority men. The intersection of historical trauma and mental illness stigma for African American men was raised in one study (<xref rid="bibr52-15579883221074789" ref-type="bibr">Samuel, 2015</xref>). Mental health and Indigenous researchers have consistently associated disproportionate rates of mental illness with historical experiences of colonization (<xref rid="bibr30-15579883221074789" ref-type="bibr">Gone, 2013</xref>). Employing a trauma informed framework to future research with Indigenous men could help to contextualize mental illness stigma and the devastating legacy of colonization, thereby informing stigma interventions that better meet the needs of Indigenous and racial minority men (<xref rid="bibr31-15579883221074789" ref-type="bibr">Gone &amp; Kirmayer, 2020</xref>). For those men who embody multiple stigmatized social positions, the findings confirm the value of employing an intersectionality lens to understand mental illness stigma (<xref rid="bibr51-15579883221074789" ref-type="bibr">Oexle &amp; Corrigan, 2018</xref>). Identifying and unpacking multiple stigmas, and wider structural determinants such as homophobia and racism, is key to understanding mental illness stigma in men&#x2019;s lives.</p>
+      <p>Applying a macrolevel theory of stigma such as <xref rid="bibr39-15579883221074789" ref-type="bibr">Link and Phelan (2001)</xref> to future research would also enable concepts such as labeling, stereotyping, separating &#x201C;us&#x201D; from &#x201C;them,&#x201D; status loss and discrimination to be explored within the specific social contexts of dominant masculine cultures and power that excludes men with mental illness from social and economic life. Utilizing a stigma framework could provide the empirical foothold for better understanding mental illness behaviors and addressing those challenges through gender transformative destigmatizing avenues.</p>
+      <p>In terms of addressing the drivers of internalized stigma for men, the workplace, school and mental health services are important settings in which interventions targeting mental illness discrimination are important. However, this review suggests a key challenge for combating men&#x2019;s mental illness stigma and discrimination is to address the subtle everyday ways in which particular gendered attitudes and expectations of men curb their help-seeking and heighten the risk for severe mental illness. This requires addressing gender norms and structures that host and house stigma at multiple levels&#x2014;institutions, the general public, health professionals, family and men themselves. A view of gender and corresponding ideals, norms, and beliefs as socially constructed (<xref rid="bibr15-15579883221074789" ref-type="bibr">Connell, 2020</xref>), and therefore malleable to change, calls for efforts focused on identifying and critiquing negative and harmful messaging around men, masculinity, and mental illness.</p>
+      <p>Reflected in our findings and echoing the wider mental illness stigma research (<xref rid="bibr27-15579883221074789" ref-type="bibr">Gaebel et al., 2017</xref>), is the need to address key knowledge gaps in relation to masculinities and men&#x2019;s mental illness stigma. Employing an explicit masculinities lens could provide researchers with the means to theorize and unpack important links between gender, stigma and men&#x2019;s mental illness practices (<xref rid="bibr14-15579883221074789" ref-type="bibr">Connell, 2005</xref>). It also provides the means to explore the diversity among men, including those sub-groups who despite being marginalized by dominant masculine ideals are complicit in sustaining many harmful gendered norms. Understanding the intersection of masculinities and mental illness stigma will provide further insights into inequities in men&#x2019;s access and engagement with professional mental health care to inform tailored interventions and resources.</p>
+      <p>To date, stigma research has focused predominately on ways to reduce public stigma. Given the complexities of this work there is growing interest in stigma management strategies that support those experiencing mental illness (<xref rid="bibr58-15579883221074789" ref-type="bibr">Stuart, 2017</xref>). Our review points to some promising stigma management strategies for men. First, the value of peer support as a way of managing self-stigma and encouraging disclosure was raised by many men (<xref rid="bibr25-15579883221074789" ref-type="bibr">Ferlatte et al., 2019b</xref>; <xref rid="bibr32-15579883221074789" ref-type="bibr">Harding &amp; Fox, 2015</xref>; <xref rid="bibr57-15579883221074789" ref-type="bibr">Staiger et al., 2020</xref>). Formalized peer support services, that is men with mental illness being supported by other people with similar illness experiences, has been proposed as a way to promote recovery and is increasingly found in voluntary settings and as part of secondary mental health care (<xref rid="bibr42-15579883221074789" ref-type="bibr">Lloyd-Evans et al., 2014</xref>). Second, improving men&#x2019;s mental health literacy through interactions with mental health professionals and being exposed to positive messaging is key to reducing the negative impact of stigmatizing messages (<xref rid="bibr32-15579883221074789" ref-type="bibr">Harding &amp; Fox, 2015</xref>). Third, reframing men&#x2019;s help-seeking as a strength-based practice can norm men transgressing masculine ideals to courageously address their mental illness challenges and is central to norming men&#x2019;s engagement with services as a bridge to effective self-management (<xref rid="bibr35-15579883221074789" ref-type="bibr">Johnson et al., 2012</xref>; <xref rid="bibr63-15579883221074789" ref-type="bibr">Ward &amp; Besson, 2012</xref>).</p>
+    </sec>
+    <sec id="section13-15579883221074789">
+      <title>Limitations and Future Directions</title>
+      <p>The review findings should be viewed in light of several limitations including the paucity of studies explicitly designed to examine men&#x2019;s mental illness stigma and corresponding lack of conceptualization of stigma. Methodological limits for conducting scoping reviews including the absence of evaluating the quality of the studies likely limits the interpretation of the findings in regard to the empirical weight and methodological rigor in men&#x2019;s qualitative mental illness stigma studies. Furthermore, the restriction of studies to empirical peer-reviewed journal publications reporting original research in English likely explains the reviews focus on research from Western nations and excludes men from outside these areas. That said, by providing a synthesis of previous and recommendations for future studies our scoping review reinforces the need to challenge mental illness stigma and provides important directions for future research. We also recognize the limitations of reporting review findings for small qualitative studies conducted with diverse men. However, we suggest empirical understandings of men&#x2019;s mental illness stigma are needed to thoughtfully guide the design and implementation of tailored destigmatizing interventions. Within the broader mental illness stigma literature there remains limited evidence of interventions that are appropriate and effective among certain population subgroups including men (<xref rid="bibr60-15579883221074789" ref-type="bibr">Thornicroft et al., 2016</xref>).</p>
+      <p>Future qualitative research is needed to uncover the nature and mechanisms of mental illness stigma for diverse groups of men and across the life course. Stigmatization is complex and demands layered nuanced methodological approaches (<xref rid="bibr59-15579883221074789" ref-type="bibr">Stutterheim &amp; Ratcliffe, 2021</xref>) inclusive of interviews, focus groups, and visual methods (e.g., photovoice) to make audible and visible men&#x2019;s shifting experiences of mental illness stigma. Related to this we need greater connection between theory applications (both stigma and gender) and men&#x2019;s mental illness experiences. There is also great potential for extending our understandings of what prevails across and differentiates men&#x2019;s diverse social identities (e.g., sexual orientation, race and ethnicity) as a means to further advancing the fidelity and reach of tailored destigmatizing avenues. Specifically, future research might explore the different types of stigma as they related to men&#x2014;public stigma, self-stigma, the impact of stigma on families of men and structural stigma within the workplace and the health care system (<xref rid="bibr55-15579883221074789" ref-type="bibr">Sheehan et al., 2017</xref>). Finally, given the focus in this review on research from Western nations, further research including the voices of men from broader geographical locations, low-income countries and non-English speaking countries is important.</p>
+      <p>In conclusion, there are important gains to be made but this will require researchers to engage and advance the wider stigma and mental illness literature to discern and address the intersections of masculinities and men&#x2019;s mental illness stigma. Only through a deeper understanding of men&#x2019;s diverse lived experiences can de-stigmatizing interventions be developed that are relevant, appealing and effective for men living with mental illness.</p>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn fn-type="COI-statement">
+        <p><bold>Declaration of Conflicting Interests:</bold> The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.</p>
+      </fn>
+      <fn fn-type="financial-disclosure">
+        <p><bold>Funding:</bold> The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: SKM was supported by a Health Sciences Career Development Award of the University of Otago. JLO is supported by a Tier 1 Canada Research Chair in Men&#x2019;s Health Promotion.</p>
+      </fn>
+      <fn fn-type="other">
+        <p><bold>ORCID iDs:</bold> Sarah K. McKenzie <inline-graphic xlink:href="10.1177_15579883221074789-img1.jpg"/>
+<ext-link xlink:href="https://orcid.org/0000-0002-1811-0211" ext-link-type="uri">https://orcid.org/0000-0002-1811-0211</ext-link></p>
+        <p>John L. Oliffe <inline-graphic xlink:href="10.1177_15579883221074789-img1.jpg"/>
+<ext-link xlink:href="https://orcid.org/0000-0001-9029-4003" ext-link-type="uri">https://orcid.org/0000-0001-9029-4003</ext-link></p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <title>References</title>
+      <ref id="bibr1-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Arksey</surname><given-names>H.</given-names></name>
+<name><surname>O&#x2019;Malley</surname><given-names>L.</given-names></name>
+</person-group> (<year>2005</year>). <article-title>Scoping studies: Towards a methodological framework</article-title>. <source>International Journal of Social Research Methodology</source>, <volume>8</volume>(<issue>1</issue>), <fpage>19</fpage>&#x2013;<lpage>32</lpage>. <pub-id pub-id-type="doi">10.1080/1364557032000119616</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr2-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Batterham</surname><given-names>P. J.</given-names></name>
+<name><surname>Calear</surname><given-names>A. L.</given-names></name>
+<name><surname>Christensen</surname><given-names>H.</given-names></name>
+</person-group> (<year>2013</year>). <article-title>Correlates of suicide stigma and suicide literacy in the community</article-title>. <source>Suicide and Life-Threatening Behaviour</source>, <volume>43</volume>(<issue>4</issue>), <fpage>406</fpage>&#x2013;<lpage>417</lpage>. <pub-id pub-id-type="doi">10.1111/sltb.12026</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr3-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Batterham</surname><given-names>P. J.</given-names></name>
+<name><surname>Griffiths</surname><given-names>K. M.</given-names></name>
+<name><surname>Barney</surname><given-names>L. J.</given-names></name>
+<name><surname>Parsons</surname><given-names>A.</given-names></name>
+</person-group> (<year>2013</year>). <article-title>Predictors of generalized anxiety disorder stigma</article-title>. <source>Psychiatry Research</source>, <volume>206</volume>(<issue>2&#x2013;3</issue>), <fpage>282</fpage>&#x2013;<lpage>286</lpage>. <pub-id pub-id-type="doi">10.1016/j.psychres.2012.11.018</pub-id><pub-id pub-id-type="pmid">23218916</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr4-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Boysen</surname><given-names>G. A.</given-names></name>
+</person-group> (<year>2017</year>). <article-title>Explaining the relation between masculinity and stigma toward mental illness: The relative effects of sex, gender, and behavior</article-title>. <source>Stigma and Health</source>, <volume>2</volume>(<issue>1</issue>), <fpage>66</fpage>&#x2013;<lpage>79</lpage>. <pub-id pub-id-type="doi">10.1037/sah0000041</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr5-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Boysen</surname><given-names>G. A.</given-names></name>
+<name><surname>Ebersole</surname><given-names>A.</given-names></name>
+<name><surname>Casner</surname><given-names>R.</given-names></name>
+<name><surname>Coston</surname><given-names>N.</given-names></name>
+</person-group> (<year>2014</year>). <article-title>Gendered mental disorders: Masculine and feminine stereotypes about mental disorders and their relation to stigma</article-title>. <source>The Journal of Social Psychology</source>, <volume>154</volume>(<issue>6</issue>), <fpage>546</fpage>&#x2013;<lpage>565</lpage>. <pub-id pub-id-type="doi">10.1080/00224545.2014.953028</pub-id><pub-id pub-id-type="pmid">25280170</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr6-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Braun</surname><given-names>V.</given-names></name>
+<name><surname>Clarke</surname><given-names>V.</given-names></name>
+</person-group> (<year>2006</year>). <article-title>Using thematic analysis in psychology</article-title>. <source>Qualitative Research in Psychology</source>, <volume>3</volume>(<issue>2</issue>), <fpage>77</fpage>&#x2013;<lpage>101</lpage>. <pub-id pub-id-type="doi">10.1191/1478088706qp063oa</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr7-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Chatmon</surname><given-names>B. N.</given-names></name>
+</person-group> (<year>2020</year>). <article-title>Males and mental health stigma</article-title>. <source>American Journal of Men&#x2019;s Health</source>, <volume>14</volume>(<issue>4</issue>), <fpage>1</fpage>&#x2013;<lpage>3</lpage>. <pub-id pub-id-type="doi">10.1177/1557988320949322</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr8-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Clark</surname><given-names>L. H.</given-names></name>
+<name><surname>Hudson</surname><given-names>J. L.</given-names></name>
+<name><surname>Dunstan</surname><given-names>D. A.</given-names></name>
+<name><surname>Clark</surname><given-names>G. I.</given-names></name>
+</person-group> (<year>2018</year>). <article-title>Barriers and facilitating factors to help-seeking for symptoms of clinical anxiety in adolescent males</article-title>. <source>Australian Journal of Psychology</source>, <volume>70</volume>, <fpage>225</fpage>&#x2013;<lpage>234</lpage>. <pub-id pub-id-type="doi">10.1111/ajpy.12191</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr9-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Clark</surname><given-names>L. H.</given-names></name>
+<name><surname>Hudson</surname><given-names>J. L.</given-names></name>
+<name><surname>Haider</surname><given-names>T.</given-names></name>
+</person-group> (<year>2020</year>). <article-title>Anxiety specific mental health stigma and help-seeking in adolescent males</article-title>. <source>Journal of Child and Family Studies</source>, <volume>29</volume>(<issue>7</issue>), <fpage>1970</fpage>&#x2013;<lpage>1981</lpage>. <pub-id pub-id-type="doi">10.1007/s10826-019-01686-0</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr10-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Cleary</surname><given-names>A.</given-names></name>
+</person-group> (<year>2012</year>). <article-title>Suicidal action, emotional expression, and the performance of masculinities</article-title>. <source>Social Science &amp; Medicine</source>, <volume>74</volume>(<issue>4</issue>), <fpage>498</fpage>&#x2013;<lpage>505</lpage>. <pub-id pub-id-type="doi">10.1016/j.socscimed.2011.08.002</pub-id><pub-id pub-id-type="pmid">21930333</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr11-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Clement</surname><given-names>S.</given-names></name>
+<name><surname>Schauman</surname><given-names>O.</given-names></name>
+<name><surname>Graham</surname><given-names>T.</given-names></name>
+<name><surname>Maggioni</surname><given-names>F.</given-names></name>
+<name><surname>Evans-Lacko</surname><given-names>S.</given-names></name>
+<name><surname>Bezborodovs</surname><given-names>N.</given-names></name>
+<name><surname>Morgan</surname><given-names>C.</given-names></name>
+<name><surname>R&#xFC;sch</surname><given-names>N.</given-names></name>
+<name><surname>Brown</surname><given-names>J.</given-names></name>
+<name><surname>Thornicroft</surname><given-names>G.</given-names></name>
+</person-group> (<year>2015</year>). <article-title>What is the impact of mental health-related stigma on help-seeking? A systematic review of quantitative and qualitative studies</article-title>. <source>Psychological Medicine</source>, <volume>45</volume>(<issue>1</issue>), <fpage>11</fpage>&#x2013;<lpage>27</lpage>. <pub-id pub-id-type="doi">10.1017/S0033291714000129</pub-id><pub-id pub-id-type="pmid">24569086</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr12-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Coen</surname><given-names>S. E.</given-names></name>
+<name><surname>Oliffe</surname><given-names>J. L.</given-names></name>
+<name><surname>Johnson</surname><given-names>J. L.</given-names></name>
+<name><surname>Kelly</surname><given-names>M. T.</given-names></name>
+</person-group> (<year>2013</year>). <article-title>Looking for Mr. PG: Masculinities and men&#x2019;s depression in a northern resource-based Canadian community</article-title>. <source>Health &amp; Place</source>, <volume>21</volume>, <fpage>94</fpage>&#x2013;<lpage>101</lpage>. <pub-id pub-id-type="doi">10.1016/j.healthplace.2013.01.011</pub-id><pub-id pub-id-type="pmid">23454665</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr13-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Colquhoun</surname><given-names>H. L.</given-names></name>
+<name><surname>Levac</surname><given-names>D.</given-names></name>
+<name><surname>O&#x2019;Brien</surname><given-names>K. K.</given-names></name>
+<name><surname>Straus</surname><given-names>S.</given-names></name>
+<name><surname>Tricco</surname><given-names>A. C.</given-names></name>
+<name><surname>Perrier</surname><given-names>L.</given-names></name>
+<name><surname>Kastner</surname><given-names>M.</given-names></name>
+<name><surname>Moher</surname><given-names>D.</given-names></name>
+</person-group> (<year>2014</year>). <article-title>Scoping reviews: Time for clarity in definition, methods, and reporting</article-title>. <source>Journal of Clinical Epidemiology</source>, <volume>67</volume>(<issue>12</issue>), <fpage>1291</fpage>&#x2013;<lpage>1294</lpage>. <pub-id pub-id-type="doi">10.1016/j.jclinepi.2014.03.013</pub-id><pub-id pub-id-type="pmid">25034198</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr14-15579883221074789">
+        <mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Connell</surname><given-names>R.</given-names></name>
+</person-group> (<year>2005</year>). <source>Masculinities</source> (<edition>2nd ed.</edition>). <publisher-name>Allen and Unwin</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="bibr15-15579883221074789">
+        <mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Connell</surname><given-names>R.</given-names></name>
+</person-group> (<year>2020</year>). <source>Gender: In world perspective</source> (<edition>4th ed.</edition>). <publisher-name>Polity Press</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="bibr16-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Cook</surname><given-names>T. M.</given-names></name>
+<name><surname>Wang</surname><given-names>J.</given-names></name>
+</person-group> (<year>2010</year>). <article-title>Descriptive epidemiology of stigma against depression in a general population sample in Alberta</article-title>. <source>BMC Psychiatry</source>, <volume>10</volume>(<issue>1</issue>), Article 29. <pub-id pub-id-type="doi">10.1186/1471-244x-10-29</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr17-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Corrigan</surname><given-names>P. W.</given-names></name>
+<name><surname>Bink</surname><given-names>A. B.</given-names></name>
+<name><surname>Schmidt</surname><given-names>A.</given-names></name>
+<name><surname>Jones</surname><given-names>N.</given-names></name>
+<name><surname>R&#xFC;sch</surname><given-names>N.</given-names></name>
+</person-group> (<year>2016</year>). <article-title>What is the impact of self-stigma? Loss of self-respect and the &#x201C;why try&#x201D; effect</article-title>. <source>Journal of Mental Health</source>, <volume>25</volume>(<issue>1</issue>), <fpage>10</fpage>&#x2013;<lpage>15</lpage>. <pub-id pub-id-type="doi">10.3109/09638237.2015.1021902</pub-id><pub-id pub-id-type="pmid">26193430</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr18-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Corrigan</surname><given-names>P. W.</given-names></name>
+<name><surname>Druss</surname><given-names>B. G.</given-names></name>
+<name><surname>Perlick</surname><given-names>D. A.</given-names></name>
+</person-group> (<year>2014</year>). <article-title>The impact of mental illness stigma on seeking and participating in mental health care</article-title>. <source>Psychological Science in the Public Interest</source>, <volume>15</volume>(<issue>2</issue>), <fpage>37</fpage>&#x2013;<lpage>70</lpage>. <pub-id pub-id-type="doi">10.1177/1529100614531398</pub-id><pub-id pub-id-type="pmid">26171956</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr19-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Corrigan</surname><given-names>P. W.</given-names></name>
+<name><surname>Morris</surname><given-names>S. B.</given-names></name>
+<name><surname>Michaels</surname><given-names>P. J.</given-names></name>
+<name><surname>Rafacz</surname><given-names>J. D.</given-names></name>
+<name><surname>R&#xFC;sch</surname><given-names>N.</given-names></name>
+</person-group> (<year>2012</year>). <article-title>Challenging the public stigma of mental illness: A meta-analysis of outcome studies</article-title>. <source>Psychiatric Services</source>, <volume>63</volume>(<issue>10</issue>), <fpage>963</fpage>&#x2013;<lpage>973</lpage>. <pub-id pub-id-type="doi">10.1176/appi.ps.201100529</pub-id><pub-id pub-id-type="pmid">23032675</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr20-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Corrigan</surname><given-names>P. W.</given-names></name>
+<name><surname>Rao</surname><given-names>D.</given-names></name>
+</person-group> (<year>2012</year>). <article-title>On the self-stigma of mental illness: Stages, disclosure, and strategies for change</article-title>. <source>The Canadian Journal of Psychiatry</source>, <volume>57</volume>(<issue>8</issue>), <fpage>464</fpage>&#x2013;<lpage>469</lpage>. <pub-id pub-id-type="doi">10.1177/070674371205700804</pub-id><pub-id pub-id-type="pmid">22854028</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr21-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Corrigan</surname><given-names>P. W.</given-names></name>
+<name><surname>Watson</surname><given-names>A.</given-names></name>
+</person-group> (<year>2002</year>). <article-title>Understanding the impact of stigma on people with mental illness</article-title>. <source>World Psychiatry</source>, <volume>1</volume>(<issue>1</issue>), <fpage>16</fpage>&#x2013;<lpage>20</lpage>.<pub-id pub-id-type="pmid">16946807</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr22-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>DeLenardo</surname><given-names>S.</given-names></name>
+<name><surname>Terrion</surname><given-names>J. L.</given-names></name>
+</person-group> (<year>2014</year>). <article-title>Suck it up: Opinions and attitudes about mental illness stigma and help-seeking behaviour of male varsity football players</article-title>. <source>Canadian Journal of Community Mental Health</source>, <volume>33</volume>(<issue>3</issue>), <fpage>43</fpage>&#x2013;<lpage>56</lpage>. <pub-id pub-id-type="doi">10.7870/cjcmh-2014-023</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr23-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ferguson</surname><given-names>N.</given-names></name>
+<name><surname>Savic</surname><given-names>M.</given-names></name>
+<name><surname>McCann</surname><given-names>T. V.</given-names></name>
+<name><surname>Emond</surname><given-names>K.</given-names></name>
+<name><surname>Sandral</surname><given-names>E.</given-names></name>
+<name><surname>Smith</surname><given-names>K.</given-names></name>
+<name><surname>Roberts</surname><given-names>L.</given-names></name>
+<name><surname>Bosley</surname><given-names>E.</given-names></name>
+<name><surname>Lubman</surname><given-names>D. I.</given-names></name>
+</person-group> (<year>2019</year>). <article-title>&#x201C;I was worried if I don&#x2019;t have a broken leg they might not take it seriously&#x201D;: Experiences of men accessing ambulance services for mental health and/or alcohol and other drug problems</article-title>. <source>Health Expectations</source>, <volume>22</volume>(<issue>3</issue>), <fpage>565</fpage>&#x2013;<lpage>574</lpage>. <pub-id pub-id-type="doi">10.1111/hex.12886</pub-id><pub-id pub-id-type="pmid">30945425</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr24-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ferlatte</surname><given-names>O.</given-names></name>
+<name><surname>Oliffe</surname><given-names>J. L.</given-names></name>
+<name><surname>Louie</surname><given-names>D. R.</given-names></name>
+<name><surname>Ridge</surname><given-names>D.</given-names></name>
+<name><surname>Broom</surname><given-names>A.</given-names></name>
+<name><surname>Salway</surname><given-names>T</given-names></name>
+</person-group>. (<year>2019</year>a). <article-title>Suicide prevention from the perspectives of gay, bisexual, and two-spirit men</article-title>. <source>Qualitative Health Research</source>, <volume>29</volume>(<issue>8</issue>), <fpage>1186</fpage>&#x2013;<lpage>1198</lpage>. <pub-id pub-id-type="doi">10.1177/1049732318816082</pub-id><pub-id pub-id-type="pmid">30547726</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr25-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ferlatte</surname><given-names>O.</given-names></name>
+<name><surname>Oliffe</surname><given-names>J. L.</given-names></name>
+<name><surname>Salway</surname><given-names>T.</given-names></name>
+<name><surname>Broom</surname><given-names>A.</given-names></name>
+<name><surname>Bungay</surname><given-names>V.</given-names></name>
+<name><surname>Rice</surname><given-names>S</given-names></name>
+</person-group>. (<year>2019</year>b). <article-title>Using photovoice to understand suicidality among gay, bisexual, and two-spirit men</article-title>. <source>Archives of Sexual Behavior</source>, <volume>48</volume>(<issue>5</issue>), <fpage>1529</fpage>&#x2013;<lpage>1541</lpage>. <pub-id pub-id-type="doi">10.1007/s10508-019-1433-6</pub-id><pub-id pub-id-type="pmid">31152366</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr26-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ferlatte</surname><given-names>O.</given-names></name>
+<name><surname>Oliffe</surname><given-names>J. L.</given-names></name>
+<name><surname>Salway</surname><given-names>T.</given-names></name>
+<name><surname>Knight</surname><given-names>R</given-names></name>
+</person-group>. (<year>2019</year>c). <article-title>Stigma in the bereavement experiences of gay men who have lost a partner to suicide</article-title>. <source>Culture, Health &amp; Sexuality</source>, <volume>21</volume>(<issue>11</issue>), <fpage>1273</fpage>&#x2013;<lpage>1289</lpage>. <pub-id pub-id-type="doi">10.1080/13691058.2018.1556344</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr27-15579883221074789">
+        <mixed-citation publication-type="book">
+<person-group person-group-type="editor">
+<name><surname>Gaebel</surname><given-names>W.</given-names></name>
+<name><surname>R&#xF6;ssler</surname><given-names>W.</given-names></name>
+<name><surname>Sartorius</surname><given-names>N.</given-names></name>
+</person-group> (Eds.). (<year>2017</year>). <source>The stigma of mental illness-end of the story?</source>. <publisher-name>Springer International Publishing</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="bibr28-15579883221074789">
+        <mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Gibbs</surname><given-names>G.</given-names></name>
+</person-group> (<year>2007</year>). <source>Analyzing qualitative data</source>. <publisher-name>SAGE</publisher-name>. <pub-id pub-id-type="doi">10.4135/9781849208574</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr29-15579883221074789">
+        <mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Goffman</surname><given-names>E.</given-names></name>
+</person-group> (<year>1963</year>). <source>Stigma: Notes on the management of spoiled identity</source>. <publisher-name>Prentice-Hall</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="bibr30-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Gone</surname><given-names>J. P.</given-names></name>
+</person-group> (<year>2013</year>). <article-title>Redressing First Nations historical trauma: Theorizing mechanisms for indigenous culture as mental health treatment</article-title>. <source>Transcultural Psychiatry</source>, <volume>50</volume>(<issue>5</issue>), <fpage>683</fpage>&#x2013;<lpage>706</lpage>. <pub-id pub-id-type="doi">10.1177/1363461513487669</pub-id><pub-id pub-id-type="pmid">23715822</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr31-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Gone</surname><given-names>J. P.</given-names></name>
+<name><surname>Kirmayer</surname><given-names>L. J.</given-names></name>
+</person-group> (<year>2020</year>). <article-title>Advancing Indigenous mental health research: Ethical, conceptual and methodological challenges</article-title>. <source>Transcultural Psychiatry</source>, <volume>57</volume>(<issue>2</issue>), <fpage>235</fpage>&#x2013;<lpage>249</lpage>. <pub-id pub-id-type="doi">10.1177/1363461520923151</pub-id><pub-id pub-id-type="pmid">32380932</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr32-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Harding</surname><given-names>C.</given-names></name>
+<name><surname>Fox</surname><given-names>C.</given-names></name>
+</person-group> (<year>2015</year>). <article-title>It&#x2019;s not about &#x201C;Freudian Couches and Personality Changing Drugs&#x201D;: An investigation into men&#x2019;s mental health help-seeking enablers</article-title>. <source>American Journal of Mens Health</source>, <volume>9</volume>(<issue>6</issue>), <fpage>451</fpage>&#x2013;<lpage>463</lpage>. <pub-id pub-id-type="doi">10.1177/1557988314550194</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr33-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Hassouneh</surname><given-names>D.</given-names></name>
+<name><surname>Fornero</surname><given-names>K.</given-names></name>
+</person-group> (<year>2020</year>). <article-title>&#x201C;You have to fight to legitimize your existence all the time&#x201D;: The social context of depression in men with physical disabilities</article-title>. <source>Archives of Psychiatric Nursing</source>, <volume>35</volume>(<issue>1</issue>), <fpage>80</fpage>&#x2013;<lpage>87</lpage>. <pub-id pub-id-type="doi">10.1016/j.apnu.2020.09.016</pub-id><pub-id pub-id-type="pmid">33593519</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr34-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Jackson-Best</surname><given-names>F.</given-names></name>
+<name><surname>Edwards</surname><given-names>N.</given-names></name>
+</person-group> (<year>2018</year>). <article-title>Stigma and intersectionality: A systematic review of systematic reviews across HIV/AIDS, mental illness, and physical disability</article-title>. <source>BMC Public Health</source>, <volume>18</volume>(<issue>1</issue>), Article 919. <pub-id pub-id-type="doi">10.1186/s12889-018-5861-3</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr35-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Johnson</surname><given-names>J. L.</given-names></name>
+<name><surname>Oliffe</surname><given-names>J. L.</given-names></name>
+<name><surname>Kelly</surname><given-names>M. T.</given-names></name>
+<name><surname>Galdas</surname><given-names>P.</given-names></name>
+<name><surname>Ogrodniczuk</surname><given-names>J. S</given-names></name>
+</person-group>. (<year>2012</year>). <article-title>Men&#x2019;s discourses of help-seeking in the context of depression</article-title>. <source>Sociology of Health &amp; Illness</source>, <volume>34</volume>(<issue>3</issue>), <fpage>345</fpage>&#x2013;<lpage>361</lpage>. <pub-id pub-id-type="doi">10.1111/j.1467-9566.2011.01372.x</pub-id><pub-id pub-id-type="pmid">21707661</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr36-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Kilmartin</surname><given-names>C.</given-names></name>
+</person-group> (<year>2005</year>). <article-title>Depression in men: Communication, diagnosis and therapy</article-title>. <source>Journal of Men&#x2019;s Health and Gender</source>, <volume>2</volume>(<issue>1</issue>), <fpage>95</fpage>&#x2013;<lpage>99</lpage>.</mixed-citation>
+      </ref>
+      <ref id="bibr37-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Kour</surname><given-names>P.</given-names></name>
+<name><surname>Lien</surname><given-names>L.</given-names></name>
+<name><surname>Kumar</surname><given-names>B.</given-names></name>
+<name><surname>Biong</surname><given-names>S.</given-names></name>
+<name><surname>Pettersen</surname><given-names>H.</given-names></name>
+</person-group> (<year>2020</year>). <article-title>Treatment experiences with Norwegian Health Care among immigrant men living with co-occurring substance use- and mental health disorders</article-title>. <source>Substance Abuse: Research and Treatment</source>, <volume>14</volume>, <fpage>1</fpage>&#x2013;<lpage>10</lpage>. <pub-id pub-id-type="doi">10.1177/1178221820970929</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr38-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Levac</surname><given-names>D.</given-names></name>
+<name><surname>Colquhoun</surname><given-names>H.</given-names></name>
+<name><surname>O&#x2019;Brien</surname><given-names>K.</given-names></name>
+</person-group> (<year>2010</year>). <article-title>Scoping studies: Advancing the methodology</article-title>. <source>Implementation Science</source>, <volume>5</volume>(<issue>1</issue>), Article 69. <pub-id pub-id-type="doi">10.1186/1748-5908-5-69</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr39-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Link</surname><given-names>B. G.</given-names></name>
+<name><surname>Phelan</surname><given-names>J. C.</given-names></name>
+</person-group> (<year>2001</year>). <article-title>Conceptualizing stigma</article-title>. <source>Annual Review of Sociology</source>, <volume>27</volume>(<issue>1</issue>), <fpage>363</fpage>&#x2013;<lpage>385</lpage>. <pub-id pub-id-type="doi">10.1146/annurev.soc.27.1.363</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr40-15579883221074789">
+        <mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Link</surname><given-names>B. G.</given-names></name>
+<name><surname>Stuart</surname><given-names>H.</given-names></name>
+</person-group> (<year>2017</year>). <article-title>On revisiting some origins of the stigma concept as it applies to mental illnesses</article-title>. In <person-group person-group-type="editor">
+<name><surname>Gaebel</surname><given-names>W.</given-names></name>
+<name><surname>R&#xF6;ssler</surname><given-names>W.</given-names></name>
+<name><surname>Sartorius</surname><given-names>N.</given-names></name>
+</person-group> (Eds.), <source>The stigma of mental illness&#x2014;end of the story?</source> (pp. <fpage>3</fpage>&#x2013;<lpage>28</lpage>). <publisher-name>Springer International Publishing</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="bibr41-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Livingston</surname><given-names>J. D.</given-names></name>
+<name><surname>Boyd</surname><given-names>J. E.</given-names></name>
+</person-group> (<year>2010</year>). <article-title>Correlates and consequences of internalized stigma for people living with mental illness: A systematic review and meta-analysis</article-title>. <source>Social Science &amp; Medicine</source>, <volume>71</volume>(<issue>12</issue>), <fpage>2150</fpage>&#x2013;<lpage>2161</lpage>. <pub-id pub-id-type="doi">10.1016/j.socscimed.2010.09.030</pub-id><pub-id pub-id-type="pmid">21051128</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr42-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Lloyd-Evans</surname><given-names>B.</given-names></name>
+<name><surname>Mayo-Wilson</surname><given-names>E.</given-names></name>
+<name><surname>Harrison</surname><given-names>B.</given-names></name>
+<name><surname>Istead</surname><given-names>H.</given-names></name>
+<name><surname>Brown</surname><given-names>E.</given-names></name>
+<name><surname>Pilling</surname><given-names>S.</given-names></name>
+<name><surname>Johnson</surname><given-names>S.</given-names></name>
+<name><surname>Kendall</surname><given-names>T.</given-names></name>
+</person-group> (<year>2014</year>). <article-title>A systematic review and meta-analysis of randomised controlled trials of peer support for people with severe mental illness</article-title>. <source>BMC Psychiatry</source>, <volume>14</volume>(<issue>1</issue>), Article 39. <pub-id pub-id-type="doi">10.1186/1471-244X-14-39</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr43-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Mahalik</surname><given-names>J. R.</given-names></name>
+<name><surname>Dagirmanjian</surname><given-names>F. R.</given-names></name>
+</person-group> (<year>2019</year>). <article-title>Working-class men&#x2019;s constructions of help-seeking when feeling depressed or sad</article-title>. <source>American Journal of Mens Health</source>, <volume>13</volume>(<issue>3</issue>), <fpage>1</fpage>&#x2013;<lpage>13</lpage>. <pub-id pub-id-type="doi">10.1177/1557988319850052</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr44-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Mackenzie</surname><given-names>C. S.</given-names></name>
+<name><surname>Visperas</surname><given-names>A.</given-names></name>
+<name><surname>Ogrodniczuk</surname><given-names>J. S.</given-names></name>
+<name><surname>Oliffe</surname><given-names>J. L.</given-names></name>
+<name><surname>Nurmi</surname><given-names>M. A</given-names></name>
+</person-group>. (<year>2019</year>d). <article-title>Age and sex differences in self-stigma and public stigma concerning depression and suicide in men</article-title>. <source>Stigma and Health</source>, <volume>4</volume>(<issue>2</issue>), <fpage>233</fpage>&#x2013;<lpage>241</lpage>. <pub-id pub-id-type="doi">10.1037/sah0000138</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr45-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>McKenzie</surname><given-names>S. K.</given-names></name>
+<name><surname>Jenkin</surname><given-names>G.</given-names></name>
+<name><surname>Collings</surname><given-names>S</given-names></name>
+</person-group>. (<year>2016</year>a). <article-title>Men&#x2019;s perspectives of common mental health problems: A metasynthesis of qualitative research</article-title>. <source>International Journal of Men&#x2019;s Health</source>, <volume>15</volume>(<issue>1</issue>), <fpage>80</fpage>&#x2013;<lpage>104</lpage>.</mixed-citation>
+      </ref>
+      <ref id="bibr46-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Oliffe</surname><given-names>J. L.</given-names></name>
+<name><surname>Broom</surname><given-names>A.</given-names></name>
+<name><surname>Popa</surname><given-names>M.</given-names></name>
+<name><surname>Jenkins</surname><given-names>E. K.</given-names></name>
+<name><surname>Rice</surname><given-names>S. M.</given-names></name>
+<name><surname>Ferlatte</surname><given-names>O.</given-names></name>
+<name><surname>Rossnage</surname><given-names>E</given-names></name>
+</person-group>. (<year>2019</year>a). <article-title>Unpacking social isolation in men&#x2019;s suicidality</article-title>. <source>Qualitative Health Research</source>, <volume>29</volume>(<issue>3</issue>), <fpage>315</fpage>&#x2013;<lpage>327</lpage>. <pub-id pub-id-type="doi">10.1177/1049732318800003</pub-id><pub-id pub-id-type="pmid">30222044</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr47-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Oliffe</surname><given-names>J. L.</given-names></name>
+<name><surname>Creighton</surname><given-names>G.</given-names></name>
+<name><surname>Robertson</surname><given-names>S.</given-names></name>
+<name><surname>Broom</surname><given-names>A.</given-names></name>
+<name><surname>Jenkins</surname><given-names>E. K.</given-names></name>
+<name><surname>Ogrodniczuk</surname><given-names>J. S.</given-names></name>
+<name><surname>Ferlatte</surname><given-names>O</given-names></name>
+</person-group>. (<year>2017</year>). <article-title>Injury, interiority, and isolation in men&#x2019;s suicidality</article-title>. <source>American Journal of Men&#x2019;s Health</source>, <volume>11</volume>(<issue>4</issue>), <fpage>888</fpage>&#x2013;<lpage>899</lpage>. <pub-id pub-id-type="doi">10.1177/1557988316679576</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr48-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Oliffe</surname><given-names>J. L.</given-names></name>
+<name><surname>Han</surname><given-names>C. S. E.</given-names></name>
+<name><surname>Ogrodniczuk</surname><given-names>J. S.</given-names></name>
+<name><surname>Phillips</surname><given-names>J. C.</given-names></name>
+<name><surname>Roy</surname><given-names>P.</given-names></name>
+</person-group> (<year>2011</year>). <article-title>Suicide from the perspectives of older men who experience depression: A gender analysis</article-title>. <source>American Journal of Men&#x2019;s Health</source>, <volume>5</volume>(<issue>5</issue>), <fpage>444</fpage>&#x2013;<lpage>454</lpage>. <pub-id pub-id-type="doi">10.1177/1557988311408410</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr49-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Oliffe</surname><given-names>J. L.</given-names></name>
+<name><surname>Ogrodniczuk</surname><given-names>J. S.</given-names></name>
+<name><surname>Gordon</surname><given-names>S. J.</given-names></name>
+<name><surname>Creighton</surname><given-names>G.</given-names></name>
+<name><surname>Kelly</surname><given-names>M. T.</given-names></name>
+<name><surname>Black</surname><given-names>N.</given-names></name>
+<name><surname>Mackenzie</surname><given-names>C.</given-names></name>
+</person-group> (<year>2016</year>b). <article-title>Stigma in male depression and suicide: A Canadian sex comparison study</article-title>. <source>Community Mental Health Journal</source>, <volume>52</volume>(<issue>3</issue>), <fpage>302</fpage>&#x2013;<lpage>310</lpage>. <pub-id pub-id-type="doi">10.1007/s10597-015-9986-x</pub-id><pub-id pub-id-type="pmid">26733336</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr50-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Oliffe</surname><given-names>J. L.</given-names></name>
+<name><surname>Rossnagel</surname><given-names>E.</given-names></name>
+<name><surname>Kelly</surname><given-names>M. T.</given-names></name>
+<name><surname>Bottorff</surname><given-names>J. L.</given-names></name>
+<name><surname>Seaton</surname><given-names>C.</given-names></name>
+<name><surname>Darroch</surname><given-names>F.</given-names></name>
+</person-group> (<year>2019</year>b). <article-title>Men&#x2019;s health literacy: A review and recommendations</article-title>. <source>Health Promotion International</source>, <volume>35</volume>(<issue>5</issue>), <fpage>1037</fpage>&#x2013;<lpage>1051</lpage>. <pub-id pub-id-type="doi">10.1093/heapro/daz077</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr51-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Oexle</surname><given-names>N.</given-names></name>
+<name><surname>Corrigan</surname><given-names>P. W.</given-names></name>
+</person-group> (<year>2018</year>). <article-title>Understanding mental illness stigma toward persons with multiple stigmatized conditions: Implications of intersectionality theory</article-title>. <source>Psychiatric Services</source>, <volume>69</volume>(<issue>5</issue>), <fpage>587</fpage>&#x2013;<lpage>589</lpage>. <pub-id pub-id-type="doi">10.1176/appi.ps.201700312</pub-id><pub-id pub-id-type="pmid">29385960</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr52-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Samuel</surname><given-names>I. A.</given-names></name>
+</person-group> (<year>2015</year>). <article-title>Utilization of mental health services among African-American male adolescents released from juvenile detention: Examining reasons for within-group disparities in help-seeking behaviors</article-title>. <source>Child and Adolescent Social Work Journal</source>, <volume>32</volume>, <fpage>33</fpage>&#x2013;<lpage>43</lpage>. <pub-id pub-id-type="doi">10.1007/s10560-014-0357-1</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr53-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Scholz</surname><given-names>B.</given-names></name>
+<name><surname>Crabb</surname><given-names>S.</given-names></name>
+<name><surname>Wittert</surname><given-names>G. A.</given-names></name>
+</person-group> (<year>2017</year>). <article-title>Males don&#x2019;t wanna bring anything up to their doctor</article-title>. <source>Qualitative Health Research</source>, <volume>27</volume>(<issue>5</issue>), <fpage>727</fpage>&#x2013;<lpage>737</lpage>. <pub-id pub-id-type="doi">10.1177/1049732316640294</pub-id><pub-id pub-id-type="pmid">27055495</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr54-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Sharac</surname><given-names>J.</given-names></name>
+<name><surname>McCrone</surname><given-names>P.</given-names></name>
+<name><surname>Clement</surname><given-names>S.</given-names></name>
+<name><surname>Thornicroft</surname><given-names>G.</given-names></name>
+</person-group> (<year>2010</year>). <article-title>The economic impact of mental health stigma and discrimination: A systematic review</article-title>. <source>Epidemiologia E Psichiatria Sociale</source>, <volume>19</volume>(<issue>3</issue>), <fpage>223</fpage>&#x2013;<lpage>232</lpage>. <pub-id pub-id-type="doi">10.1017/S1121189X00001159</pub-id><pub-id pub-id-type="pmid">21261218</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr55-15579883221074789">
+        <mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Sheehan</surname><given-names>L.</given-names></name>
+<name><surname>Nieweglowski</surname><given-names>K.</given-names></name>
+<name><surname>Corrigan</surname><given-names>P. W.</given-names></name>
+</person-group> (<year>2017</year>). <article-title>Structures and types of stigma</article-title>. In <person-group person-group-type="editor">
+<name><surname>Gaebel</surname><given-names>W.</given-names></name>
+<name><surname>R&#xF6;ssler</surname><given-names>W.</given-names></name>
+<name><surname>Sartorius</surname><given-names>N.</given-names></name>
+</person-group> (Eds.), <source>The stigma of mental illness&#x2014;end of the story?</source> (pp. <fpage>43</fpage>&#x2013;<lpage>66</lpage>). <publisher-name>Springer International Publishing</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="bibr56-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Siegel</surname><given-names>J. A.</given-names></name>
+<name><surname>Sawyer</surname><given-names>K. B.</given-names></name>
+</person-group> (<year>2019</year>). <article-title>&#x201C;We Don&#x2019;t Talk About Feelings or Struggles Like That&#x201D;: White men&#x2019;s experiences of eating disorders in the workplace</article-title>. <source>Psychology of Men &amp; Masculinities</source>, <volume>21</volume>(<issue>4</issue>), <fpage>533</fpage>&#x2013;<lpage>544</lpage>. <pub-id pub-id-type="doi">10.1037/men0000253</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr57-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Staiger</surname><given-names>T.</given-names></name>
+<name><surname>Stiawa</surname><given-names>M.</given-names></name>
+<name><surname>Mueller-Stierlin</surname><given-names>A. S.</given-names></name>
+<name><surname>Kilian</surname><given-names>R.</given-names></name>
+<name><surname>Beschoner</surname><given-names>P.</given-names></name>
+<name><surname>Gundel</surname><given-names>H.</given-names></name>
+<name><surname>Becker</surname><given-names>T.</given-names></name>
+<name><surname>Frasch</surname><given-names>K.</given-names></name>
+<name><surname>Panzirsch</surname><given-names>M.</given-names></name>
+<name><surname>Schmaus</surname><given-names>M.</given-names></name>
+<name><surname>Krumm</surname><given-names>S.</given-names></name>
+</person-group> (<year>2020</year>). <article-title>Masculinity and help-seeking among men with depression: A qualitative study</article-title>. <source>Frontiers in Psychiatry</source>, <volume>11</volume>, Article 1317. <pub-id pub-id-type="doi">10.3389/fpsyt.2020.599039</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr58-15579883221074789">
+        <mixed-citation publication-type="book">
+<person-group person-group-type="author">
+<name><surname>Stuart</surname><given-names>H.</given-names></name>
+</person-group> (<year>2017</year>). <article-title>What has proven effective in anti-stigma programming</article-title>. In <person-group person-group-type="editor">
+<name><surname>Gaebel</surname><given-names>W.</given-names></name>
+<name><surname>Rossler</surname><given-names>W.</given-names></name>
+<name><surname>Sartorius</surname><given-names>N.</given-names></name>
+</person-group> (Eds.), <source>The Stigma of mental illness&#x2014;end of the story?</source> (pp. <fpage>497</fpage>&#x2013;<lpage>514</lpage>). <publisher-name>Springer International Publishing</publisher-name>.</mixed-citation>
+      </ref>
+      <ref id="bibr59-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Stutterheim</surname><given-names>S. E.</given-names></name>
+<name><surname>Ratcliffe</surname><given-names>S. E.</given-names></name>
+</person-group> (<year>2021</year>). <article-title>Understanding and addressing stigma through qualitative research: Four reasons why we need qualitative studies</article-title>. <source>Stigma and Health</source>, <volume>6</volume>(<issue>1</issue>), <fpage>8</fpage>&#x2013;<lpage>19</lpage>. <pub-id pub-id-type="doi">10.1037/sah0000283</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr60-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Thornicroft</surname><given-names>G.</given-names></name>
+<name><surname>Mehta</surname><given-names>N.</given-names></name>
+<name><surname>Clement</surname><given-names>S.</given-names></name>
+<name><surname>Evans-Lacko</surname><given-names>S.</given-names></name>
+<name><surname>Doherty</surname><given-names>M.</given-names></name>
+<name><surname>Rose</surname><given-names>D.</given-names></name>
+<name><surname>Koschorke</surname><given-names>M.</given-names></name>
+<name><surname>Shidhaye</surname><given-names>R.</given-names></name>
+<name><surname>O&#x2019;Reilly</surname><given-names>C.</given-names></name>
+<name><surname>Henderson</surname><given-names>C.</given-names></name>
+</person-group> (<year>2016</year>). <article-title>Evidence for effective interventions to reduce mental-health-related stigma and discrimination</article-title>. <source>The Lancet</source>, <volume>387</volume>(<issue>10023</issue>), <fpage>1123</fpage>&#x2013;<lpage>1132</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(15)00298-6</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr61-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Wagstaff</surname><given-names>C.</given-names></name>
+<name><surname>Graham</surname><given-names>H.</given-names></name>
+<name><surname>Farrell</surname><given-names>D.</given-names></name>
+<name><surname>Larkin</surname><given-names>M.</given-names></name>
+<name><surname>Nettle</surname><given-names>M.</given-names></name>
+</person-group> (<year>2018</year>). <article-title>Experiences of mental health services for &#x201C;black&#x201D; men with schizophrenia and a history of disengagement: A qualitative study</article-title>. <source>International Journal of Mental Health Nursing</source>, <volume>27</volume>(<issue>1</issue>), <fpage>158</fpage>&#x2013;<lpage>167</lpage>. <pub-id pub-id-type="doi">10.1111/inm.12305</pub-id><pub-id pub-id-type="pmid">28019715</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr62-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Wang</surname><given-names>J.</given-names></name>
+<name><surname>Fick</surname><given-names>G.</given-names></name>
+<name><surname>Adair</surname><given-names>C.</given-names></name>
+<name><surname>Lai</surname><given-names>D.</given-names></name>
+</person-group> (<year>2007</year>). <article-title>Gender specific correlates of stigma toward depression in a Canadian general population sample</article-title>. <source>Journal of Affective Disorders</source>, <volume>103</volume>(<issue>1&#x2013;3</issue>), <fpage>91</fpage>&#x2013;<lpage>97</lpage>. <pub-id pub-id-type="doi">10.1016/j.jad.2007.01.010</pub-id><pub-id pub-id-type="pmid">17292968</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr63-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Ward</surname><given-names>E. C.</given-names></name>
+<name><surname>Besson</surname><given-names>D. D.</given-names></name>
+</person-group> (<year>2012</year>). <article-title>African American men&#x2019;s beliefs about mental illness, perceptions of stigma, and help-seeking barriers</article-title>. <source>The Counseling Psychologist</source>, <volume>41</volume>(<issue>3</issue>), <fpage>359</fpage>&#x2013;<lpage>391</lpage>. <pub-id pub-id-type="doi">10.1177/0011000012447824</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr64-15579883221074789">
+        <mixed-citation publication-type="journal">
+<person-group person-group-type="author">
+<name><surname>Wood</surname><given-names>S.</given-names></name>
+<name><surname>Harrison</surname><given-names>L. K.</given-names></name>
+<name><surname>Kucharska</surname><given-names>J.</given-names></name>
+</person-group> (<year>2017</year>). <article-title>Male professional footballers&#x2019; experiences of mental health difficulties and help-seeking</article-title>. <source>Physician &amp; Sportsmedicine</source>, <volume>45</volume>(<issue>2</issue>), <fpage>120</fpage>&#x2013;<lpage>128</lpage>. <pub-id pub-id-type="doi">10.1090/00913847.2017.128320</pub-id></mixed-citation>
+      </ref>
+      <ref id="bibr65-15579883221074789">
+        <mixed-citation publication-type="webpage">
+<collab>World Health Organization</collab>. (<year>2021</year>). <source>Suicide worldwide in 2019: Global health estimates</source>. <ext-link xlink:href="https://www.who.int/publications/i/item/9789240026643" ext-link-type="uri">https://www.who.int/publications/i/item/9789240026643</ext-link></mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>

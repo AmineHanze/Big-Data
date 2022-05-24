@@ -1,0 +1,1780 @@
+<?xml version="1.0" ?>
+<!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd">
+<pmc-articleset><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" article-type="research-article" dtd-version="1.3">
+  <?properties open_access?>
+  <processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats">
+    <restricted-by>pmc</restricted-by>
+  </processing-meta>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">Syst Rev</journal-id>
+      <journal-id journal-id-type="iso-abbrev">Syst Rev</journal-id>
+      <journal-title-group>
+        <journal-title>Systematic Reviews</journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2046-4053</issn>
+      <publisher>
+        <publisher-name>BioMed Central</publisher-name>
+        <publisher-loc>London</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pmid">35042545</article-id>
+      <article-id pub-id-type="pmc">8767730</article-id>
+      <article-id pub-id-type="publisher-id">1875</article-id>
+      <article-id pub-id-type="doi">10.1186/s13643-021-01875-3</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Protocol</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Exploring stigma associated with mental health conditions and alcohol and other drug use among people from migrant and ethnic minority backgrounds: a protocol for a systematic review of qualitative studies</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-1810-8434</contrib-id>
+          <name>
+            <surname>Douglass</surname>
+            <given-names>Caitlin H.</given-names>
+          </name>
+          <address>
+            <email>Caitlin.douglass@burnet.edu.au</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Lim</surname>
+            <given-names>Megan S. C.</given-names>
+          </name>
+          <address>
+            <email>Megan.lim@burnet.edu.au</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Block</surname>
+            <given-names>Karen</given-names>
+          </name>
+          <address>
+            <email>keblock@unimelb.edu.au</email>
+          </address>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Onsando</surname>
+            <given-names>Gerald</given-names>
+          </name>
+          <address>
+            <email>g.onsando@unimelb.edu.au</email>
+          </address>
+          <xref ref-type="aff" rid="Aff4">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Hellard</surname>
+            <given-names>Margaret</given-names>
+          </name>
+          <address>
+            <email>Margaret.hellard@burnet.edu.au</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff2">2</xref>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Higgs</surname>
+            <given-names>Peter</given-names>
+          </name>
+          <address>
+            <email>P.Higgs@latrobe.edu.au</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff5">5</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Livingstone</surname>
+            <given-names>Charles</given-names>
+          </name>
+          <address>
+            <email>charles.livingstone@monash.edu</email>
+          </address>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Horyniak</surname>
+            <given-names>Danielle</given-names>
+          </name>
+          <address>
+            <email>Danielle.horyniak@burnet.edu.au</email>
+          </address>
+          <xref ref-type="aff" rid="Aff1">1</xref>
+          <xref ref-type="aff" rid="Aff3">3</xref>
+        </contrib>
+        <aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="GRID">grid.1056.2</institution-id><institution-id institution-id-type="ISNI">0000 0001 2224 8486</institution-id><institution>Burnet Institute, </institution></institution-wrap>Melbourne, Victoria Australia </aff>
+        <aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="GRID">grid.1008.9</institution-id><institution-id institution-id-type="ISNI">0000 0001 2179 088X</institution-id><institution>Melbourne School of Population and Global Health, </institution><institution>University of Melbourne, </institution></institution-wrap>Melbourne, Victoria Australia </aff>
+        <aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="GRID">grid.1002.3</institution-id><institution-id institution-id-type="ISNI">0000 0004 1936 7857</institution-id><institution>School of Public Health and Preventive Medicine, </institution><institution>Monash University, </institution></institution-wrap>Melbourne, Victoria Australia </aff>
+        <aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="GRID">grid.1008.9</institution-id><institution-id institution-id-type="ISNI">0000 0001 2179 088X</institution-id><institution>Melbourne School of Social and Political Sciences, </institution><institution>University of Melbourne, </institution></institution-wrap>Melbourne, Victoria Australia </aff>
+        <aff id="Aff5"><label>5</label><institution-wrap><institution-id institution-id-type="GRID">grid.1018.8</institution-id><institution-id institution-id-type="ISNI">0000 0001 2342 0938</institution-id><institution>Public Health Department, </institution><institution>La Trobe University, </institution></institution-wrap>Bundoora, Victoria Australia </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <day>18</day>
+        <month>1</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="pmc-release">
+        <day>18</day>
+        <month>1</month>
+        <year>2022</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <year>2022</year>
+      </pub-date>
+      <volume>11</volume>
+      <elocation-id>12</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>3</day>
+          <month>2</month>
+          <year>2021</year>
+        </date>
+        <date date-type="accepted">
+          <day>20</day>
+          <month>12</month>
+          <year>2021</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; The Author(s) 2022</copyright-statement>
+        <license>
+          <ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref>
+          <license-p><bold>Open Access</bold>This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>. The Creative Commons Public Domain Dedication waiver (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/publicdomain/zero/1.0/">http://creativecommons.org/publicdomain/zero/1.0/</ext-link>) applies to the data made available in this article, unless otherwise stated in a credit line to the data.</license-p>
+        </license>
+      </permissions>
+      <abstract id="Abs1">
+        <sec>
+          <title>Background</title>
+          <p id="Par1">Stigma is a social process that impedes access to support for mental health conditions and alcohol and other drug (AOD) use, particularly for people from migrant and ethnic minority backgrounds. There is limited understanding, however, of people&#x2019;s experiences of stigma, the underlying drivers, intersections with ethnicity, gender, and citizenship status, and how powerful discourses and social institutions create and perpetuate systems of stigma. This review aims to synthesise and critically analyse qualitative evidence to understand how stigma associated with mental health conditions and AOD use operates among people from migrant and ethnic minority groups.</p>
+        </sec>
+        <sec>
+          <title>Methods</title>
+          <p id="Par2">Qualitative evidence will be identified using MEDLINE, Embase, PsycINFO, CINAHL, Applied Social Sciences Index and Sociological Abstracts. Two reviewers will screen the titles, abstracts and full-text articles. Eligible studies will include original, empirical, peer-reviewed qualitative evidence, published in English since 1990. Studies must examine stigma in relation to mental health conditions, illicit drug use or alcohol consumption among participants who are from migrant and ethnic minority backgrounds. Studies will be critically appraised using the Joanna Briggs Institute Critical Appraisal Checklist for qualitative studies and the level of confidence in the findings will be assessed using Confidence in the Evidence from Reviews of Qualitative research. Data will be analysed using the &#x2018;best fit&#x2019; framework synthesis approach, drawing on the Health Stigma and Discrimination Framework.</p>
+        </sec>
+        <sec>
+          <title>Discussion</title>
+          <p id="Par3">This review will provide an in-depth understanding of the stigma associated with mental health conditions and AOD use among people from migrant and ethnic minority backgrounds. The findings will inform culturally responsive interventions that aim to reduce the negative impact of stigma on individuals, families and communities.</p>
+        </sec>
+        <sec>
+          <title>Systematic review registration</title>
+          <p id="Par4">PROSPERO <ext-link ext-link-type="uri" xlink:href="https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42021204057">CRD42021204057</ext-link></p>
+        </sec>
+        <sec>
+          <title>Supplementary Information</title>
+          <p>The online version contains supplementary material available at 10.1186/s13643-021-01875-3.</p>
+        </sec>
+      </abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords</title>
+        <kwd>Stigma</kwd>
+        <kwd>Discrimination</kwd>
+        <kwd>Mental health</kwd>
+        <kwd>Substance use</kwd>
+        <kwd>Migrants</kwd>
+        <kwd>Ethnic groups</kwd>
+        <kwd>Alcohol</kwd>
+        <kwd>Drugs</kwd>
+      </kwd-group>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>issue-copyright-statement</meta-name>
+          <meta-value>&#xA9; The Author(s) 2022</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="Sec1">
+      <title>Introduction</title>
+      <p id="Par9">Over the past decade, the global burden of disease from mental health conditions has increased [<xref ref-type="bibr" rid="CR1">1</xref>]. On average, one in three adults experience a common mental health condition in their lifetime including mood, anxiety and substance use disorders [<xref ref-type="bibr" rid="CR2">2</xref>]. People from migrant and ethnic minority backgrounds (defined as populations other than the dominant majority of a country in terms of numerical proportions and power positions, particularly migrants, refugees, people seeking asylum and minority groups from non-main English-speaking countries [<xref ref-type="bibr" rid="CR3">3</xref>]) may be at higher risk of mental health conditions and substance use disorders than the general population [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR5">5</xref>]. Risk factors include increased experiences of trauma, acculturation stress, and social and economic disadvantage [<xref ref-type="bibr" rid="CR4">4</xref>, <xref ref-type="bibr" rid="CR5">5</xref>]. Research suggests that some young people from refugee backgrounds report heavy alcohol consumption to cope with trauma, boredom and frustration and heightened experience of family conflict, contact with the criminal justice system and homelessness [<xref ref-type="bibr" rid="CR6">6</xref>]. Evidence also suggests that there are barriers to accessing mental health and alcohol and other drug (AOD) treatment for people from migrant and ethnic minority backgrounds [<xref ref-type="bibr" rid="CR7">7</xref>] including limited knowledge of where, why or how to seek help, fear of hospitalisation, possible adverse implications for visa applications, limited provision of culturally responsive services, and stigma [<xref ref-type="bibr" rid="CR8">8</xref>&#x2013;<xref ref-type="bibr" rid="CR12">12</xref>].</p>
+      <sec id="Sec2">
+        <title>Stigma and health</title>
+        <p id="Par10">Erving Goffman described stigma as a social process in which a person or group&#x2019;s attribute, condition or status is identified as different, less desirable or dangerous [<xref ref-type="bibr" rid="CR13">13</xref>]. People may experience stigma based on physical ability, individual character, health conditions, race, sexual identity, or religion [<xref ref-type="bibr" rid="CR13">13</xref>]. Illicit drug use and particularly, drug dependence, can be seen as categories which create stigma by their implicit definition of otherness [<xref ref-type="bibr" rid="CR14">14</xref>]. Since Goffman&#x2019;s work, there has been a proliferation of stigma research, particularly in relation to health. Link and Phelan conceptualised stigma as the convergence of labelling, stereotyping, separation and discrimination [<xref ref-type="bibr" rid="CR15">15</xref>]. In this process, differences are identified, labelled as socially important, and associated with negative attributes. Separation occurs when those who are labelled are considered fundamentally different from the norm, which can lead to discrimination or status loss through being devalued, rejected or excluded [<xref ref-type="bibr" rid="CR15">15</xref>]. Although stigma and discrimination are sometimes used interchangeably, they are distinct: stigma is a broader concept that involves multiple components (including discrimination) whereas discrimination refers to the unequal treatment or constrained opportunities of members of a social group [<xref ref-type="bibr" rid="CR16">16</xref>]. Discrimination can occur at an individual or structural level where institutional practices and environments create barriers to inclusion. For example, people living with HIV can experience stigma when they are framed as dangerous and immoral, which may result in discrimination in healthcare settings or rejection from social groups [<xref ref-type="bibr" rid="CR17">17</xref>]. Internalized stigma can also occur when people apply negative stereotypes to themselves and come to expect or fear rejection [<xref ref-type="bibr" rid="CR15">15</xref>]. Importantly, the components of stigma can only unfold within systems of social, economic and political power that enable the assembly of stigmatising discourses or institutions [<xref ref-type="bibr" rid="CR15">15</xref>]. Stigma has been shown to negatively affect employment, housing, access to medical care, treatment compliance and help-seeking behaviours [<xref ref-type="bibr" rid="CR18">18</xref>]. It can also contribute to chronic stress which may increase hypertension and worsen existing medical conditions [<xref ref-type="bibr" rid="CR18">18</xref>].</p>
+      </sec>
+      <sec id="Sec3">
+        <title>Mental health stigma</title>
+        <p id="Par11">Stigma has been examined across a variety of health conditions [<xref ref-type="bibr" rid="CR14">14</xref>, <xref ref-type="bibr" rid="CR15">15</xref>]. People with mental health conditions are often labelled as dangerous, unpredictable, incompetent and dependent on others [<xref ref-type="bibr" rid="CR19">19</xref>]. Importantly, stigma associated with mental health conditions is shaped by cultural values, norms and beliefs. Three reviews have examined these cultural aspects of stigma; an integrative narrative review exploring mental illness stigma among specific racial and ethnic groups in the USA, a systematic review exploring mental illness stigma among Asian, Black and Latinx Americans and a systematic review identifying meaningful cultural aspects of stigma in non-Western European cultural groups [<xref ref-type="bibr" rid="CR20">20</xref>&#x2013;<xref ref-type="bibr" rid="CR22">22</xref>]. Findings from these reviews suggested that there were similarities and differences in mental illness stigma between racial and ethnic groups. For example, a common finding across groups was that negative labels associated with mental health conditions were often applied to an individual&#x2019;s family [<xref ref-type="bibr" rid="CR20">20</xref>&#x2013;<xref ref-type="bibr" rid="CR22">22</xref>]. Findings within specific ethnic groups demonstrated the importance of protecting the family reputation from mental illness stigma among Asian communities, the role of historical and current racism in shaping stigma for Black Americans and the perception that mental illness was incongruent with the hardworking values of Latino groups [<xref ref-type="bibr" rid="CR20">20</xref>&#x2013;<xref ref-type="bibr" rid="CR22">22</xref>]. Studies have also documented the negative experiences of stigma for people from migrant and ethnic minority backgrounds including discrimination, prejudice, exclusion and internalised shame [<xref ref-type="bibr" rid="CR19">19</xref>, <xref ref-type="bibr" rid="CR22">22</xref>]. Family members associated with people who have mental health conditions may also be treated unfairly, excluded from social life and feel ashamed [<xref ref-type="bibr" rid="CR23">23</xref>]. Systematic reviews focused on migrant and ethnic minority populations in the USA and Europe have reported that stigma is a common barrier that prevents access to mental health care [<xref ref-type="bibr" rid="CR24">24</xref>, <xref ref-type="bibr" rid="CR25">25</xref>]. Few studies have examined how stigma associated with mental health conditions intersects with other characteristics or used theory to enhance understanding of the stigma process [<xref ref-type="bibr" rid="CR22">22</xref>].</p>
+      </sec>
+      <sec id="Sec4">
+        <title>Stigma associated with alcohol and other drug use</title>
+        <p id="Par12">Studies have also investigated AOD use stigma and demonstrated that people who inject drugs are often perceived as immoral, irresponsible, undeserving of help, burdensome, deviant and dishonest [<xref ref-type="bibr" rid="CR26">26</xref>]. Stigma is also evident when people with alcohol dependence are blamed for their &#x2018;voluntary&#x2019; condition for &#x2018;choosing&#x2019; to use alcohol in ways considered unacceptable by society [<xref ref-type="bibr" rid="CR27">27</xref>]. Previous qualitative findings have indicated that people with substance dependence experience stigma within their interpersonal relationships, healthcare settings, the criminal justice system, the media and in political and legal systems that criminalise certain types of drug use [<xref ref-type="bibr" rid="CR14">14</xref>, <xref ref-type="bibr" rid="CR28">28</xref>]. Stigma contributes to poor quality healthcare and hinders evidence-based responses such as supervised injecting facilities [<xref ref-type="bibr" rid="CR26">26</xref>]. People with a dual diagnosis of a mental health condition and substance use disorder may experience higher levels of stigma and discrimination and poorer quality of healthcare than those with a single diagnosis [<xref ref-type="bibr" rid="CR29">29</xref>].</p>
+        <p id="Par13">Existing studies have identified that stigma associated with AOD use is a barrier that impedes access to support for migrant and ethnic minority communities [<xref ref-type="bibr" rid="CR9">9</xref>]. Qualitative research with young African refugees in Australia identified there were significant risks if they were discovered drinking alcohol including exclusion from their families and broader cultural communities [<xref ref-type="bibr" rid="CR6">6</xref>]. Similarly, this sample also perceived that injecting drug use was shameful for both the individual and their families [<xref ref-type="bibr" rid="CR30">30</xref>]. Research with people from Pakistani Muslim backgrounds in Britain identified that alcohol consumption was perceived as dishonourable and incongruent with Islamic values [<xref ref-type="bibr" rid="CR31">31</xref>]. Gender is also important, with Muslim females at high risk of gossip, reputational damage and being labelled as &#x2018;poor marriage material&#x2019; if discovered consuming alcohol [<xref ref-type="bibr" rid="CR32">32</xref>]. The shame associated with alcohol consumption in some cultures likely encourages people to hide their alcohol consumption to avoid damaging their families reputation [<xref ref-type="bibr" rid="CR33">33</xref>]. Although some individual studies have investigated stigma associated with AOD use among migrant and ethnic minority groups, to our knowledge, there has been no dedicated effort to bring this body of evidence together. Other reviews that are focused more generally on AOD treatment and health promotion programmes have identified that stigma is a barrier to help-seeking but do not provide in-depth information about the process of stigma and its intersections with other characteristics [<xref ref-type="bibr" rid="CR34">34</xref>, <xref ref-type="bibr" rid="CR35">35</xref>].</p>
+      </sec>
+      <sec id="Sec5">
+        <title>Stigma in the lives of people from migrant and ethnic minority backgrounds</title>
+        <p id="Par14">Intersectionality emphasises that multiple facets of people&#x2019;s identity and social positions interact to shape experiences of stigma and discrimination [<xref ref-type="bibr" rid="CR36">36</xref>]. Although most existing research focuses on people&#x2019;s experience of stigma due to one health condition [<xref ref-type="bibr" rid="CR37">37</xref>], intersectionality has been integrated into various stigma frameworks [<xref ref-type="bibr" rid="CR38">38</xref>, <xref ref-type="bibr" rid="CR39">39</xref>]. In their systematic review, Fox et al. acknowledged that people&#x2019;s experiences of mental illness stigma differed based on characteristics representative of privilege and marginalisation including their specific diagnosis, socio-economic status, race, culture and gender [<xref ref-type="bibr" rid="CR39">39</xref>]. Intersectionality is particularly important when considering people with migrant and ethnic minority backgrounds because they often experience discrimination based on multiple identity characteristics [<xref ref-type="bibr" rid="CR20">20</xref>]. For example, one study showed that Latinx people who injected drugs were perceived as more deserving of punishment than help in comparison to white people who injected drugs [<xref ref-type="bibr" rid="CR40">40</xref>]. Experiences of mental health and AOD use stigma may also be shaped by migration status. People from migrant and ethnic minority backgrounds are often held to higher standards than others, expected to be upstanding citizens or &#x2018;model minorities&#x2019; [<xref ref-type="bibr" rid="CR41">41</xref>], so that &#x2018;deviant&#x2019; behaviour may be perceived more negatively. Further research is needed to understand the nature of the relationship between stigma associated with mental health and AOD use, and discourses and practices intersecting with culture, gender and ethnicity [<xref ref-type="bibr" rid="CR38">38</xref>].</p>
+      </sec>
+      <sec id="Sec6">
+        <title>Rationale</title>
+        <p id="Par15">Stigma is a complex concept involving interrelated components and power systems [<xref ref-type="bibr" rid="CR42">42</xref>]. Although stigma has been commonly identified as an important barrier to help-seeking among migrant and ethnic minority communities [<xref ref-type="bibr" rid="CR9">9</xref>, <xref ref-type="bibr" rid="CR24">24</xref>, <xref ref-type="bibr" rid="CR25">25</xref>], responses to address stigma are hampered by a lack of understanding of people&#x2019;s experiences, intersectional factors, the underlying drivers and the powerful discourses, institutions and systems that enable stigma to unfold. Research has acknowledged that interventions targeting stigma must address multiple levels including social, policy and legal structures thus incorporating theory that acknowledges these structures is important [<xref ref-type="bibr" rid="CR28">28</xref>]. Although some reviews have explored cultural factors and mental illness stigma, these have predominantly focused on migrant and ethnic minority groups in the USA [<xref ref-type="bibr" rid="CR20">20</xref>, <xref ref-type="bibr" rid="CR21">21</xref>]. Our review expands the knowledge base by examining global literature and drawing on robust theory to synthesise findings. Our review will also address understudied areas of intersectional stigma and stigma in relation to AOD use. A deeper understanding of the drivers and facilitators, manifestations, intersections, outcomes&#xA0;and impacts of stigma among migrant and ethnic minority populations will guide future research and inform more socially and culturally responsive interventions.</p>
+      </sec>
+      <sec id="Sec7">
+        <title>Guiding theory</title>
+        <p id="Par16">Our understanding of stigma in this review draws on Bourdieu&#x2019;s concepts of symbolic power and Link and Phelan&#x2019;s concept of stigma power. Bourdieu described the term &#x2018;habitus&#x2019; which suggests that people&#x2019;s beliefs, attitudes, behaviours and knowledge are shaped by life experiences and social positions as defined by important institutions such as religion, race, gender and social class [<xref ref-type="bibr" rid="CR43">43</xref>]. People develop skills, achievements and a sense of identity that reflect their social group membership, known as cultural capital. These social institutions create power systems that value certain identities over others [<xref ref-type="bibr" rid="CR43">43</xref>]. Symbolic power refers to the ability to define what constitutes &#x2018;reality&#x2019;, and impose a legitimate or orthodox version of the social world on others [<xref ref-type="bibr" rid="CR44">44</xref>]. Stigma is a form of symbolic power because those who articulate orthodox discourses via the social order are in a strong position to determine what is legitimate, valuable and worthy. Bourdieu argues that people unconsciously accept the social hierarchy established via orthodox discourses, which means that symbolic power and associated systems such as stigma can be &#x2018;misrecognised&#x2019; as normal, and in some cases, unquestionable, cultural arrangements [<xref ref-type="bibr" rid="CR45">45</xref>]. Link and Phelan expanded on these ideas and proposed that stigma creates and maintains social hierarchies [<xref ref-type="bibr" rid="CR46">46</xref>]. Stigma power highlights how culture determines whether certain characteristics are valued or not. People with stigmatised characteristics are generally conscious of the negative labels placed upon them and the risk of being devalued or discriminated against. This awareness increases concern that people should &#x2018;stay in&#x2019; to avoid negative cultural evaluation, &#x2018;stay away&#x2019; from potentially threatening environments and &#x2018;stay down&#x2019; by accepting their lower worth. In this regard, stigma power is a resource that acts to perpetuate existing arrangements of power [<xref ref-type="bibr" rid="CR46">46</xref>].</p>
+        <p id="Par17">Our review will be guided by the Health Stigma and Discrimination Framework which acknowledges that multiple domains interact to produce stigma (Fig. <xref rid="Fig1" ref-type="fig">1</xref>) [<xref ref-type="bibr" rid="CR38">38</xref>]. This framework will be used to formulate our research questions, synthesise the data from included studies and identify where gaps in the literature remain and where future interventions could be targeted. Drivers are conceptualised as inherently negative factors that enable stigma (e.g. fear of people with a mental health condition) and facilitators are societal factors that can have positive or negative influences on stigmatisation, for example, cultural and gender norms. The drivers and facilitators of stigma reflect Bourdieu&#x2019;s idea that within any society, certain cultural attributes are defined as worthy or orthodox&#x2014;or in some cases unquestionable&#x2014;while others are devalued. Drivers and facilitators combine to determine whether a person or group are &#x2018;marked&#x2019; based on their stigmatised characteristic. &#x2018;Stigma marking&#x2019; occurs when stigma is applied to a person or group based on their mental health condition and/or AOD use. This health-related stigma may also intersect with stigma related to other factors such as ethnicity, gender and citizenship status. Once people have been &#x2018;marked&#x2019;, stigma can manifest as experiences (lived realities such as discrimination and internalised, anticipated, perceived and secondary stigma) and practices (the beliefs, attitudes and actions directed towards a stigmatised person or group). Stigmatisation also leads to &#x2018;outcomes&#x2019; for affected populations and organisations (such as access to treatment and support) and impacts on broader health consequences (e.g. quality of life and relationships) [<xref ref-type="bibr" rid="CR38">38</xref>]. Importantly, the framework explicitly states that stigma is not &#x2018;a thing which individuals impose on others&#x2019; but relies on the broader social, cultural, political and economic forces that structure stigma. This reference to systems of power relates to Bourdieu&#x2019;s concept of symbolic power and Link and Phelan&#x2019;s description of stigma power.<fig id="Fig1"><label>Fig. 1</label><caption><p>Health Stigma and Discrimination Framework [<xref ref-type="bibr" rid="CR38">38</xref>]</p></caption><graphic xlink:href="13643_2021_1875_Fig1_HTML" id="MO1"/></fig></p>
+        <p id="Par18">Figure <xref rid="Fig1" ref-type="fig">1</xref> was originally created by Stangl et al. [<xref ref-type="bibr" rid="CR38">38</xref>] and has been reproduced under the terms of the Creative Commons Attribution 4.0 International License (<ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</ext-link>) which permits unrestricted use, distribution, and reproduction in any medium with appropriate credit. No changes were made to this figure.</p>
+      </sec>
+      <sec id="Sec8">
+        <title>Objectives</title>
+        <p id="Par19">The objectives of this review are to identify, synthesise and critically analyse qualitative evidence exploring stigma among people from migrant and ethnic minority backgrounds in relation to mental health conditions, alcohol consumption and illicit drug use. It will also explore the drivers and facilitators underlying stigma, intersecting factors and how these combine to impact relationships, help-seeking and access to support services. The specific review questions include:<list list-type="order"><list-item><p id="Par20">What are the underlying drivers and facilitators of stigma associated with mental health conditions and/or AOD use among migrant and ethnic minority groups?</p></list-item><list-item><p id="Par21">How does stigma associated with mental health conditions and/or AOD use intersect with other stigmatised characteristics?</p></list-item><list-item><p id="Par22">How does stigma associated with mental health conditions and/or AOD use manifest as experiences and practices among people from migrant and ethnic minority backgrounds?</p></list-item><list-item><p id="Par23">What are the outcomes and impacts of stigma associated with mental health conditions and/or AOD use for people from migrant and ethnic minority backgrounds?</p></list-item></list></p>
+      </sec>
+    </sec>
+    <sec id="Sec9">
+      <title>Methods</title>
+      <p id="Par24">This review protocol has been reported in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-analysis Protocols (PRISMA-P) checklist [<xref ref-type="bibr" rid="CR47">47</xref>] (Additional File <xref rid="MOESM1" ref-type="media">1</xref>) and the Enhancing transparency in reporting the synthesis of qualitative research checklist [<xref ref-type="bibr" rid="CR48">48</xref>].</p>
+      <sec id="Sec10">
+        <title>Eligibility criteria</title>
+        <p id="Par25">This review uses the Sample, Phenomenon of Interest, Design, Evaluation, Research type (SPIDER) tool to guide the search strategy and eligibility criteria [<xref ref-type="bibr" rid="CR49">49</xref>].<list list-type="order"><list-item><p id="Par26"><italic>Sample</italic>: This review will include studies where results have been reported for participants who self-identify or have been categorised as a migrant or ethnic minority in low, middle or high-income countries. Studies can include people from migrant and ethnic minority backgrounds who are personally experiencing mental health conditions or using alcohol and/or other drugs, general community members, caregivers or family members. Studies that include a broader study sample (e.g. service providers or non-migrant and ethnic minority groups) will be included if the results for migrant and ethnic minority participants are reported separately or can be distinguished in the results. Although there is no universally agreed upon term, our sample draws upon definitions from the International Glossary on Migration [<xref ref-type="bibr" rid="CR50">50</xref>] to define the population. We use the umbrella term &#x2018;migrant and ethnic minority&#x2019; to encompass the following groups recognising that there is both overlap and important differences between the terms.<list list-type="bullet"><list-item><label/><p id="Par27">Migrant: A person who has moved away from their usual residence whether within a country or across an international border, temporarily or permanently and for a variety of reasons. We focus on migrants from non-main English-speaking countries.</p></list-item><list-item><label/><p id="Par28">Minority: A group with fewer numbers compared to the broader population in a non-dominant and less powerful position whose members possess ethnic, religious or linguistic characteristics differing from those of the dominant population.</p></list-item><list-item><label/><p id="Par29">Refugee: A person who, owing to a well-founded fear of persecution for reasons of race, religion, nationality, membership of a particular social group or political opinion is outside the country of their nationality and is unable or, owing to such fear, is unwilling to avail themselves of the protection of that country; or who, not having a nationality and being outside the country of their former habitual residents as a result of such events, is unable or, owing to such fear, is unwilling to return to it</p></list-item><list-item><label/><p id="Par30">Person seeking asylum: An individual who is seeking international protection.</p></list-item><list-item><label/><p id="Par31">International students and other temporary migrants</p></list-item></list></p></list-item><list-item><p id="Par32"><italic>Phenomenon of interest</italic>: Studies must explore stigma in relation to mental health conditions, alcohol consumption or illicit drug use (at any level including recreational, problematic or harmful use and dependence). Stigma must be identified as an aim, research question, key theme or major finding in the results</p></list-item><list-item><p id="Par33"><italic>Design</italic>: Methodologies such as ethnography, phenomenology, action research or community-based participatory research and/or data collection techniques including focus groups and interviews</p></list-item><list-item><p id="Par34"><italic>Evaluation</italic>: Perceptions and experiences related to the drivers and facilitators of stigma, intersecting factors, stigma manifestations, outcomes and impacts</p></list-item><list-item><p id="Par35"><italic>Research type</italic>: Original peer-reviewed qualitative studies or other study designs (e.g. mixed methods or evaluation research) with relevant qualitative components published in English from 1990 to present.</p></list-item></list></p>
+        <p id="Par36">The following studies will be excluded from our review:<list list-type="bullet"><list-item><p id="Par37">Quantitative studies</p></list-item><list-item><p id="Par38">Content, document or policy analyses</p></list-item><list-item><p id="Par39">Abstracts, conference presentations, dissertations, systematic reviews, literature reviews and commentaries</p></list-item><list-item><p id="Par40">Published in language(s) other than English</p></list-item><list-item><p id="Par41">Studies that focus on Indigenous or First Nation&#x2019;s people (e.g. people who identify as Aboriginal and/or Torres Strait Islander). These groups have unique experiences underpinned by histories of colonisation, dispossession, and discrimination; we do not feel that we can do justice to these populations within the context of this review</p></list-item><list-item><p id="Par42">Studies that focus on migrants from main English-speaking countries who do not identify with an ethnic minority group and are less likely to experience power disparities with the dominant population of a country</p></list-item><list-item><p id="Par43">Studies where participants are health professionals, mental health or AOD service providers from migrant and ethnic minority backgrounds</p></list-item><list-item><p id="Par44">Studies that mention stigma but do not explore the topic in-depth</p></list-item><list-item><p id="Par45">Studies that focus on tobacco, medicinal cannabis or prescription medication use</p></list-item><list-item><p id="Par46">Grey literature</p></list-item></list></p>
+      </sec>
+      <sec id="Sec11">
+        <title>Information sources</title>
+        <p id="Par47">Original peer-reviewed articles will be identified through the databases MEDLINE, Embase, PsycINFO, CINAHL, Applied Social Sciences Index and Sociological Abstracts to capture citations from a broad range of disciplines. Reference lists of included studies will be checked and well-known researchers in the field of stigma will be contacted for additional relevant articles. Studies will be restricted to English language articles published from 1990 to current. The search will be re-run prior to the final synthesis.</p>
+      </sec>
+      <sec id="Sec12">
+        <title>Search strategy</title>
+        <p id="Par48">The search strategy will include a combination of MeSH terms and key words to capture the SPIDER parameters: (Sample: migrant and ethnic minority) AND (phenomenon 1: mental health OR phenomenon 2: AOD use) AND (phenomenon 3: stigma) AND (research type or design: qualitative studies, frameworks or methods) (see Additional File <xref rid="MOESM2" ref-type="media">2</xref>). Search terms for each database will be developed and refined with the assistance of a librarian.</p>
+      </sec>
+      <sec id="Sec13">
+        <title>Study records</title>
+        <sec id="Sec14">
+          <title>Data management</title>
+          <p id="Par49">Records will be downloaded from each database into EndNote and uploaded to Covidence where duplicates will be removed. Titles, abstracts and full-text articles will be screened and reviewed in Covidence. Full-text articles will be imported into Dedoose for coding and synthesis (Dedoose Version 9.0.17, (2021). Los Angeles, CA: SocioCultural Research Consultants, LLC; <ext-link ext-link-type="uri" xlink:href="http://www.dedoose.com">www.dedoose.com</ext-link>).</p>
+        </sec>
+        <sec id="Sec15">
+          <title>Selection process</title>
+          <p id="Par50">The selection of articles to be included in the review will be managed using Covidence. Titles and abstracts will be reviewed by two independent reviewers using pre-determined inclusion and exclusion criteria. Full-text articles that meet inclusion criteria based on title and abstract screening will be reviewed for eligibility by two independent reviewers. Any disagreement will be resolved through discussion and consensus or through discussion with a third reviewer where necessary. The Preferred Reporting Items for Systematic Reviews and Meta-analysis (PRISMA) flowchart will be used to document the number of studies identified, included and excluded throughout the selection process.</p>
+        </sec>
+        <sec id="Sec16">
+          <title>Data collection process and data items</title>
+          <p id="Par51">Using Covidence, one reviewer will extract study characteristics from each included article using a data extraction template. The template will be pilot tested on five studies to determine items to include. Planned items for extraction are author, year of publication, country, population, participant characteristics, research questions, data collection, methodology, theoretical frameworks and type of analysis. A second reviewer will check all extracted data against the full-text articles and note any errors to be updated by the first reviewer.</p>
+        </sec>
+        <sec id="Sec17">
+          <title>Critical appraisal of individual studies</title>
+          <p id="Par52">Two reviewers will independently appraise the methodological quality of each included study using the Joanna Briggs Institute critical appraisal checklist for qualitative research [<xref ref-type="bibr" rid="CR51">51</xref>]. The checklist includes ten questions to determine whether there is congruity between the research methodology with the philosophical perspective, research questions, data collection, representation and analysis of data and interpretation of results. It also contains questions related to the researchers&#x2019; theoretical position, influence of the researcher, representation of participant voices, ethics and conclusions. Discrepancies will be resolved through discussion and consensus or involvement of a third reviewer where required. The tool will be used to determine if studies are rated as low, medium or high. We will not exclude articles from the review based on their rating.</p>
+        </sec>
+        <sec id="Sec18">
+          <title>Data synthesis</title>
+          <p id="Par53">Data will be synthesised using the &#x2018;best-fit&#x2019; framework synthesis approach [<xref ref-type="bibr" rid="CR52">52</xref>, <xref ref-type="bibr" rid="CR53">53</xref>]. This approach is well suited to qualitative reviews where a suitable theoretical framework already exists. The approach involves coding data to the selected framework, in our case the Health Stigma and Discrimination Framework [<xref ref-type="bibr" rid="CR38">38</xref>], then using an inductive thematic analysis to code data which cannot be accommodated within the existing framework [<xref ref-type="bibr" rid="CR52">52</xref>, <xref ref-type="bibr" rid="CR53">53</xref>]. Drawing on the Health Stigma and Discrimination Framework and our knowledge of the literature, we have mapped out key concepts that we hypothesise will be relevant in understanding stigma among people from migrant and ethnic minority backgrounds in relation to mental health conditions and AOD use (Table <xref rid="Tab1" ref-type="table">1</xref>).<table-wrap id="Tab1"><label>Table 1</label><caption><p>Applying the Health Stigma and Discrimination Framework to this review</p></caption><table frame="hsides" rules="groups"><thead><tr><th>Domain</th><th>Sub-domain</th><th>Topic codes</th></tr></thead><tbody><tr><td rowspan="2"><bold>Drivers and Facilitators</bold></td><td><bold>Drivers</bold></td><td><p>&#x2022; Fear</p><p>&#x2022; Poor knowledge/awareness</p><p>&#x2022; Prejudice</p><p>&#x2022; Stereotypes</p></td></tr><tr><td><bold>Facilitators</bold></td><td><p>&#x2022; Social, gender, religious and cultural norms and beliefs which determine whether alcohol consumption or illicit drug use are acceptable in particular settings</p><p>&#x2022; Laws and policies</p></td></tr><tr><td><bold>Health condition related stigma</bold></td><td><bold>Intersecting fields of stigma</bold></td><td>&#x2022; Ethnicity, gender, sexual identity, citizenship status, socio-economic status, age, other health conditions</td></tr><tr><td rowspan="2"><bold>Stigma manifestations</bold></td><td><bold>Experiences</bold></td><td><p>&#x2022; Internalised stigma (people feeling shame and personally taking on the negative labels associated with AOD use and mental health conditions)</p><p>&#x2022; Experienced stigma (verbal abuse, vilification)</p><p>&#x2022; Anticipated stigma (expectation or fear of bias if others discover their AOD use or mental health condition)</p><p>&#x2022; Secondary stigma (negative labels applied to family and friends)</p><p>&#x2022; Experienced discrimination (unfair treatment or constrained opportunities)</p></td></tr><tr><td><bold>Practices</bold></td><td><p>&#x2022; Being stereotyped by members of the public or service providers</p><p>&#x2022; Stigmatising behaviours (exclusion, avoidance, rejection, gossip)</p><p>&#x2022; Discriminatory attitudes</p><p>&#x2022; Expressions of prejudice</p></td></tr><tr><td rowspan="2">
+<bold>Outcomes</bold></td><td><bold>Individual</bold></td><td><p>&#x2022; Concealment or non-disclosure</p><p>&#x2022; Increase in risk behaviours</p><p>&#x2022; Limited ability to seek and obtain access to appropriate mental health and AOD services</p><p>&#x2022; Informal help-seeking </p><p>&#x2022; Resilience and advocacy through rejection of stereotypes</p></td></tr><tr><td><bold>Organisations and institutions</bold></td><td>&#x2022; Responses or interventions that can be implemented at an organisational or institutional level to address stigma</td></tr><tr><td><bold>Impacts</bold></td><td><bold>Impacts</bold></td><td><p>&#x2022; Reduced quality of life</p><p>&#x2022; Increased isolation and loneliness</p><p>&#x2022; Decreased participation in employment and housing</p><p>&#x2022; Increased contact with the criminal justice system</p><p>&#x2022; Exacerbation of existing mental health conditions</p><p>&#x2022; Increase in depression, anxiety and social isolation</p><p>&#x2022; Long-term break down in relationships</p></td></tr></tbody></table></table-wrap></p>
+          <p id="Par54">Two reviewers will pilot test the framework on five included studies and refine sub-domains, topic codes and definitions through discussion. One reviewer will then apply the framework to each included article by highlighting relevant sections of the results and coding the data to the topic codes, sub-domains and domains outlined in Table <xref rid="Tab1" ref-type="table">1</xref>. Data that will be coded include direct quotes from participants and the primary authors&#x2019; description of results given that their interpretation is generally supported by additional data and contextual information [<xref ref-type="bibr" rid="CR54">54</xref>, <xref ref-type="bibr" rid="CR55">55</xref>]. In articles that include additional participants who do not meet the inclusion criteria, only data from migrant and ethnic minority participants will be coded. A second reviewer will code one quarter of the articles to ensure the framework is consistently applied; any discrepancies will be resolved through discussion or consultation with a third reviewer. Data that do not fit the framework, will be assigned to an &#x2018;other&#x2019; code; these excerpts will be reviewed, inductively coded and presented in an adapted version of the framework [<xref ref-type="bibr" rid="CR52">52</xref>, <xref ref-type="bibr" rid="CR53">53</xref>].</p>
+          <p id="Par55">Throughout the coding process, reviewers will create memos to record their insights on the data and document links between codes. One reviewer will create a summary of each article to capture the main findings related to stigma. One reviewer will draw on the coded data, memos and article summaries to synthesise the key findings for each domain of the Health Stigma and Discrimination Framework. All co-authors will reflect upon and refine the synthesised findings, which will then be written as a narrative with supporting quotes from the included studies. Findings will also be visualised through presenting the adapted version of the framework that best fits the included studies. Importantly, data synthesis will be shaped by the positionality of the review team which is made up of academics with backgrounds in AOD, sociology, young people&#x2019;s health, migrant inclusion and social cohesion based in Australia and Myanmar.</p>
+        </sec>
+        <sec id="Sec19">
+          <title>Confidence in cumulative evidence</title>
+          <p id="Par56">The level of confidence in the findings from this review will be assessed using the Grading of Recommendations Assessment, Development and Evaluation-Confidence in the Evidence from Reviews of Qualitative research (GRADE-CERQual) [<xref ref-type="bibr" rid="CR56">56</xref>]. This method assesses four components including methodological limitations of included studies, coherence of review findings, adequacy of data that contribute to review findings and relevance of each included study to the review question. Each review finding will be graded as high, moderate, low or very low confidence.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="Sec20">
+      <title>Discussion</title>
+      <p id="Par57">In this paper, we describe the protocol for a systematic review of qualitative studies exploring the stigma associated with AOD use and mental health conditions among migrant and ethnic minority groups. Stigma has been identified as a major barrier to accessing support for AOD use and mental health conditions among migrant and ethnic minority communities [<xref ref-type="bibr" rid="CR12">12</xref>]. Existing evidence suggests that further research underpinned by theory is needed to understand the intersectional factors that influence AOD use and mental health stigma [<xref ref-type="bibr" rid="CR20">20</xref>, <xref ref-type="bibr" rid="CR21">21</xref>]. Use of best fit framework analysis guided by the Health Stigma and Discrimination Framework will enable us to provide insight into the different domains of stigma, identify gaps in the literature and provide recommendations for future research.</p>
+      <p id="Par58">Any important updates to the protocol will be dated and track changed in PROSPERO. Additionally, results from this review will be shared with policy-makers and service providers to inform future policy responses and healthcare delivery. Limitations of this review include the exclusion of studies published in languages other than English. We also acknowledge that qualitative systematic reviews involve taking findings out of their original context and synthesising data to answer new research questions, which is particularly complex when studies include multiple countries and cultures [<xref ref-type="bibr" rid="CR54">54</xref>]. Importantly, the evidence generated from this review will be used to advocate for culturally responsive interventions that aim to reduce the negative outcomes of stigma for individuals, families and communities.</p>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Supplementary Information</title>
+      <sec id="Sec21">
+        <p>
+<supplementary-material content-type="local-data" id="MOESM1"><media xlink:href="13643_2021_1875_MOESM1_ESM.docx"><caption><p><bold>Additional file 1.</bold> PRISMA checklist.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="MOESM2"><media xlink:href="13643_2021_1875_MOESM2_ESM.pdf"><caption><p><bold>Additional file 2.</bold> Example of search terms for MEDLINE.</p></caption></media></supplementary-material></p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <glossary>
+      <title>Abbreviations</title>
+      <def-list>
+        <def-item>
+          <term>GRADE-CERQual</term>
+          <def>
+            <p id="Par5">Grading of Recommendations Assessment, Development and Evaluation-Confidence in the Evidence from Reviews of Qualitative research</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>PRISMA</term>
+          <def>
+            <p id="Par6">Preferred Reporting Items for Systematic Reviews and Meta-analysis</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>PRISMA-P</term>
+          <def>
+            <p id="Par7">Preferred Reporting Items for Systematic Reviews and Meta-analysis Protocols</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>SPIDER</term>
+          <def>
+            <p id="Par8">Sample, Phenomenon of Interest, Design, Evaluation, Research type</p>
+          </def>
+        </def-item>
+      </def-list>
+    </glossary>
+    <fn-group>
+      <fn>
+        <p>
+          <bold>Publisher&#x2019;s Note</bold>
+        </p>
+        <p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+      </fn>
+    </fn-group>
+    <ack>
+      <title>Acknowledgements</title>
+      <p>DH is supported by an Australian Government National Health and Medical Research Council (NHMRC) early career fellowship and MSCL is supported by an NHMRC career development fellowship. The authors gratefully acknowledge the Victorian Operational Infrastructure Support Program received by the Burnet Institute.</p>
+    </ack>
+    <notes notes-type="author-contribution">
+      <title>Authors&#x2019; contributions</title>
+      <p>DH, CD, KB and&#xA0;MSCL, conceptualised the study. CD led the writing of the protocol, developed the key search terms, and the inclusion and exclusion criteria and identified the Health Stigma and Discrimination Framework to guide the synthesis. CL, GO, MH&#xA0;and PH provided advice on study design, search terms, social theory and synthesis. The guarantor of this review is DH. All authors read and approved the final manuscript.</p>
+    </notes>
+    <notes notes-type="funding-information">
+      <title>Funding</title>
+      <p>CD is supported by an Australian Government Research Training Program Stipend. The review will be included in her PhD thesis.</p>
+    </notes>
+    <notes notes-type="data-availability">
+      <title>Availability of data and materials</title>
+      <p>Not applicable</p>
+    </notes>
+    <notes>
+      <title>Declarations</title>
+      <notes id="FPar1">
+        <title>Ethics approval and consent to participate</title>
+        <p id="Par59">Not applicable</p>
+      </notes>
+      <notes id="FPar2">
+        <title>Consent for publication</title>
+        <p id="Par60">Not applicable</p>
+      </notes>
+      <notes id="FPar3" notes-type="COI-statement">
+        <title>Competing interests</title>
+        <p id="Par61">The Burnet Institute receives investigator-initiated research funding from Gilead Sciences and Abbvie; MH leads a number of these research projects which are unrelated to this manuscript. All other authors declare they have no competing interests.</p>
+      </notes>
+    </notes>
+    <ref-list id="Bib1">
+      <title>References</title>
+      <ref id="CR1">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Patel</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Chisholm</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Parikh</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Charlson</surname>
+              <given-names>FJ</given-names>
+            </name>
+            <name>
+              <surname>Degenhardt</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Dua</surname>
+              <given-names>T</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Addressing the burden of mental, neurological, and substance use disorders: key messages from Disease Control Priorities, 3rd edition</article-title>
+          <source>Lancet.</source>
+          <year>2016</year>
+          <volume>387</volume>
+          <issue>10028</issue>
+          <fpage>1672</fpage>
+          <lpage>1685</lpage>
+          <pub-id pub-id-type="pmid">26454360</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR2">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Iranpour</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Marnane</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Silove</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Jackson</surname>
+              <given-names>JW</given-names>
+            </name>
+            <name>
+              <surname>Chey</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Patel</surname>
+              <given-names>V</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The global prevalence of common mental disorders: a systematic review and meta-analysis 1980&#x2013;2013</article-title>
+          <source>Int J Epidemiol</source>
+          <year>2014</year>
+          <volume>43</volume>
+          <issue>2</issue>
+          <fpage>476</fpage>
+          <lpage>493</lpage>
+          <pub-id pub-id-type="pmid">24648481</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR3">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Johnson</surname>
+              <given-names>MRD</given-names>
+            </name>
+            <name>
+              <surname>Bhopal</surname>
+              <given-names>RS</given-names>
+            </name>
+            <name>
+              <surname>Ingleby</surname>
+              <given-names>JD</given-names>
+            </name>
+            <name>
+              <surname>Gruer</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Petrova-Benedict</surname>
+              <given-names>RS</given-names>
+            </name>
+          </person-group>
+          <article-title>A glossary for the first World Congress on Migration, Ethnicity, Race and Health</article-title>
+          <source>Public Health</source>
+          <year>2019</year>
+          <volume>172</volume>
+          <fpage>85</fpage>
+          <lpage>88</lpage>
+          <pub-id pub-id-type="pmid">31204074</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR4">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Posselt</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Galletly</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>de Crespigny</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Procter</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Mental health and drug and alcohol comorbidity in young people of refugee background: a review of the literature</article-title>
+          <source>Mental Health Substance Use</source>
+          <year>2014</year>
+          <volume>7</volume>
+          <issue>1</issue>
+          <fpage>19</fpage>
+          <lpage>30</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR5">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Horyniak</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Melo</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Farrell</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Ojeda</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Strathdee</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Epidemiology of Substance Use among Forced Migrants: A Global Systematic Review</article-title>
+          <source>PloS One.</source>
+          <year>2016</year>
+          <volume>11</volume>
+          <issue>7</issue>
+          <fpage>e0159134</fpage>
+          <pub-id pub-id-type="pmid">27411086</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR6">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Horyniak</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Higgs</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Cogger</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Dietze</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Bofu</surname>
+              <given-names>T</given-names>
+            </name>
+          </person-group>
+          <article-title>Heavy alcohol consumption among marginalised African refugee young people in Melbourne, Australia: motivations for drinking, experiences of alcohol-related problems and strategies for managing drinking</article-title>
+          <source>Ethn Health.</source>
+          <year>2016</year>
+          <volume>21</volume>
+          <issue>3</issue>
+          <fpage>284</fpage>
+          <lpage>299</lpage>
+          <pub-id pub-id-type="pmid">26169071</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR7">
+        <label>7.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>Victorian Alcohol and Drug Association</collab>
+          </person-group>
+          <source>CALD AOD Project: Targeted literature review</source>
+          <year>2016</year>
+          <publisher-loc>Victoria</publisher-loc>
+          <publisher-name>VAADA</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR8">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kantor</surname>
+              <given-names>V</given-names>
+            </name>
+            <name>
+              <surname>Knefel</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Lueger-Schuster</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Perceived barriers and facilitators of mental health service utilization in adult trauma survivors: a systematic review</article-title>
+          <source>Clin Psychol Rev</source>
+          <year>2017</year>
+          <volume>52</volume>
+          <fpage>52</fpage>
+          <lpage>68</lpage>
+          <pub-id pub-id-type="pmid">28013081</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR9">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McCann</surname>
+              <given-names>TV</given-names>
+            </name>
+            <name>
+              <surname>Lubman</surname>
+              <given-names>DI</given-names>
+            </name>
+          </person-group>
+          <article-title>Help-seeking barriers and facilitators for affected family members of a relative with alcohol and other drug misuse: A qualitative study</article-title>
+          <source>Journal of Substance Abuse Treatment.</source>
+          <year>2018</year>
+          <volume>93</volume>
+          <fpage>7</fpage>
+          <lpage>14</lpage>
+          <pub-id pub-id-type="pmid">30126543</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR10">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McCann</surname>
+              <given-names>TV</given-names>
+            </name>
+            <name>
+              <surname>Mugavin</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Renzaho</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Lubman</surname>
+              <given-names>DI</given-names>
+            </name>
+          </person-group>
+          <article-title>Sub-Saharan African migrant youths' help-seeking barriers and facilitators for mental health and substance use problems: a qualitative study</article-title>
+          <source>BMC Psychiatry</source>
+          <year>2016</year>
+          <volume>16</volume>
+          <fpage>1</fpage>
+          <lpage>10</lpage>
+          <pub-id pub-id-type="pmid">26739960</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR11">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Drummond</surname>
+              <given-names>PD</given-names>
+            </name>
+            <name>
+              <surname>Mizan</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Brocx</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Wright</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Barriers to accessing health care services for West African refugee women living in Western Australia</article-title>
+          <source>Health Care Women Int.</source>
+          <year>2011</year>
+          <volume>32</volume>
+          <issue>3</issue>
+          <fpage>206</fpage>
+          <lpage>224</lpage>
+          <pub-id pub-id-type="pmid">21337243</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR12">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McCann</surname>
+              <given-names>TV</given-names>
+            </name>
+            <name>
+              <surname>Renzaho</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Mugavin</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Lubman</surname>
+              <given-names>DI</given-names>
+            </name>
+          </person-group>
+          <article-title>Stigma of mental illness and substance misuse in sub-Saharan African migrants: A qualitative study</article-title>
+          <source>Int J Mental Health Nurs</source>
+          <year>2018</year>
+          <volume>27</volume>
+          <issue>3</issue>
+          <fpage>956</fpage>
+          <lpage>965</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR13">
+        <label>13.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goffman</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Alexander Street</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <source>Stigma notes on the management of spoiled identity</source>
+          <year>1974</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>J. Aronson</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR14">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fraser</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Pienaar</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Dilkes-Frayne</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Kokanovic</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Treloar</surname>
+              <given-names>C</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Addiction stigma and the biopolitics of liberal modernity: A qualitative analysis</article-title>
+          <source>Int J Drug Policy</source>
+          <year>2017</year>
+          <volume>44</volume>
+          <fpage>192</fpage>
+          <lpage>201</lpage>
+          <pub-id pub-id-type="pmid">28366599</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR15">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Link</surname>
+              <given-names>BG</given-names>
+            </name>
+            <name>
+              <surname>Phelan</surname>
+              <given-names>JC</given-names>
+            </name>
+          </person-group>
+          <article-title>Conceptualizing Stigma</article-title>
+          <source>Ann Rev Sociol</source>
+          <year>2001</year>
+          <volume>27</volume>
+          <issue>1</issue>
+          <fpage>363</fpage>
+          <lpage>385</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR16">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hatzenbuehler</surname>
+              <given-names>MLP</given-names>
+            </name>
+            <name>
+              <surname>Phelan</surname>
+              <given-names>JCP</given-names>
+            </name>
+            <name>
+              <surname>Link</surname>
+              <given-names>BGP</given-names>
+            </name>
+          </person-group>
+          <article-title>Stigma as a fundamental cause of population health inequalities</article-title>
+          <source>Am J Public Health</source>
+          <year>2013</year>
+          <volume>103</volume>
+          <issue>5</issue>
+          <fpage>813</fpage>
+          <lpage>821</lpage>
+          <pub-id pub-id-type="pmid">23488505</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR17">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Earnshaw</surname>
+              <given-names>VA</given-names>
+            </name>
+            <name>
+              <surname>Chaudoir</surname>
+              <given-names>SR</given-names>
+            </name>
+          </person-group>
+          <article-title>From conceptualizing to measuring HIV stigma: a review of HIV stigma mechanism measures</article-title>
+          <source>AIDS Behav</source>
+          <year>2009</year>
+          <volume>13</volume>
+          <issue>6</issue>
+          <fpage>1160</fpage>
+          <pub-id pub-id-type="pmid">19636699</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR18">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Link</surname>
+              <given-names>BG</given-names>
+            </name>
+            <name>
+              <surname>Phelan</surname>
+              <given-names>JC</given-names>
+            </name>
+          </person-group>
+          <article-title>Stigma and its public health implications</article-title>
+          <source>Lancet.</source>
+          <year>2006</year>
+          <volume>367</volume>
+          <issue>9509</issue>
+          <fpage>528</fpage>
+          <lpage>529</lpage>
+          <pub-id pub-id-type="pmid">16473129</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR19">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pescosolido</surname>
+              <given-names>BA</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>JK</given-names>
+            </name>
+            <name>
+              <surname>Lang</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Olafsdottir</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Rethinking theoretical approaches to stigma: A Framework Integrating Normative Influences on Stigma (FINIS)</article-title>
+          <source>Soc Sci Med.</source>
+          <year>2008</year>
+          <volume>67</volume>
+          <issue>3</issue>
+          <fpage>431</fpage>
+          <lpage>440</lpage>
+          <pub-id pub-id-type="pmid">18436358</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR20">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Abdullah</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>TL</given-names>
+            </name>
+          </person-group>
+          <article-title>Mental illness stigma and ethnocultural beliefs, values, and norms: An integrative review</article-title>
+          <source>Clin Psychol Rev</source>
+          <year>2011</year>
+          <volume>31</volume>
+          <issue>6</issue>
+          <fpage>934</fpage>
+          <lpage>948</lpage>
+          <pub-id pub-id-type="pmid">21683671</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR21">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Misra</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Jackson</surname>
+              <given-names>VW</given-names>
+            </name>
+            <name>
+              <surname>Chong</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Choe</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Tay</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Wong</surname>
+              <given-names>J</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Systematic review of cultural aspects of stigma and mental illness among racial and ethnic minority groups in the united states: implications for interventions</article-title>
+          <source>Am J Community Psychol.</source>
+          <year>2021</year>
+          <volume>68</volume>
+          <issue>3-4</issue>
+          <fpage>486</fpage>
+          <lpage>512</lpage>
+          <pub-id pub-id-type="pmid">33811676</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR22">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>LH</given-names>
+            </name>
+            <name>
+              <surname>Thornicroft</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Alvarado</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Vega</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Link</surname>
+              <given-names>BG</given-names>
+            </name>
+          </person-group>
+          <article-title>Recent advances in cross-cultural measurement in psychiatric epidemiology: utilizing &#x2018;what matters most&#x2019; to identify culture-specific aspects of stigma</article-title>
+          <source>Int J Epidemiol.</source>
+          <year>2014</year>
+          <volume>43</volume>
+          <issue>2</issue>
+          <fpage>494</fpage>
+          <lpage>510</lpage>
+          <pub-id pub-id-type="pmid">24639447</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR23">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>LH</given-names>
+            </name>
+            <name>
+              <surname>Kleinman</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Link</surname>
+              <given-names>BG</given-names>
+            </name>
+            <name>
+              <surname>Phelan</surname>
+              <given-names>JC</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Good</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Culture and stigma: adding moral experience to stigma theory</article-title>
+          <source>Soc Sci Med.</source>
+          <year>2007</year>
+          <volume>64</volume>
+          <issue>7</issue>
+          <fpage>1524</fpage>
+          <lpage>1535</lpage>
+          <pub-id pub-id-type="pmid">17188411</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR24">
+        <label>24.</label>
+        <mixed-citation publication-type="other">Lu W, Todhunter-Reid A, Mitsdarffer ML, Mu&#xF1;oz-Laboy M, Yoon AS, Xu L. Barriers and facilitators for mental health service use among racial/ethnic minority adolescents: a systematic review of literature. Front Public Health. 2021;9(184).</mixed-citation>
+      </ref>
+      <ref id="CR25">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Satinsky</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Fuhr</surname>
+              <given-names>DC</given-names>
+            </name>
+            <name>
+              <surname>Woodward</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Sondorp</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Roberts</surname>
+              <given-names>B</given-names>
+            </name>
+          </person-group>
+          <article-title>Mental health care utilisation and access among refugees and asylum seekers in Europe: a systematic review</article-title>
+          <source>Health Policy.</source>
+          <year>2019</year>
+          <volume>123</volume>
+          <issue>9</issue>
+          <fpage>851</fpage>
+          <lpage>863</lpage>
+          <pub-id pub-id-type="pmid">30850148</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR26">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tindal</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Cook</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>Foster</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Theorising stigma and the experiences of injecting drug users in Australia</article-title>
+          <source>Aust J Prim Health.</source>
+          <year>2010</year>
+          <volume>16</volume>
+          <issue>2</issue>
+          <fpage>119</fpage>
+          <pub-id pub-id-type="pmid">21128572</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR27">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schomerus</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Lucht</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Holzinger</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Matschinger</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Carta</surname>
+              <given-names>MG</given-names>
+            </name>
+            <name>
+              <surname>Angermeyer</surname>
+              <given-names>MC</given-names>
+            </name>
+          </person-group>
+          <article-title>The stigma of alcohol dependence compared with other mental disorders: a review of population studies</article-title>
+          <source>Alcohol Alcoholism.</source>
+          <year>2010</year>
+          <volume>46</volume>
+          <issue>2</issue>
+          <fpage>105</fpage>
+          <lpage>112</lpage>
+          <pub-id pub-id-type="pmid">21169612</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR28">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Seear</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Addressing alcohol and other drug stigma: Where to next?</article-title>
+          <source>Drug Alcohol Rev</source>
+          <year>2020</year>
+          <volume>39</volume>
+          <issue>2</issue>
+          <fpage>109</fpage>
+          <lpage>113</lpage>
+          <pub-id pub-id-type="pmid">31916338</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR29">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Evans-Lacko</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Thornicroft</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Stigma among people with dual diagnosis and implications for health services</article-title>
+          <source>Adv Dual Diagn</source>
+          <year>2010</year>
+          <volume>3</volume>
+          <issue>1</issue>
+          <fpage>4</fpage>
+          <lpage>7</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR30">
+        <label>30.</label>
+        <mixed-citation publication-type="other">Horyniak D, Higgs P, Cogger S, Dietze P, Bofu T, Seid G. Experiences of and attitudes toward injecting drug use among marginalized African migrant and refugee youth in Melbourne, Australia. J Ethn Subst Abus. 2014;13(4):405&#x2013;29.</mixed-citation>
+      </ref>
+      <ref id="CR31">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Valentine</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Holloway</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Jayne</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Contemporary cultures of abstinence and the nighttime economy: muslim attitudes towards alcohol and the implications for social cohesion</article-title>
+          <source>Environ Plann A Econ Space</source>
+          <year>2010</year>
+          <volume>42</volume>
+          <issue>1</issue>
+          <fpage>8</fpage>
+          <lpage>22</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR32">
+        <label>32.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bradby</surname>
+              <given-names>H</given-names>
+            </name>
+          </person-group>
+          <article-title>Watch out for the Aunties! Young British Asians&#x2019; accounts of identity and substance use</article-title>
+          <source>Sociol Health Illness.</source>
+          <year>2007</year>
+          <volume>29</volume>
+          <issue>5</issue>
+          <fpage>656</fpage>
+          <lpage>672</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR33">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arfken</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Owens</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Said</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Binge drinking among arab/Chaldeans: an exploratory study</article-title>
+          <source>J Ethnic Substance Abuse</source>
+          <year>2012</year>
+          <volume>11</volume>
+          <issue>4</issue>
+          <fpage>277</fpage>
+          <lpage>293</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR34">
+        <label>34.</label>
+        <mixed-citation publication-type="other">Agramunt S, Tait R. A Narrative Literature Review of the Prevalence, Barriers and Facilitators to Treatment for Culturally and Linguistically Diverse Communities Accessing Alcohol and Other Drug Treatment Services in Australia. Western Australia; Government of Western Australia Mental Health Commission; 2020.</mixed-citation>
+      </ref>
+      <ref id="CR35">
+        <label>35.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>O'Mara</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Carey</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Weier</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Community-based health promotion about alcohol and other drugs in a multicultural Australia&#x2014;what works? a review of evidence</article-title>
+          <source>Health Educ Res</source>
+          <year>2020</year>
+          <volume>35</volume>
+          <issue>5</issue>
+          <fpage>437</fpage>
+          <lpage>449</lpage>
+          <pub-id pub-id-type="pmid">33090214</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR36">
+        <label>36.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Crenshaw</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>Mapping the Margins: Intersectionality, Identity Politics, and Violence against Women of Color</article-title>
+          <source>Stanford Law Review.</source>
+          <year>1991</year>
+          <volume>43</volume>
+          <fpage>1241</fpage>
+          <lpage>1300</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR37">
+        <label>37.</label>
+        <mixed-citation publication-type="other">Jackson-Best F, Edwards N. Stigma and intersectionality: a systematic review of systematic reviews across HIV/AIDS, mental illness, and physical disability. BMC Public Health. 2018;18(1):919.</mixed-citation>
+      </ref>
+      <ref id="CR38">
+        <label>38.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stangl</surname>
+              <given-names>AL</given-names>
+            </name>
+            <name>
+              <surname>Earnshaw</surname>
+              <given-names>VA</given-names>
+            </name>
+            <name>
+              <surname>Logie</surname>
+              <given-names>CH</given-names>
+            </name>
+            <name>
+              <surname>van Brakel</surname>
+              <given-names>W</given-names>
+            </name>
+            <name>
+              <surname>C Simbayi</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Barr&#xE9;</surname>
+              <given-names>I</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The Health Stigma and Discrimination Framework: a global, crosscutting framework to inform research, intervention development, and policy on health-related stigmas</article-title>
+          <source>BMC medicine.</source>
+          <year>2019</year>
+          <volume>17</volume>
+          <issue>1</issue>
+          <fpage>31</fpage>
+          <pub-id pub-id-type="pmid">30764826</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR39">
+        <label>39.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fox</surname>
+              <given-names>AB</given-names>
+            </name>
+            <name>
+              <surname>Earnshaw</surname>
+              <given-names>VA</given-names>
+            </name>
+            <name>
+              <surname>Taverna</surname>
+              <given-names>EC</given-names>
+            </name>
+            <name>
+              <surname>Vogt</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Conceptualizing and measuring mental illness stigma: the mental illness stigma framework and critical review of measures</article-title>
+          <source>Stigma Health.</source>
+          <year>2018</year>
+          <volume>3</volume>
+          <issue>4</issue>
+          <fpage>348</fpage>
+          <lpage>376</lpage>
+          <pub-id pub-id-type="pmid">30505939</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR40">
+        <label>40.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kulesza</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Matsuda</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Ramirez</surname>
+              <given-names>JJ</given-names>
+            </name>
+            <name>
+              <surname>Werntz</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>Teachman</surname>
+              <given-names>BA</given-names>
+            </name>
+            <name>
+              <surname>Lindgren</surname>
+              <given-names>KP</given-names>
+            </name>
+          </person-group>
+          <article-title>Towards greater understanding of addiction stigma: Intersectionality with race/ethnicity and gender</article-title>
+          <source>Drug Alcohol Dependence.</source>
+          <year>2016</year>
+          <volume>169</volume>
+          <fpage>85</fpage>
+          <lpage>91</lpage>
+          <pub-id pub-id-type="pmid">27792911</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR41">
+        <label>41.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thiruselvam</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Care ethics and narratives of the 'grateful refugee' and 'model minority': a postcolonial feminist observation of New Zealand in the wake of the Christchurch terror attacks</article-title>
+          <source>Womens Stud J</source>
+          <year>2019</year>
+          <volume>33</volume>
+          <issue>1/2</issue>
+          <fpage>62</fpage>
+          <lpage>70</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR42">
+        <label>42.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pescosolido</surname>
+              <given-names>BA</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>JK</given-names>
+            </name>
+          </person-group>
+          <article-title>The Stigma Complex</article-title>
+          <source>Ann Rev Sociol</source>
+          <year>2015</year>
+          <volume>41</volume>
+          <issue>1</issue>
+          <fpage>87</fpage>
+          <lpage>116</lpage>
+          <pub-id pub-id-type="pmid">26855471</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR43">
+        <label>43.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bourdieu</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Nice</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <source>Distinction : A Social Critique of the Judgement of Taste</source>
+          <year>2010</year>
+          <publisher-loc>London</publisher-loc>
+          <publisher-name>Taylor &amp; Francis Group</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR44">
+        <label>44.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bourdieu</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>What Makes a Social Class? On The Theoretical and Practical Existence Of Groups</article-title>
+          <source>Berkeley J Sociol</source>
+          <year>1987</year>
+          <volume>32</volume>
+          <fpage>1</fpage>
+          <lpage>17</lpage>
+        </element-citation>
+      </ref>
+      <ref id="CR45">
+        <label>45.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bourdieu</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <source>The logic of practice</source>
+          <year>1990</year>
+          <publisher-loc>Stanford, Calif</publisher-loc>
+          <publisher-name>Stanford University Press</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR46">
+        <label>46.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Link</surname>
+              <given-names>BG</given-names>
+            </name>
+            <name>
+              <surname>Phelan</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Stigma power</article-title>
+          <source>Soc Sci Med.</source>
+          <year>2014</year>
+          <volume>103</volume>
+          <fpage>24</fpage>
+          <lpage>32</lpage>
+          <pub-id pub-id-type="pmid">24507908</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR47">
+        <label>47.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Moher</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Stewart</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Shekelle</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Implementing PRISMA-P: recommendations for prospective authors</article-title>
+          <source>Syst Rev</source>
+          <year>2016</year>
+          <volume>5</volume>
+          <issue>1</issue>
+          <fpage>15</fpage>
+          <pub-id pub-id-type="pmid">26822481</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR48">
+        <label>48.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tong</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Flemming</surname>
+              <given-names>K</given-names>
+            </name>
+            <name>
+              <surname>McInnes</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Oliver</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Craig</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>Enhancing transparency in reporting the synthesis of qualitative research: ENTREQ</article-title>
+          <source>BMC Med Res Methodol</source>
+          <year>2012</year>
+          <volume>12</volume>
+          <issue>1</issue>
+          <fpage>181</fpage>
+          <pub-id pub-id-type="pmid">23185978</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR49">
+        <label>49.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cooke</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Booth</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Beyond PICO: the SPIDER tool for qualitative evidence synthesis</article-title>
+          <source>Qual Health Res.</source>
+          <year>2012</year>
+          <volume>22</volume>
+          <issue>10</issue>
+          <fpage>1435</fpage>
+          <lpage>1443</lpage>
+          <pub-id pub-id-type="pmid">22829486</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR50">
+        <label>50.</label>
+        <mixed-citation publication-type="other">International Organization for Migration. International Migration Law: Glossary on Migration. Geneva; International Organization for Migration; 2019.</mixed-citation>
+      </ref>
+      <ref id="CR51">
+        <label>51.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <collab>Joanna Briggs Institute</collab>
+          </person-group>
+          <source>The Joanna Briggs Institute critical appraisal tools for use in JBI systematic reviews: checklist for qualitative research</source>
+          <year>2017</year>
+        </element-citation>
+      </ref>
+      <ref id="CR52">
+        <label>52.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carroll</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Booth</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Cooper</surname>
+              <given-names>K</given-names>
+            </name>
+          </person-group>
+          <article-title>A worked example of "best fit" framework synthesis: a systematic review of views concerning the taking of some potential chemopreventive agents</article-title>
+          <source>BMC Med Res Methodol</source>
+          <year>2011</year>
+          <volume>11</volume>
+          <issue>1</issue>
+          <fpage>29</fpage>
+          <pub-id pub-id-type="pmid">21410933</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR53">
+        <label>53.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carroll</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Booth</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Leaviss</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Rick</surname>
+              <given-names>J</given-names>
+            </name>
+          </person-group>
+          <article-title>&#x201C;Best fit&#x201D; framework synthesis: refining the method</article-title>
+          <source>BMC Med Res Methodol</source>
+          <year>2013</year>
+          <volume>13</volume>
+          <issue>1</issue>
+          <fpage>37</fpage>
+          <pub-id pub-id-type="pmid">23497061</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="CR54">
+        <label>54.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Duden</surname>
+              <given-names>GS</given-names>
+            </name>
+          </person-group>
+          <article-title>Challenges to qualitative evidence synthesis &#x2013; Aiming for diversity and abstracting without losing meaning</article-title>
+          <source>Methods Psychol</source>
+          <year>2021</year>
+          <volume>5</volume>
+          <fpage>100070</fpage>
+        </element-citation>
+      </ref>
+      <ref id="CR55">
+        <label>55.</label>
+        <element-citation publication-type="book">
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Weed</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <source>" Meta Interpretation": A Method for the Interpretive Synthesis of Qualitative Research</source>
+          <year>2005</year>
+          <publisher-loc>Qualitative Social Research</publisher-loc>
+          <publisher-name>Forum Qualitative Sozialforschung/Forum</publisher-name>
+        </element-citation>
+      </ref>
+      <ref id="CR56">
+        <label>56.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lewin</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Booth</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Glenton</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Munthe-Kaas</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>Rashidian</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Wainwright</surname>
+              <given-names>M</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Applying GRADE-CERQual to qualitative evidence synthesis findings: introduction to the series</article-title>
+          <source>Implement Sci</source>
+          <year>2018</year>
+          <volume>13</volume>
+          <issue>1</issue>
+          <fpage>2</fpage>
+          <pub-id pub-id-type="pmid">29384079</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+</pmc-articleset>
