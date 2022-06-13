@@ -1,0 +1,22 @@
+#!/bin/bash
+
+#SBATCH --time 48:00:00
+
+#SBATCH --cpus-per-task=16
+
+#SBATCH --job-name=Amine
+
+#SBATCH --nodes=1
+
+#SBATCH --mem=1000
+
+#SBATCH --output=outfile.txt
+
+#SBATCH --partition=assemblix
+
+export file1=/data/dataprocessing/MinIONData/MG5267/MG5267_TGACCA_L008_R1_001_BC24EVACXX.filt.fastq
+export file2=/data/dataprocessing/MinIONData/MG5267/MG5267_TGACCA_L008_R2_001_BC24EVACXX.filt.fastq
+seq 21 2 23 | parallel mkdir -p {}
+seq 21 2 23 | parallel -j16 velveth {} {} -fastq -longPaired -separate $file1 $file2
+seq 21 2 23 | parallel -j16 velvetg {}
+seq 21 2 23 | parallel -j16 "python assignment4.py {}" >> final_result.csv
