@@ -1,0 +1,49 @@
+1,9703,"== Physical Plan ==
+*(3) HashAggregate(keys=[], functions=[count(distinct InterPro_accession#57)])
++- Exchange SinglePartition, ENSURE_REQUIREMENTS, [id=#55]
+   +- *(2) HashAggregate(keys=[], functions=[partial_count(distinct InterPro_accession#57)])
+"
+2,5.775124333,"== Physical Plan ==
+*(3) HashAggregate(keys=[], functions=[avg(count(InterPro_accession)#100L)])
++- Exchange SinglePartition, ENSURE_REQUIREMENTS, [id=#96]
+   +- *(2) HashAggregate(keys=[], functions=[partial_avg(count(InterPro_accession)#100L)])
+    "
+3,GO:0005524,"== Physical Plan ==
+*(4) Sort [count#151L DESC NULLS LAST], true, 0
++- Exchange rangepartitioning(count#151L DESC NULLS LAST, 200), ENSURE_REQUIREMENTS, [id=#139]
+   +- *(3) HashAggregate(keys=[go#117], functions=[count(1)])
+      +- Exchange hashpart"
+4,131.7317892,"== Physical Plan ==
+*(2) HashAggregate(keys=[], functions=[avg(cast(Result#157 as bigint))])
++- Exchange SinglePartition, ENSURE_REQUIREMENTS, [id=#182]
+   +- *(1) HashAggregate(keys=[], functions=[partial_avg(cast(Result#157 as bigint))])
+      +- *("
+5,"['IPR027417', 'IPR002347', 'IPR003439', 'IPR036388', 'IPR036259', 'IPR003593', 'IPR036390', 'IPR036291', 'IPR000515', 'IPR001789']","== Physical Plan ==
+*(3) Sort [count#215L DESC NULLS LAST], true, 0
++- Exchange rangepartitioning(count#215L DESC NULLS LAST, 200), ENSURE_REQUIREMENTS, [id=#218]
+   +- *(2) HashAggregate(keys=[InterPro_accession#57], functions=[count(1)])
+      +- Ex"
+6,"['IPR039420', 'IPR004636', 'IPR005814', 'IPR015424', 'IPR000456', 'IPR036373', 'IPR007390', 'IPR043429', 'IPR035906', 'IPR007466']","== Physical Plan ==
+*(2) Project [InterPro_accession#57]
++- *(2) Sort [Result#221 DESC NULLS LAST], true, 0
+   +- Exchange rangepartitioning(Result#221 DESC NULLS LAST, 200), ENSURE_REQUIREMENTS, [id=#261]
+      +- *(1) Project [_c11#27 AS InterPro_ac"
+7,"['domain', 'superfamily', 'protein', 'C-terminal', 'hydrolase', 'site', 'DNA-binding', 'N-terminal', 'subunit', 'transporter']","== Physical Plan ==
+*(4) Sort [count#278L DESC NULLS LAST], true, 0
++- Exchange rangepartitioning(count#278L DESC NULLS LAST, 200), ENSURE_REQUIREMENTS, [id=#305]
+   +- *(3) HashAggregate(keys=[NameArray#244], functions=[count(1)])
+      +- Exchange h"
+8,"['spinster-like', 'CopY/TcrY', 'rubredoxin-like', 'REase', 'sll0787', 'FTR1-like', 'Heparan', 'Succinate-semialdehyde', 'DUF6335', 'DUF5680']","== Physical Plan ==
+*(4) Sort [count#278L DESC NULLS LAST], true, 0
++- Exchange rangepartitioning(count#278L DESC NULLS LAST, 200), ENSURE_REQUIREMENTS, [id=#305]
+   +- *(3) HashAggregate(keys=[NameArray#244], functions=[count(1)])
+      +- Exchange h"
+9,"['superfamily', 'protein', 'domain', 'subunit', 'synthase', 'transporter', 'family', 'Ribosomal', 'hydrolase', 'Protein']","== Physical Plan ==
+*(4) Sort [count#319L DESC NULLS LAST], true, 0
++- Exchange rangepartitioning(count#319L DESC NULLS LAST, 200), ENSURE_REQUIREMENTS, [id=#369]
+   +- *(3) HashAggregate(keys=[NameArray#285], functions=[count(1)])
+      +- Exchange h"
+10,0.31961294,"== Physical Plan ==
+*(2) HashAggregate(keys=[Protein_accession#46, Seq_len#48], functions=[count(1)])
++- Exchange hashpartitioning(Protein_accession#46, Seq_len#48, 200), ENSURE_REQUIREMENTS, [id=#440]
+   +- *(1) HashAggregate(keys=[Protein_accession#4"
