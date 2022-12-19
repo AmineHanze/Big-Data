@@ -1,0 +1,2 @@
+Naive Bayes accuracy = 0.7835396518375242
+Random Forest accuracy = 0.16082495309160727
